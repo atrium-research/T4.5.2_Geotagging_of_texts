@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::66 /TEI[1]/text[1]/body[1]/p[1]::76" xml:id="UID-FAKE-9840">
+        <rs ana="https://topostext.org/place/381238SDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-9841">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::139 /TEI[1]/text[1]/body[1]/p[1]::146" xml:id="UID-FAKE-9842">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::178 /TEI[1]/text[1]/body[1]/p[1]::189" xml:id="UID-FAKE-9843">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::206 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-9844">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::364 /TEI[1]/text[1]/body[1]/p[2]::370" xml:id="UID-FAKE-9845">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::426 /TEI[1]/text[1]/body[1]/p[2]::435" xml:id="UID-FAKE-9846">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::446 /TEI[1]/text[1]/body[1]/p[2]::456" xml:id="UID-FAKE-9847">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::461 /TEI[1]/text[1]/body[1]/p[2]::470" xml:id="UID-FAKE-9848">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::34 /TEI[1]/text[1]/body[1]/p[3]::40" xml:id="UID-FAKE-9849">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::81 /TEI[1]/text[1]/body[1]/p[4]::87" xml:id="UID-FAKE-9850">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::167 /TEI[1]/text[1]/body[1]/p[5]::174" xml:id="UID-FAKE-9851">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::238 /TEI[1]/text[1]/body[1]/p[5]::247" xml:id="UID-FAKE-9852">
+        <rs ana="https://topostext.org/place/380237BKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::24 /TEI[1]/text[1]/body[1]/p[6]::31" xml:id="UID-FAKE-9853">
+        <rs ana="https://topostext.org/place/380237SLmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::167 /TEI[1]/text[1]/body[1]/p[6]::175" xml:id="UID-FAKE-9854">
+        <rs ana="https://topostext.org/place/380237SLmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::177 /TEI[1]/text[1]/body[1]/p[6]::181" xml:id="UID-FAKE-9855">
+        <rs ana="https://topostext.org/place/380237SLmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::186 /TEI[1]/text[1]/body[1]/p[6]::192" xml:id="UID-FAKE-9856">
+        <rs ana="https://topostext.org/place/380237BDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::26 /TEI[1]/text[1]/body[1]/p[7]::36" xml:id="UID-FAKE-9857">
+        <rs ana="https://topostext.org/place/380237SNy2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::118 /TEI[1]/text[1]/body[1]/p[7]::125" xml:id="UID-FAKE-9858">
+        <rs ana="https://topostext.org/place/380237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::35 /TEI[1]/text[1]/body[1]/p[9]::44" xml:id="UID-FAKE-9859">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::3 /TEI[1]/text[1]/body[1]/p[10]::9" xml:id="UID-FAKE-9860">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::32 /TEI[1]/text[1]/body[1]/p[10]::40" xml:id="UID-FAKE-9861">
+        <rs ana="https://topostext.org/place/370221XAko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::365 /TEI[1]/text[1]/body[1]/p[11]::370" xml:id="UID-FAKE-9862">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::24 /TEI[1]/text[1]/body[1]/p[12]::31" xml:id="UID-FAKE-9863">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::58 /TEI[1]/text[1]/body[1]/p[13]::65" xml:id="UID-FAKE-9864">
+        <rs ana="https://topostext.org/place/368296UOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::69 /TEI[1]/text[1]/body[1]/p[13]::74" xml:id="UID-FAKE-9865">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::226 /TEI[1]/text[1]/body[1]/p[13]::232" xml:id="UID-FAKE-9866">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::347 /TEI[1]/text[1]/body[1]/p[13]::353" xml:id="UID-FAKE-9867">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::370 /TEI[1]/text[1]/body[1]/p[13]::374" xml:id="UID-FAKE-9868">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::463 /TEI[1]/text[1]/body[1]/p[13]::468" xml:id="UID-FAKE-9869">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::17 /TEI[1]/text[1]/body[1]/p[14]::23" xml:id="UID-FAKE-9870">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::114 /TEI[1]/text[1]/body[1]/p[14]::121" xml:id="UID-FAKE-9871">
+        <rs ana="https://topostext.org/place/381216XVou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::136 /TEI[1]/text[1]/body[1]/p[14]::142" xml:id="UID-FAKE-9872">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::296 /TEI[1]/text[1]/body[1]/p[14]::300" xml:id="UID-FAKE-9873">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 7, Chapter 21</head>
+      <p>In this part of the city is also a sanctuary of Dionysus surnamed Calydonian, for the image of Dionysus too was brought from Calydon. When Calydon was still inhabited, among the Calydonians who became priests of the god was Coresus, who more than any other man suffered cruel wrongs because of love. He was in love with Callirhoe, a maiden. But the love of Coresus for Callirhoe was equalled by the maiden"s hatred of him.</p>
+      <p>When the maiden refused to change her mind, in spite of the many prayers and promises of Coresus, he then went as a suppliant to the image of Dionysus. The god listened to the prayer of his priest, and the Calydonians at once became raving as though through drink, and they were still out of their minds when death overtook them. So they appealed to the oracle at Dodona. For the inhabitants of this part of the mainland, the Aetolians and their Acarnanian and EpeirotYY neighbors, considered that the truest oracles were the doves and the responses from the oak.</p>
+      <p>On this occasion the oracles from Dodona declared that it was the wrath of Dionysus that caused the plague, which would not cease until Coresus sacrificed to Dionysus either Callirhoe herself or one who had the courage to die in her stead. When the maiden could find no means of escape, she next appealed to her foster parents. These too failing her, there was no other way except for her to be put to the sword.</p>
+      <p>When everything had been prepared for the sacrifice according to the oracle from Dodona, the maiden was led like a victim to the altar. Coresus stood ready to sacrifice, when, his resentment giving way to love, he slew himself in place of Callirhoe. He thus proved in deed that his love was more genuine than that of any other man we know.</p>
+      <p>When Callirhoe saw Coresus lying dead, the maiden repented. Overcome by pity for Coresus, and by shame at her conduct towards him, she cut her throat at the spring in Calydon not far from the harbor, and later generations call the spring Callirhoe after her.</p>
+      <p>Near to the theater the Patrans have made a precinct sacred to a native lady. Here are images of Dionysus, equal in number to the ancient cities, and named after them Mesateus, A253 and Aroeus. These images at the festival of Dionysus they bring into the sanctuary of Aesymnetes (Dictator). This sanctuary is on the right of the road from the agora to the sea-quarter of the city.</p>
+      <p>As you go lower down from Aesymnetes there is another sanctuary with an image of stone. It is called the sanctuary of Soteria (salvation), and the story is that it was originally founded by Eurypylus on being cured of his madness. At the harbor is a temple of Poseidon with a standing image of stone. Besides the names given by poets to Poseidon to adorn their verses, and in addition to his local names, all men give him the following surnames — Pelagaios (marine), Asphalios (safety-giver), Hippios (horse).</p>
+      <p>Various reasons could be plausibly assigned for the last of these surnames having been given to the god, but my own conjecture is that he got this name as the inventor of horsemanship. Homer, at any rate, when describing the chariot-race, puts into the mouth of Menelaus a challenge to swear an oath by this god: “Touch the horses, and swear by the Gaieochos (earth-holder), Ennosigaios (earth-shaker), That thou didst not intentionally, through guile, obstruct my chariot.”</p>
+      <p>Pamphos also, who composed for the Athenians the most ancient of their hymns, says that Poseidon is: “Giver of horses and of ships with sails set.” So it is from horsemanship that he has acquired his name, and not for any other reason.</p>
+      <p>In Patrae, not far from that of Poseidon, are sanctuaries of Aphrodite. One of the two images was drawn up by fishermen in a net a generation before my time. There are also quite near to the harbor two images of bronze, one of Ares and the other of Poseidon. The image of Aphrodite, whose precinct too is by the harbor, has its face, hands and feet of stone, while the rest of the figure is made of wood.</p>
+      <p>They have also a grove by the sea, affording in summer weather very agreeable walks and a pleasant means generally of passing the time. In this grove are also two temples of divinities, one of Apollo, the other of Aphrodite. The images of these too are made of stone. Next to the grove is a sanctuary of Demeter; she and her daughter are standing, but the image of Earth is seated.</p>
+      <p>Before the sanctuary of Demeter is a spring. On the side of this towards the temple stands a wall of stones, while on the outer side has been made a descent to the spring. Here there is an infallible oracle, not indeed for everything, but only in the case of sick folk. They tie a mirror to a fine cord and let it down, judging the distance so that it does not sink deep into the spring, but just far enough to touch the water with its rim. Then they pray to the goddess and burn incense, after which they look into the mirror, which shows them the patient either alive or dead.</p>
+      <p>This water partakes to this extent of truth, but close to Cyaneae by Lycia, where there is an oracle of Apollo Thyrxeus, the water shows to him who looks into the spring all the things that he wants to behold. By the grove in Patrae are also two sanctuaries of Serapis. In one is the tomb of Egyptus, the son of Belus. He is said by the people of Patrae to have fled to Aroe because of the misfortunes of his children and because he shuddered at the mere name of Argos, and even more through dread of Danaus.</p>
+      <p>There is also at Patrae a sanctuary of Asclepius. This sanctuary is beyond the acropolis near the gate leading to Mesatis. The women of Patrae outnumber the men by two to one. These women are amongst the most charming in the world. Most of them gain a livelihood from the fine flax that grows in Elis, weaving from it nets for the head as well as dresses.</p>
+    </body>
+  </text>
+</TEI>

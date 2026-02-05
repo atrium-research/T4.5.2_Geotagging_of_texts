@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::61 /TEI[1]/text[1]/body[1]/p[1]::71" xml:id="UID-FAKE-11954">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::70 /TEI[1]/text[1]/body[1]/p[2]::79" xml:id="UID-FAKE-11955">
+        <rs ana="https://topostext.org/place/375222RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::141 /TEI[1]/text[1]/body[1]/p[2]::146" xml:id="UID-FAKE-11956">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::236 /TEI[1]/text[1]/body[1]/p[2]::245" xml:id="UID-FAKE-11957">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::251 /TEI[1]/text[1]/body[1]/p[2]::261" xml:id="UID-FAKE-11958">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::307 /TEI[1]/text[1]/body[1]/p[2]::312" xml:id="UID-FAKE-11959">
+        <rs ana="https://topostext.org/place/419125WTib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::334 /TEI[1]/text[1]/body[1]/p[2]::338" xml:id="UID-FAKE-11960">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::383 /TEI[1]/text[1]/body[1]/p[2]::392" xml:id="UID-FAKE-11961">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::430 /TEI[1]/text[1]/body[1]/p[2]::440" xml:id="UID-FAKE-11962">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::466 /TEI[1]/text[1]/body[1]/p[2]::473" xml:id="UID-FAKE-11963">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::598 /TEI[1]/text[1]/body[1]/p[2]::608" xml:id="UID-FAKE-11964">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::29 /TEI[1]/text[1]/body[1]/p[3]::39" xml:id="UID-FAKE-11965">
+        <rs ana="https://topostext.org/place/360030RNum"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::70 /TEI[1]/text[1]/body[1]/p[3]::76" xml:id="UID-FAKE-11966">
+        <rs ana="https://topostext.org/place/352001ULix"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::98 /TEI[1]/text[1]/body[1]/p[3]::103" xml:id="UID-FAKE-11967">
+        <rs ana="https://topostext.org/place/360030RNum"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::151 /TEI[1]/text[1]/body[1]/p[3]::158" xml:id="UID-FAKE-11968">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::216 /TEI[1]/text[1]/body[1]/p[3]::225" xml:id="UID-FAKE-11969">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::431 /TEI[1]/text[1]/body[1]/p[3]::436" xml:id="UID-FAKE-11970">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::450 /TEI[1]/text[1]/body[1]/p[3]::460" xml:id="UID-FAKE-11971">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::27 /TEI[1]/text[1]/body[1]/p[4]::36" xml:id="UID-FAKE-11972">
+        <rs ana="https://topostext.org/place/449066UBri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::40 /TEI[1]/text[1]/body[1]/p[4]::47" xml:id="UID-FAKE-11973">
+        <rs ana="https://topostext.org/place/530-15IBri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::149 /TEI[1]/text[1]/body[1]/p[4]::156" xml:id="UID-FAKE-11974">
+        <rs ana="https://topostext.org/place/522000UAla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::160 /TEI[1]/text[1]/body[1]/p[4]::165" xml:id="UID-FAKE-11975">
+        <rs ana="https://topostext.org/place/371274PKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::192 /TEI[1]/text[1]/body[1]/p[4]::197" xml:id="UID-FAKE-11976">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::205 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-11977">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::223 /TEI[1]/text[1]/body[1]/p[4]::226" xml:id="UID-FAKE-11978">
+        <rs ana="https://topostext.org/place/369283UPhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::231 /TEI[1]/text[1]/body[1]/p[4]::237" xml:id="UID-FAKE-11979">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::458 /TEI[1]/text[1]/body[1]/p[4]::464" xml:id="UID-FAKE-11980">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::478 /TEI[1]/text[1]/body[1]/p[4]::488" xml:id="UID-FAKE-11981">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::524 /TEI[1]/text[1]/body[1]/p[4]::530" xml:id="UID-FAKE-11982">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::532 /TEI[1]/text[1]/body[1]/p[4]::537" xml:id="UID-FAKE-11983">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::539 /TEI[1]/text[1]/body[1]/p[4]::547" xml:id="UID-FAKE-11984">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::552 /TEI[1]/text[1]/body[1]/p[4]::557" xml:id="UID-FAKE-11985">
+        <rs ana="https://topostext.org/place/355390RSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::135 /TEI[1]/text[1]/body[1]/p[5]::140" xml:id="UID-FAKE-11986">
+        <rs ana="https://topostext.org/place/419125SFRo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::194 /TEI[1]/text[1]/body[1]/p[5]::199" xml:id="UID-FAKE-11987">
+        <rs ana="https://topostext.org/place/392277UGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::490 /TEI[1]/text[1]/body[1]/p[5]::496" xml:id="UID-FAKE-11988">
+        <rs ana="https://topostext.org/place/419125SFRo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::218 /TEI[1]/text[1]/body[1]/p[6]::225" xml:id="UID-FAKE-11989">
+        <rs ana="https://topostext.org/place/496084UVan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::271 /TEI[1]/text[1]/body[1]/p[6]::277" xml:id="UID-FAKE-11990">
+        <rs ana="https://topostext.org/place/469105RRae"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::295 /TEI[1]/text[1]/body[1]/p[6]::304" xml:id="UID-FAKE-11991">
+        <rs ana="https://topostext.org/place/490315RSar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 43</head>
+      <p>My story next requires me to describe whatever is notable at Pallantium, and the reason why the emperor Antoninus the first turned it from a village to a city, giving its inhabitants liberty and freedom from taxation.</p>
+      <p>Well, the story is that the wisest man and the best soldier among the Arcadians was one Evander, whose mother was a nymph, a daughter of the Ladon, while his father was Hermes. Sent out to establish a colony at the head of a company of Arcadians from Pallantium, he founded a city on the banks of the river Tiber. That part of modern Rome, which once was the home of Evander and the Arcadians who accompanied him, got the name of Pallantium in memory of the city in Arcadia. Afterwards the name was changed by omitting the letters L and N. These are the reasons why the emperor bestowed boons upon Pallantium.</p>
+      <p>Antoninus, the benefactor of Pallantium, never willingly involved the Romans in war; but when the Moors (who form the greatest part of the independent Libyans, being nomads, and more formidable enemies than even the Scythians in that they wandered, not on wagons, but on horseback with their womenfolk), when these, I say, began an unprovoked war, he drove them from all their country, forcing them to flee to the extreme parts of Libya, right up to Mount A394 and to the people living on it.</p>
+      <p>He also took away from the Brigantes in Britain the greater part of their territory, because they too had begun an unprovoked war on the province of Genunia, a Roman dependency. The cities of Lycia and of Caria, along with Cos and Rhodes, were overthrown by a violent earthquake that smote them. These cities also were restored by the emperor Antoninus, who was keenly anxious to rebuild them, and devoted vast sums to this task. As to his gifts of money to Greeks, and to such non-Greeks as needed it, and his buildings in Greece, Ionia, Carthage and Syria, others have written of them most exactly.</p>
+      <p>But there is also another memorial of himself left by this emperor. There was a certain law whereby provincials who were themselves of Roman citizenship, while their children were considered of Greek nationality, were forced either to leave their property to strangers or let it increase the wealth of the emperor. Antoninus permitted all such to give to the children their heritage, choosing rather to show himself benevolent than to retain a law that swelled his riches. This emperor the Romans called Pius, because he showed himself to be a most religious man.</p>
+      <p>In my opinion he might also be justly called by the same title as the elder Cyrus, who was styled Father of Men. He left to succeed him a son of the same name. This Antoninus the second brought retribution both on the Germans, the most numerous and warlike barbarians in Europe, and also on the Sarmatian nation, both of whom had been guilty of beginning a war of aggression.</p>
+    </body>
+  </text>
+</TEI>

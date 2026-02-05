@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::15 /TEI[1]/text[1]/body[1]/p[1]::26" xml:id="UID-FAKE-11576">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::30 /TEI[1]/text[1]/body[1]/p[1]::37" xml:id="UID-FAKE-11577">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::289" xml:id="UID-FAKE-11578">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::142 /TEI[1]/text[1]/body[1]/p[2]::160" xml:id="UID-FAKE-11579">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::287 /TEI[1]/text[1]/body[1]/p[2]::290" xml:id="UID-FAKE-11580">
+        <rs ana="https://topostext.org/place/329351UPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::292 /TEI[1]/text[1]/body[1]/p[2]::300" xml:id="UID-FAKE-11581">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::387 /TEI[1]/text[1]/body[1]/p[2]::396" xml:id="UID-FAKE-11582">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::460 /TEI[1]/text[1]/body[1]/p[3]::463" xml:id="UID-FAKE-11583">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::14 /TEI[1]/text[1]/body[1]/p[4]::27" xml:id="UID-FAKE-11584">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::95 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-11585">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::138 /TEI[1]/text[1]/body[1]/p[4]::147" xml:id="UID-FAKE-11586">
+        <rs ana="https://topostext.org/place/380237LAre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::14 /TEI[1]/text[1]/body[1]/p[5]::20" xml:id="UID-FAKE-11587">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::28 /TEI[1]/text[1]/body[1]/p[5]::36" xml:id="UID-FAKE-11588">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::93 /TEI[1]/text[1]/body[1]/p[5]::102" xml:id="UID-FAKE-11589">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::118 /TEI[1]/text[1]/body[1]/p[5]::126" xml:id="UID-FAKE-11590">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::148 /TEI[1]/text[1]/body[1]/p[5]::155" xml:id="UID-FAKE-11591">
+        <rs ana="https://topostext.org/place/373223WKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::171 /TEI[1]/text[1]/body[1]/p[5]::180" xml:id="UID-FAKE-11592">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::200 /TEI[1]/text[1]/body[1]/p[5]::207" xml:id="UID-FAKE-11593">
+        <rs ana="https://topostext.org/place/373223WKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::214 /TEI[1]/text[1]/body[1]/p[5]::222" xml:id="UID-FAKE-11594">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::287 /TEI[1]/text[1]/body[1]/p[5]::296" xml:id="UID-FAKE-11595">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::303 /TEI[1]/text[1]/body[1]/p[5]::310" xml:id="UID-FAKE-11596">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::314 /TEI[1]/text[1]/body[1]/p[5]::323" xml:id="UID-FAKE-11597">
+        <rs ana="https://topostext.org/place/373223WGat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::13" xml:id="UID-FAKE-11598">
+        <rs ana="https://topostext.org/place/373225SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::58 /TEI[1]/text[1]/body[1]/p[6]::66" xml:id="UID-FAKE-11599">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::100 /TEI[1]/text[1]/body[1]/p[6]::105" xml:id="UID-FAKE-11600">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::142 /TEI[1]/text[1]/body[1]/p[6]::147" xml:id="UID-FAKE-11601">
+        <rs ana="https://topostext.org/place/373221UNym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::177 /TEI[1]/text[1]/body[1]/p[6]::184" xml:id="UID-FAKE-11602">
+        <rs ana="https://topostext.org/place/373221UNym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::249 /TEI[1]/text[1]/body[1]/p[6]::256" xml:id="UID-FAKE-11603">
+        <rs ana="https://topostext.org/place/373221UNym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::284 /TEI[1]/text[1]/body[1]/p[6]::292" xml:id="UID-FAKE-11604">
+        <rs ana="https://topostext.org/place/373225SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::324 /TEI[1]/text[1]/body[1]/p[6]::332" xml:id="UID-FAKE-11605">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::337 /TEI[1]/text[1]/body[1]/p[6]::348" xml:id="UID-FAKE-11606">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::372 /TEI[1]/text[1]/body[1]/p[6]::378" xml:id="UID-FAKE-11607">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 34</head>
+      <p>As you go from Megalopolis to Messene, after advancing about seven stades, there stands on the left of the highway a sanctuary of goddesses. They call the goddesses themselves, as well as the district around the sanctuary, Maniae (Madnesses). In my view this is an epithet of the Eumenides; in fact they say that it was here that madness overtook Orestes as punishment for shedding his mother"s blood.</p>
+      <p>Not far from the sanctuary is a mound of earth, of no great size, surmounted by a finger made of stone; the name, indeed, of the mound is the Tomb of the Finger. Here, it is said, Orestes on losing his wits bit off one finger of one of his hands. Adjoining this place is another, called Ake (Remedies) because in it Orestes was cured of his malady. Here too there is a sanctuary for the Eumenides.</p>
+      <p>The story is that, when these goddesses were about to put Orestes out of his mind, they appeared to him black; but when he had bitten off his finger they seemed to him again to be white and he recovered his senses at the sight. So he offered a sin-offering to the black goddesses to avert their wrath, while to the white deities he sacrificed a thank-offering. It is customary to sacrifice to the Graces also along with the Eumenides. Near to the place called Ake is another . . . a sanctuary called . . . because here Orestes cut off his hair on coming to his senses.</p>
+      <p>Historians of Peloponnesian antiquities say that what Clytaemnestra"s Furies did to Orestes in Arcadia took place before the trial at the Areopagus; that his accuser was not Tyndareus, who no longer lived, but Perilaus, who asked for vengeance for the mother"s murder in that he was a cousin of Clytaemnestra. For Perilaus, they say, was a son of Icarius, to whom afterwards daughters also were born.</p>
+      <p>The road from Maniae to the Alpheius is roughly fifteen stades long. At this point the river Gatheatas falls into the Alpheius, and before this the Carnion flows into the Gatheatas. The source of the Carnion is in Aegytian territory beneath the sanctuary of Apollo Cereatas; that of the Gatheatas is at Gatheae in Cromitian territory.</p>
+      <p>The Cromitian territory is about forty stades up from the Alpheius, and in it the ruins of the city Cromi have not entirely disappeared. From Cromi it is about twenty stades to Nymphas, which is well supplied with water and covered with trees. From Nymphas it is twenty stades to the Hermaeum, where is the boundary between Messenia and Megalopolis. Here they have made a Hermes also on a slab.</p>
+    </body>
+  </text>
+</TEI>

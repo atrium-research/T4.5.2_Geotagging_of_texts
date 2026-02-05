@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::23 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-10650">
+        <rs ana="https://topostext.org/place/370221XAko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::83 /TEI[1]/text[1]/body[1]/p[1]::90" xml:id="UID-FAKE-10651">
+        <rs ana="https://topostext.org/place/376224SPos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::116 /TEI[1]/text[1]/body[1]/p[1]::125" xml:id="UID-FAKE-10652">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::129 /TEI[1]/text[1]/body[1]/p[1]::134" xml:id="UID-FAKE-10653">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::180 /TEI[1]/text[1]/body[1]/p[1]::189" xml:id="UID-FAKE-10654">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::194 /TEI[1]/text[1]/body[1]/p[1]::199" xml:id="UID-FAKE-10655">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::293 /TEI[1]/text[1]/body[1]/p[1]::301" xml:id="UID-FAKE-10656">
+        <rs ana="https://topostext.org/place/376224SPos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::405 /TEI[1]/text[1]/body[1]/p[1]::415" xml:id="UID-FAKE-10657">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::23 /TEI[1]/text[1]/body[1]/p[2]::29" xml:id="UID-FAKE-10658">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::156 /TEI[1]/text[1]/body[1]/p[3]::163" xml:id="UID-FAKE-10659">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::15 /TEI[1]/text[1]/body[1]/p[4]::22" xml:id="UID-FAKE-10660">
+        <rs ana="https://topostext.org/place/412241GHTT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::73 /TEI[1]/text[1]/body[1]/p[4]::80" xml:id="UID-FAKE-10661">
+        <rs ana="https://topostext.org/place/379237PhC"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::47" xml:id="UID-FAKE-10662">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::51 /TEI[1]/text[1]/body[1]/p[5]::61" xml:id="UID-FAKE-10663">
+        <rs ana="https://topostext.org/place/375223PPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::159" xml:id="UID-FAKE-10664">
+        <rs ana="https://topostext.org/place/383231ALeT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::195 /TEI[1]/text[1]/body[1]/p[5]::204" xml:id="UID-FAKE-10665">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::209 /TEI[1]/text[1]/body[1]/p[5]::219" xml:id="UID-FAKE-10666">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::239 /TEI[1]/text[1]/body[1]/p[5]::247" xml:id="UID-FAKE-10667">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::272 /TEI[1]/text[1]/body[1]/p[5]::282" xml:id="UID-FAKE-10668">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::332" xml:id="UID-FAKE-10669">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::338 /TEI[1]/text[1]/body[1]/p[5]::351" xml:id="UID-FAKE-10670">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::377 /TEI[1]/text[1]/body[1]/p[5]::384" xml:id="UID-FAKE-10671">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::12" xml:id="UID-FAKE-10672">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::37 /TEI[1]/text[1]/body[1]/p[6]::43" xml:id="UID-FAKE-10673">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::163 /TEI[1]/text[1]/body[1]/p[6]::172" xml:id="UID-FAKE-10674">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::195 /TEI[1]/text[1]/body[1]/p[6]::205" xml:id="UID-FAKE-10675">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::331 /TEI[1]/text[1]/body[1]/p[6]::344" xml:id="UID-FAKE-10676">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::401 /TEI[1]/text[1]/body[1]/p[6]::407" xml:id="UID-FAKE-10677">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::448 /TEI[1]/text[1]/body[1]/p[6]::457" xml:id="UID-FAKE-10678">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::152 /TEI[1]/text[1]/body[1]/p[8]::158" xml:id="UID-FAKE-10679">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::211 /TEI[1]/text[1]/body[1]/p[8]::219" xml:id="UID-FAKE-10680">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::60 /TEI[1]/text[1]/body[1]/p[9]::65" xml:id="UID-FAKE-10681">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::130 /TEI[1]/text[1]/body[1]/p[9]::142" xml:id="UID-FAKE-10682">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::151 /TEI[1]/text[1]/body[1]/p[9]::159" xml:id="UID-FAKE-10683">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::267 /TEI[1]/text[1]/body[1]/p[9]::274" xml:id="UID-FAKE-10684">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::211 /TEI[1]/text[1]/body[1]/p[10]::218" xml:id="UID-FAKE-10685">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::316 /TEI[1]/text[1]/body[1]/p[10]::325" xml:id="UID-FAKE-10686">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::79 /TEI[1]/text[1]/body[1]/p[11]::85" xml:id="UID-FAKE-10687">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::120 /TEI[1]/text[1]/body[1]/p[11]::125" xml:id="UID-FAKE-10688">
+        <rs ana="https://topostext.org/place/413162UCan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::159 /TEI[1]/text[1]/body[1]/p[11]::164" xml:id="UID-FAKE-10689">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::219 /TEI[1]/text[1]/body[1]/p[11]::224" xml:id="UID-FAKE-10690">
+        <rs ana="https://topostext.org/place/413162UCan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::523 /TEI[1]/text[1]/body[1]/p[11]::530" xml:id="UID-FAKE-10691">
+        <rs ana="https://topostext.org/place/408295ULib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::538 /TEI[1]/text[1]/body[1]/p[11]::549" xml:id="UID-FAKE-10692">
+        <rs ana="https://topostext.org/place/408295ULib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::4 /TEI[1]/text[1]/body[1]/p[12]::13" xml:id="UID-FAKE-10693">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::71 /TEI[1]/text[1]/body[1]/p[12]::77" xml:id="UID-FAKE-10694">
+        <rs ana="https://topostext.org/place/376145RSic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::83 /TEI[1]/text[1]/body[1]/p[12]::90" xml:id="UID-FAKE-10695">
+        <rs ana="https://topostext.org/place/380237LSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::120 /TEI[1]/text[1]/body[1]/p[12]::126" xml:id="UID-FAKE-10696">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::232 /TEI[1]/text[1]/body[1]/p[12]::241" xml:id="UID-FAKE-10697">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 11</head>
+      <p>After the sanctuary of Poseidon you will come to a place full of oak trees, called Pelagos [sea], and the road from Mantineia to Tegea leads through the oaks. The boundary between Mantineia and Tegea is the round altar on the highroad. If you will turn aside to the left from the sanctuary of Poseidon, you will reach, after going just about five stades, the graves of the daughters of Pelias. These, the Mantineans say, came to live with them when they were fleeing from the scandal at their father"s death.</p>
+      <p>Now when Medea reached Iolcus, she immediately began to plot against Pelias; she was really conspiring with Jason, while pretending to be at variance with him. She promised the daughters of Pelias that, if they wished, she would restore his youth to their father, now a very old man. Having butchered in some way a ram, she boiled his flesh with drugs in a pot, by the aid of which she took out of the pot a live lamb.</p>
+      <p>So she took Pelias and cut him up to boil him, but what the daughters received was not enough to bury. This result forced the women to change their home to Arcadia, and after their death, mounds were made there for their tombs. No poet, so far as I have read, has given them names, but the painter Micon inscribed on their portraits Asteropeia and Antinoe.</p>
+      <p>A place called Phoezon is about twenty stades distant from these graves. Phoezon is a tomb of stone surrounded with a krepis (basement), raised only a little above the ground. At this point the road becomes very narrow, and here, they say, is the tomb of Areithous, surnamed Corynetes (Clubman) because of his weapon.</p>
+      <p>As you go along the road leading from Mantineia to Pallantium, at a distance of about thirty stades, the highway is skirted by the oak forest called of Pelagos (sea), and here the cavalry of the Athenians and Mantineans fought against the Boeotian horse. Epaminondas, the Mantineans say, was killed by Machaerion, a man of Mantineia. The Lacedemonians on their part say that a Spartan killed Epaminondas, but they too give Machaerion as the name of the man.</p>
+      <p>The Athenian account, with which the Theban agrees, makes out that Epaminondas was wounded by Grylus. Similar is the story on the picture portraying the battle of Mantineia. All can see that the Mantineans gave Grylus a public funeral and dedicated where he fell his likeness on a slab in honor of the bravest of their allies. The Lacedemonians also speak of Machaerion as the slayer, but actually at Sparta there is no Machaerion, nor is there at Mantineia, who has received honors for bravery.</p>
+      <p>When Epaminondas was wounded, they carried him still living from the ranks. For a while he kept his hand to the wound in agony, with his gaze fixed on the combatants, the place from which he looked at them being called Skope (look-out) by posterity. But when the combat came to an indecisive end, he took his hand away from the wound and died, being buried on the spot where the armies met.</p>
+      <p>On the grave stands a pillar, and on it is a shield with a dragon in relief. The dragon means that Epaminondas belonged to the race of those called the Sparti, while there are slabs on the tomb, one old, with a Boeotian inscription, the other dedicated by the Emperor Hadrian, who wrote the inscription on it.</p>
+      <p>Everybody must praise Epaminondas for being the most famous Greek general, or at least consider him second to none other. For the Lacedemonian and the Athenian leaders enjoyed the ancient reputation of their cities, while their soldiers were men of a spirit, but the Thebans, whom Epaminondas raised to the highest position, were a disheartened people, accustomed to obey others.</p>
+      <p>Epaminondas had been told before by an oracle from Delphi to beware the sea (pelagos). So he was afraid to step on board a man-of-war or to sail in a merchant-ship, but by “pelagos” the god indicated the grove “Pelagos” and not the sea. Places with the same name misled Hannibal the Carthaginian, and before him the Athenians also.</p>
+      <p>Hannibal received an oracle from Ammon that when he died he would be buried in Libyan earth. So he hoped to destroy the Roman empire, to return to his home in Libya, and there to die of old age. But when Flamininus the Roman was anxious to take him alive, Hannibal came to Prusias as a suppliant. Repulsed by Prusias he jumped upon his horse, but was wounded in the finger by his drawn sword. when he had proceeded only a few stades his wound caused a fever, and he died on the third day. The place where he died is called Libyssa by the Nicomedians.</p>
+      <p>The Athenians received an oracle from Dodona ordering them to colonize Sicily, and Sikelia is a small hill not far from Athens. But they, not understanding the order, were persuaded to undertake expeditions overseas, especially the Syracusan war. More examples could be found similar to those I have given.</p>
+    </body>
+  </text>
+</TEI>

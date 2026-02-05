@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::310 /TEI[1]/text[1]/body[1]/p[1]::317" xml:id="UID-FAKE-10320">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::329 /TEI[1]/text[1]/body[1]/p[1]::339" xml:id="UID-FAKE-10321">
+        <rs ana="https://topostext.org/place/375222RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::360 /TEI[1]/text[1]/body[1]/p[1]::369" xml:id="UID-FAKE-10322">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::381 /TEI[1]/text[1]/body[1]/p[1]::391" xml:id="UID-FAKE-10323">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::61 /TEI[1]/text[1]/body[1]/p[2]::66" xml:id="UID-FAKE-10324">
+        <rs ana="https://topostext.org/place/379238CPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::108 /TEI[1]/text[1]/body[1]/p[2]::114" xml:id="UID-FAKE-10325">
+        <rs ana="https://topostext.org/place/377216SNIo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::123 /TEI[1]/text[1]/body[1]/p[2]::133" xml:id="UID-FAKE-10326">
+        <rs ana="https://topostext.org/place/384229CNKo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::146 /TEI[1]/text[1]/body[1]/p[2]::152" xml:id="UID-FAKE-10327">
+        <rs ana="https://topostext.org/place/375216SAni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::194 /TEI[1]/text[1]/body[1]/p[2]::199" xml:id="UID-FAKE-10328">
+        <rs ana="https://topostext.org/place/375216SAni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::104 /TEI[1]/text[1]/body[1]/p[3]::110" xml:id="UID-FAKE-10329">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::128 /TEI[1]/text[1]/body[1]/p[3]::134" xml:id="UID-FAKE-10330">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::198 /TEI[1]/text[1]/body[1]/p[3]::205" xml:id="UID-FAKE-10331">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::213 /TEI[1]/text[1]/body[1]/p[3]::220" xml:id="UID-FAKE-10332">
+        <rs ana="https://topostext.org/place/392296SMSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::235 /TEI[1]/text[1]/body[1]/p[3]::243" xml:id="UID-FAKE-10333">
+        <rs ana="https://topostext.org/place/392296WPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::262 /TEI[1]/text[1]/body[1]/p[3]::267" xml:id="UID-FAKE-10334">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::327 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-10335">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::11 /TEI[1]/text[1]/body[1]/p[4]::24" xml:id="UID-FAKE-10336">
+        <rs ana="https://topostext.org/place/379224LKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::121 /TEI[1]/text[1]/body[1]/p[4]::127" xml:id="UID-FAKE-10337">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::140 /TEI[1]/text[1]/body[1]/p[4]::148" xml:id="UID-FAKE-10338">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::181 /TEI[1]/text[1]/body[1]/p[4]::190" xml:id="UID-FAKE-10339">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::227 /TEI[1]/text[1]/body[1]/p[4]::234" xml:id="UID-FAKE-10340">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::210 /TEI[1]/text[1]/body[1]/p[5]::218" xml:id="UID-FAKE-10341">
+        <rs ana="https://topostext.org/place/374220PLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::269 /TEI[1]/text[1]/body[1]/p[5]::276" xml:id="UID-FAKE-10342">
+        <rs ana="https://topostext.org/place/368228UEni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::47 /TEI[1]/text[1]/body[1]/p[6]::60" xml:id="UID-FAKE-10343">
+        <rs ana="https://topostext.org/place/379224LKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::66 /TEI[1]/text[1]/body[1]/p[6]::76" xml:id="UID-FAKE-10344">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::345 /TEI[1]/text[1]/body[1]/p[6]::360" xml:id="UID-FAKE-10345">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::70 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-10346">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::214 /TEI[1]/text[1]/body[1]/p[8]::219" xml:id="UID-FAKE-10347">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::223 /TEI[1]/text[1]/body[1]/p[8]::234" xml:id="UID-FAKE-10348">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::245 /TEI[1]/text[1]/body[1]/p[8]::250" xml:id="UID-FAKE-10349">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::279 /TEI[1]/text[1]/body[1]/p[8]::285" xml:id="UID-FAKE-10350">
+        <rs ana="https://topostext.org/place/375220PGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::85 /TEI[1]/text[1]/body[1]/p[9]::90" xml:id="UID-FAKE-10351">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::282 /TEI[1]/text[1]/body[1]/p[9]::288" xml:id="UID-FAKE-10352">
+        <rs ana="https://topostext.org/place/403273WGra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::366 /TEI[1]/text[1]/body[1]/p[9]::374" xml:id="UID-FAKE-10353">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::385 /TEI[1]/text[1]/body[1]/p[9]::391" xml:id="UID-FAKE-10354">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::291 /TEI[1]/text[1]/body[1]/p[10]::298" xml:id="UID-FAKE-10355">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::349 /TEI[1]/text[1]/body[1]/p[10]::359" xml:id="UID-FAKE-10356">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 4</head>
+      <p>After the death of Nyctimus, Arcas the son of Callisto came to the throne. He introduced the cultivation of crops, which he learned from Triptolemus, and taught men to make bread, to weave clothes, and other things besides, having learned the art of spinning from Adristas. After this king the land was called Arcadia instead of PelasgiaYY and its inhabitants Arcadians instead of Pelasgians.</p>
+      <p>His wife, according to the legend, was no mortal woman but a Dryad nymph. For they used to call some nymphs Dryads, others Epimeliads, and others Naiads, and Homer in his poetry talks mostly of Naiad nymphs. This nymph they call Erato, and by her they say that Arcas had Azan, Apheidas and Elatus. Previously he had had Autolaus, an illegitimate son.</p>
+      <p>When his sons grew up, Arcas divided the land between them into three parts, and one district was named Azania after Azan; from Azania, it is said, settled the colonists who dwell about the cave in Phrygia called Steunos and the river Pencalas. To Apheidas fell Tegea and the land adjoining, and for this reason poets too call Tegea “the lot of Apheidas.”</p>
+      <p>Elatus got Mount Cyllene, which down to that time had received no name. Afterwards Elatus migrated to what is now called Phocis, helped the Phocians when hard pressed in war by the Phlegyans, and became the founder of the city Elateia. It is said that Azan had a son Cleitor, Apheidas a son Aleus, and that Elatus had five sons, Aepytus, Pereus, Cyllen, Ischys, and Stymphalus.</p>
+      <p>On the death of Azan, the son of Arcas, athletic contests were held for the first time; horse-races were certainly held, but I cannot speak positively about other contests. Now Cleitor the son of Azan dwelt in Lycosura, and was the most powerful of the kings, founding Cleitor, which he named after himself; Aleus held his father"s portion.</p>
+      <p>Of the sons of Elatus, Cyllen gave his name to Mount Cyllene, and Stymphalus gave his to the spring and to the city Stymphalus near the spring. The story of the death of Ischys, the son of Elatus, I have already told in my history of Argolis. Pereus, they say, had no male child, but only a daughter, Neaera. She married Autolycus, who lived on Mount Parnassus, and was said to be a son of Hermes, although his real father was Daedalion.</p>
+      <p>Cleitor, the son of Azan, had no children, and the sovereignty of the Arcadians devolved upon Aepytus, the son of Elatus. While out hunting, Aepytus was killed, not by any of the more powerful beasts, but by a seps that he failed to notice. This species of snake I have myself seen. It is like the smallest kind of adder, of the color of ash, with spots dotted here and there. It has a broad head and a narrow neck, a large belly and a short tail. This snake, like another called cerastes (the horned snake), walks with a sidelong motion, as do crabs.</p>
+      <p>After Aepytus Aleus came to the throne. For Agamedes and Gortys, the sons of Stymphalus, were three generations removed from Arcas, and Aleus, the son of Apheidas, two generations. Aleus built the old sanctuary in Tegea of Athena Alea, and made Tegea the capital of his kingdom. Gortys the son of Stymphalus founded the city Gortys on a river which is also called after him. The sons of Aleus were Lycurgus, Amphidamas and Cepheus; he also had a daughter Auge.</p>
+      <p>Hecataeus says that this Auge used to have intercourse with Heracles when he came to Tegea. At last it was discovered that she had borne a child to Heracles, and Aleus, putting her with her infant son in a chest, sent them out to sea. She came to Teuthras, lord of the plain of the Caicus, who fell in love with her and married her. The tomb of Auge still exists at Pergamus above the Calcus; it is a mound of earth surrounded by a basement of stone and surmounted by a figure of a naked woman in bronze.</p>
+      <p>After the death of Aleus Lycurgus his son got the kingdom as being the eldest; he is notorious for killing, by treachery and not in fair fight, a warrior called Areithous. Of his two sons, Ancaeus and Epochus, the latter fell ill and died, while the former joined the expedition of Jason to Colchis; afterwards, while hunting down with Meleager the Calydonian boar, he was killed by the brute.</p>
+    </body>
+  </text>
+</TEI>

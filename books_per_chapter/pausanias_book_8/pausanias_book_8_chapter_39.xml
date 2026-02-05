@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::11" xml:id="UID-FAKE-11833">
+        <rs ana="https://topostext.org/place/374220PLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::41 /TEI[1]/text[1]/body[1]/p[1]::52" xml:id="UID-FAKE-11834">
+        <rs ana="https://topostext.org/place/373218WPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::99 /TEI[1]/text[1]/body[1]/p[1]::110" xml:id="UID-FAKE-11835">
+        <rs ana="https://topostext.org/place/373218WPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::127 /TEI[1]/text[1]/body[1]/p[1]::135" xml:id="UID-FAKE-11836">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::9 /TEI[1]/text[1]/body[1]/p[3]::22" xml:id="UID-FAKE-11837">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::36 /TEI[1]/text[1]/body[1]/p[3]::45" xml:id="UID-FAKE-11838">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::58 /TEI[1]/text[1]/body[1]/p[3]::66" xml:id="UID-FAKE-11839">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::187 /TEI[1]/text[1]/body[1]/p[3]::197" xml:id="UID-FAKE-11840">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::223 /TEI[1]/text[1]/body[1]/p[3]::236" xml:id="UID-FAKE-11841">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::284 /TEI[1]/text[1]/body[1]/p[3]::292" xml:id="UID-FAKE-11842">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::315 /TEI[1]/text[1]/body[1]/p[3]::325" xml:id="UID-FAKE-11843">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::364 /TEI[1]/text[1]/body[1]/p[3]::370" xml:id="UID-FAKE-11844">
+        <rs ana="https://topostext.org/place/408225GArc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::374 /TEI[1]/text[1]/body[1]/p[3]::380" xml:id="UID-FAKE-11845">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::418 /TEI[1]/text[1]/body[1]/p[3]::426" xml:id="UID-FAKE-11846">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::432 /TEI[1]/text[1]/body[1]/p[3]::435" xml:id="UID-FAKE-11847">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-11848">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::45 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-11849">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::92 /TEI[1]/text[1]/body[1]/p[4]::99" xml:id="UID-FAKE-11850">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::242 /TEI[1]/text[1]/body[1]/p[4]::253" xml:id="UID-FAKE-11851">
+        <rs ana="https://topostext.org/place/373222POre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::307 /TEI[1]/text[1]/body[1]/p[4]::317" xml:id="UID-FAKE-11852">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::360 /TEI[1]/text[1]/body[1]/p[4]::372" xml:id="UID-FAKE-11853">
+        <rs ana="https://topostext.org/place/373222POre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::410 /TEI[1]/text[1]/body[1]/p[4]::420" xml:id="UID-FAKE-11854">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::534 /TEI[1]/text[1]/body[1]/p[4]::542" xml:id="UID-FAKE-11855">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::26 /TEI[1]/text[1]/body[1]/p[5]::38" xml:id="UID-FAKE-11856">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::150 /TEI[1]/text[1]/body[1]/p[5]::158" xml:id="UID-FAKE-11857">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::176 /TEI[1]/text[1]/body[1]/p[5]::186" xml:id="UID-FAKE-11858">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::217 /TEI[1]/text[1]/body[1]/p[5]::225" xml:id="UID-FAKE-11859">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::204 /TEI[1]/text[1]/body[1]/p[6]::216" xml:id="UID-FAKE-11860">
+        <rs ana="https://topostext.org/place/380237BKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::392 /TEI[1]/text[1]/body[1]/p[6]::400" xml:id="UID-FAKE-11861">
+        <rs ana="https://topostext.org/place/390000RIbe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 39</head>
+      <p>By Lycosura to the west passes the river Plataniston. No traveller can possibly avoid crossing the Plataniston who is going to Phigalia. Afterwards there is an ascent for some thirty stades or so.</p>
+      <p>The story of PhigalusYY, the son of Lycaon, who was the original founder of the city, how in course of time the city made a change and called itself after Phialus, the son of Bucolion, and again restored its old name, I have already set forth. Another account, but not worthy of credit, is current, that PhigalusYY was not a son of Lycaon but an aboriginal. Others have said that Phigalia was one of the nymphs called Dryads.</p>
+      <p>When the Lacedemonians attacked the Arcadians and invaded Phigalia, they overcame the inhabitants in battle and sat down to besiege the city. When the walls were in danger of capture the Phigalians ran away, or perhaps the Lacedemonians let them come out under a truce. The taking of Phigalia and the flight of the Phigalians from it took place when Miltiades was Archon at Athens, in the second year of the thirtieth Olympiad [659 BCE], when Chionis the Laconian was victorious for the third time.</p>
+      <p>The Phigalians who escaped resolved to go to Delphi and ask the god about their return. The Pythian priestess said that if they made the attempt by themselves she saw no return for them; but if they took with them one hundred picked men from Oresthasium, these would die in the battle, but through them the Phigalians would be restored to their city. When the Oresthasians heard of the oracle delivered to the Phigalians, all vied with one another in their eagerness to be one of the picked hundred and take part in the expedition to Phigalia.</p>
+      <p>They advanced against the Lacedemonian garrison and fulfilled the oracle in all respects. For they fought and met their end gloriously; expelling the Spartans they enabled the Phigalians to recover their native land. Phigalia lies on high land that is for the most part precipitous, and the walls are built on the cliffs. But on the top the hill is level and flat. Here there is a sanctuary of Artemis Saviour with a standing image of stone. From this sanctuary it is their custom to start their processions.</p>
+      <p>The image of Hermes in the gymnasium is like to one dressed in a cloak; but the statue does not end in feet, but in the square shape. A temple also of Dionysus is here, who by the inhabitants is surnamed Acratophorus, but the lower part of the image cannot be seen for laurel-leaves and ivy. As much of it as can be seen is painted . . . with cinnabar to shine. It is said to be found by the Iberians along with the gold.</p>
+    </body>
+  </text>
+</TEI>

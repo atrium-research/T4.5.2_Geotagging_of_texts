@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::133" xml:id="UID-FAKE-10248">
+        <rs ana="https://topostext.org/place/374220PLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::137 /TEI[1]/text[1]/body[1]/p[1]::150" xml:id="UID-FAKE-10249">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::201 /TEI[1]/text[1]/body[1]/p[1]::208" xml:id="UID-FAKE-10250">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::232 /TEI[1]/text[1]/body[1]/p[1]::243" xml:id="UID-FAKE-10251">
+        <rs ana="https://topostext.org/place/380237LPaW"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::287" xml:id="UID-FAKE-10252">
+        <rs ana="https://topostext.org/place/375220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::336 /TEI[1]/text[1]/body[1]/p[1]::344" xml:id="UID-FAKE-10253">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::382" xml:id="UID-FAKE-10254">
+        <rs ana="https://topostext.org/place/380237LPaW"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::452 /TEI[1]/text[1]/body[1]/p[1]::460" xml:id="UID-FAKE-10255">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::11" xml:id="UID-FAKE-10256">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::188 /TEI[1]/text[1]/body[1]/p[2]::195" xml:id="UID-FAKE-10257">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::222 /TEI[1]/text[1]/body[1]/p[2]::229" xml:id="UID-FAKE-10258">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::297 /TEI[1]/text[1]/body[1]/p[2]::303" xml:id="UID-FAKE-10259">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::173 /TEI[1]/text[1]/body[1]/p[3]::182" xml:id="UID-FAKE-10260">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::251 /TEI[1]/text[1]/body[1]/p[3]::258" xml:id="UID-FAKE-10261">
+        <rs ana="https://topostext.org/place/375220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::65 /TEI[1]/text[1]/body[1]/p[4]::74" xml:id="UID-FAKE-10262">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::474 /TEI[1]/text[1]/body[1]/p[4]::479" xml:id="UID-FAKE-10263">
+        <rs ana="https://topostext.org/place/353254SChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::295 /TEI[1]/text[1]/body[1]/p[6]::302" xml:id="UID-FAKE-10264">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::30 /TEI[1]/text[1]/body[1]/p[7]::35" xml:id="UID-FAKE-10265">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::39 /TEI[1]/text[1]/body[1]/p[7]::52" xml:id="UID-FAKE-10266">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 2</head>
+      <p>Lycaon the son of Pelasgus devised the following plans, which were more clever than those of his father. He founded the city Lycosura on Mount Lykaion, gave to Zeus the surname Lycaeus and founded the Lycaean games. I hold that the Panathenian festival was not founded before the Lycaean. The early name for the former festival was the Athenian, which was changed to the Panathenian in the time of Theseus, because it was then established by the whole Athenian people gathered together in a single city.</p>
+      <p>The Olympic games I leave out of the present account, because they are traced back to a time earlier than the human race, the story being that Cronus and Zeus wrestled there, and that the Curetes were the first to race at Olympia. My view is that Lycaon was contemporary with Cecrops, the king of Athens, but that they were not equally wise in matters of religion.</p>
+      <p>For Cecrops was the first to name Zeus Hypatos (highest), and refused to sacrifice anything that had life in it, but burnt instead on the altar the national cakes which the Athenians still call pelanoi. But Lycaon brought a human baby to the altar of Lycaean Zeus, and sacrificed it, pouring out its blood upon the altar, and according to the legend immediately after the sacrifice he was changed from a man to a wolf (lykos).</p>
+      <p>I for my part believe this story; it has been a legend among the Arcadians from of old, and it has the additional merit of probability. For the men of those days, because of their righteousness and piety, were guests of the gods, eating at the same board; the good were openly honored by the gods, and sinners were openly visited with their wrath. Nay, in those days men were changed to gods, who down to the present day have honors paid to them — Aristaeus, Britomartis of Crete, Heracles the son of Alcmena, Amphiaraus the son of Oicles, and besides these Polydeuces and Castor.</p>
+      <p>So one might believe that Lycaon was turned into a beast, and Niobe, the daughter of Tantalus, into a stone. But at the present time, when sin has grown to such a height and has been spreading over every land and every city, no longer do men turn into gods, except in the flattering words addressed to despots, and the wrath of the gods is reserved until the sinners have departed to the next world.</p>
+      <p>All through the ages, many events that have occurred in the past, and even some that occur today, have been generally discredited because of the lies built up on a foundation of fact. It is said, for instance, that ever since the time of Lycaon a man has changed into a wolf at the sacrifice to Lycaean Zeus, but that the change is not for life; if, when he is a wolf, he abstains from human flesh, after nine years he becomes a man again, but if he tastes human flesh he remains a beast for ever.</p>
+      <p>Similarly too it is said that Niobe on Mount Sipylus sheds tears in the season of summer. I have also heard that the griffins have spots like the leopard, and that the Tritons speak with human voice, though others say that they blow through a shell that has been bored. Those who like to listen to the miraculous are themselves apt to add to the marvel, and so they ruin truth by mixing it with falsehood.</p>
+    </body>
+  </text>
+</TEI>

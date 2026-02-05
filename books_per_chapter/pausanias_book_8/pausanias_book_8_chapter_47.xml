@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::26" xml:id="UID-FAKE-12106">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::60 /TEI[1]/text[1]/body[1]/p[1]::72" xml:id="UID-FAKE-12107">
+        <rs ana="https://topostext.org/place/374224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::347" xml:id="UID-FAKE-12108">
+        <rs ana="https://topostext.org/place/378225PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::366 /TEI[1]/text[1]/body[1]/p[1]::380" xml:id="UID-FAKE-12109">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::486 /TEI[1]/text[1]/body[1]/p[1]::491" xml:id="UID-FAKE-12110">
+        <rs ana="https://topostext.org/place/371252PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::495 /TEI[1]/text[1]/body[1]/p[1]::503" xml:id="UID-FAKE-12111">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::91 /TEI[1]/text[1]/body[1]/p[2]::101" xml:id="UID-FAKE-12112">
+        <rs ana="https://topostext.org/place/384215SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::258" xml:id="UID-FAKE-12113">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::296 /TEI[1]/text[1]/body[1]/p[2]::301" xml:id="UID-FAKE-12114">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::440 /TEI[1]/text[1]/body[1]/p[2]::445" xml:id="UID-FAKE-12115">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::54 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-12116">
+        <rs ana="https://topostext.org/place/380237SAA2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::472 /TEI[1]/text[1]/body[1]/p[3]::477" xml:id="UID-FAKE-12117">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::113 /TEI[1]/text[1]/body[1]/p[4]::119" xml:id="UID-FAKE-12118">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::126 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-12119">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::144 /TEI[1]/text[1]/body[1]/p[4]::151" xml:id="UID-FAKE-12120">
+        <rs ana="https://topostext.org/place/379237BAHp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::153 /TEI[1]/text[1]/body[1]/p[4]::169" xml:id="UID-FAKE-12121">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::217 /TEI[1]/text[1]/body[1]/p[4]::230" xml:id="UID-FAKE-12122">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::406 /TEI[1]/text[1]/body[1]/p[4]::415" xml:id="UID-FAKE-12123">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::12 /TEI[1]/text[1]/body[1]/p[5]::17" xml:id="UID-FAKE-12124">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::57 /TEI[1]/text[1]/body[1]/p[5]::72" xml:id="UID-FAKE-12125">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::165 /TEI[1]/text[1]/body[1]/p[5]::170" xml:id="UID-FAKE-12126">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::254 /TEI[1]/text[1]/body[1]/p[5]::259" xml:id="UID-FAKE-12127">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::49 /TEI[1]/text[1]/body[1]/p[6]::57" xml:id="UID-FAKE-12128">
+        <rs ana="https://topostext.org/place/386217SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::118" xml:id="UID-FAKE-12129">
+        <rs ana="https://topostext.org/place/377223POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::122 /TEI[1]/text[1]/body[1]/p[6]::129" xml:id="UID-FAKE-12130">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::151 /TEI[1]/text[1]/body[1]/p[6]::157" xml:id="UID-FAKE-12131">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::445 /TEI[1]/text[1]/body[1]/p[6]::450" xml:id="UID-FAKE-12132">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 47</head>
+      <p>The present image at Tegea was brought from the deme of the Manthyrenses, and among them it had the surname of Hippia (Horse Goddess). According to their account, when the battle of the gods and giants took place the goddess drove the chariot and horses against Enceladus. Yet this goddess too has come to receive the name of Alea among the Greeks generally and the Peloponnesians themselves. On one side of the image of Athena stands Asclepius, on the other Health, works of Scopas of Paros in Pentelic marble.</p>
+      <p>Of the votive offerings in the temple these are the most notable. There is the hide of the Calydonian Boar, rotted by age and by now altogether without bristles. Hanging up are the fetters, except such as have been destroyed by rust, worn by the Lacedemonian prisoners when they dug the plain of Tegea. There have been dedicated a sacred couch of Athena, a portrait painting of Auge, and the shield of Marpessa, surnamed Choera, a woman of Tegea;</p>
+      <p>of Marpessa I shall make mention later. The priest of Athena is a boy; I do not know how long his priesthood lasts, but it must be before, and not after, puberty. The altar for the goddess was made, they say, by Melampus, the son of Amythaon. Represented on the altar are Rhea and the nymph Oenoe holding the baby Zeus. On either side are four figures: on one, Glauce, Neda, Theisoa and Anthracia; on the other Ide, Hagno, Alcinoe and Phrixa. There are also images of the Muses and of Memory.</p>
+      <p>Not far from the temple is a stadium formed by a mound of earth, where they celebrate games, one festival called Aleaea after Athena, the other Halotia (Capture Festival) because they captured the greater part of the Lacedemonians alive in the battle. To the north of the temple is a fountain, and at this fountain they say that Auge was outraged by Heracles, therein differing from the account of Auge in Hecataeus. Some three stades away from the fountain is a temple of Hermes A109;A108;A107.</p>
+      <p>There is at Tegea another sanctuary of Athena, namely of Athena Poliatis (Keeper of the City) into which a priest enters once in each year. This sanctuary they name Eryma (Defence) saying that Cepheus, the son of Aleus, received from Athena a boon, that Tegea should never be captured while time shall endure, adding that the goddess cut off some of the hair of Medusa and gave it to him as a guard to the city.</p>
+      <p>Their story about Artemis, the same as is called Hegemone (Leader), is as follows. Aristomelidas, despot of Orchomenus in Arcadia, fell in love with a Tegean maiden, and, getting her somehow or other into his power, entrusted her to the keeping of ChroniusYY. The girl, before she was delivered up to the despot, killed herself for fear and shame, and Artemis in a vision stirred up ChroniusYY against Aristomelidas. He slew the despot, fled to Tegea, and made a sanctuary for Artemis.</p>
+    </body>
+  </text>
+</TEI>

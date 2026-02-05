@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::361 /TEI[1]/text[1]/body[1]/p[1]::370" xml:id="UID-FAKE-9808">
+        <rs ana="https://topostext.org/place/383218WAme"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::193 /TEI[1]/text[1]/body[1]/p[2]::203" xml:id="UID-FAKE-9809">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::272 /TEI[1]/text[1]/body[1]/p[2]::279" xml:id="UID-FAKE-9810">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::295 /TEI[1]/text[1]/body[1]/p[2]::301" xml:id="UID-FAKE-9811">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::311 /TEI[1]/text[1]/body[1]/p[2]::322" xml:id="UID-FAKE-9812">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::57 /TEI[1]/text[1]/body[1]/p[3]::68" xml:id="UID-FAKE-9813">
+        <rs ana="https://topostext.org/place/380237XKyb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::207 /TEI[1]/text[1]/body[1]/p[3]::215" xml:id="UID-FAKE-9814">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::292 /TEI[1]/text[1]/body[1]/p[3]::300" xml:id="UID-FAKE-9815">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::220 /TEI[1]/text[1]/body[1]/p[4]::225" xml:id="UID-FAKE-9816">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::31 /TEI[1]/text[1]/body[1]/p[5]::38" xml:id="UID-FAKE-9817">
+        <rs ana="https://topostext.org/place/380237SZPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::25 /TEI[1]/text[1]/body[1]/p[6]::31" xml:id="UID-FAKE-9818">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::67" xml:id="UID-FAKE-9819">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::139 /TEI[1]/text[1]/body[1]/p[6]::147" xml:id="UID-FAKE-9820">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::162 /TEI[1]/text[1]/body[1]/p[6]::168" xml:id="UID-FAKE-9821">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::180 /TEI[1]/text[1]/body[1]/p[6]::189" xml:id="UID-FAKE-9822">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::214 /TEI[1]/text[1]/body[1]/p[6]::219" xml:id="UID-FAKE-9823">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::225 /TEI[1]/text[1]/body[1]/p[6]::231" xml:id="UID-FAKE-9824">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::262 /TEI[1]/text[1]/body[1]/p[6]::268" xml:id="UID-FAKE-9825">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::300 /TEI[1]/text[1]/body[1]/p[6]::306" xml:id="UID-FAKE-9826">
+        <rs ana="https://topostext.org/place/380237BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::382 /TEI[1]/text[1]/body[1]/p[6]::390" xml:id="UID-FAKE-9827">
+        <rs ana="https://topostext.org/place/380237BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::461 /TEI[1]/text[1]/body[1]/p[6]::467" xml:id="UID-FAKE-9828">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::485 /TEI[1]/text[1]/body[1]/p[6]::491" xml:id="UID-FAKE-9829">
+        <rs ana="https://topostext.org/place/382217BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::518 /TEI[1]/text[1]/body[1]/p[6]::527" xml:id="UID-FAKE-9830">
+        <rs ana="https://topostext.org/place/380237BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::26 /TEI[1]/text[1]/body[1]/p[7]::32" xml:id="UID-FAKE-9831">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::279 /TEI[1]/text[1]/body[1]/p[7]::286" xml:id="UID-FAKE-9832">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::9 /TEI[1]/text[1]/body[1]/p[8]::16" xml:id="UID-FAKE-9833">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::57 /TEI[1]/text[1]/body[1]/p[8]::62" xml:id="UID-FAKE-9834">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::127 /TEI[1]/text[1]/body[1]/p[8]::133" xml:id="UID-FAKE-9835">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::276 /TEI[1]/text[1]/body[1]/p[8]::281" xml:id="UID-FAKE-9836">
+        <rs ana="https://topostext.org/place/372219SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::451 /TEI[1]/text[1]/body[1]/p[8]::456" xml:id="UID-FAKE-9837">
+        <rs ana="https://topostext.org/place/372219SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::33 /TEI[1]/text[1]/body[1]/p[9]::39" xml:id="UID-FAKE-9838">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::401 /TEI[1]/text[1]/body[1]/p[9]::409" xml:id="UID-FAKE-9839">
+        <rs ana="https://topostext.org/place/371222SLim"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 7, Chapter 20</head>
+      <p>The surname of the god inside the chest is Aesymnetes (Dictator), and his chief attendants are nine men, elected by the people from all the citizens for their reputation, and women equal in number to the men. On one night of the festival the priest carries the chest outside. Now this is a privilege that this night has received, and there go down to the river Meilichus a certain number of the native children, wearing on their heads garlands of corn-ears. It was in this way that they used to array of old those whom they led to be sacrificed to Artemis.</p>
+      <p>But at the present day they lay aside the garlands of corn-ears by the goddess, and after bathing in the river and putting on fresh garlands, this time made of ivy, they go to the sanctuary of Aesymnetes. This then is their established ritual, and within the precincts of Laphria is a temple of Athena surnamed PanachaeaYY. The image is of ivory and gold.</p>
+      <p>On the way to the lower city there is a sanctuary of the Dindymenian Mother, and in it Attis too is worshipped. Of him they have no image to show; that of the Mother is of stone. In the agora is a temple of Olympian Zeus; the god himself is on a throne with Athena standing by it. Beyond the Olympian is an image of Hera and a sanctuary of Apollo. The god is of bronze, and naked. On his feet are sandals, and one foot stands upon the skull of an ox.</p>
+      <p>That Apollo takes great pleasure in oxen is shown by Alcaeus in his hymn to Hermes, who writes how Hermes stole cows of Apollo, and even before Alcaeus was born Homer made Apollo tend cows of Laomedon for a wage. In the Iliad he puts these verses in the mouth of Poseidon:</p>
+      <p>“Verily I built a wall for the Trojans about their city, A wide wall and very beautiful, that the city might be impregnable; And thou, Phoebus, didst tend the shambling cows with crumpled horns.” This, it may be conjectured, is the reason for the ox skull. In the agora, in the open, is an image of Athena with the grave of Patreus in front of it.</p>
+      <p>Next to the agora is the Odeion, where has been dedicated an Apollo well worth seeing. It was made from the spoils taken when alone of the Achaeans the people of Patrae helped the Aetolians against the army of the Gauls. The Odeion is in every way the finest in Greece, except, of course, the one at Athens. This is unrivalled in size and magnificence, and was built by Herodes, an Athenian, in memory of his dead wife. The reason why I omitted to mention this Odeion in my history of Attica is that my account of the Athenians was finished before Herodes began the building.</p>
+      <p>As you leave the agora of Patrae, where the sanctuary of Apollo is, at this exit is a gate, upon which stand gilt statues, Patreus, Preugenes, and Atherion; the two latter are represented as boys, because Patreus is a boy in age. Opposite the agora by this exit is a precinct of Artemis and temple of Limnatis.</p>
+      <p>When the Dorians were now in possession of Lacedemon and Argos, it is said that Preugenes, in obedience to a dream, stole from Sparta the statue of Limnatis, and that he had as partner in his exploit the most devoted of his slaves. The image from Lacedemon is usually kept at Mesoa, because it was to this place that it was originally brought by Preugenes. But when the festival is being held for Limnatis, one of the slaves of the goddess comes from Mesoa bringing the ancient xoanon to the precinct in the city.</p>
+      <p>Near this precinct the people of Patrae have other sanctuaries. These are not in the open, but there is an entrance to them through the porticoes. The image of Asclepius, save for the drapery, is of stone; Athena is made of ivory and gold. Before the sanctuary of Athena is the tomb of Preugenes. Every year they sacrifice to Preugenes as to a hero, and likewise to Patreus also, when the festival of Limnatis is being held. Not far from the theater is a temple of Nemesis, and another of Aphrodite. The statues are colossal and of white marble.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::14" xml:id="UID-FAKE-10573">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-10574">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::212 /TEI[1]/text[1]/body[1]/p[3]::220" xml:id="UID-FAKE-10575">
+        <rs ana="https://topostext.org/place/378224LOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::0 /TEI[1]/text[1]/body[1]/p[4]::8" xml:id="UID-FAKE-10576">
+        <rs ana="https://topostext.org/place/375223UMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::57 /TEI[1]/text[1]/body[1]/p[4]::66" xml:id="UID-FAKE-10577">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::322 /TEI[1]/text[1]/body[1]/p[4]::338" xml:id="UID-FAKE-10578">
+        <rs ana="https://topostext.org/place/375220SZLA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::54 /TEI[1]/text[1]/body[1]/p[5]::67" xml:id="UID-FAKE-10579">
+        <rs ana="https://topostext.org/place/380237AThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::102 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-10580">
+        <rs ana="https://topostext.org/place/380237SNy2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::261 /TEI[1]/text[1]/body[1]/p[6]::271" xml:id="UID-FAKE-10581">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::329 /TEI[1]/text[1]/body[1]/p[6]::335" xml:id="UID-FAKE-10582">
+        <rs ana="https://topostext.org/place/389207LAkt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::353 /TEI[1]/text[1]/body[1]/p[6]::359" xml:id="UID-FAKE-10583">
+        <rs ana="https://topostext.org/place/389207LAkt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::62 /TEI[1]/text[1]/body[1]/p[7]::71" xml:id="UID-FAKE-10584">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::242 /TEI[1]/text[1]/body[1]/p[7]::246" xml:id="UID-FAKE-10585">
+        <rs ana="https://topostext.org/place/278308UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::253 /TEI[1]/text[1]/body[1]/p[7]::261" xml:id="UID-FAKE-10586">
+        <rs ana="https://topostext.org/place/278308UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::311 /TEI[1]/text[1]/body[1]/p[7]::320" xml:id="UID-FAKE-10587">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::374 /TEI[1]/text[1]/body[1]/p[7]::383" xml:id="UID-FAKE-10588">
+        <rs ana="https://topostext.org/place/405295RBit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::401 /TEI[1]/text[1]/body[1]/p[7]::410" xml:id="UID-FAKE-10589">
+        <rs ana="https://topostext.org/place/411306WSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::420 /TEI[1]/text[1]/body[1]/p[7]::430" xml:id="UID-FAKE-10590">
+        <rs ana="https://topostext.org/place/405295RBit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::446 /TEI[1]/text[1]/body[1]/p[7]::455" xml:id="UID-FAKE-10591">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::459 /TEI[1]/text[1]/body[1]/p[7]::468" xml:id="UID-FAKE-10592">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::55 /TEI[1]/text[1]/body[1]/p[8]::64" xml:id="UID-FAKE-10593">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::189 /TEI[1]/text[1]/body[1]/p[8]::198" xml:id="UID-FAKE-10594">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::452 /TEI[1]/text[1]/body[1]/p[8]::462" xml:id="UID-FAKE-10595">
+        <rs ana="https://topostext.org/place/380237XKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::503 /TEI[1]/text[1]/body[1]/p[8]::512" xml:id="UID-FAKE-10596">
+        <rs ana="https://topostext.org/place/380237DKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::516 /TEI[1]/text[1]/body[1]/p[8]::525" xml:id="UID-FAKE-10597">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::65 /TEI[1]/text[1]/body[1]/p[9]::75" xml:id="UID-FAKE-10598">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::195 /TEI[1]/text[1]/body[1]/p[9]::202" xml:id="UID-FAKE-10599">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::209 /TEI[1]/text[1]/body[1]/p[9]::220" xml:id="UID-FAKE-10600">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::389 /TEI[1]/text[1]/body[1]/p[9]::394" xml:id="UID-FAKE-10601">
+        <rs ana="https://topostext.org/place/379229XRto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::48 /TEI[1]/text[1]/body[1]/p[10]::58" xml:id="UID-FAKE-10602">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::258 /TEI[1]/text[1]/body[1]/p[10]::266" xml:id="UID-FAKE-10603">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 9</head>
+      <p>The Mantineans possess a temple composed of two parts, being divided almost exactly at the middle by a wall. In one part of the temple is an image of Asclepius, made by Alcamenes; the other part is a sanctuary of Leto and her children, and their images were made by Praxiteles two generations after Alcamenes. On the pedestal of these are figures of Muses together with Marsyas playing the flute. Here there is a figure of Polybius, the son of Lycortas, carved in relief upon a slab, of whom I shall make fuller mention later on.</p>
+      <p>The Mantineans have other sanctuaries also, one of Zeus Saviour, and one of Zeus Epidotes (giver of gifts), in that he gives good things to men. There is also a sanctuary of the Dioscuri, and in another place one of Demeter and Kore. Here they keep a fire, taking anxious care not to let it go out. Near the theater I saw a temple of Hera.</p>
+      <p>Praxiteles made the images Hera is sitting, while Athena and Hera"s daughter Hebe are standing by her side. Near the altar of Hera is the grave of Arcas, the son of Callisto. The bones of Arcas they brought from Maenalus, in obedience to an oracle delivered to them from Delphi:</p>
+      <p>Maenalia is storm-swept, where lies Arcas, from whom all Arcadians are named, In a place where meet three, four, even five roads; Thither I bid you go, and with kind heart Take up Arcas and bring him back to your lovely city. There make Arcas a precinct and sacrifices.” This place, where the grave of Arcas is, they call Altars of Helios.</p>
+      <p>Not far from the theater are famous tombs, one called Common Hearth, round in shape, where, they told me, lies Antinoe, the daughter of Cepheus. On it stands a slab, on which is carved in relief a horseman, Grylus, the son of Xenophon.</p>
+      <p>Behind the theater I found the ruins, with the cult statue missing, of a temple of Aphrodite surnamed Symmachia (ally). The inscription on the pedestal announced that the statue was dedicated by Nicippe, the daughter of PaseasYY. This sanctuary was made by the Mantineans to remind posterity of their fighting on the side of the Romans at the battle of Actium. They also worship Athena Alea, of whom they have a sanctuary and an image.</p>
+      <p>Antinous too was deified by them; his temple is the newest in Mantineia. He was a great favorite of the Emperor Hadrian. I never saw him in the flesh, but I have seen images and pictures of him. He has honors in other places also, and on the Nile is an Egyptian city named after Antinous. He has won worship in Mantineia for the following reason. Antinous was by birth from Bithynium beyond the river Sangarius, and the Bithynians are by descent Arcadians of Mantineia.</p>
+      <p>For this reason the Emperor established his worship in Mantineia also; mystic rites are celebrated in his honor each year, and games every four years. There is an oikos in the gymnasium of Mantineia containing statues of Antinous, and remarkable for the stones with which it is adorned, and especially so for its pictures. Most of them are portraits of Antinous, who is made to look just like Dionysus. There is also a copy here of the painting in the Cerameicus which represented the engagement of the Athenians at Mantineia.</p>
+      <p>In the agora is a bronze portrait-statue of a woman, said by the Mantineans to be Diomeneia, the daughter of Arcas, and a hero-shrine of Podares, who was killed, they say, in the battle with the Thebans under Epaminondas. Three generations ago they changed the inscription on the grave and made it apply to a descendant of this Podares with the same name, who was born late enough to have Roman citizenship.</p>
+      <p>In my time the elder Podares was honored by the Mantineans, who said that he who proved the bravest in the battle, of themselves and of their allies, was Grylus, the son of Xenophon; next to Grylus was Cephisodorus of Marathon, who at the time commanded the Athenian horse. The third place for valor they give to Podares.</p>
+    </body>
+  </text>
+</TEI>

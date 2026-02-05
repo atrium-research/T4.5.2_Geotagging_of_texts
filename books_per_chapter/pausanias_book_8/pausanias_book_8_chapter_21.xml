@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::41 /TEI[1]/text[1]/body[1]/p[1]::46" xml:id="UID-FAKE-10971">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::48 /TEI[1]/text[1]/body[1]/p[1]::55" xml:id="UID-FAKE-10972">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::114 /TEI[1]/text[1]/body[1]/p[1]::119" xml:id="UID-FAKE-10973">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::158 /TEI[1]/text[1]/body[1]/p[1]::166" xml:id="UID-FAKE-10974">
+        <rs ana="https://topostext.org/place/378218WAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::218 /TEI[1]/text[1]/body[1]/p[1]::225" xml:id="UID-FAKE-10975">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::231 /TEI[1]/text[1]/body[1]/p[1]::238" xml:id="UID-FAKE-10976">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::254 /TEI[1]/text[1]/body[1]/p[1]::262" xml:id="UID-FAKE-10977">
+        <rs ana="https://topostext.org/place/378218WAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::22 /TEI[1]/text[1]/body[1]/p[2]::30" xml:id="UID-FAKE-10978">
+        <rs ana="https://topostext.org/place/378218WAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::0 /TEI[1]/text[1]/body[1]/p[3]::7" xml:id="UID-FAKE-10979">
+        <rs ana="https://topostext.org/place/370224SElD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::139 /TEI[1]/text[1]/body[1]/p[3]::150" xml:id="UID-FAKE-10980">
+        <rs ana="https://topostext.org/place/370224SElD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::305 /TEI[1]/text[1]/body[1]/p[3]::312" xml:id="UID-FAKE-10981">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::87 /TEI[1]/text[1]/body[1]/p[4]::95" xml:id="UID-FAKE-10982">
+        <rs ana="https://topostext.org/place/379221SDiK"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 21</head>
+      <p>Such is the tale. From the source of the Ladon, Cleitor is sixty stades away, and the road from the source of the Ladon is a narrow gorge alongside the river Aroanius. Near the city you will cross the river called the Cleitor. The Cleitor flows into the Aroanius, at a point not more than seven stades from the city.</p>
+      <p>Among the fish in the Aroanius is one called the dappled fish. These dappled fish, it is said, utter a cry like that of the thrush. I have seen fish that have been caught, but I never heard their cry, though I waited by the river even until sunset, at which time the fish were said to cry most.</p>
+      <p>Cleitor got its name from the son of Azan, and is situated on a level spot surrounded by low hills. The most celebrated sanctuaries of the Cleitorians are those of Demeter, Asclepius and, thirdly, Eileithyia . . . to be, and gave no number for them. The Lycian Olen, an earlier poet, who composed for the Delians, among other hymns, one to Eileithyia, styles her Eulinus (“the clever spinner”), clearly identifying her with fate, and makes her older than Cronus.</p>
+      <p>Cleitor has also, at a distance of about four stades from the city, a sanctuary of the Dioscuri, under the name of the Great Gods. There are also images of them in bronze. There is also built upon a mountain-top, thirty stades away from the city, a temple of Athena Coria with an image of the goddess.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::5 /TEI[1]/text[1]/body[1]/p[1]::14" xml:id="UID-FAKE-11745">
+        <rs ana="https://topostext.org/place/384226SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::450 /TEI[1]/text[1]/body[1]/p[1]::457" xml:id="UID-FAKE-11746">
+        <rs ana="https://topostext.org/place/374220BStL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::635 /TEI[1]/text[1]/body[1]/p[1]::641" xml:id="UID-FAKE-11747">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::155 /TEI[1]/text[1]/body[1]/p[2]::159" xml:id="UID-FAKE-11748">
+        <rs ana="https://topostext.org/place/374220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::262 /TEI[1]/text[1]/body[1]/p[2]::268" xml:id="UID-FAKE-11749">
+        <rs ana="https://topostext.org/place/383233PPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::540 /TEI[1]/text[1]/body[1]/p[3]::546" xml:id="UID-FAKE-11750">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::24" xml:id="UID-FAKE-11751">
+        <rs ana="https://topostext.org/place/374220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::165 /TEI[1]/text[1]/body[1]/p[5]::171" xml:id="UID-FAKE-11752">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::216 /TEI[1]/text[1]/body[1]/p[5]::222" xml:id="UID-FAKE-11753">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::295 /TEI[1]/text[1]/body[1]/p[5]::303" xml:id="UID-FAKE-11754">
+        <rs ana="https://topostext.org/place/000000GEly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::380 /TEI[1]/text[1]/body[1]/p[5]::386" xml:id="UID-FAKE-11755">
+        <rs ana="https://topostext.org/place/396222LTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::465 /TEI[1]/text[1]/body[1]/p[5]::471" xml:id="UID-FAKE-11756">
+        <rs ana="https://topostext.org/place/396222LTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::40 /TEI[1]/text[1]/body[1]/p[6]::49" xml:id="UID-FAKE-11757">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::123 /TEI[1]/text[1]/body[1]/p[6]::131" xml:id="UID-FAKE-11758">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::145 /TEI[1]/text[1]/body[1]/p[6]::151" xml:id="UID-FAKE-11759">
+        <rs ana="https://topostext.org/place/386229SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::214 /TEI[1]/text[1]/body[1]/p[6]::221" xml:id="UID-FAKE-11760">
+        <rs ana="https://topostext.org/place/376217SDiL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::277 /TEI[1]/text[1]/body[1]/p[6]::287" xml:id="UID-FAKE-11761">
+        <rs ana="https://topostext.org/place/375220SZLA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::315 /TEI[1]/text[1]/body[1]/p[6]::322" xml:id="UID-FAKE-11762">
+        <rs ana="https://topostext.org/place/376217SDiL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::13" xml:id="UID-FAKE-11763">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::97 /TEI[1]/text[1]/body[1]/p[8]::104" xml:id="UID-FAKE-11764">
+        <rs ana="https://topostext.org/place/374220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::116 /TEI[1]/text[1]/body[1]/p[8]::125" xml:id="UID-FAKE-11765">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::18 /TEI[1]/text[1]/body[1]/p[9]::27" xml:id="UID-FAKE-11766">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::26 /TEI[1]/text[1]/body[1]/p[10]::33" xml:id="UID-FAKE-11767">
+        <rs ana="https://topostext.org/place/374220SLyk"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 37</head>
+      <p>From Acacesium it is four stades to the sanctuary of Despoina (the Mistress). First in this place is a temple of Artemis Leader, with a bronze image, holding torches, which I conjecture to be about six feet high. From this place there is an entrance into the sacred enclosure of Despoina. As you go to the temple there is a portico on the right, with reliefs of white marble on the wall. On the first relief are wrought Fates and Zeus surnamed Guide of Fate, and on the second Heracles wresting a tripod from Apollo. What I learned about the story of the two latter I will tell if I get as far as an account of Delphi in my history of Phocis.</p>
+      <p>In the portico by Despoina there is, between the reliefs I have mentioned, a tablet with descriptions of the mysteries. On the third relief are nymphs and Pans; on the fourth is Polybius, the son of Lycortas. On the latter is also an inscription, declaring that Greece would never have fallen at all, if she had obeyed Polybius in everything, and when she met disaster her only help came from him. In front of the temple is an altar to Demeter and another to Despoina, after which is one of the Great Mother.</p>
+      <p>The actual images of the goddesses, Despoina and Demeter, the throne on which they sit, along with the footstool under their feet, are all made out of one piece of stone. No part of the drapery, and no part of the carvings about the throne, is fastened to another stone by iron or cement, but the whole is from one block. This stone was not brought in by them, but they say that in obedience to a dream they dug up the earth within the enclosure and so found it. The size of both images just about corresponds to the image of the Mother at Athens.</p>
+      <p>These too are works of Damophon. Demeter carries a torch in her right hand; her other hand she has laid upon the Despoina. Despoina has on her knees a staff and what is called the box, which she holds in her right hand. On both sides of the throne are images. By the side of Demeter stands Artemis wrapped in the skin of a deer, and carrying a quiver on her shoulders, while in one hand she holds a torch, in the other two serpents; by her side a bitch, of a breed suitable for hunting, is lying down.</p>
+      <p>By the image of Despoina stands Anytus, represented as a man in armour. Those about the sanctuary say that the Despoina was brought up by Anytus, who was one of the Titans, as they are called. The first to introduce Titans into poetry was Homer, representing them as gods down in what is called Tartarus; the lines are in the passage about Hera"s oath. From Homer the name of the Titans was taken by Onomacritus, who in the orgies he composed for Dionysus made the Titans the authors of the god"s sufferings.</p>
+      <p>This is the story of Anytus told by the Arcadians. That Artemis was the daughter, not of Leto but of Demeter, which is the Egyptian account, the Greeks learned from Aeschylus the son of Euphorion. The story of the Curetes, who are represented under the images, and that of the Corybantes (a different race from the Curetes), carved in relief upon the base, I know, but pass them by.</p>
+      <p>The Arcadians bring into the sanctuary the fruit of all cultivated trees except the pomegranate. On the right as you go out of the temple there is a mirror fitted into the wall. If anyone looks into this mirror, he will see himself very dimly indeed or not at all, but the actual images of the gods and the throne can be seen quite clearly.</p>
+      <p>When you have gone up a little, beside the temple of Despoina on the right is what is called the Megaron, where the Arcadians celebrate mysteries, and sacrifice to Despoina many victims in generous fashion. Every man of them sacrifices what he possesses. But he does not cut the throats of the victims, as is done in other sacrifices; each man chops off a limb of the sacrifice, just that which happens to come to hand.</p>
+      <p>This Despoina the Arcadians worship more than any other god, declaring that she is a daughter of Poseidon and Demeter. Despoina is her surname among the many, just as they surname Demeter"s daughter by Zeus Kore. But whereas the real name of Kore is Persephone, as Homer and Pamphos before him say in their poems, the real name of Despoina I am afraid to write to the uninitiated.</p>
+      <p>Beyond what is called the Megaron is a grove, sacred to Despoina and surrounded by a wall of stones, and within it are trees, including an olive and an evergreen oak growing out of one root, and that not the result of a clever piece of gardening. Beyond the grove are altars of Horse Poseidon, as being the father of Despoina, and of other gods as well. On the last of them is an inscription saying that it is common to all the gods.</p>
+      <p>Thence you will ascend by stairs to a sanctuary of Pan. Within the sanctuary has been made a portico, and a small image; and this Pan too, equally with the most powerful gods, can bring men"s prayers to accomplishment and repay the wicked as they deserve. Beside this Pan a fire is kept burning which is never allowed to go out. It is said that in days of old this god also gave oracles, and that the nymph Erato became his prophetess, she who wedded Arcas, the son of Callisto.</p>
+      <p>They also remember verses of Erato, which I too myself have read. Here is an altar of Ares, and there are two images of Aphrodite in a temple, one of white marble, and the other, the older, of wood. There are also wooden images of Apollo and of Athena. Of Athena a sanctuary also has been made.</p>
+    </body>
+  </text>
+</TEI>

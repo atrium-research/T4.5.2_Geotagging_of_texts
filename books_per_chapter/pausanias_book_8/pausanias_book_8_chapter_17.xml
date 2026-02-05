@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::70" xml:id="UID-FAKE-10885">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::72 /TEI[1]/text[1]/body[1]/p[1]::79" xml:id="UID-FAKE-10886">
+        <rs ana="https://topostext.org/place/379211SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::128 /TEI[1]/text[1]/body[1]/p[1]::144" xml:id="UID-FAKE-10887">
+        <rs ana="https://topostext.org/place/379224CHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::163 /TEI[1]/text[1]/body[1]/p[1]::169" xml:id="UID-FAKE-10888">
+        <rs ana="https://topostext.org/place/379224LKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::163 /TEI[1]/text[1]/body[1]/p[2]::179" xml:id="UID-FAKE-10889">
+        <rs ana="https://topostext.org/place/379224CHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::112 /TEI[1]/text[1]/body[1]/p[3]::121" xml:id="UID-FAKE-10890">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::281 /TEI[1]/text[1]/body[1]/p[3]::294" xml:id="UID-FAKE-10891">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::321 /TEI[1]/text[1]/body[1]/p[3]::337" xml:id="UID-FAKE-10892">
+        <rs ana="https://topostext.org/place/383280WTor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::360 /TEI[1]/text[1]/body[1]/p[3]::368" xml:id="UID-FAKE-10893">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::24 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-10894">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::61 /TEI[1]/text[1]/body[1]/p[4]::65" xml:id="UID-FAKE-10895">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::242 /TEI[1]/text[1]/body[1]/p[4]::249" xml:id="UID-FAKE-10896">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::10 /TEI[1]/text[1]/body[1]/p[5]::17" xml:id="UID-FAKE-10897">
+        <rs ana="https://topostext.org/place/379224LKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::39 /TEI[1]/text[1]/body[1]/p[5]::49" xml:id="UID-FAKE-10898">
+        <rs ana="https://topostext.org/place/380224LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::194 /TEI[1]/text[1]/body[1]/p[5]::201" xml:id="UID-FAKE-10899">
+        <rs ana="https://topostext.org/place/380224LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::206 /TEI[1]/text[1]/body[1]/p[5]::213" xml:id="UID-FAKE-10900">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::239 /TEI[1]/text[1]/body[1]/p[5]::255" xml:id="UID-FAKE-10901">
+        <rs ana="https://topostext.org/place/380224LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::276 /TEI[1]/text[1]/body[1]/p[5]::284" xml:id="UID-FAKE-10902">
+        <rs ana="https://topostext.org/place/380224LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::15 /TEI[1]/text[1]/body[1]/p[6]::22" xml:id="UID-FAKE-10903">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::68 /TEI[1]/text[1]/body[1]/p[6]::75" xml:id="UID-FAKE-10904">
+        <rs ana="https://topostext.org/place/368228UEni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::111 /TEI[1]/text[1]/body[1]/p[6]::119" xml:id="UID-FAKE-10905">
+        <rs ana="https://topostext.org/place/380222PNon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::141 /TEI[1]/text[1]/body[1]/p[6]::145" xml:id="UID-FAKE-10906">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::154 /TEI[1]/text[1]/body[1]/p[6]::162" xml:id="UID-FAKE-10907">
+        <rs ana="https://topostext.org/place/380222PNon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::181 /TEI[1]/text[1]/body[1]/p[6]::190" xml:id="UID-FAKE-10908">
+        <rs ana="https://topostext.org/place/380222PNon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::440 /TEI[1]/text[1]/body[1]/p[6]::446" xml:id="UID-FAKE-10909">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::464 /TEI[1]/text[1]/body[1]/p[6]::468" xml:id="UID-FAKE-10910">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 17</head>
+      <p>After the grave of Aepytus you come to the highest mountain in Arcadia, Cyllene, on the top of which is a dilapidated temple of Cyllenian Hermes. It is clear that Cyllen, the son of Elatus, gave the mountain its name and the god his surname.</p>
+      <p>In days of old, men made wooden images, so far as I have been able to discover, from the following trees: ebony, cypress, cedar, oak, yew, lotus. But the image of Cyllenian Hermes is made of none of these, but of juniper wood. Its height, I conjecture, is about eight feet.</p>
+      <p>Cyllene can show also the following marvel. On it the blackbirds are entirely white. The birds so called by the Boeotians are a somewhat different breed, which does not sing. Eagles called swan-eagles, very like to swans for whiteness, I am acquainted with, as I have seen them on Mount Sipylus round the lake called the Lake of Tantalus. White wild boars and Thracian white bears have been known to be acquired by private individuals.</p>
+      <p>White hares are bred in Libya, and white deer I have seen in Rome to my great astonishment, though it never occurred to me to ask from what continent or island they had been brought. I have made these few remarks concerning the blackbirds in Cyllene that nobody may disbelieve what has been said about their color.</p>
+      <p>Adjoining Cyllene is another mountain, Chelydorea, where Hermes is said to have found a tortoise, taken the shell from the beast, and to have made therefrom a harp. Here is the boundary between Pheneus and Pellene, and the greater part of Mount Chelydorea is inhabited by the Achaeans.</p>
+      <p>As you go from Pheneus to the west, the left road leads to the city Cleitor, while on the right is the road to Nonacris and the water of the Styx. Of old Nonacris was a town of the Arcadians that was named after the wife of Lycaon. When I visited it, it was in ruins, and most of these were hidden. Not far from the ruins is a high cliff; I know of none other that rises to so great a height. A water trickles down the cliff, called by the Greeks the water of the Styx.</p>
+    </body>
+  </text>
+</TEI>

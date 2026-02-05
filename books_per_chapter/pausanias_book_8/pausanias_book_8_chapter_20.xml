@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::34 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-10958">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::78 /TEI[1]/text[1]/body[1]/p[1]::83" xml:id="UID-FAKE-10959">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::142 /TEI[1]/text[1]/body[1]/p[1]::149" xml:id="UID-FAKE-10960">
+        <rs ana="https://topostext.org/place/378220USko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::235 /TEI[1]/text[1]/body[1]/p[1]::240" xml:id="UID-FAKE-10961">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::304 /TEI[1]/text[1]/body[1]/p[1]::309" xml:id="UID-FAKE-10962">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::338 /TEI[1]/text[1]/body[1]/p[1]::344" xml:id="UID-FAKE-10963">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::40 /TEI[1]/text[1]/body[1]/p[2]::47" xml:id="UID-FAKE-10964">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::70 /TEI[1]/text[1]/body[1]/p[2]::77" xml:id="UID-FAKE-10965">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::107 /TEI[1]/text[1]/body[1]/p[2]::116" xml:id="UID-FAKE-10966">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::121 /TEI[1]/text[1]/body[1]/p[2]::127" xml:id="UID-FAKE-10967">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::149 /TEI[1]/text[1]/body[1]/p[2]::153" xml:id="UID-FAKE-10968">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::418 /TEI[1]/text[1]/body[1]/p[2]::426" xml:id="UID-FAKE-10969">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::227 /TEI[1]/text[1]/body[1]/p[4]::232" xml:id="UID-FAKE-10970">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 20</head>
+      <p>Advancing about fifty stades from Lycuria, you will come to the source of the Ladon. I heard that the water making a lake in the territory of Pheneus, descending into the chasms in the mountains, rises here and forms the source of the Ladon, but I cannot say for certain whether this is true or not. The Ladon is the most lovely river in Greece, and is also famous for the legend of Daphne that the poets tell.</p>
+      <p>I pass over the story current among the Syrians who live on the river Orontes, and give the account of the Arcadians and Eleans. Oenomaus, prince of Pisa, had a son Leucippus. Leucippus fell in love with Daphne, but despaired of winning her to be his wife by an open courtship, as she avoided all the male sex. The following trick occurred to him by which to get her. Leucippus was growing his hair long for the river Alpheius.</p>
+      <p>Braiding his hair as though he were a maiden, and putting on woman"s clothes, he came to Daphne and said that he was a daughter of Oenomaus, and would like to share her hunting. As he was thought to be a maiden, surpassed the other maidens in nobility of birth and skill in hunting, and was besides most assiduous in his attentions, he drew Daphne into a deep friendship.</p>
+      <p>The poets who sing of Apollo"s love for Daphne make an addition to the tale; that Apollo became jealous of Leucippus because of his success in his love. Forthwith Daphne and the other maidens conceived a longing to swim in the Ladon, and stripped Leucippus in spite of his reluctance. Then, seeing that he was no maid, they killed him with their javelins and daggers.</p>
+    </body>
+  </text>
+</TEI>

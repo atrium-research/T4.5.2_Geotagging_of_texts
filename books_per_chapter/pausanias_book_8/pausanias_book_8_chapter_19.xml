@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::23 /TEI[1]/text[1]/body[1]/p[1]::32" xml:id="UID-FAKE-10943">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::45 /TEI[1]/text[1]/body[1]/p[1]::56" xml:id="UID-FAKE-10944">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::107 /TEI[1]/text[1]/body[1]/p[1]::114" xml:id="UID-FAKE-10945">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::156 /TEI[1]/text[1]/body[1]/p[1]::167" xml:id="UID-FAKE-10946">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::135 /TEI[1]/text[1]/body[1]/p[3]::142" xml:id="UID-FAKE-10947">
+        <rs ana="https://topostext.org/place/376218SAsD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::191 /TEI[1]/text[1]/body[1]/p[3]::200" xml:id="UID-FAKE-10948">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::224 /TEI[1]/text[1]/body[1]/p[3]::231" xml:id="UID-FAKE-10949">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::244 /TEI[1]/text[1]/body[1]/p[3]::248" xml:id="UID-FAKE-10950">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::315 /TEI[1]/text[1]/body[1]/p[3]::326" xml:id="UID-FAKE-10951">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::22 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-10952">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::99 /TEI[1]/text[1]/body[1]/p[4]::106" xml:id="UID-FAKE-10953">
+        <rs ana="https://topostext.org/place/367228QAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::191 /TEI[1]/text[1]/body[1]/p[4]::199" xml:id="UID-FAKE-10954">
+        <rs ana="https://topostext.org/place/378218WAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::244 /TEI[1]/text[1]/body[1]/p[4]::251" xml:id="UID-FAKE-10955">
+        <rs ana="https://topostext.org/place/378223ULyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::283 /TEI[1]/text[1]/body[1]/p[4]::290" xml:id="UID-FAKE-10956">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::295 /TEI[1]/text[1]/body[1]/p[4]::302" xml:id="UID-FAKE-10957">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 19</head>
+      <p>There is a clan of the Arcadians, called the Cynaetheans, the same folk who dedicated the image of Zeus at Olympia with a thunderbolt in either hand. These Cynaetheans live more than forty stades from . . . and in their marketplace have been made altars of the gods and a statue of the Emperor Hadrian.</p>
+      <p>The most notable things here include a sanctuary of Dionysus, to whom they hold a feast in the winter, at which men smeared with grease take up from a herd of cattle a bull, whichever one the god suggest to them, and carry it to the sanctuary. This is the manner of their sacrifice. Here there is a spring of cold water, about two stades away from the city, and above it grows a plane-tree.</p>
+      <p>If a rabid dog turn a man mad, or wound or otherwise endanger him, to drink this water is a cure. For this reason they call the spring Alyssus (Curer of madness). So it would appear that the Arcadians have in the water near Pheneus, called the Styx, a thing made to be a mischief to man, while the spring among the Cynaetheans is a boon to make up for the bane in the other place.</p>
+      <p>One of the roads from Pheneus, which go westward, remains, the one on the left. This road leads to Cleitor, and extends by the side of the work of Heracles, which made a course for the river Aroanius. By it the road goes down to a place called Lycuria, which is the boundary between Pheneus and Cleitor.</p>
+    </body>
+  </text>
+</TEI>

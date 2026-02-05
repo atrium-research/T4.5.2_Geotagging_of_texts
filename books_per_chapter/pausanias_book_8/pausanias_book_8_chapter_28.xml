@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::76 /TEI[1]/text[1]/body[1]/p[1]::83" xml:id="UID-FAKE-11398">
+        <rs ana="https://topostext.org/place/375220SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::98 /TEI[1]/text[1]/body[1]/p[1]::104" xml:id="UID-FAKE-11399">
+        <rs ana="https://topostext.org/place/375220PGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::200 /TEI[1]/text[1]/body[1]/p[1]::208" xml:id="UID-FAKE-11400">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::8 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-11401">
+        <rs ana="https://topostext.org/place/375220PGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::76 /TEI[1]/text[1]/body[1]/p[2]::82" xml:id="UID-FAKE-11402">
+        <rs ana="https://topostext.org/place/375220SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::84 /TEI[1]/text[1]/body[1]/p[2]::97" xml:id="UID-FAKE-11403">
+        <rs ana="https://topostext.org/place/375220WGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::189 /TEI[1]/text[1]/body[1]/p[2]::198" xml:id="UID-FAKE-11404">
+        <rs ana="https://topostext.org/place/375220WGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::236 /TEI[1]/text[1]/body[1]/p[2]::245" xml:id="UID-FAKE-11405">
+        <rs ana="https://topostext.org/place/352248CIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::290 /TEI[1]/text[1]/body[1]/p[2]::296" xml:id="UID-FAKE-11406">
+        <rs ana="https://topostext.org/place/442277WIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::298 /TEI[1]/text[1]/body[1]/p[2]::303" xml:id="UID-FAKE-11407">
+        <rs ana="https://topostext.org/place/507071WRhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::305 /TEI[1]/text[1]/body[1]/p[2]::312" xml:id="UID-FAKE-11408">
+        <rs ana="https://topostext.org/place/469320WHyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::314 /TEI[1]/text[1]/body[1]/p[2]::325" xml:id="UID-FAKE-11409">
+        <rs ana="https://topostext.org/place/470320WBor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::211 /TEI[1]/text[1]/body[1]/p[3]::217" xml:id="UID-FAKE-11410">
+        <rs ana="https://topostext.org/place/369349UTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::239 /TEI[1]/text[1]/body[1]/p[3]::245" xml:id="UID-FAKE-11411">
+        <rs ana="https://topostext.org/place/369349UTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::258 /TEI[1]/text[1]/body[1]/p[3]::263" xml:id="UID-FAKE-11412">
+        <rs ana="https://topostext.org/place/368314WMel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::281 /TEI[1]/text[1]/body[1]/p[3]::285" xml:id="UID-FAKE-11413">
+        <rs ana="https://topostext.org/place/368314PSid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::289 /TEI[1]/text[1]/body[1]/p[3]::298" xml:id="UID-FAKE-11414">
+        <rs ana="https://topostext.org/place/370320RPam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::320 /TEI[1]/text[1]/body[1]/p[3]::324" xml:id="UID-FAKE-11415">
+        <rs ana="https://topostext.org/place/380272WAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::328 /TEI[1]/text[1]/body[1]/p[3]::336" xml:id="UID-FAKE-11416">
+        <rs ana="https://topostext.org/place/380272WAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::401 /TEI[1]/text[1]/body[1]/p[3]::410" xml:id="UID-FAKE-11417">
+        <rs ana="https://topostext.org/place/375220WGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::500 /TEI[1]/text[1]/body[1]/p[3]::507" xml:id="UID-FAKE-11418">
+        <rs ana="https://topostext.org/place/375220PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::526 /TEI[1]/text[1]/body[1]/p[3]::536" xml:id="UID-FAKE-11419">
+        <rs ana="https://topostext.org/place/378223WMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::575 /TEI[1]/text[1]/body[1]/p[3]::583" xml:id="UID-FAKE-11420">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::594 /TEI[1]/text[1]/body[1]/p[3]::602" xml:id="UID-FAKE-11421">
+        <rs ana="https://topostext.org/place/378223WMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::22 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-11422">
+        <rs ana="https://topostext.org/place/375220PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::50 /TEI[1]/text[1]/body[1]/p[4]::57" xml:id="UID-FAKE-11423">
+        <rs ana="https://topostext.org/place/376220PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::96 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-11424">
+        <rs ana="https://topostext.org/place/302312UTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::103 /TEI[1]/text[1]/body[1]/p[4]::106" xml:id="UID-FAKE-11425">
+        <rs ana="https://topostext.org/place/376220PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::234 /TEI[1]/text[1]/body[1]/p[4]::240" xml:id="UID-FAKE-11426">
+        <rs ana="https://topostext.org/place/356358UUga"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::292 /TEI[1]/text[1]/body[1]/p[4]::297" xml:id="UID-FAKE-11427">
+        <rs ana="https://topostext.org/place/384236UAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::411 /TEI[1]/text[1]/body[1]/p[4]::420" xml:id="UID-FAKE-11428">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::269 /TEI[1]/text[1]/body[1]/p[5]::274" xml:id="UID-FAKE-11429">
+        <rs ana="https://topostext.org/place/384236UAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::413 /TEI[1]/text[1]/body[1]/p[5]::420" xml:id="UID-FAKE-11430">
+        <rs ana="https://topostext.org/place/376220PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::451 /TEI[1]/text[1]/body[1]/p[5]::460" xml:id="UID-FAKE-11431">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::43 /TEI[1]/text[1]/body[1]/p[6]::49" xml:id="UID-FAKE-11432">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::270 /TEI[1]/text[1]/body[1]/p[6]::277" xml:id="UID-FAKE-11433">
+        <rs ana="https://topostext.org/place/376220PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::32 /TEI[1]/text[1]/body[1]/p[7]::39" xml:id="UID-FAKE-11434">
+        <rs ana="https://topostext.org/place/376220PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::58 /TEI[1]/text[1]/body[1]/p[7]::64" xml:id="UID-FAKE-11435">
+        <rs ana="https://topostext.org/place/375220PGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::68 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-11436">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::164 /TEI[1]/text[1]/body[1]/p[7]::178" xml:id="UID-FAKE-11437">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::184 /TEI[1]/text[1]/body[1]/p[7]::195" xml:id="UID-FAKE-11438">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::267 /TEI[1]/text[1]/body[1]/p[7]::278" xml:id="UID-FAKE-11439">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::362 /TEI[1]/text[1]/body[1]/p[7]::369" xml:id="UID-FAKE-11440">
+        <rs ana="https://topostext.org/place/375220UBre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::394 /TEI[1]/text[1]/body[1]/p[7]::405" xml:id="UID-FAKE-11441">
+        <rs ana="https://topostext.org/place/375220UBre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::456 /TEI[1]/text[1]/body[1]/p[7]::464" xml:id="UID-FAKE-11442">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 28</head>
+      <p>As you go from the source of the river, you will reach first a place called Maratha, and after it Gortys, which today is a village, but of old was a city. Here there is a temple of Asclepius, made of Pentelic marble, with the god, as a beardless youth, and an image of Health. Scopas was the artist. The natives also say that Alexander the son of Philip dedicated to Asclepius his breastplate and spear. The breastplate and the head of the spear are still there today.</p>
+      <p>Through Gortys flows a river called by those who live around its source the Lusius (Bathing River), because Zeus after his birth was bathed in it; those farther from the source call it the Gortynius after the village. The water of this Gortynius is colder than that of any other river. The Danube, Rhine, Hypanis, Borysthenes, and all rivers the streams of which freeze in winter, as they flow through land on which there is snow the greater part of the time, while the air about them is full of frost, might in my opinion rightly be called wintry;</p>
+      <p>I call the water cold of those which flow through a land with a good climate and in summer have water refreshing to drink and to bathe in, without being painful in winter. Cold in this sense is the water of the Cydnus which passes through Tarsus, and of the Melas which flows past Side in Pamphylia. The coldness of the Ales in Colophon has even been celebrated in the verse of elegiac poets. But the Gortynius surpasses them all in coldness, especially in the season of summer. It has its source in Theisoa, which borders on Methydrium. The place where its stream joins the Alpheius is called Rhaeteae.</p>
+      <p>Adjoining the land of Theisoa is a village called Teuthis, which in old days was a town. In the Trojan War the inhabitants supplied a general of their own. His name according to some was Teuthis, according to others Ornytus. When the Greeks failed to secure favorable winds to take them from Aulis, but were shut in for a long time by a violent gale, Teuthis quarrelled with Agamemnon and was about to lead the Arcadians under his command back home again.</p>
+      <p>Whereupon, they say, Athena in the guise of A1420;A1421;A1418;A1419, the son of Ops, tried to turn Teuthis aside from his journey home. But Teuthis, his wrath swelling within him, struck with his spear the thigh of the goddess, and actually did lead his army back from Aulis. On his return to his native land the goddess appeared to him in a vision with a wound in her thigh. After this a wasting disease fell on Teuthis, and its people, alone of the Arcadians, suffered from famine.</p>
+      <p>Later, oracles were delivered to them from Dodona, telling them what to do to appease the goddess, and in particular they had an image of Athena made with a wound in the thigh. This image I have myself seen, with its thigh swathed in a purple bandage. There are also at Teuthis sanctuaries of Aphrodite and Artemis.</p>
+      <p>These are the notable things at Teuthis. On the road from Gortys to Megalopolis stands the tomb of those who were killed in the fight with Cleomenes. This tomb the Megalopolitans call ParaebasiYY (Transgression) because Cleomenes broke his truce with them. Adjoining ParaebasiYY is a plain about sixty stades across. On the right of the road are ruins of a city Brenthe, and here rises a river Brentheates, which some five stades farther on falls into the Alpheius.</p>
+    </body>
+  </text>
+</TEI>

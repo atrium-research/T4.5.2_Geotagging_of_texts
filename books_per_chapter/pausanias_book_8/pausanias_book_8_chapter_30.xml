@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::5 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-11479">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::93 /TEI[1]/text[1]/body[1]/p[1]::101" xml:id="UID-FAKE-11480">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::132 /TEI[1]/text[1]/body[1]/p[1]::138" xml:id="UID-FAKE-11481">
+        <rs ana="https://topostext.org/place/375223PDip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::143 /TEI[1]/text[1]/body[1]/p[1]::149" xml:id="UID-FAKE-11482">
+        <rs ana="https://topostext.org/place/374221SZSo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::168 /TEI[1]/text[1]/body[1]/p[1]::179" xml:id="UID-FAKE-11483">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::208 /TEI[1]/text[1]/body[1]/p[1]::216" xml:id="UID-FAKE-11484">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::253 /TEI[1]/text[1]/body[1]/p[1]::264" xml:id="UID-FAKE-11485">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::10 /TEI[1]/text[1]/body[1]/p[2]::18" xml:id="UID-FAKE-11486">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::27 /TEI[1]/text[1]/body[1]/p[2]::38" xml:id="UID-FAKE-11487">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::47 /TEI[1]/text[1]/body[1]/p[2]::53" xml:id="UID-FAKE-11488">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::58 /TEI[1]/text[1]/body[1]/p[2]::66" xml:id="UID-FAKE-11489">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::256 /TEI[1]/text[1]/body[1]/p[2]::263" xml:id="UID-FAKE-11490">
+        <rs ana="https://topostext.org/place/375220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::250 /TEI[1]/text[1]/body[1]/p[3]::258" xml:id="UID-FAKE-11491">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::297 /TEI[1]/text[1]/body[1]/p[3]::308" xml:id="UID-FAKE-11492">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::55 /TEI[1]/text[1]/body[1]/p[4]::65" xml:id="UID-FAKE-11493">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::75 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-11494">
+        <rs ana="https://topostext.org/place/374219SBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::128 /TEI[1]/text[1]/body[1]/p[4]::136" xml:id="UID-FAKE-11495">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::225 /TEI[1]/text[1]/body[1]/p[4]::233" xml:id="UID-FAKE-11496">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::267 /TEI[1]/text[1]/body[1]/p[5]::279" xml:id="UID-FAKE-11497">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::304 /TEI[1]/text[1]/body[1]/p[5]::318" xml:id="UID-FAKE-11498">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::43 /TEI[1]/text[1]/body[1]/p[6]::54" xml:id="UID-FAKE-11499">
+        <rs ana="https://topostext.org/place/374221BPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::131 /TEI[1]/text[1]/body[1]/p[6]::145" xml:id="UID-FAKE-11500">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::298 /TEI[1]/text[1]/body[1]/p[6]::309" xml:id="UID-FAKE-11501">
+        <rs ana="https://topostext.org/place/374221BPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::385 /TEI[1]/text[1]/body[1]/p[6]::396" xml:id="UID-FAKE-11502">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::505 /TEI[1]/text[1]/body[1]/p[6]::514" xml:id="UID-FAKE-11503">
+        <rs ana="https://topostext.org/place/374221BPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::29 /TEI[1]/text[1]/body[1]/p[7]::38" xml:id="UID-FAKE-11504">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::116 /TEI[1]/text[1]/body[1]/p[7]::124" xml:id="UID-FAKE-11505">
+        <rs ana="https://topostext.org/place/376222PHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::247 /TEI[1]/text[1]/body[1]/p[7]::256" xml:id="UID-FAKE-11506">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::322 /TEI[1]/text[1]/body[1]/p[7]::335" xml:id="UID-FAKE-11507">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::459 /TEI[1]/text[1]/body[1]/p[7]::470" xml:id="UID-FAKE-11508">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::64 /TEI[1]/text[1]/body[1]/p[8]::71" xml:id="UID-FAKE-11509">
+        <rs ana="https://topostext.org/place/375220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::285 /TEI[1]/text[1]/body[1]/p[8]::291" xml:id="UID-FAKE-11510">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::327 /TEI[1]/text[1]/body[1]/p[8]::332" xml:id="UID-FAKE-11511">
+        <rs ana="https://topostext.org/place/384166PKau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::383 /TEI[1]/text[1]/body[1]/p[8]::389" xml:id="UID-FAKE-11512">
+        <rs ana="https://topostext.org/place/419125GSSc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::427 /TEI[1]/text[1]/body[1]/p[8]::435" xml:id="UID-FAKE-11513">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::552 /TEI[1]/text[1]/body[1]/p[8]::564" xml:id="UID-FAKE-11514">
+        <rs ana="https://topostext.org/place/371101UUti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::609 /TEI[1]/text[1]/body[1]/p[8]::617" xml:id="UID-FAKE-11515">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::13 /TEI[1]/text[1]/body[1]/p[9]::19" xml:id="UID-FAKE-11516">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::176 /TEI[1]/text[1]/body[1]/p[9]::181" xml:id="UID-FAKE-11517">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::214 /TEI[1]/text[1]/body[1]/p[9]::228" xml:id="UID-FAKE-11518">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::253 /TEI[1]/text[1]/body[1]/p[9]::259" xml:id="UID-FAKE-11519">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::382 /TEI[1]/text[1]/body[1]/p[9]::397" xml:id="UID-FAKE-11520">
+        <rs ana="https://topostext.org/place/380227BBoS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::17 /TEI[1]/text[1]/body[1]/p[10]::24" xml:id="UID-FAKE-11521">
+        <rs ana="https://topostext.org/place/374221BThB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::-1 /TEI[1]/text[1]/body[1]/p[10]::13" xml:id="UID-FAKE-11522">
+        <rs ana="https://topostext.org/place/380237SAZA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::50 /TEI[1]/text[1]/body[1]/p[10]::60" xml:id="UID-FAKE-11523">
+        <rs ana="https://topostext.org/place/380237BMSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::389 /TEI[1]/text[1]/body[1]/p[10]::397" xml:id="UID-FAKE-11524">
+        <rs ana="https://topostext.org/place/380237SAZA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::426 /TEI[1]/text[1]/body[1]/p[10]::435" xml:id="UID-FAKE-11525">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 30</head>
+      <p>This Helisson, beginning at a village of the same name — for the name of the village also is Helisson — passes through the lands of Dipaea and Lycaea, and then through Megalopolis itself, descending into the Alpheius twenty stades away from the city of Megalopolis. Near the city is a temple of Poseidon Epoptes (Overseer). I found the head of the image still remaining.</p>
+      <p>The river Helisson divides Megalopolis just as Cnidus and Mitylene are cut in two by their straits, and in the north section, on the right as one looks down the river, the townsfolk have made their agora. In it is an enclosure of stones and a sanctuary of Lycaean Zeus, with no entrance into it. The things inside, however, can be seen — altars of the god, two tables, two eagles, and an image of Pan made of stone.</p>
+      <p>His surname is Sinoeis, and they say that Pan was so surnamed after a nymph Sinoe, who with others of the nymphs nursed him on her own account. There is before this enclosure a bronze image of Apollo worth seeing, in height twelve feet, brought from Phigalia as a contribution to the adornment of Megalopolis.</p>
+      <p>The place where the image was originally set up by the Phigalians is named Bassae. The surname of the god has followed him from Phigalia, but why he received the name of Epikourios (helper) will be set forth in my account of Phigalia. On the right of the Apollo is a small image of the Mother of the Gods, but of the temple there remains nothing save the pillars.</p>
+      <p>Before the temple of the Mother is no statue, but I found still to be seen the pedestals on which statues once stood. An inscription in elegiacs on one of the pedestals says that the statue was that of Diophanes, the son of Diaeus, the man who first united the whole Peloponnesus into what was named the Achaean League.</p>
+      <p>The portico of the marketplace, called the Philippeium, was not made by Philip, the son of Amyntas, but as a compliment to him the Megalopolitans gave his name to the building. Near it I found a temple of Hermes Acacesius in ruins, with nothing remaining except a tortoise of stone. Adjoining this Philippeium is another portico, smaller in size, where stand the government offices of Megalopolis, six rooms in number. In one of them is an image of Ephesian Artemis, and in another a bronze Pan, surnamed Scoleitas, one cubit high.</p>
+      <p>It was brought from the hill Scoleitas, which is within the walls, and from a spring on it a stream descends to the Helisson. Behind the government offices is a temple of Fortune with a stone image not less than five feet high. The portico called Myropolis, situated in the agora, was built from the spoils taken when the Lacedemonians fighting under Acrotatus, the son of Cleomenes, suffered the reverse sustained at the hands of Aristodemus, then tyrant of Megalopolis.</p>
+      <p>In the marketplace of that city, behind the enclosure sacred to Lycaean Zeus, is the figure of a man carved in relief on a slab, Polybius, the son of Lycortas. Elegiac verses are inscribed upon it saying that he roamed over every land and every sea, and that he became the ally of the Romans and stayed their wrath against the Greek nation. This Polybius wrote also a history of the Romans, including how they went to war with Carthage, what the cause of the war was, and how at last, not before great dangers had been run, Scipio . . . whom they name Carthaginian, because he put an end to the war and razed Carthage to the ground.</p>
+      <p>Whenever the Romans obeyed the advice of Polybius, things went well with them, but they say that whenever they would not listen to his instructions they made mistakes. All the Greek cities that were members of the Achaean League got permission from the Romans that Polybius should draw up constitutions for them and frame laws. On the left of the portrait-statue of Polybius is the Council Chamber.</p>
+      <p>Here then is the Chamber, but the portico called “Aristander"s” in the agora was built, they say, by Aristander, one of their townsfolk. Quite near to this portico, on the east, is a sanctuary of Zeus surnamed Saviour. It is adorned with pillars round it. Zeus is seated on a throne, and by his side stand Megalopolis on the right and an image of Artemis Saviour on the left. These are of Pentelic marble and were made by the Athenians Cephisodotus and Xenophon.</p>
+    </body>
+  </text>
+</TEI>

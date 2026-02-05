@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::274 /TEI[1]/text[1]/body[1]/p[1]::280" xml:id="UID-FAKE-12164">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::44 /TEI[1]/text[1]/body[1]/p[2]::52" xml:id="UID-FAKE-12165">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::56 /TEI[1]/text[1]/body[1]/p[2]::67" xml:id="UID-FAKE-12166">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::135 /TEI[1]/text[1]/body[1]/p[2]::144" xml:id="UID-FAKE-12167">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::193 /TEI[1]/text[1]/body[1]/p[2]::202" xml:id="UID-FAKE-12168">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::216 /TEI[1]/text[1]/body[1]/p[2]::227" xml:id="UID-FAKE-12169">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::32 /TEI[1]/text[1]/body[1]/p[3]::45" xml:id="UID-FAKE-12170">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::285 /TEI[1]/text[1]/body[1]/p[3]::291" xml:id="UID-FAKE-12171">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::574 /TEI[1]/text[1]/body[1]/p[3]::582" xml:id="UID-FAKE-12172">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::119 /TEI[1]/text[1]/body[1]/p[4]::126" xml:id="UID-FAKE-12173">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::211 /TEI[1]/text[1]/body[1]/p[4]::221" xml:id="UID-FAKE-12174">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::402 /TEI[1]/text[1]/body[1]/p[4]::416" xml:id="UID-FAKE-12175">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::36 /TEI[1]/text[1]/body[1]/p[5]::49" xml:id="UID-FAKE-12176">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::69 /TEI[1]/text[1]/body[1]/p[5]::77" xml:id="UID-FAKE-12177">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::88 /TEI[1]/text[1]/body[1]/p[5]::96" xml:id="UID-FAKE-12178">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::101 /TEI[1]/text[1]/body[1]/p[5]::110" xml:id="UID-FAKE-12179">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::180 /TEI[1]/text[1]/body[1]/p[5]::190" xml:id="UID-FAKE-12180">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::169 /TEI[1]/text[1]/body[1]/p[6]::182" xml:id="UID-FAKE-12181">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::402 /TEI[1]/text[1]/body[1]/p[6]::411" xml:id="UID-FAKE-12182">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::79 /TEI[1]/text[1]/body[1]/p[7]::84" xml:id="UID-FAKE-12183">
+        <rs ana="https://topostext.org/place/355242PMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::183 /TEI[1]/text[1]/body[1]/p[7]::194" xml:id="UID-FAKE-12184">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::225 /TEI[1]/text[1]/body[1]/p[7]::233" xml:id="UID-FAKE-12185">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::304 /TEI[1]/text[1]/body[1]/p[7]::310" xml:id="UID-FAKE-12186">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::339 /TEI[1]/text[1]/body[1]/p[7]::346" xml:id="UID-FAKE-12187">
+        <rs ana="https://topostext.org/place/381214WLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::359 /TEI[1]/text[1]/body[1]/p[7]::367" xml:id="UID-FAKE-12188">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::394 /TEI[1]/text[1]/body[1]/p[7]::400" xml:id="UID-FAKE-12189">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::410 /TEI[1]/text[1]/body[1]/p[7]::419" xml:id="UID-FAKE-12190">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::442 /TEI[1]/text[1]/body[1]/p[7]::448" xml:id="UID-FAKE-12191">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::616 /TEI[1]/text[1]/body[1]/p[7]::623" xml:id="UID-FAKE-12192">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::628 /TEI[1]/text[1]/body[1]/p[7]::632" xml:id="UID-FAKE-12193">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 49</head>
+      <p>Not far from the agora is a theater, and near it are pedestals of bronze statues, but the statues themselves no longer exist. On one pedestal is an elegiac inscription that the statue is that of Philopoemen. The memory of this Philopoemen is most carefully cherished by the Greeks, both for the wisdom he showed and for his many brave achievements.</p>
+      <p>His father Craugis was as nobly born as any Arcadian of Megalopolis, but he died while Philopoemen was still a baby, and CleanderYY of Mantineia became his guardian. This man was an exile from Mantineia, resident in Megalopolis because of his misfortunes at home, and his house and that of Craugis had ties of guest-friendship. Among the teachers of Philopoemen, they say, were Megalophanes and Ecdelus, pupils, it is said, of Arcesilaus of Pitane.</p>
+      <p>In size and strength of body no Peloponnesian was his superior, but he was ugly of countenance. He scorned training for the prizes of the games, but he worked the land he owned and did not neglect to clear it of wild beasts. They say that he read books of scholars of repute among the Greeks, stories of wars, and all that taught him anything of strategy. He wished to model his whole life on Epaminondas, his wisdom and his achievements, but could not rise to his height in every respect. For the temper of Epaminondas was calm and, in particular, free from anger, but the Arcadian was somewhat passionate.</p>
+      <p>When Megalopolis was captured by Cleomenes, Philopoemen was not dismayed by the unexpected disaster, but led safely to Messene about two-thirds of the men of military age, along with the women and children, the Messenians being at that time friendly allies. To some of those who made good their escape Cleomenes offered terms, saying that he was beginning to repent his crime, and would treat with the Megalopolitans if they returned home; but Philopoemen induced the citizens at a meeting to win a return home by force of arms, and to refuse to negotiate or make a truce.</p>
+      <p>When the battle had joined with the Lacedemonians under Cleomenes at Sellasia, in which Achaeans and Arcadians from all the cities took part, along with Antigonus at the head of a Macedonian army, Philopoemen served with the cavalry. But when he saw that the infantry would be the decisive factor in the engagement, he voluntarily fought on foot, showed conspicuous daring, and was pierced through both thighs by one of the enemy.</p>
+      <p>Although so seriously impeded, he bent in his knees and forced himself forward, so that he actually broke the spear by the movement of his legs. After the defeat of the Lacedemonians under Cleomenes, Philopoemen returned to the camp, where the surgeons pulled out from one thigh the spike, from the other the blade. When Antigonus learned of his valor and saw it, he was anxious to take Philopoemen to Macedonia.</p>
+      <p>But Philopoemen was not likely to care much about Antigonus. Sailing across to Crete, where a civil war was raging, he put himself at the head of a band of mercenaries. Going back to Megalopolis, he was at once chosen by the Achaeans to command the cavalry, and he turned them into the finest cavalry in Greece. In the battle at the river Larisus between the Achaeans with their allies and the Eleans with the Aetolians, who were helping the Eleans on grounds of kinship, Philopoemen first killed with his own hand Demophantus, the leader of the opposing cavalry, and then turned to flight all the mounted troops of Aetolia and Elis.</p>
+    </body>
+  </text>
+</TEI>

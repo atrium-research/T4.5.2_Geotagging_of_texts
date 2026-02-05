@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::20 /TEI[1]/text[1]/body[1]/p[1]::30" xml:id="UID-FAKE-10741">
+        <rs ana="https://topostext.org/place/377223POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::61 /TEI[1]/text[1]/body[1]/p[1]::70" xml:id="UID-FAKE-10742">
+        <rs ana="https://topostext.org/place/378223LAnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::127 /TEI[1]/text[1]/body[1]/p[1]::141" xml:id="UID-FAKE-10743">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::147 /TEI[1]/text[1]/body[1]/p[1]::157" xml:id="UID-FAKE-10744">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::461 /TEI[1]/text[1]/body[1]/p[1]::469" xml:id="UID-FAKE-10745">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::470 /TEI[1]/text[1]/body[1]/p[1]::477" xml:id="UID-FAKE-10746">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::530 /TEI[1]/text[1]/body[1]/p[1]::539" xml:id="UID-FAKE-10747">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::608 /TEI[1]/text[1]/body[1]/p[1]::622" xml:id="UID-FAKE-10748">
+        <rs ana="https://topostext.org/place/399251SAvl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::19 /TEI[1]/text[1]/body[1]/p[2]::29" xml:id="UID-FAKE-10749">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::104 /TEI[1]/text[1]/body[1]/p[3]::118" xml:id="UID-FAKE-10750">
+        <rs ana="https://topostext.org/place/377223POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::128 /TEI[1]/text[1]/body[1]/p[3]::137" xml:id="UID-FAKE-10751">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::227 /TEI[1]/text[1]/body[1]/p[3]::238" xml:id="UID-FAKE-10752">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::21 /TEI[1]/text[1]/body[1]/p[4]::33" xml:id="UID-FAKE-10753">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::35 /TEI[1]/text[1]/body[1]/p[4]::40" xml:id="UID-FAKE-10754">
+        <rs ana="https://topostext.org/place/378223LTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::109 /TEI[1]/text[1]/body[1]/p[4]::121" xml:id="UID-FAKE-10755">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::143 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-10756">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::255 /TEI[1]/text[1]/body[1]/p[4]::265" xml:id="UID-FAKE-10757">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::333 /TEI[1]/text[1]/body[1]/p[4]::339" xml:id="UID-FAKE-10758">
+        <rs ana="https://topostext.org/place/378223UKap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::512 /TEI[1]/text[1]/body[1]/p[4]::524" xml:id="UID-FAKE-10759">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::175 /TEI[1]/text[1]/body[1]/p[5]::182" xml:id="UID-FAKE-10760">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::243 /TEI[1]/text[1]/body[1]/p[5]::249" xml:id="UID-FAKE-10761">
+        <rs ana="https://topostext.org/place/373223WAmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::331 /TEI[1]/text[1]/body[1]/p[5]::341" xml:id="UID-FAKE-10762">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::356 /TEI[1]/text[1]/body[1]/p[5]::363" xml:id="UID-FAKE-10763">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::15 /TEI[1]/text[1]/body[1]/p[6]::22" xml:id="UID-FAKE-10764">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::92 /TEI[1]/text[1]/body[1]/p[6]::102" xml:id="UID-FAKE-10765">
+        <rs ana="https://topostext.org/place/377223POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::104 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-10766">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::116 /TEI[1]/text[1]/body[1]/p[6]::122" xml:id="UID-FAKE-10767">
+        <rs ana="https://topostext.org/place/378223UKap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::172 /TEI[1]/text[1]/body[1]/p[6]::190" xml:id="UID-FAKE-10768">
+        <rs ana="https://topostext.org/place/378223UKap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::275 /TEI[1]/text[1]/body[1]/p[6]::282" xml:id="UID-FAKE-10769">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::414 /TEI[1]/text[1]/body[1]/p[6]::420" xml:id="UID-FAKE-10770">
+        <rs ana="https://topostext.org/place/373225UKar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 13</head>
+      <p>In the territory of Orchomenus, on the left of the road from Anchisiae, there is on the slope of the mountain the sanctuary of Artemis Hymnia. The Mantineans, too, share it . . . a priestess also and a priest. It is the custom for these to live their whole lives in purity, not only sexual but in all respects, and they neither wash nor spend their lives as do ordinary people, nor do they enter the home of a private man. I know that the “entertainers” of the Ephesian Artemis live in a similar fashion, but for a year only, the Ephesians calling them Essenes. They also hold an annual festival in honor of Artemis Hymnia.</p>
+      <p>The former city of Orchomenus was on the peak of a mountain, and there still remain ruins of an agora and of walls. The modern, inhabited city lies under the circuit of the old wall. Worth seeing here is a spring, from which they draw water, and there are sanctuaries of Poseidon and of Aphrodite, the images being of stone. Near the city is a wooden image of Artemis. It is set in a large cedar tree, and after the tree they call the goddess Kedreatis [cedar].</p>
+      <p>Beneath the city are heaps of stones at intervals, which were piled over men who fell in war. With what Peloponnesians, whether Arcadians or other, the war was fought, was set forth neither by inscriptions on the graves nor in Orchomenian tradition.</p>
+      <p>Opposite the city is Mount Trachy (Rough). The rain-water, flowing through a deep gully between the city and Mount Trachy, descends to another Orchomenian plain, which is very considerable in extent, but the greater part of it is a lake. As you go out of Orchomenus, after about three stades, the straight road leads you to the city Caphya, along the side of the gully and afterwards along the water of the lake on the left. The other road, after you have crossed the water flowing through the gully, goes under Mount Trachy.</p>
+      <p>On this road the first thing is the tomb of Aristocrates, who once outraged the virgin priestess of the goddess Hymnia, and after the grave of Aristocrates are springs called Teneiae, and about seven stades distant from the springs is a place Amilus, which once, they say, was a city. Here the road forks again, one way leading to Stymphalus, the other to Pheneus.</p>
+      <p>On the road to Pheneus you will come to a mountain. On this mountain meet the boundaries of Orchomenus, Pheneus and Caphya. Over the boundaries extends a high crag, called the Caphyatic Rock. After the boundaries of the cities I have mentioned lies a ravine, and the road to Pheneus leads through it. Just about the middle of the ravine water rises up from a spring, and at the end of the ravine is a place called Caryae.</p>
+    </body>
+  </text>
+</TEI>

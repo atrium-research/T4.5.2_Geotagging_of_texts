@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::24" xml:id="UID-FAKE-11876">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::74 /TEI[1]/text[1]/body[1]/p[1]::85" xml:id="UID-FAKE-11877">
+        <rs ana="https://topostext.org/place/373222POre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::19 /TEI[1]/text[1]/body[1]/p[2]::24" xml:id="UID-FAKE-11878">
+        <rs ana="https://topostext.org/place/378218WEni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::45 /TEI[1]/text[1]/body[1]/p[2]::53" xml:id="UID-FAKE-11879">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::69 /TEI[1]/text[1]/body[1]/p[2]::73" xml:id="UID-FAKE-11880">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::334 /TEI[1]/text[1]/body[1]/p[2]::340" xml:id="UID-FAKE-11881">
+        <rs ana="https://topostext.org/place/371224WOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::18 /TEI[1]/text[1]/body[1]/p[3]::22" xml:id="UID-FAKE-11882">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::29 /TEI[1]/text[1]/body[1]/p[3]::44" xml:id="UID-FAKE-11883">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::65 /TEI[1]/text[1]/body[1]/p[3]::78" xml:id="UID-FAKE-11884">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::103 /TEI[1]/text[1]/body[1]/p[3]::107" xml:id="UID-FAKE-11885">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::130 /TEI[1]/text[1]/body[1]/p[3]::138" xml:id="UID-FAKE-11886">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::155 /TEI[1]/text[1]/body[1]/p[3]::165" xml:id="UID-FAKE-11887">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::225 /TEI[1]/text[1]/body[1]/p[3]::229" xml:id="UID-FAKE-11888">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::284 /TEI[1]/text[1]/body[1]/p[3]::292" xml:id="UID-FAKE-11889">
+        <rs ana="https://topostext.org/place/376275WMae"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::454 /TEI[1]/text[1]/body[1]/p[3]::458" xml:id="UID-FAKE-11890">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::25 /TEI[1]/text[1]/body[1]/p[4]::33" xml:id="UID-FAKE-11891">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::76 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-11892">
+        <rs ana="https://topostext.org/place/373223WEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::97 /TEI[1]/text[1]/body[1]/p[4]::101" xml:id="UID-FAKE-11893">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::146 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-11894">
+        <rs ana="https://topostext.org/place/374220SMel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::46" xml:id="UID-FAKE-11895">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::216 /TEI[1]/text[1]/body[1]/p[5]::221" xml:id="UID-FAKE-11896">
+        <rs ana="https://topostext.org/place/399253ILem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::334 /TEI[1]/text[1]/body[1]/p[5]::342" xml:id="UID-FAKE-11897">
+        <rs ana="https://topostext.org/place/374218SAPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::175 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-11898">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::0 /TEI[1]/text[1]/body[1]/p[7]::8" xml:id="UID-FAKE-11899">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::72 /TEI[1]/text[1]/body[1]/p[7]::80" xml:id="UID-FAKE-11900">
+        <rs ana="https://topostext.org/place/374219SBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::113 /TEI[1]/text[1]/body[1]/p[7]::125" xml:id="UID-FAKE-11901">
+        <rs ana="https://topostext.org/place/374220LEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::193 /TEI[1]/text[1]/body[1]/p[7]::207" xml:id="UID-FAKE-11902">
+        <rs ana="https://topostext.org/place/374219SBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::265 /TEI[1]/text[1]/body[1]/p[7]::271" xml:id="UID-FAKE-11903">
+        <rs ana="https://topostext.org/place/374219SBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::22 /TEI[1]/text[1]/body[1]/p[8]::34" xml:id="UID-FAKE-11904">
+        <rs ana="https://topostext.org/place/379214STAA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::80 /TEI[1]/text[1]/body[1]/p[8]::85" xml:id="UID-FAKE-11905">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::214 /TEI[1]/text[1]/body[1]/p[8]::223" xml:id="UID-FAKE-11906">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::42 /TEI[1]/text[1]/body[1]/p[9]::56" xml:id="UID-FAKE-11907">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::65 /TEI[1]/text[1]/body[1]/p[9]::74" xml:id="UID-FAKE-11908">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::98 /TEI[1]/text[1]/body[1]/p[9]::108" xml:id="UID-FAKE-11909">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::288 /TEI[1]/text[1]/body[1]/p[9]::296" xml:id="UID-FAKE-11910">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::348 /TEI[1]/text[1]/body[1]/p[9]::357" xml:id="UID-FAKE-11911">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::377 /TEI[1]/text[1]/body[1]/p[9]::386" xml:id="UID-FAKE-11912">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::463 /TEI[1]/text[1]/body[1]/p[9]::474" xml:id="UID-FAKE-11913">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::3 /TEI[1]/text[1]/body[1]/p[10]::17" xml:id="UID-FAKE-11914">
+        <rs ana="https://topostext.org/place/373218LKot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::125 /TEI[1]/text[1]/body[1]/p[10]::130" xml:id="UID-FAKE-11915">
+        <rs ana="https://topostext.org/place/373223WEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::272 /TEI[1]/text[1]/body[1]/p[10]::286" xml:id="UID-FAKE-11916">
+        <rs ana="https://topostext.org/place/373218LKot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::429 /TEI[1]/text[1]/body[1]/p[10]::436" xml:id="UID-FAKE-11917">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::455 /TEI[1]/text[1]/body[1]/p[10]::460" xml:id="UID-FAKE-11918">
+        <rs ana="https://topostext.org/place/373223WEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::524 /TEI[1]/text[1]/body[1]/p[10]::531" xml:id="UID-FAKE-11919">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::540 /TEI[1]/text[1]/body[1]/p[10]::547" xml:id="UID-FAKE-11920">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 41</head>
+      <p>In the agora of Phigalia there is also a common tomb of the picked men of Oresthasium, and every year they sacrifice to them as to heroes.</p>
+      <p>A river called the Lymax flowing just beside Phigalia falls into the Neda, and the river, they say, got its name from the cleansing of Rhea. For when she had given birth to Zeus, the nymphs who cleansed her after her travail threw the refuse into this river. Now the ancients called refuse “lymata.” Homer, for example, says that the Greeks were cleansed, after the pestilence was stayed, and threw the lymata into the sea.</p>
+      <p>The source of the Neda is on Mount Cerausius, which is a part of Mount Lykaion. At the place where the Neda approaches nearest to Phigalia the boys of the Phigalians cut off their hair in honor of the river. Near the sea the Neda is navigable for small ships. Of all known rivers the Maeander descends with the most winding course, which very often turns back and then bends round once more; but the second place for its twistings should be given to the Neda.</p>
+      <p>Some twelve stades above Phigalia are hot baths, and not far from these the Lymax falls into the Neda. Where the streams meet is the sanctuary of Eurynome, a holy spot from of old and difficult of approach because of the roughness of the ground. Around it are many cypress trees, growing close together.</p>
+      <p>Eurynome is believed by the people of Phigalia to be a surname of Artemis. Those of them, however, to whom have descended ancient traditions, declare that Eurynome was a daughter of Ocean, whom Homer mentions in the Iliad, saying that along with Thetis she received Hephaestus. On the same day in each year they open the sanctuary of Eurynome, but at any other time it is a transgression for them to open it.</p>
+      <p>On this occasion sacrifices also are offered by the state and by individuals. I did not arrive at the season of the festival, and I did not see the image of Eurynome; but the Phigalians told me that golden chains bind the wooden image, which represents a woman as far as the hips, but below this a fish. If she is a daughter of Ocean, and lives with Thetis in the depth of the sea, the fish may be regarded as a kind of emblem of her. But there could be no probable connection between such a shape and Artemis.</p>
+      <p>Phigalia is surrounded by mountains, on the left by the mountain called Cotilius, while on the right is another, Mount Elaius, which acts as a shield to the city. The distance from the city to Mount Cotilius is about forty stades. On the mountain is a place called Bassae, and the temple of Apollo Epikourios (auxiliary), which, including the roof, is of stone.</p>
+      <p>Of the temples in the Peloponnesus, this might be placed first after the one at Tegea for the beauty of its stone and for its symmetry. Apollo received his name from the help he gave in time of plague, just as the Athenians gave him the name of Alexikakos (averter of evil) for turning the plague away from them.</p>
+      <p>It was at the time of the war between the Peloponnesians and the Athenians that he also saved the Phigalians, and at no other time; the evidence is that of the two surnames of Apollo, which have practically the same meaning, and also the fact that Ictinus, the architect of the temple at Phigalia, was a contemporary of Pericles, and built for the Athenians what is called the Parthenon. My narrative has already said that the statue of Apollo is in the agora of Megalopolis.</p>
+      <p>On Mount Cotilius is a spring of water, but the author who related that this spring is the source of the stream of the river Lymax neither saw it himself nor spoke to a man who had done so. But I did both. We saw the river actually flowing, and the water of the spring on Mount Cotilius running no long way, and within a short distance disappearing altogether. It did not, however, occur to me to take pains to discover where in Arcadia the source of the Lymax is. Beyond the sanctuary of Apollo Epikourios is a place named Cotilum, and in Cotilum is an Aphrodite. She also has a temple, the roof of which is now gone, and an image of the goddess.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::20 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-10476">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::43 /TEI[1]/text[1]/body[1]/p[1]::59" xml:id="UID-FAKE-10477">
+        <rs ana="https://topostext.org/place/378223LAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::96 /TEI[1]/text[1]/body[1]/p[1]::108" xml:id="UID-FAKE-10478">
+        <rs ana="https://topostext.org/place/376225LArP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::110 /TEI[1]/text[1]/body[1]/p[1]::124" xml:id="UID-FAKE-10479">
+        <rs ana="https://topostext.org/place/376225LArP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::42 /TEI[1]/text[1]/body[1]/p[2]::46" xml:id="UID-FAKE-10480">
+        <rs ana="https://topostext.org/place/375227WDin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::60 /TEI[1]/text[1]/body[1]/p[2]::64" xml:id="UID-FAKE-10481">
+        <rs ana="https://topostext.org/place/375227WDin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::132 /TEI[1]/text[1]/body[1]/p[2]::142" xml:id="UID-FAKE-10482">
+        <rs ana="https://topostext.org/place/375227WDin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::146 /TEI[1]/text[1]/body[1]/p[2]::153" xml:id="UID-FAKE-10483">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::174 /TEI[1]/text[1]/body[1]/p[2]::181" xml:id="UID-FAKE-10484">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::225 /TEI[1]/text[1]/body[1]/p[2]::229" xml:id="UID-FAKE-10485">
+        <rs ana="https://topostext.org/place/375227WDin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::275 /TEI[1]/text[1]/body[1]/p[2]::282" xml:id="UID-FAKE-10486">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::296 /TEI[1]/text[1]/body[1]/p[2]::306" xml:id="UID-FAKE-10487">
+        <rs ana="https://topostext.org/place/393203LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::310 /TEI[1]/text[1]/body[1]/p[2]::320" xml:id="UID-FAKE-10488">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::54 /TEI[1]/text[1]/body[1]/p[3]::62" xml:id="UID-FAKE-10489">
+        <rs ana="https://topostext.org/place/376275WMae"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::177 /TEI[1]/text[1]/body[1]/p[3]::188" xml:id="UID-FAKE-10490">
+        <rs ana="https://topostext.org/place/434109UVol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::214 /TEI[1]/text[1]/body[1]/p[3]::223" xml:id="UID-FAKE-10491">
+        <rs ana="https://topostext.org/place/430105RTyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::24 /TEI[1]/text[1]/body[1]/p[4]::34" xml:id="UID-FAKE-10492">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::67 /TEI[1]/text[1]/body[1]/p[4]::72" xml:id="UID-FAKE-10493">
+        <rs ana="https://topostext.org/place/376225LArP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::183" xml:id="UID-FAKE-10494">
+        <rs ana="https://topostext.org/place/376225PNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::213 /TEI[1]/text[1]/body[1]/p[4]::220" xml:id="UID-FAKE-10495">
+        <rs ana="https://topostext.org/place/376225PNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::284 /TEI[1]/text[1]/body[1]/p[4]::294" xml:id="UID-FAKE-10496">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::326 /TEI[1]/text[1]/body[1]/p[4]::333" xml:id="UID-FAKE-10497">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::352 /TEI[1]/text[1]/body[1]/p[4]::361" xml:id="UID-FAKE-10498">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::417 /TEI[1]/text[1]/body[1]/p[4]::422" xml:id="UID-FAKE-10499">
+        <rs ana="https://topostext.org/place/372219FArc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::79 /TEI[1]/text[1]/body[1]/p[5]::89" xml:id="UID-FAKE-10500">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::226 /TEI[1]/text[1]/body[1]/p[6]::234" xml:id="UID-FAKE-10501">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::384 /TEI[1]/text[1]/body[1]/p[6]::392" xml:id="UID-FAKE-10502">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::404 /TEI[1]/text[1]/body[1]/p[7]::414" xml:id="UID-FAKE-10503">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::49 /TEI[1]/text[1]/body[1]/p[8]::56" xml:id="UID-FAKE-10504">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::304 /TEI[1]/text[1]/body[1]/p[8]::314" xml:id="UID-FAKE-10505">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 7</head>
+      <p>After crossing into Mantinean country over Mount Artemisius you will come to a plain called the Argon pedion (Untilled Plain), whose name well describes it, for the rain-water coming down into it from the mountains prevents the plain from being tilled; nothing indeed could prevent it from being a lake, were it not that the water disappears into a chasm in the earth.</p>
+      <p>After disappearing here it rises again at Dine (Whirlpool). Dine is a stream of fresh water rising out of the sea by what is called Genethlium in Argolis. In olden times the Argives cast horses adorned with bridles down into Dine as an offering to Poseidon. Not only here in Argolis, but also by Cheimerium in Thesprotis, is there unmistakably fresh water rising up in the sea.</p>
+      <p>A greater marvel still is the water that boils in the Maeander, which comes partly from a rock surrounded by the stream, and partly rises from the mud of the river. In front of Dicaearchia also, in the land of the Etruscans, there is water boiling in the sea, and an artificial island has been made through it, so that this water is not “untilled,” but serves for hot baths.</p>
+      <p>In the territory of the Mantineans on the left of the plain called Argon is a mountain, on which are the ruins of a camp of Philip, the son of Amyntas, and of a village called Nestane. For it is said that by this Nestane Philip made an encampment, and the spring here they still call Philippium after the king. Philip came to Arcadia to bring over the Arcadians to his side, and to separate them from the rest of the Greek people.</p>
+      <p>Philip may be supposed to have accomplished exploits greater than those of any Macedonian king who reigned either before or after. But nobody of sound mind would call him a good general, for no man has so sinned by continually trampling on oaths to heaven, and by breaking treaties and dishonoring his word on every occasion.</p>
+      <p>The wrath of heaven was not late in visiting him; never in fact have we known it more speedy. When he was but forty-six years old, Philip fulfilled the oracle that it is said was given him when he inquired of Delphi about the Persians: “The bull is crowned; the consummation is at hand; the sacrificer is ready. Very soon afterwards events showed that this oracle pointed, not to the Persians, but to Philip himself.</p>
+      <p>On the death of Philip, his infant son by Cleopatra, the niece of Attalus, was along with his mother dragged by Olympias on to a bronze vessel and burned to death. Afterwards Olympias killed Aridaeus also. It turned out that the god intended to mow down to destruction the family of Cassander as well. Cassander"s sons were by Thessalonice, the daughter of Philip, and both Thessalonice and Aridaeus had Thessalian women for their mothers. The fate of Alexander is familiar to everybody alike.</p>
+      <p>But if Philip had taken to heart the fate of the Spartan Glaucus, and at each of his acts had bethought himself of the verse: — “If a man keeps his oath his family prospers hereafter;” then, I believe, some god would not have extinguished so relentlessly the life of Alexander and, at the same time, the Macedonian supremacy.</p>
+    </body>
+  </text>
+</TEI>

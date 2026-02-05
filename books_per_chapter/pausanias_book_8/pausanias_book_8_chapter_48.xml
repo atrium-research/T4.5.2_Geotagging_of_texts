@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::242 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-12133">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::455 /TEI[1]/text[1]/body[1]/p[1]::462" xml:id="UID-FAKE-12134">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::494 /TEI[1]/text[1]/body[1]/p[1]::500" xml:id="UID-FAKE-12135">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::516 /TEI[1]/text[1]/body[1]/p[1]::524" xml:id="UID-FAKE-12136">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::18 /TEI[1]/text[1]/body[1]/p[2]::25" xml:id="UID-FAKE-12137">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::123 /TEI[1]/text[1]/body[1]/p[2]::129" xml:id="UID-FAKE-12138">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::183 /TEI[1]/text[1]/body[1]/p[2]::190" xml:id="UID-FAKE-12139">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::208 /TEI[1]/text[1]/body[1]/p[2]::213" xml:id="UID-FAKE-12140">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::72 /TEI[1]/text[1]/body[1]/p[3]::77" xml:id="UID-FAKE-12141">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::93 /TEI[1]/text[1]/body[1]/p[3]::98" xml:id="UID-FAKE-12142">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::214 /TEI[1]/text[1]/body[1]/p[3]::219" xml:id="UID-FAKE-12143">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::53 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-12144">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::100 /TEI[1]/text[1]/body[1]/p[4]::114" xml:id="UID-FAKE-12145">
+        <rs ana="https://topostext.org/place/374224SArL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::161 /TEI[1]/text[1]/body[1]/p[4]::169" xml:id="UID-FAKE-12146">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::198 /TEI[1]/text[1]/body[1]/p[4]::207" xml:id="UID-FAKE-12147">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::309 /TEI[1]/text[1]/body[1]/p[4]::319" xml:id="UID-FAKE-12148">
+        <rs ana="https://topostext.org/place/392226UPhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::321 /TEI[1]/text[1]/body[1]/p[4]::332" xml:id="UID-FAKE-12149">
+        <rs ana="https://topostext.org/place/373225PPhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::51 /TEI[1]/text[1]/body[1]/p[5]::64" xml:id="UID-FAKE-12150">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::190 /TEI[1]/text[1]/body[1]/p[5]::197" xml:id="UID-FAKE-12151">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::284 /TEI[1]/text[1]/body[1]/p[5]::291" xml:id="UID-FAKE-12152">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::301 /TEI[1]/text[1]/body[1]/p[5]::314" xml:id="UID-FAKE-12153">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::340 /TEI[1]/text[1]/body[1]/p[5]::345" xml:id="UID-FAKE-12154">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::95 /TEI[1]/text[1]/body[1]/p[6]::104" xml:id="UID-FAKE-12155">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::373 /TEI[1]/text[1]/body[1]/p[6]::378" xml:id="UID-FAKE-12156">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::11" xml:id="UID-FAKE-12157">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::20 /TEI[1]/text[1]/body[1]/p[7]::30" xml:id="UID-FAKE-12158">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::348 /TEI[1]/text[1]/body[1]/p[7]::358" xml:id="UID-FAKE-12159">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::493 /TEI[1]/text[1]/body[1]/p[7]::509" xml:id="UID-FAKE-12160">
+        <rs ana="https://topostext.org/place/373228LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::608 /TEI[1]/text[1]/body[1]/p[7]::613" xml:id="UID-FAKE-12161">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::26 /TEI[1]/text[1]/body[1]/p[8]::36" xml:id="UID-FAKE-12162">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::52 /TEI[1]/text[1]/body[1]/p[8]::57" xml:id="UID-FAKE-12163">
+        <rs ana="https://topostext.org/place/380237SATG"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 48</head>
+      <p>The agora is in shape very like a brick, and in it is a temple of Aphrodite called “in brick,” with a stone image. There are two slabs; on one are represented in relief AntiphaneYY, A1209;A1210, Tyronidas and Pyrrhias1, who made laws for the Tegeans, and down to this day receive honors for it from them. On the other slab is represented Iasius, holding a horse, and carrying in his right hand a branch of palm. It is said that Iasius won a horse-race at Olympia, at the time when Heracles the Theban celebrated the Olympian festival.</p>
+      <p>The reason why at Olympia the victor receives a crown of wild-olive I have already explained in my account of Elis; why at Delphi the crown is of bay I shall make plain later. At the Isthmus the pine, and at Nemea celery became the prize to commemorate the sufferings of Palaemon and Archemorus. At most games, however, is given a crown of palm, and at all a palm is placed in the right hand of the victor.</p>
+      <p>The origin of the custom is said to be that Theseus, on his return from Crete, held games in Delos in honor of Apollo, and crowned the victors with palm. Such, it is said, was the origin of the custom. The palm in Delos is mentioned by Homer in the passage where Odysseus supplicates the daughter of Alcinous.</p>
+      <p>There is also an image of Ares in the marketplace of Tegea. Carved in relief on a slab it is called Gynaecothoenas (He who entertains women). At the time of the Laconian war, when Charillus king of Lacedemon made the first invasion, the women armed themselves and lay in ambush under the hill they call today Phylactris (Sentry Hill). When the armies met and the men on either side were performing many remarkable exploits,</p>
+      <p>the women, they say, came on the scene and put the Lacedemonians to flight. Marpessa, surnamed Choera, surpassed, they say, the other women in daring, while Charillus himself was one of the Spartan prisoners. The story goes on to say that he was set free without ransom, swore to the Tegeans that the Lacedemonians would never again attack Tegea, and then broke his oath; that the women offered to Ares a sacrifice of victory on their own account without the men, and gave to the men no share in the meat of the victim. For this reason Ares got his surname.</p>
+      <p>There is also an altar of Zeus Teleius (Full-grown), with a square image, a shape of which the Arcadians seem to me to be exceedingly fond. There are also here tombs of Tegeates, the son of Lycaon, and of Maera, the wife of Tegeates. They say that Maera was a daughter of Atlas, and Homer makes mention of her in the passage where Odysseus tells to Alcinous his journey to Hades, and of those whose ghosts he beheld there.</p>
+      <p>The Tegeans surname Eileithyia, a temple of whom, with art image, they have in their agora, Auge on her knees, saying that Aleus handed over his daughter to Nauplius with the order to take and drown her in the sea. As she was being carried along, they say, she fell on her knees and so gave birth to her son, at the place where is the sanctuary of Eileithyia. This story is different from another, that Auge was brought to bed without her father"s knowing it, and that Telephus was exposed on Mount Parthenius, the abandoned child being suckled by a deer. This account is equally current among the people of Tegea.</p>
+      <p>Close to the sanctuary of Eileithyia is an altar of Earth, next to which is a slab of white marble. On this is carved Polybius, the son of Lycortas, while on another slab is Elatus, one of the sons of Arcas.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::13 /TEI[1]/text[1]/body[1]/p[1]::20" xml:id="UID-FAKE-10771">
+        <rs ana="https://topostext.org/place/378223LSki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::32 /TEI[1]/text[1]/body[1]/p[1]::38" xml:id="UID-FAKE-10772">
+        <rs ana="https://topostext.org/place/369228UPle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::116 /TEI[1]/text[1]/body[1]/p[1]::123" xml:id="UID-FAKE-10773">
+        <rs ana="https://topostext.org/place/378223LSki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::246 /TEI[1]/text[1]/body[1]/p[1]::252" xml:id="UID-FAKE-10774">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::274 /TEI[1]/text[1]/body[1]/p[1]::280" xml:id="UID-FAKE-10775">
+        <rs ana="https://topostext.org/place/378223LOry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::295 /TEI[1]/text[1]/body[1]/p[1]::309" xml:id="UID-FAKE-10776">
+        <rs ana="https://topostext.org/place/378223LSki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::40 /TEI[1]/text[1]/body[1]/p[2]::47" xml:id="UID-FAKE-10777">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::104 /TEI[1]/text[1]/body[1]/p[2]::111" xml:id="UID-FAKE-10778">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::239 /TEI[1]/text[1]/body[1]/p[2]::246" xml:id="UID-FAKE-10779">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::328 /TEI[1]/text[1]/body[1]/p[2]::335" xml:id="UID-FAKE-10780">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::393 /TEI[1]/text[1]/body[1]/p[2]::399" xml:id="UID-FAKE-10781">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::425 /TEI[1]/text[1]/body[1]/p[2]::431" xml:id="UID-FAKE-10782">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::451 /TEI[1]/text[1]/body[1]/p[2]::458" xml:id="UID-FAKE-10783">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::58 /TEI[1]/text[1]/body[1]/p[3]::65" xml:id="UID-FAKE-10784">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::80 /TEI[1]/text[1]/body[1]/p[3]::86" xml:id="UID-FAKE-10785">
+        <rs ana="https://topostext.org/place/379223WOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::99 /TEI[1]/text[1]/body[1]/p[3]::108" xml:id="UID-FAKE-10786">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::119 /TEI[1]/text[1]/body[1]/p[3]::125" xml:id="UID-FAKE-10787">
+        <rs ana="https://topostext.org/place/379223WOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::130 /TEI[1]/text[1]/body[1]/p[3]::138" xml:id="UID-FAKE-10788">
+        <rs ana="https://topostext.org/place/378218WAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::104 /TEI[1]/text[1]/body[1]/p[4]::115" xml:id="UID-FAKE-10789">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::340 /TEI[1]/text[1]/body[1]/p[4]::348" xml:id="UID-FAKE-10790">
+        <rs ana="https://topostext.org/place/377240SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::161 /TEI[1]/text[1]/body[1]/p[5]::167" xml:id="UID-FAKE-10791">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::218 /TEI[1]/text[1]/body[1]/p[5]::225" xml:id="UID-FAKE-10792">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::87 /TEI[1]/text[1]/body[1]/p[6]::94" xml:id="UID-FAKE-10793">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::159 /TEI[1]/text[1]/body[1]/p[6]::165" xml:id="UID-FAKE-10794">
+        <rs ana="https://topostext.org/place/383207IIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::206 /TEI[1]/text[1]/body[1]/p[6]::213" xml:id="UID-FAKE-10795">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::41 /TEI[1]/text[1]/body[1]/p[7]::48" xml:id="UID-FAKE-10796">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::414 /TEI[1]/text[1]/body[1]/p[7]::422" xml:id="UID-FAKE-10797">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::57 /TEI[1]/text[1]/body[1]/p[8]::64" xml:id="UID-FAKE-10798">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::202 /TEI[1]/text[1]/body[1]/p[8]::207" xml:id="UID-FAKE-10799">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::37 /TEI[1]/text[1]/body[1]/p[9]::44" xml:id="UID-FAKE-10800">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::184 /TEI[1]/text[1]/body[1]/p[9]::189" xml:id="UID-FAKE-10801">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::315 /TEI[1]/text[1]/body[1]/p[9]::321" xml:id="UID-FAKE-10802">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::385 /TEI[1]/text[1]/body[1]/p[9]::394" xml:id="UID-FAKE-10803">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::482 /TEI[1]/text[1]/body[1]/p[9]::489" xml:id="UID-FAKE-10804">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::547 /TEI[1]/text[1]/body[1]/p[9]::554" xml:id="UID-FAKE-10805">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::77 /TEI[1]/text[1]/body[1]/p[10]::84" xml:id="UID-FAKE-10806">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::153 /TEI[1]/text[1]/body[1]/p[10]::160" xml:id="UID-FAKE-10807">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::227 /TEI[1]/text[1]/body[1]/p[10]::235" xml:id="UID-FAKE-10808">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::315 /TEI[1]/text[1]/body[1]/p[10]::321" xml:id="UID-FAKE-10809">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::388 /TEI[1]/text[1]/body[1]/p[11]::395" xml:id="UID-FAKE-10810">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::99 /TEI[1]/text[1]/body[1]/p[12]::107" xml:id="UID-FAKE-10811">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::125 /TEI[1]/text[1]/body[1]/p[12]::129" xml:id="UID-FAKE-10812">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::138 /TEI[1]/text[1]/body[1]/p[12]::149" xml:id="UID-FAKE-10813">
+        <rs ana="https://topostext.org/place/370240WMyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::224 /TEI[1]/text[1]/body[1]/p[12]::230" xml:id="UID-FAKE-10814">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::247 /TEI[1]/text[1]/body[1]/p[12]::253" xml:id="UID-FAKE-10815">
+        <rs ana="https://topostext.org/place/381253WAeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::290 /TEI[1]/text[1]/body[1]/p[12]::296" xml:id="UID-FAKE-10816">
+        <rs ana="https://topostext.org/place/377241IHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::362 /TEI[1]/text[1]/body[1]/p[12]::368" xml:id="UID-FAKE-10817">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 14</head>
+      <p>The plain of Pheneus lies below Caryae, and they say that once the water rose on it and flooded the ancient city of Pheneus, so that even today there remain on the mountains marks up to which, it is said, the water rose. Five stades distant from Caryae is a mountain called Oryxis, and another, Mount Sciathis. Under each mountain is a chasm that receives the water from the plain.</p>
+      <p>These chasms according to the people of Pheneus are artificial, being made by Heracles when he lived in Pheneus with Laonome, the mother of Amphitryon, who was, it is said, the son of Alcaeus by Laonome, the daughter of Guneus, a woman of Pheneus, and not by Lysidice, the daughter of Pelops. Now if Heracles really migrated to Pheneus, one might believe that when expelled by Eurystheus from Tiryns he did not go at once to Thebes, but went first to Pheneus.</p>
+      <p>Heracles dug a channel through the middle of the plain of Pheneus for the river Olbius, which some Arcadians call, not Olbius but Aroanius. The length of the cutting is fifty stades, its depth, where it has not fallen in, is as much as thirty feet. The river, however, no longer flows along it, but it has gone back to its old bed, having left the work of Heracles.</p>
+      <p>About fifty stades from the chasms made in the mountains I have mentioned is the city, founded, say the Pheneatians, by Pheneus, an aboriginal. Their acropolis is precipitous on all sides, mostly so naturally, but a few parts have been artificially strengthened, to make it more secure. On the acropolis here is a temple of Athena surnamed Tritonia, but of it I found ruins only remaining.</p>
+      <p>There stands also a bronze Poseidon, surnamed Hippios, whose image, it is said, was dedicated by Odysseus. The legend is that Odysseus lost his mares, traversed Greece in search of them, and on the site in the land of Pheneus where he found his mares founded a sanctuary of Artemis, calling the goddess Heurippa [horse-finder], and also dedicated the image of Poseidon Hippios.</p>
+      <p>When Odysseus found his mares he was minded, it is said, to keep horses in the land of Pheneus, just as he reared his cows, they say, on the mainland opposite Ithaca. On the base of the image the people of Pheneus pointed out to me writing, purporting to be instructions of Odysseus to those tending his mares.</p>
+      <p>The rest of the account of the people of Pheneus it will be reasonable to accept, but I cannot believe their statement that Odysseus dedicated the bronze image. For men had not yet learned how to make bronze images in one piece, after the manner of those weaving a garment. Their method of working bronze statues I have already described when speaking of the image of Zeus Hypatos [most high] in my history of the Spartans.</p>
+      <p>The first men to melt bronze and to cast images were the Samians Rhoecus the son of A2101 and Theodorus the son of Telecles1. Theodorus also made the emerald seal-stone, which Polycrates, the tyrant of Samos, constantly wore, being exceedingly proud of it.</p>
+      <p>As you go down from the acropolis of Pheneus you come to a stadium, and on a hill stands a tomb of Iphicles, the brother of Heracles and the father of Iolaus. Iolaus, according to the Greek account, shared most of the labours of Heracles, but his father Iphicles, in the first battle fought by Heracles against the Eleans and Augeas, was wounded by the sons of Actor, who were called [Molionids] after their mother Moline. In a fainting condition he was carried by his relatives to Pheneus, where he was carefully nursed by Buphagus, a citizen of Pheneus, and by his wife A1841, who also buried him when he died of his wound.</p>
+      <p>They still sacrifice to Iphicles as to a hero, and of the gods the people of Pheneus worship most Hermes, in whose honor they celebrate the games called Hermaea; they have also a temple of Hermes, and a stone image, made by an Athenian, Eucheir the son of Eubulides. Behind the temple is the grave of Myrtilus. The Greeks say that he was the son of Hermes, and that he served as charioteer to Oenomaus. Whenever a man arrived to woo the daughter of Oenomaus, Myrtilus craftily drove on the mares, while Oenomaus on the course shot down the wooer when he came near.</p>
+      <p>Myrtilus himself, too, was in love with Hippodameia, but his courage failing him he shrank from the competition and served Oenomaus as his charioteer. At last, it is said, he proved a traitor to Oenomaus, being induced thereto by an oath sworn by Pelops that he would let him be with Hippodameia for one night. So when reminded of his oath Pelops threw him out of the ship. The people of Pheneus say that the body of Myrtilus was cast ashore by the tide, that they took it up and buried it, and that every year they sacrifice to him by night as to a hero.</p>
+      <p>It is plain that Pelops did not make a long coasting voyage, but only sailed from the mouth of the Alpheius to the harbor of Elis. So the Myrtoan Sea is obviously not named after Myrtilus, the son of Hermes, as it begins at Euboea and reaches the Aegean by way of the uninhabited island of Helene. I think that a probable account is given by the antiquarians of Euboea, who say that the sea is named after a woman called Myrto.</p>
+    </body>
+  </text>
+</TEI>

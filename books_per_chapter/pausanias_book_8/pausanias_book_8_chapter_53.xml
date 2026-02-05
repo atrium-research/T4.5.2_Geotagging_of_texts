@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::95 /TEI[1]/text[1]/body[1]/p[1]::102" xml:id="UID-FAKE-12326">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::43 /TEI[1]/text[1]/body[1]/p[2]::48" xml:id="UID-FAKE-12327">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::47 /TEI[1]/text[1]/body[1]/p[4]::55" xml:id="UID-FAKE-12328">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::129 /TEI[1]/text[1]/body[1]/p[4]::134" xml:id="UID-FAKE-12329">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::178 /TEI[1]/text[1]/body[1]/p[4]::185" xml:id="UID-FAKE-12330">
+        <rs ana="https://topostext.org/place/355240PKyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::187 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-12331">
+        <rs ana="https://topostext.org/place/351249UGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::199 /TEI[1]/text[1]/body[1]/p[4]::205" xml:id="UID-FAKE-12332">
+        <rs ana="https://topostext.org/place/353237UKtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::211 /TEI[1]/text[1]/body[1]/p[4]::218" xml:id="UID-FAKE-12333">
+        <rs ana="https://topostext.org/place/352248CIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::251 /TEI[1]/text[1]/body[1]/p[4]::258" xml:id="UID-FAKE-12334">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::108 /TEI[1]/text[1]/body[1]/p[5]::121" xml:id="UID-FAKE-12335">
+        <rs ana="https://topostext.org/place/000000GEly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::321 /TEI[1]/text[1]/body[1]/p[5]::327" xml:id="UID-FAKE-12336">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::3 /TEI[1]/text[1]/body[1]/p[6]::8" xml:id="UID-FAKE-12337">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::119 /TEI[1]/text[1]/body[1]/p[6]::128" xml:id="UID-FAKE-12338">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::130 /TEI[1]/text[1]/body[1]/p[6]::142" xml:id="UID-FAKE-12339">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::144 /TEI[1]/text[1]/body[1]/p[6]::155" xml:id="UID-FAKE-12340">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::161 /TEI[1]/text[1]/body[1]/p[6]::171" xml:id="UID-FAKE-12341">
+        <rs ana="https://topostext.org/place/388238RAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::17 /TEI[1]/text[1]/body[1]/p[7]::22" xml:id="UID-FAKE-12342">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::242 /TEI[1]/text[1]/body[1]/p[7]::251" xml:id="UID-FAKE-12343">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::255 /TEI[1]/text[1]/body[1]/p[7]::259" xml:id="UID-FAKE-12344">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::275 /TEI[1]/text[1]/body[1]/p[7]::281" xml:id="UID-FAKE-12345">
+        <rs ana="https://topostext.org/place/348326SAPa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::38 /TEI[1]/text[1]/body[1]/p[8]::44" xml:id="UID-FAKE-12346">
+        <rs ana="https://topostext.org/place/353252PKno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::135 /TEI[1]/text[1]/body[1]/p[8]::142" xml:id="UID-FAKE-12347">
+        <rs ana="https://topostext.org/place/353252PKno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::159 /TEI[1]/text[1]/body[1]/p[8]::166" xml:id="UID-FAKE-12348">
+        <rs ana="https://topostext.org/place/353252PKno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::11" xml:id="UID-FAKE-12349">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::60 /TEI[1]/text[1]/body[1]/p[9]::69" xml:id="UID-FAKE-12350">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::259 /TEI[1]/text[1]/body[1]/p[9]::266" xml:id="UID-FAKE-12351">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::411 /TEI[1]/text[1]/body[1]/p[9]::418" xml:id="UID-FAKE-12352">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::71 /TEI[1]/text[1]/body[1]/p[10]::84" xml:id="UID-FAKE-12353">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::170 /TEI[1]/text[1]/body[1]/p[10]::177" xml:id="UID-FAKE-12354">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::313 /TEI[1]/text[1]/body[1]/p[10]::326" xml:id="UID-FAKE-12355">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::380 /TEI[1]/text[1]/body[1]/p[10]::385" xml:id="UID-FAKE-12356">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::39 /TEI[1]/text[1]/body[1]/p[11]::44" xml:id="UID-FAKE-12357">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::48 /TEI[1]/text[1]/body[1]/p[11]::55" xml:id="UID-FAKE-12358">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::283 /TEI[1]/text[1]/body[1]/p[11]::291" xml:id="UID-FAKE-12359">
+        <rs ana="https://topostext.org/place/374224SArL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::360 /TEI[1]/text[1]/body[1]/p[11]::366" xml:id="UID-FAKE-12360">
+        <rs ana="https://topostext.org/place/374224SArL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::372 /TEI[1]/text[1]/body[1]/p[11]::381" xml:id="UID-FAKE-12361">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 53</head>
+      <p>Such is the inscription on the statue base. The images of Apollo Agyieus (lord of streets) the Tegeans say they set up for the following reason. Apollo and Artemis, they say, throughout every land visited with punishment all the men of that time who, when Leto was with child and in the course of her wanderings, took no heed of her when she came to their land.</p>
+      <p>So when the divinities came to the land of Tegea, Scephrus, they say, the son of Tegeates, came to Apollo and had a private conversation with him. And Leimon, who also was a son of Tegeates, suspecting that the conversation of Scephrus contained a charge against him, rushed on his brother and killed him.</p>
+      <p>Immediate punishment for the murder overtook Leimon, for he was shot by Artemis. At the time Tegeates and Maera sacrificed to Apollo and Artemis, but afterwards a severe famine fell on the land, and an oracle of Delphi ordered a mourning for Scephrus. At the feast of the Lord of Streets rites are performed in honor of Scephrus, and in particular the priestess of Artemis pursues a man, pretending she is Artemis herself pursuing Leimon.</p>
+      <p>It is also said that all the surviving sons of Tegeates, namely, Cydon, Archedius and Gortys, migrated of their own free will to Crete, and that after them were named the cities Cydonia, Gortyna and Catrea. The Cretans dissent from the account of the Tegeans, saying that Cydon was a son of Hermes and of Acacallis, daughter of Minos, that Catreus was a son of Minos, and Gortys a son of Rhadamanthys.</p>
+      <p>As to Rhadamanthys himself, Homer says, in the talk of Proteus with Menelaus, that Menelaus would go to the Elysian plain, but that Rhadamanthys was already arrived there. Cinaethon too in his poem represents Rhadamanthys as the son of Hephaestus, Hephaestus as a son of Talos, and Talos as a son of Cres. The legends of Greece generally have different forms, and this is particularly true of genealogy.</p>
+      <p>At Tegea the images of Agyieus are four in number, one set up by each of the tribes. The names given to the tribes are Clareotis, Hippothoetis, ApolloniaYY, and Athaneatis; they are called after the lots cast by Arcas to divide the land among his sons, and after Hippothous, the son of Cercyon.</p>
+      <p>There is also at Tegea a temple of Demeter and Kore, whom they surname the Fruit-bringers, and hard by is one of Aphrodite called Paphian. The latter was built by Laodice, who was descended, as I have already said, from Agapenor, who led the Arcadians to Troy, and it was in Paphos that she dwelt. Not far from it are two sanctuaries of Dionysus, an altar of Kore, and a temple of Apollo with a gilded image.</p>
+      <p>The artist was Cheirisophus; he was a Cretan by race, but his date and teacher we do not know. The residence of Daedalus with Minos at Cnossus secured for the Cretans a reputation for the making of xoana also, which lasted for a long period. By the Apollo stands Cheirisophus in stone.</p>
+      <p>The Tegeans also have what they call a Common Hearth of the Arcadians. Here there is an image of Heracles, and on his thigh is represented a wound received in the first fight with the sons of Hippocoon. The lofty place, on which are most of the altars of the Tegeans, is called the place of Zeus Clarius (Of Lots), and it is plain that the god got his surname from the lots cast for the sons of Arcas. Here the Tegeans celebrate a feast every year.</p>
+      <p>It is said that once at the time of the feast they were invaded by the Lacedemonians. As it was snowing, these were chilled, and thus distressed by their armour, but the Tegeans, without their enemies knowing it, lighted a fire. So untroubled by the cold they donned, they say, their armour, went out against the Lacedemonians, and had the better of the engagement. I also saw in Tegea: — the house of Aleus, the tomb of Echemus, and the fight between Echemus and Hyllus carved in relief upon a slab.</p>
+      <p>On the left of the road as you go from Tegea to Laconia there is an altar of Pan, and likewise one of Lycaean Zeus. The foundations, too, of sanctuaries are still there. These altars are two stades from the wall; and about seven stades farther on is a sanctuary of Artemis, surnamed Limnatis, with an image of ebony. The fashion of the workmanship is what the Greeks call Aeginetan. Some ten stades farther on are the ruins of a temple of Artemis Cnaceatis.</p>
+    </body>
+  </text>
+</TEI>

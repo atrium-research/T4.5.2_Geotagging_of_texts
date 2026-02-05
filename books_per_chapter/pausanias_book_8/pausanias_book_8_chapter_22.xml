@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::42 /TEI[1]/text[1]/body[1]/p[1]::52" xml:id="UID-FAKE-10983">
+        <rs ana="https://topostext.org/place/379224LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::92 /TEI[1]/text[1]/body[1]/p[1]::102" xml:id="UID-FAKE-10984">
+        <rs ana="https://topostext.org/place/379224LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::107 /TEI[1]/text[1]/body[1]/p[1]::114" xml:id="UID-FAKE-10985">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::120 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-10986">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::166 /TEI[1]/text[1]/body[1]/p[1]::175" xml:id="UID-FAKE-10987">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::203 /TEI[1]/text[1]/body[1]/p[1]::216" xml:id="UID-FAKE-10988">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::279 /TEI[1]/text[1]/body[1]/p[1]::288" xml:id="UID-FAKE-10989">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::33 /TEI[1]/text[1]/body[1]/p[2]::43" xml:id="UID-FAKE-10990">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::369 /TEI[1]/text[1]/body[1]/p[2]::379" xml:id="UID-FAKE-10991">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::458 /TEI[1]/text[1]/body[1]/p[2]::470" xml:id="UID-FAKE-10992">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::101 /TEI[1]/text[1]/body[1]/p[3]::112" xml:id="UID-FAKE-10993">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::184 /TEI[1]/text[1]/body[1]/p[3]::191" xml:id="UID-FAKE-10994">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::236 /TEI[1]/text[1]/body[1]/p[3]::246" xml:id="UID-FAKE-10995">
+        <rs ana="https://topostext.org/place/379229BHAq"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::262 /TEI[1]/text[1]/body[1]/p[3]::272" xml:id="UID-FAKE-10996">
+        <rs ana="https://topostext.org/place/379229BHAq"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::445 /TEI[1]/text[1]/body[1]/p[3]::452" xml:id="UID-FAKE-10997">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::488 /TEI[1]/text[1]/body[1]/p[3]::496" xml:id="UID-FAKE-10998">
+        <rs ana="https://topostext.org/place/377227WEra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::508 /TEI[1]/text[1]/body[1]/p[3]::518" xml:id="UID-FAKE-10999">
+        <rs ana="https://topostext.org/place/379229BHAq"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::48 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-11000">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::275 /TEI[1]/text[1]/body[1]/p[4]::284" xml:id="UID-FAKE-11001">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::219 /TEI[1]/text[1]/body[1]/p[5]::230" xml:id="UID-FAKE-11002">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::19 /TEI[1]/text[1]/body[1]/p[6]::28" xml:id="UID-FAKE-11003">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::65 /TEI[1]/text[1]/body[1]/p[6]::73" xml:id="UID-FAKE-11004">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::160 /TEI[1]/text[1]/body[1]/p[6]::171" xml:id="UID-FAKE-11005">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::250 /TEI[1]/text[1]/body[1]/p[6]::259" xml:id="UID-FAKE-11006">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::327 /TEI[1]/text[1]/body[1]/p[6]::334" xml:id="UID-FAKE-11007">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::347 /TEI[1]/text[1]/body[1]/p[6]::357" xml:id="UID-FAKE-11008">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::398 /TEI[1]/text[1]/body[1]/p[6]::406" xml:id="UID-FAKE-11009">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::499 /TEI[1]/text[1]/body[1]/p[6]::504" xml:id="UID-FAKE-11010">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::558 /TEI[1]/text[1]/body[1]/p[6]::567" xml:id="UID-FAKE-11011">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::3 /TEI[1]/text[1]/body[1]/p[7]::13" xml:id="UID-FAKE-11012">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::48 /TEI[1]/text[1]/body[1]/p[7]::59" xml:id="UID-FAKE-11013">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::60 /TEI[1]/text[1]/body[1]/p[7]::67" xml:id="UID-FAKE-11014">
+        <rs ana="https://topostext.org/place/399251SAvl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::191 /TEI[1]/text[1]/body[1]/p[7]::202" xml:id="UID-FAKE-11015">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::84 /TEI[1]/text[1]/body[1]/p[8]::103" xml:id="UID-FAKE-11016">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::107 /TEI[1]/text[1]/body[1]/p[8]::117" xml:id="UID-FAKE-11017">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::360 /TEI[1]/text[1]/body[1]/p[9]::371" xml:id="UID-FAKE-11018">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 22</head>
+      <p>My narrative returns to Stymphalus and to Geronteium, as it is called, the boundary between Stymphalus and Pheneus. The Stymphalians are no longer included among the Arcadians, but are numbered with the Argive League, which they joined of their own accord. That they are by race Arcadians is testified by the verses of Homer, and Stymphalus their founder was a grandson of Arcas, the son of Callisto. It is said that it was originally founded on another site, and not on that of the modern city.</p>
+      <p>The story has it that in the old Stymphalus dwelt Temenus, the son of Pelasgus, and that Hera was reared by this Temenus, who himself established three sanctuaries for the goddess, and gave her three surnames when she was still a maiden, Girl; when married to Zeus he called her Teleia [Grown-up]; when for some cause or other she quarrelled with Zeus and came back to Stymphalus, Temenus named her Widow. This is the account which, to my own knowledge, the Stymphalians give of the goddess.</p>
+      <p>The modern city contains none of these sanctuaries, but I found the following notable things. In the Stymphalian territory is a spring, from which the emperor Hadrian brought water to Corinth. In winter the spring makes a small lake in Stymphalus, and the river Stymphalus issues from the lake; in summer there is no lake, but the river comes straight from the spring. This river descends into a chasm in the earth, and reappearing once more in Argolis it changes its name, and is called Erasinus instead of Stymphalus.</p>
+      <p>There is a story current about the water of the Stymphalus, that at one time man-eating birds bred on it, which Heracles is said to have shot down. Peisander the Kamirean, however, says that Heracles did not kill the birds, but drove them away with the noise of rattles. The ArabianYY desert breeds among other wild creatures birds called Stymphalian, which are quite as savage against men as lions or leopards.</p>
+      <p>These fly against those who come to hunt them, wounding and killing them with their beaks. All armour of bronze or iron that men wear is pierced by the birds; but if they weave a garment of thick cork, the beaks of the Stymphalian birds are caught in the cork garment, just as the wings of small birds stick in bird-lime. These birds are of the size of a crane, and are like the ibis, but their beaks are more powerful, and not crooked like that of the ibis.</p>
+      <p>Whether the modern ArabianYY birds with the same name as the old Arcadian birds are also of the same breed, I do not know. But if there have been from all time Stymphalian birds, just as there have been hawks and eagles, I should call these birds of ArabianYY origin, and a section of them might have flown on some occasion to Arcadia and reached Stymphalus. Originally they would be called by the Arabians, not Stymphalian, but by another name. But the fame of Heracles, and the superiority of the Greek over the foreigner, has resulted in the birds of the ArabianYY desert being called Stymphalian even in modern times.</p>
+      <p>In Stymphalus there is also an old sanctuary of Stymphalian Artemis, the image being a xoanon, for the most part gilded. Near the roof of the temple have been carved, among other things, the Stymphalian birds. Now it was difficult to discern clearly whether the carving was in wood or in gypsum, but such evidence as I had led me to conclude that it was not of gypsum but of wood. There are here also maidens of white marble, with the legs of birds, and they stand behind the temple.</p>
+      <p>Even in our own day the following miracle is said to have occurred. The festival of Stymphalian Artemis at Stymphalus was carelessly celebrated, and its established ritual in great part transgressed. Now a log fell into the mouth of the chasm into which the river descends, and so prevented the water from draining away, and (so it is said) the plain became a lake for a distance of four hundred stades.</p>
+      <p>They also say that a hunter chased a deer, which fled and plunged into the marsh, followed by the hunter, who, in the excitement of the hunt, swam after the deer. So the chasm swallowed up both the deer and her pursuer. They are said to have been followed by the water of the river, so that by the next day the whole of the water was dried up that flooded the Stymphalian plain. Hereafter they put greater zeal into the festival in honor of Artemis.</p>
+    </body>
+  </text>
+</TEI>

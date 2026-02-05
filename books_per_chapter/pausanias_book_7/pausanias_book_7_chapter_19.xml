@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::235 /TEI[1]/text[1]/body[1]/p[1]::242" xml:id="UID-FAKE-9785">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::256 /TEI[1]/text[1]/body[1]/p[1]::260" xml:id="UID-FAKE-9786">
+        <rs ana="https://topostext.org/place/386229SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::262 /TEI[1]/text[1]/body[1]/p[1]::269" xml:id="UID-FAKE-9787">
+        <rs ana="https://topostext.org/place/383218UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::274 /TEI[1]/text[1]/body[1]/p[1]::281" xml:id="UID-FAKE-9788">
+        <rs ana="https://topostext.org/place/381216XVou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::340 /TEI[1]/text[1]/body[1]/p[1]::349" xml:id="UID-FAKE-9789">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::372 /TEI[1]/text[1]/body[1]/p[1]::379" xml:id="UID-FAKE-9790">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::36 /TEI[1]/text[1]/body[1]/p[4]::42" xml:id="UID-FAKE-9791">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::47 /TEI[1]/text[1]/body[1]/p[4]::54" xml:id="UID-FAKE-9792">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::342 /TEI[1]/text[1]/body[1]/p[4]::351" xml:id="UID-FAKE-9793">
+        <rs ana="https://topostext.org/place/383218WAme"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::363 /TEI[1]/text[1]/body[1]/p[4]::373" xml:id="UID-FAKE-9794">
+        <rs ana="https://topostext.org/place/383218WAme"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::121 /TEI[1]/text[1]/body[1]/p[6]::130" xml:id="UID-FAKE-9795">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::337 /TEI[1]/text[1]/body[1]/p[6]::343" xml:id="UID-FAKE-9796">
+        <rs ana="https://topostext.org/place/398268RLel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::164 /TEI[1]/text[1]/body[1]/p[7]::169" xml:id="UID-FAKE-9797">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::430 /TEI[1]/text[1]/body[1]/p[7]::438" xml:id="UID-FAKE-9798">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::474 /TEI[1]/text[1]/body[1]/p[7]::480" xml:id="UID-FAKE-9799">
+        <rs ana="https://topostext.org/place/384225PKir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::494 /TEI[1]/text[1]/body[1]/p[7]::500" xml:id="UID-FAKE-9800">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::251 /TEI[1]/text[1]/body[1]/p[8]::255" xml:id="UID-FAKE-9801">
+        <rs ana="https://topostext.org/place/378218UAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::341 /TEI[1]/text[1]/body[1]/p[8]::350" xml:id="UID-FAKE-9802">
+        <rs ana="https://topostext.org/place/377221XGla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::122 /TEI[1]/text[1]/body[1]/p[9]::131" xml:id="UID-FAKE-9803">
+        <rs ana="https://topostext.org/place/383218WAme"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::210 /TEI[1]/text[1]/body[1]/p[9]::220" xml:id="UID-FAKE-9804">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::286 /TEI[1]/text[1]/body[1]/p[9]::292" xml:id="UID-FAKE-9805">
+        <rs ana="https://topostext.org/place/382216POle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::238 /TEI[1]/text[1]/body[1]/p[10]::244" xml:id="UID-FAKE-9806">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::268 /TEI[1]/text[1]/body[1]/p[10]::277" xml:id="UID-FAKE-9807">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 7, Chapter 19</head>
+      <p>Between the temple of Laphria and the altar stands the tomb of Eurypylus. Who he was and for what reason he came to this land I shall set forth presently; but I must first describe what the condition of affairs was at his arrival. The Ionians who lived in Aroe, Antheia and Mesatis had in common a precinct and a temple of Artemis surnamed Triklaria, and in her honor the Ionians used to celebrate every year a festival and an all-night vigil. The priesthood of the goddess was held by a maiden until the time came for her to be sent to a husband.</p>
+      <p>Now the story is that once upon a time it happened that the priestess of the goddess was Comaetho, a most beautiful maiden, who had a lover called Melanippus, who was far better and handsomer than his fellows. When Melanippus had won the love of the maiden, he asked the father for his daughter"s hand. It is somehow a characteristic of old age to oppose the young in most things, and especially is it insensible to the desires of lovers. So Melanippus found it; although both he and Comaetho were eager to wed, he met with nothing but harshness from both his own parents and from those of his lover.</p>
+      <p>The history of Melanippus, like that of many others, proved that love is apt both to break the laws of men and to desecrate the worship of the gods, seeing that this pair had their fill of the passion of love in the sanctuary of Artemis. And hereafter also were they to use the sanctuary as a bridal-chamber. Forthwith the wrath of Artemis began to destroy the inhabitants; the earth yielded no harvest, and strange diseases occurred of an unusually fatal character.</p>
+      <p>When they appealed to the oracle at Delphi the Pythian priestess accused Melanippus and Comaetho. The oracle ordered that they themselves should be sacrificed to Artemis, and that every year a sacrifice should be made to the goddess of the fairest youth and the fairest maiden. Because of this sacrifice the river flowing by the sanctuary of Triclaria was called Ameilichus (relentless). Previously the river had no name.</p>
+      <p>The innocent youths and maidens who perished because of Melanippus and Comaetho suffered a piteous fate, as did also their relatives; but the pair, I hold, were exempt from suffering, for the one thing that is worth a man"s life is to be successful in love.</p>
+      <p>The sacrifice to Artemis of human beings is said to have ceased in this way. An oracle had been given from Delphi to the Patraeans even before this, to the effect that a strange king would come to the land, bringing with him a strange daimon, and this king would put an end to the sacrifice to Triclaria. When Troy was captured, and the Greeks divided the spoils, Eurypylus the son of Euaemon got a chest. In it was an image of Dionysus, the work, so they say, of Hephaestus, and given as a gift by Zeus to Dardanus.</p>
+      <p>But there are two other accounts of it. One is that this chest was left by Aeneas when he fled; the other that it was thrown away by Cassandra to be a curse to the Greek who found it. Be this as it may, Eurypylus opened the chest, saw the image, and forthwith on seeing it went mad. He continued to be insane for the greater part of the time, with rare lucid intervals. Being in this condition he did not proceed on his voyage to Thessaly, but made for the town and gulf of Cirrha. Going up to Delphi he inquired of the oracle about his illness.</p>
+      <p>They say that the oracle given him was to the effect that where he should come across a people offering a strange sacrifice, there he was to set down the chest and make his home. Now the ships of Eurypylus were carried down by the wind to the sea off Aroe. On landing he came across a youth and a maiden who had been brought to the altar of Triclaria. So Eurypylus found it easy to understand about the sacrifice, while the people of the place remembered their oracle seeing a king whom they had never seen before, they also suspected that the chest had some god inside it.</p>
+      <p>And so the malady of Eurypylus and the sacrifice of these people came to an end, and the river was given its present name Meilichus. Certain writers have said that the events I have related happened not to the Thessalian Eurypylus, but to Eurypylus the son of Dexamenus who was king in Olenus, holding that this man joined Heracles in his campaign against Troy and received the chest from Heracles. The rest of their story is the same as mine.</p>
+      <p>But I cannot bring myself to believe that Heracles did not know the facts about the chest, if they were as described, nor, if he were aware of them, do I think that he would ever have given it to an ally as a gift. Further, the people of Patrae have no tradition of a Eurypylus save the son of Euaemon, and to him every year they sacrifice as to a hero, when they celebrate the festival in honor of Dionysus.</p>
+    </body>
+  </text>
+</TEI>

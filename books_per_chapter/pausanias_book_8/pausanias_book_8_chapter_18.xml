@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::14 /TEI[1]/text[1]/body[1]/p[1]::22" xml:id="UID-FAKE-10911">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::14 /TEI[1]/text[1]/body[1]/p[2]::19" xml:id="UID-FAKE-10912">
+        <rs ana="https://topostext.org/place/354252IDia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::39 /TEI[1]/text[1]/body[1]/p[2]::43" xml:id="UID-FAKE-10913">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::223 /TEI[1]/text[1]/body[1]/p[2]::227" xml:id="UID-FAKE-10914">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::346 /TEI[1]/text[1]/body[1]/p[2]::350" xml:id="UID-FAKE-10915">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::427 /TEI[1]/text[1]/body[1]/p[2]::431" xml:id="UID-FAKE-10916">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::515 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-10917">
+        <rs ana="https://topostext.org/place/398223WTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::553 /TEI[1]/text[1]/body[1]/p[2]::557" xml:id="UID-FAKE-10918">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::23 /TEI[1]/text[1]/body[1]/p[3]::27" xml:id="UID-FAKE-10919">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::42 /TEI[1]/text[1]/body[1]/p[3]::47" xml:id="UID-FAKE-10920">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::245 /TEI[1]/text[1]/body[1]/p[3]::250" xml:id="UID-FAKE-10921">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::284 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-10922">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::378 /TEI[1]/text[1]/body[1]/p[3]::382" xml:id="UID-FAKE-10923">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::50 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-10924">
+        <rs ana="https://topostext.org/place/380222PNon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::144 /TEI[1]/text[1]/body[1]/p[4]::151" xml:id="UID-FAKE-10925">
+        <rs ana="https://topostext.org/place/369286WKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::120 /TEI[1]/text[1]/body[1]/p[5]::124" xml:id="UID-FAKE-10926">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::330 /TEI[1]/text[1]/body[1]/p[5]::337" xml:id="UID-FAKE-10927">
+        <rs ana="https://topostext.org/place/392259FLes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::265 /TEI[1]/text[1]/body[1]/p[6]::269" xml:id="UID-FAKE-10928">
+        <rs ana="https://topostext.org/place/380222WSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::6 /TEI[1]/text[1]/body[1]/p[7]::14" xml:id="UID-FAKE-10929">
+        <rs ana="https://topostext.org/place/380222PNon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::23 /TEI[1]/text[1]/body[1]/p[7]::41" xml:id="UID-FAKE-10930">
+        <rs ana="https://topostext.org/place/380222LAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::230 /TEI[1]/text[1]/body[1]/p[7]::234" xml:id="UID-FAKE-10931">
+        <rs ana="https://topostext.org/place/371252SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::248 /TEI[1]/text[1]/body[1]/p[7]::256" xml:id="UID-FAKE-10932">
+        <rs ana="https://topostext.org/place/380222LAro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::277 /TEI[1]/text[1]/body[1]/p[7]::284" xml:id="UID-FAKE-10933">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::290 /TEI[1]/text[1]/body[1]/p[7]::294" xml:id="UID-FAKE-10934">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::320 /TEI[1]/text[1]/body[1]/p[7]::327" xml:id="UID-FAKE-10935">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::14 /TEI[1]/text[1]/body[1]/p[8]::18" xml:id="UID-FAKE-10936">
+        <rs ana="https://topostext.org/place/380221SLou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::76 /TEI[1]/text[1]/body[1]/p[8]::80" xml:id="UID-FAKE-10937">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::127 /TEI[1]/text[1]/body[1]/p[8]::134" xml:id="UID-FAKE-10938">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::156 /TEI[1]/text[1]/body[1]/p[8]::167" xml:id="UID-FAKE-10939">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::208 /TEI[1]/text[1]/body[1]/p[8]::212" xml:id="UID-FAKE-10940">
+        <rs ana="https://topostext.org/place/380221SLou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::287 /TEI[1]/text[1]/body[1]/p[8]::291" xml:id="UID-FAKE-10941">
+        <rs ana="https://topostext.org/place/380221SLou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::416 /TEI[1]/text[1]/body[1]/p[8]::427" xml:id="UID-FAKE-10942">
+        <rs ana="https://topostext.org/place/379221PKle"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 18</head>
+      <p>Hesiod in the Theogony — for there are some who assign this hexameter poem to Hesiod — speaks of Styx as the daughter of Ocean and the wife of Pallas. Men say that Linus too gives a like account in his verses, though when I read these they struck me as altogether spurious.</p>
+      <p>Epimenides of Crete, also, represented Styx as the daughter of Ocean, not, however, as the wife of Pallas, but as bearing Echidna to Peiras, whoever Peiras may be. But it is Homer who introduces most frequently the name of Styx into his poetry. In the oath of Hera he says: “Witness now to this be Earth, and broad Heaven above, And the water of Styx down-flowing.” These verses suggest that the poet had seen the water of the Styx trickling down. Again in the list of those who came with Guneus he makes the river Titaresius receive its water from the Styx.</p>
+      <p>He also represents the Styx as a river in Hades, and Athena says that Zeus does not remember that because of her he kept Heracles safe throughout the labours imposed by Eurystheus. “For if I had known this in my shrewd heart When he sent him to Hades the gate-keeper, To fetch out of Erebus the hound of hateful Hades, He would never have escaped the sheer streams of the river Styx.”</p>
+      <p>The water trickling down the cliff by the side of Nonacris falls first to a high rock, through which it passes and then descends into the river Crathis. Its water brings death to all, man and beast alike. It is said too that it once brought death even upon goats, which drank of the water first; later on all the wonderful properties of the water were learnt.</p>
+      <p>For glass, crystal, murrhine vessels, other articles men make of stone, and pottery, are all broken by the water of the Styx, while things of horn or of bone, with iron, bronze, lead, tin, silver and electrum, are all corroded by this water. Gold too suffers just like all the other metals, and yet gold is immune to rust, as the Lesbian poetess bears witness and is shown by the metal itself.</p>
+      <p>So heaven has assigned to the most lowly things the mastery over things far more esteemed than they. For pearls are dissolved by vinegar, while diamonds, the hardest of stones, are melted by the blood of the he-goat. The only thing that can resist the water of the Styx is a horse"s hoof. When poured into it the water is retained, and does not break up the hoof. Whether Alexander, the son of Philip, met his end by this poison I do not know for certain, but I do know that there is a story to this effect.</p>
+      <p>Above Nonacris are the Aroanian Mountains, in which is a cave. To this cave, legend says, the daughters of Proetus fled when struck with madness; Melampus by secret sacrifices and purifications brought them down to a place called Lusi. Most of the Aroanian mountain belongs to Pheneus, but Lusi is within the borders of Cleitor.</p>
+      <p>They say that Lusi was once a city, and Agesilas was proclaimed as a man of Lusi when victor in the horse-race at the eleventh Pythian festival held by the Amphictyons; but when I was there not even ruins of Lusi remained. Well, the daughters of Proetus were brought down by Melampus to Lusi, and healed of their madness in a sanctuary of Artemis. Wherefore this Artemis is called Hemerasia (She who soothes) by the Cleitorians.</p>
+    </body>
+  </text>
+</TEI>

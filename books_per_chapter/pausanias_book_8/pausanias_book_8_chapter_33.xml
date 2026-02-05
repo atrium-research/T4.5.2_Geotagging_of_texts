@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::11" xml:id="UID-FAKE-11548">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::31 /TEI[1]/text[1]/body[1]/p[1]::40" xml:id="UID-FAKE-11549">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::100 /TEI[1]/text[1]/body[1]/p[1]::106" xml:id="UID-FAKE-11550">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::31 /TEI[1]/text[1]/body[1]/p[2]::37" xml:id="UID-FAKE-11551">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::45 /TEI[1]/text[1]/body[1]/p[2]::55" xml:id="UID-FAKE-11552">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::61 /TEI[1]/text[1]/body[1]/p[2]::68" xml:id="UID-FAKE-11553">
+        <rs ana="https://topostext.org/place/363432UNin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::104 /TEI[1]/text[1]/body[1]/p[2]::115" xml:id="UID-FAKE-11554">
+        <rs ana="https://topostext.org/place/363432UNin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::156 /TEI[1]/text[1]/body[1]/p[2]::171" xml:id="UID-FAKE-11555">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::214 /TEI[1]/text[1]/body[1]/p[2]::219" xml:id="UID-FAKE-11556">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::339 /TEI[1]/text[1]/body[1]/p[2]::347" xml:id="UID-FAKE-11557">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::348 /TEI[1]/text[1]/body[1]/p[2]::354" xml:id="UID-FAKE-11558">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::359 /TEI[1]/text[1]/body[1]/p[2]::365" xml:id="UID-FAKE-11559">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::366 /TEI[1]/text[1]/body[1]/p[2]::376" xml:id="UID-FAKE-11560">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::452 /TEI[1]/text[1]/body[1]/p[2]::457" xml:id="UID-FAKE-11561">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::485 /TEI[1]/text[1]/body[1]/p[2]::491" xml:id="UID-FAKE-11562">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::500 /TEI[1]/text[1]/body[1]/p[2]::506" xml:id="UID-FAKE-11563">
+        <rs ana="https://topostext.org/place/374253SSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::548 /TEI[1]/text[1]/body[1]/p[2]::557" xml:id="UID-FAKE-11564">
+        <rs ana="https://topostext.org/place/374253SSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::3 /TEI[1]/text[1]/body[1]/p[3]::10" xml:id="UID-FAKE-11565">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::28 /TEI[1]/text[1]/body[1]/p[3]::33" xml:id="UID-FAKE-11566">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::67" xml:id="UID-FAKE-11567">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::163 /TEI[1]/text[1]/body[1]/p[3]::169" xml:id="UID-FAKE-11568">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::177 /TEI[1]/text[1]/body[1]/p[3]::184" xml:id="UID-FAKE-11569">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::280 /TEI[1]/text[1]/body[1]/p[3]::285" xml:id="UID-FAKE-11570">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::315 /TEI[1]/text[1]/body[1]/p[3]::322" xml:id="UID-FAKE-11571">
+        <rs ana="https://topostext.org/place/353366ULar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::160 /TEI[1]/text[1]/body[1]/p[4]::166" xml:id="UID-FAKE-11572">
+        <rs ana="https://topostext.org/place/399255IChr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::186 /TEI[1]/text[1]/body[1]/p[4]::192" xml:id="UID-FAKE-11573">
+        <rs ana="https://topostext.org/place/399255IChr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::311 /TEI[1]/text[1]/body[1]/p[4]::317" xml:id="UID-FAKE-11574">
+        <rs ana="https://topostext.org/place/399255IChr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::376 /TEI[1]/text[1]/body[1]/p[4]::381" xml:id="UID-FAKE-11575">
+        <rs ana="https://topostext.org/place/363253IHie"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 33</head>
+      <p>Megalopolis was founded by the Arcadians with the utmost enthusiasm amidst the highest hopes of the Greeks, but it has lost all its beauty and its old prosperity, being today for the most part in ruins. I am not in the least surprised, as I know that heaven is always willing something new, and likewise that all things, strong or weak, increasing or decreasing, are being changed by Fortune, who drives them with imperious necessity according to her whim.</p>
+      <p>For Mycenae, the leader of the Greeks in the Trojan War, and Nineveh, where was the royal palace of the AssyriansYY, are utterly ruined and desolate; while Boeotian Thebes, once deemed worthy to be the head of the Greek people, why, its name includes only the acropolis and its few inhabitants. Of the opulent places in the ancient world, Egyptian Thebes and Minyan Orchomenus are now less prosperous than a private individual of moderate means, while Delos, once the common market of Greece, has no Delian inhabitant, but only the men sent by the Athenians to guard the sanctuary.</p>
+      <p>At Babylon the sanctuary of Belus still is left, but of the Babylon that was the greatest city of its time under the sun nothing remains but the wall. The case of Tiryns in the Argolid is the same. These places have been reduced by heaven to nothing. But the city of Alexander in Egypt, and that of Seleucus on the Orontes, that were founded but yesterday, have reached their present size and prosperity because fortune favours them.</p>
+      <p>The following incident proves the might of fortune to be greater and more marvellous than is shown by the disasters and prosperity of cities. No long sail from Lemnos was once an island Chryse, where, it is said, Philoctetes met with his accident from the water-snake. But the waves utterly overwhelmed it, and Chryse sank and disappeared in the depths. Another island called Hiera (Sacred) . . . was not during this time. So temporary and utterly weak are the fortunes of men.</p>
+    </body>
+  </text>
+</TEI>

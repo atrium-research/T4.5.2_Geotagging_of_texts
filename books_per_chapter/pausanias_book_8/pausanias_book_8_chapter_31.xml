@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::180 /TEI[1]/text[1]/body[1]/p[1]::188" xml:id="UID-FAKE-11526">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::224 /TEI[1]/text[1]/body[1]/p[1]::233" xml:id="UID-FAKE-11527">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::136 /TEI[1]/text[1]/body[1]/p[3]::150" xml:id="UID-FAKE-11528">
+        <rs ana="https://topostext.org/place/352248LIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::85 /TEI[1]/text[1]/body[1]/p[4]::93" xml:id="UID-FAKE-11529">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::353 /TEI[1]/text[1]/body[1]/p[4]::358" xml:id="UID-FAKE-11530">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::325 /TEI[1]/text[1]/body[1]/p[5]::333" xml:id="UID-FAKE-11531">
+        <rs ana="https://topostext.org/place/410397PTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::146 /TEI[1]/text[1]/body[1]/p[6]::153" xml:id="UID-FAKE-11532">
+        <rs ana="https://topostext.org/place/365224SApK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::145 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-11533">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::238 /TEI[1]/text[1]/body[1]/p[7]::245" xml:id="UID-FAKE-11534">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::79 /TEI[1]/text[1]/body[1]/p[8]::83" xml:id="UID-FAKE-11535">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::256 /TEI[1]/text[1]/body[1]/p[9]::265" xml:id="UID-FAKE-11536">
+        <rs ana="https://topostext.org/place/380237WKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::314 /TEI[1]/text[1]/body[1]/p[9]::322" xml:id="UID-FAKE-11537">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 31</head>
+      <p>At the other end, the western, of the portico is an enclosure sacred to the Great Goddesses. The Great Goddesses are Demeter and Kore, as I have already explained in my account of Messenia, and Kore is called Saviour by the Arcadians. Carved in relief before the entrance are, on one side Artemis, on the other Asclepius and Health.</p>
+      <p>Of the Great Goddesses, Demeter is of stone throughout, but the Saviour has drapery of wood. The height of each is about fifteen feet. The images . . . and before them he made small maids in tunics reaching to the ankles, each of whom carries on her head a basket full of flowers. They are said to be daughters of Damophon, but those inclining to a more religious interpretation hold that they are Athena and Artemis gathering the flowers with Persephone.</p>
+      <p>By the side of Demeter there is also a Heracles about a cubit high. This Heracles, says Onomacritus in his poem, is one of those called Idaean Dactyls. Before it stands a table, on which are carved in relief two seasons, Pan with pipes, and Apollo playing the harp. There is also an inscription by them saying that they are among the first gods.</p>
+      <p>Nymphs too are carved on the table: Neda carrying an infant Zeus, Anthracia, another Arcadian nymph, holding a torch, and Hagno with a water-pot in one hand and a bowl in the other. Anchirhoe and Myrtoessa carry water-pots, with what is meant to be water coming down from them. Within the precinct is a temple of Zeus Philios (Friendly). Polycleitus of Argos made the image; it is like Dionysus in having buskins as footwear and in holding a beaker in one hand and a thyrsus in the other, but an eagle sitting on the thyrsus does not fit in with the received accounts of Dionysus.</p>
+      <p>Behind this temple is a small grove of trees surrounded by a wall; nobody may go inside, and before it are images of Demeter and Kore some three feet high. Within the enclosure of the Great Goddesses is also a sanctuary of Aphrodite. Before the entrance are old xoana of Hera, Apollo and the Muses, brought, it is said, from Trapezus,</p>
+      <p>and in the temple are images made by Damophon, a wooden Hermes and a wooden Aphrodite with hands, face and feet of stone. The surname Machanitis (Deviser) given to the goddess is, in my opinion, a most apt one; for very many are the devices, and most varied are the forms of speech invented by men because of Aphrodite and her works.</p>
+      <p>In a building stand statues also, those of Callignotus, Mentas, Sosigenes1 and Polus1. These men are said to have been the first to establish at Megalopolis the mysteries of the Great Goddesses, and the ritual acts are a copy of those at Eleusis. Within the enclosure of the goddesses are the following images, which all have a square shape: Hermes, surnamed Agetor, Apollo, Athena, Poseidon, Helios too, surnamed Saviour, and Heracles. There has also been built for them a sanctuary of vast size, and here they celebrate the mysteries in honor of the goddesses.</p>
+      <p>To the right of the temple of the Great Goddesses there is also a sanctuary of Kore. The image is of stone, about eight feet high; ribbons cover the pedestal all over. Women may enter this sanctuary at all times, but men enter it only once every year. Adjoining the agora on the west there is built a gymnasium.</p>
+      <p>Behind the stoa called after Philip of Macedon are two hills, rising to no great height. Ruins of a sanctuary of Athena Polias are on one, while on the other a temple of Hera Teleia (Full-grown), this too being in ruins. Under this hill is a spring called Bathyllus, which is one of the tributaries that swell the Helisson.</p>
+    </body>
+  </text>
+</TEI>

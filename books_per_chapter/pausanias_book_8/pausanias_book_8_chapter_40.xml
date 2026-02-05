@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::14" xml:id="UID-FAKE-11862">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::348" xml:id="UID-FAKE-11863">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::362 /TEI[1]/text[1]/body[1]/p[1]::371" xml:id="UID-FAKE-11864">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::411 /TEI[1]/text[1]/body[1]/p[1]::419" xml:id="UID-FAKE-11865">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::425 /TEI[1]/text[1]/body[1]/p[1]::428" xml:id="UID-FAKE-11866">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::475 /TEI[1]/text[1]/body[1]/p[1]::487" xml:id="UID-FAKE-11867">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::417 /TEI[1]/text[1]/body[1]/p[2]::423" xml:id="UID-FAKE-11868">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::23" xml:id="UID-FAKE-11869">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::75 /TEI[1]/text[1]/body[1]/p[3]::84" xml:id="UID-FAKE-11870">
+        <rs ana="https://topostext.org/place/413194PEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::94 /TEI[1]/text[1]/body[1]/p[3]::101" xml:id="UID-FAKE-11871">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::155 /TEI[1]/text[1]/body[1]/p[3]::161" xml:id="UID-FAKE-11872">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::203 /TEI[1]/text[1]/body[1]/p[3]::211" xml:id="UID-FAKE-11873">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::37 /TEI[1]/text[1]/body[1]/p[5]::44" xml:id="UID-FAKE-11874">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::217 /TEI[1]/text[1]/body[1]/p[5]::222" xml:id="UID-FAKE-11875">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 40</head>
+      <p>The Phigalians have on their agora a statue of the pancratiast Arrhachion; it is archaic, especially in its posture. The feet are close together, and the arms hang down by the side as far as the hips. The statue is made of stone, and it is said that an inscription was written upon it. This has disappeared with time, but Arrhachion won two Olympic victories at Olympiads before the fifty-fourth, while at this Olympiad [564 BCE] he won one due partly to the fairness of the Hellanodikai and partly to his own manhood.</p>
+      <p>For when he was contending for the wild olive with the last remaining competitor, whoever he was, the latter got a grip first, and held Arrhachion, hugging him with his legs, and at the same time he squeezed his neck with his hands. Arrhachion dislocated his opponent"s toe, but expired owing to suffocation; but he who suffocated Arrhachion was forced to give in at the same time because of the pain in his toe. The Eleans crowned and proclaimed victor the corpse of Arrhachion.</p>
+      <p>I know that the Argives acted similarly in the case of Creugas, a boxer of Epidamnus. For the Argives too gave to Creugas after his death the crown in the Nemean games, because his opponent Damoxenus of Syracuse broke their mutual agreement. For evening drew near as they were boxing, and they agreed within the hearing of witnesses, that each should in turn allow the other to deal him a blow. At that time boxers did not yet wear a sharp thong on the wrist of each hand, but still boxed with the soft gloves, binding them in the hollow of the hand, so that their fingers might be left bare. These soft gloves were thin thongs of raw ox-hide plaited together after an ancient manner.</p>
+      <p>On the occasion to which I refer Creugas aimed his blow at the head of Damoxenus, and the latter bade Creugas lift up his arm. On his doing so, Damoxenus with straight fingers struck his opponent under the ribs; and what with the sharpness of his nails and the force of the blow he drove his hand into the other"s inside, caught his bowels, and tore them as he pulled them out.</p>
+      <p>Creugas expired on the spot, and the Argives expelled Damoxenus for breaking his agreement by dealing his opponent many blows instead of one. They gave the victory to the dead Creugas, and had a statue of him made in Argos. It still stood in my time in the sanctuary of Lykios Apollo.</p>
+    </body>
+  </text>
+</TEI>

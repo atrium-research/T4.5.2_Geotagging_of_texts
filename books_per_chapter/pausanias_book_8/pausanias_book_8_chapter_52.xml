@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::11 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-12292">
+        <rs ana="https://topostext.org/place/388226PAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::134 /TEI[1]/text[1]/body[1]/p[1]::142" xml:id="UID-FAKE-12293">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::177" xml:id="UID-FAKE-12294">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::226 /TEI[1]/text[1]/body[1]/p[1]::232" xml:id="UID-FAKE-12295">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::501 /TEI[1]/text[1]/body[1]/p[1]::507" xml:id="UID-FAKE-12296">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::116 /TEI[1]/text[1]/body[1]/p[2]::122" xml:id="UID-FAKE-12297">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::186 /TEI[1]/text[1]/body[1]/p[2]::197" xml:id="UID-FAKE-12298">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::291 /TEI[1]/text[1]/body[1]/p[2]::298" xml:id="UID-FAKE-12299">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::347 /TEI[1]/text[1]/body[1]/p[2]::353" xml:id="UID-FAKE-12300">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::443 /TEI[1]/text[1]/body[1]/p[2]::449" xml:id="UID-FAKE-12301">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::481 /TEI[1]/text[1]/body[1]/p[2]::487" xml:id="UID-FAKE-12302">
+        <rs ana="https://topostext.org/place/380236FXer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::62 /TEI[1]/text[1]/body[1]/p[3]::68" xml:id="UID-FAKE-12303">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::83 /TEI[1]/text[1]/body[1]/p[3]::90" xml:id="UID-FAKE-12304">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::100 /TEI[1]/text[1]/body[1]/p[3]::106" xml:id="UID-FAKE-12305">
+        <rs ana="https://topostext.org/place/377271LMyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::180 /TEI[1]/text[1]/body[1]/p[3]::186" xml:id="UID-FAKE-12306">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::219 /TEI[1]/text[1]/body[1]/p[3]::232" xml:id="UID-FAKE-12307">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::245 /TEI[1]/text[1]/body[1]/p[3]::251" xml:id="UID-FAKE-12308">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::353" xml:id="UID-FAKE-12309">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::9 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-12310">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::182 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-12311">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::374 /TEI[1]/text[1]/body[1]/p[4]::381" xml:id="UID-FAKE-12312">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::386 /TEI[1]/text[1]/body[1]/p[4]::394" xml:id="UID-FAKE-12313">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::395 /TEI[1]/text[1]/body[1]/p[4]::406" xml:id="UID-FAKE-12314">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::425 /TEI[1]/text[1]/body[1]/p[4]::431" xml:id="UID-FAKE-12315">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::59 /TEI[1]/text[1]/body[1]/p[5]::65" xml:id="UID-FAKE-12316">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::143 /TEI[1]/text[1]/body[1]/p[5]::149" xml:id="UID-FAKE-12317">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::163 /TEI[1]/text[1]/body[1]/p[5]::168" xml:id="UID-FAKE-12318">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::184 /TEI[1]/text[1]/body[1]/p[5]::190" xml:id="UID-FAKE-12319">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::316 /TEI[1]/text[1]/body[1]/p[5]::322" xml:id="UID-FAKE-12320">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::48 /TEI[1]/text[1]/body[1]/p[6]::53" xml:id="UID-FAKE-12321">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::119 /TEI[1]/text[1]/body[1]/p[6]::125" xml:id="UID-FAKE-12322">
+        <rs ana="https://topostext.org/place/388225UTei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::208 /TEI[1]/text[1]/body[1]/p[6]::216" xml:id="UID-FAKE-12323">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::342 /TEI[1]/text[1]/body[1]/p[6]::348" xml:id="UID-FAKE-12324">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::405 /TEI[1]/text[1]/body[1]/p[6]::410" xml:id="UID-FAKE-12325">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 52</head>
+      <p>After this Greece ceased to bear good men. For Miltiades, the son of Cimon, overcame in battle the foreign invaders who had landed at Marathon, stayed the advance of the Persian army, and so became the first benefactor of all Greece, just as Philopoemen, the son of Craugis, was the last. Those who before Miltiades accomplished brilliant deeds, Codrus, the son of Melanthus, Polydorus the Spartan, Aristomenes the Messenian, and all the rest, will be seen to have helped each his own country and not Greece as a whole.</p>
+      <p>Later than Miltiades, Leonidas, the son of Anaxandrides, and Themistocles, the son of Neocles, repulsed Xerxes from Greece, Themistocles by the two sea-fights, Leonidas by the action at Thermopylae. But Aristeides the son of LysimachuYY, and Pausanias, the son of Cleombrotus, commanders at Plataea, were debarred from being called benefactors of Greece, Pausanias by his subsequent sins, Aristeides by his imposition of tribute on the island Greeks; for before Aristeides all the Greeks were immune from tribute.</p>
+      <p>Xanthippus, the son of Ariphron, with Leotychidas the king of Sparta destroyed the Persian fleet at Mycale, and with Cimon accomplished many enviable achievements on behalf of the Greeks. But those who took part in the Peloponnesian war against Athens, especially the most distinguished of them, might be said to be murderers, almost wreckers, of Greece.</p>
+      <p>When the Greek nation was reduced to a miserable condition, it recovered under the efforts of Conon, the son of Timotheus, and of Epaminondas, the son of Polymnis, who drove out the Lacedemonian garrisons and governors, and put down the boards of ten, Conon from the islands and coasts, Epaminondas from the cities of the interior. By founding cities too, of no small fame, Messene and Arcadian Megalopolis, Epaminondas made Greece more famous.</p>
+      <p>I reckon Leosthenes also and Aratus benefactors of all the Greeks. Leosthenes, in spite of Alexander"s opposition, brought back safe by sea to Greece the force of Greek mercenaries in Persia, about fifty thousand in number, who had descended to the coast. As for Aratus, I have related his exploits in my history of Sicyon.</p>
+      <p>The inscription on the statue of Philopoemen at Tegea runs thus: “The valor and glory of this man are famed throughout Greece, who worked Many achievements by might and many by his counsels, Philopoemen, the Arcadian spearman, whom great renown attended, When he commanded the lances in war. Witness are two trophies, won from the despots Of Sparta; the swelling flood of slavery he stayed. Wherefore did Tegea set up [this statue]the great-hearted son of Craugis, Author of blameless freedom.”</p>
+    </body>
+  </text>
+</TEI>

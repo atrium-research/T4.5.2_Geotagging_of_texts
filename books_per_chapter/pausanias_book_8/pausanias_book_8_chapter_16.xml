@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::23" xml:id="UID-FAKE-10866">
+        <rs ana="https://topostext.org/place/379224LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::59 /TEI[1]/text[1]/body[1]/p[1]::69" xml:id="UID-FAKE-10867">
+        <rs ana="https://topostext.org/place/379224LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::145 /TEI[1]/text[1]/body[1]/p[1]::152" xml:id="UID-FAKE-10868">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::157 /TEI[1]/text[1]/body[1]/p[1]::167" xml:id="UID-FAKE-10869">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::222 /TEI[1]/text[1]/body[1]/p[1]::229" xml:id="UID-FAKE-10870">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::252 /TEI[1]/text[1]/body[1]/p[1]::263" xml:id="UID-FAKE-10871">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::271 /TEI[1]/text[1]/body[1]/p[1]::279" xml:id="UID-FAKE-10872">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::281 /TEI[1]/text[1]/body[1]/p[1]::286" xml:id="UID-FAKE-10873">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::13 /TEI[1]/text[1]/body[1]/p[2]::21" xml:id="UID-FAKE-10874">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::49 /TEI[1]/text[1]/body[1]/p[2]::54" xml:id="UID-FAKE-10875">
+        <rs ana="https://topostext.org/place/378224LTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::251 /TEI[1]/text[1]/body[1]/p[2]::260" xml:id="UID-FAKE-10876">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::92 /TEI[1]/text[1]/body[1]/p[3]::101" xml:id="UID-FAKE-10877">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::71 /TEI[1]/text[1]/body[1]/p[4]::84" xml:id="UID-FAKE-10878">
+        <rs ana="https://topostext.org/place/370274BMau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::112 /TEI[1]/text[1]/body[1]/p[4]::119" xml:id="UID-FAKE-10879">
+        <rs ana="https://topostext.org/place/370274BMau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::132 /TEI[1]/text[1]/body[1]/p[4]::145" xml:id="UID-FAKE-10880">
+        <rs ana="https://topostext.org/place/370274BMau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::262 /TEI[1]/text[1]/body[1]/p[4]::268" xml:id="UID-FAKE-10881">
+        <rs ana="https://topostext.org/place/370274BMau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::11" xml:id="UID-FAKE-10882">
+        <rs ana="https://topostext.org/place/318352STem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::75 /TEI[1]/text[1]/body[1]/p[5]::84" xml:id="UID-FAKE-10883">
+        <rs ana="https://topostext.org/place/318352PJer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::96 /TEI[1]/text[1]/body[1]/p[5]::101" xml:id="UID-FAKE-10884">
+        <rs ana="https://topostext.org/place/419125FATi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 16</head>
+      <p>Going east from Pheneus you come to a mountain peak called Geronteium and a road by it. This mountain is the boundary between the territories of Pheneus and Stymphalus. On the left of it, as you travel through the land of Pheneus, are mountains of the Pheneatians called Tricrena (Three Springs), and here are three springs. In them, says the legend, Hermes was washed after birth by the nymphs of the mountain, and for this reason they are considered sacred to Hermes.</p>
+      <p>Not far from Tricrena is another mountain called Sepia, where they say that Aepytus, the son of Elatus, was killed by the snake, and they also made his grave on the spot, for they could not carry the body away. These snakes are still to be found, the Arcadians say, on the mountain, even at the present day; not many, however, for they are very scarce. The reason is that, as for the greater part of the year snow falls on the mountain, the snakes die that are cut off by the snow from their holes, while should any make good their escape to the holes, nevertheless some of them are killed by the snow, as the frost penetrates even into the very holes themselves.</p>
+      <p>The grave of Aepytus I was especially anxious to see, because Homer in his verses about the Arcadians makes mention of the tomb of Aepytus. It is a mound of earth of no great size, surrounded by a circular base of stone. Homer naturally was bound to admire it, as he had never seen a more noteworthy tomb, just as he compares the dance worked by Hephaestus on the shield of Achilles to a dance made by Daedalus, because he had never seen more clever workmanship.</p>
+      <p>I know many wonderful graves, and will mention two of them, the one at Halicarnassus and one in the land of the Hebrews. The one at Halicarnassus was made for Mausolus, king of the city, and it is of such vast size, and so notable for all its ornament, that the Romans in their great admiration of it call remarkable tombs in their country “Mausolea.”</p>
+      <p>The Hebrews have a grave, that of HelenaYY, a native woman, in the city of Jerusalem, which the Roman Emperor [Titus] razed to the ground. There is a contrivance in the grave whereby the door, which like all the grave is of stone, does not open until the year brings back the same day and the same hour. Then the mechanism, unaided, opens the door, which, after a short interval, shuts itself. This happens at that time, but should you at any other try to open the door you cannot do so; force will not open it, but only break it down.</p>
+    </body>
+  </text>
+</TEI>

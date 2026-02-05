@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::10 /TEI[1]/text[1]/body[1]/p[1]::19" xml:id="UID-FAKE-9928">
+        <rs ana="https://topostext.org/place/378228WCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::79 /TEI[1]/text[1]/body[1]/p[1]::85" xml:id="UID-FAKE-9929">
+        <rs ana="https://topostext.org/place/383218UArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::101 /TEI[1]/text[1]/body[1]/p[1]::107" xml:id="UID-FAKE-9930">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::157 /TEI[1]/text[1]/body[1]/p[1]::165" xml:id="UID-FAKE-9931">
+        <rs ana="https://topostext.org/place/383218WSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::285 /TEI[1]/text[1]/body[1]/p[1]::291" xml:id="UID-FAKE-9932">
+        <rs ana="https://topostext.org/place/383218UArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::207 /TEI[1]/text[1]/body[1]/p[2]::213" xml:id="UID-FAKE-9933">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::215 /TEI[1]/text[1]/body[1]/p[3]::223" xml:id="UID-FAKE-9934">
+        <rs ana="https://topostext.org/place/383218WSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::22 /TEI[1]/text[1]/body[1]/p[4]::28" xml:id="UID-FAKE-9935">
+        <rs ana="https://topostext.org/place/383218UArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::46 /TEI[1]/text[1]/body[1]/p[4]::55" xml:id="UID-FAKE-9936">
+        <rs ana="https://topostext.org/place/383218WBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::85 /TEI[1]/text[1]/body[1]/p[4]::91" xml:id="UID-FAKE-9937">
+        <rs ana="https://topostext.org/place/383219UBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::448 /TEI[1]/text[1]/body[1]/p[4]::456" xml:id="UID-FAKE-9938">
+        <rs ana="https://topostext.org/place/383218LDre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::496 /TEI[1]/text[1]/body[1]/p[4]::502" xml:id="UID-FAKE-9939">
+        <rs ana="https://topostext.org/place/382220URhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::504 /TEI[1]/text[1]/body[1]/p[4]::510" xml:id="UID-FAKE-9940">
+        <rs ana="https://topostext.org/place/382220URhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::547 /TEI[1]/text[1]/body[1]/p[4]::553" xml:id="UID-FAKE-9941">
+        <rs ana="https://topostext.org/place/382220URhy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::17 /TEI[1]/text[1]/body[1]/p[5]::23" xml:id="UID-FAKE-9942">
+        <rs ana="https://topostext.org/place/383220WPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::46 /TEI[1]/text[1]/body[1]/p[5]::53" xml:id="UID-FAKE-9943">
+        <rs ana="https://topostext.org/place/383220WPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::77 /TEI[1]/text[1]/body[1]/p[5]::87" xml:id="UID-FAKE-9944">
+        <rs ana="https://topostext.org/place/383223WMei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::187 /TEI[1]/text[1]/body[1]/p[5]::194" xml:id="UID-FAKE-9945">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::329" xml:id="UID-FAKE-9946">
+        <rs ana="https://topostext.org/place/383220WPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::18 /TEI[1]/text[1]/body[1]/p[6]::26" xml:id="UID-FAKE-9947">
+        <rs ana="https://topostext.org/place/380237SAZA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::13 /TEI[1]/text[1]/body[1]/p[7]::23" xml:id="UID-FAKE-9948">
+        <rs ana="https://topostext.org/place/380237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::206 /TEI[1]/text[1]/body[1]/p[7]::211" xml:id="UID-FAKE-9949">
+        <rs ana="https://topostext.org/place/336354PSid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::267 /TEI[1]/text[1]/body[1]/p[7]::278" xml:id="UID-FAKE-9950">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::322 /TEI[1]/text[1]/body[1]/p[7]::328" xml:id="UID-FAKE-9951">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::330 /TEI[1]/text[1]/body[1]/p[8]::335" xml:id="UID-FAKE-9952">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::339 /TEI[1]/text[1]/body[1]/p[8]::349" xml:id="UID-FAKE-9953">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::357 /TEI[1]/text[1]/body[1]/p[8]::363" xml:id="UID-FAKE-9954">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::367 /TEI[1]/text[1]/body[1]/p[8]::375" xml:id="UID-FAKE-9955">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::3 /TEI[1]/text[1]/body[1]/p[9]::9" xml:id="UID-FAKE-9956">
+        <rs ana="https://topostext.org/place/372222PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::377 /TEI[1]/text[1]/body[1]/p[9]::384" xml:id="UID-FAKE-9957">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::160 /TEI[1]/text[1]/body[1]/p[10]::165" xml:id="UID-FAKE-9958">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::171 /TEI[1]/text[1]/body[1]/p[10]::178" xml:id="UID-FAKE-9959">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::215 /TEI[1]/text[1]/body[1]/p[10]::220" xml:id="UID-FAKE-9960">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::236 /TEI[1]/text[1]/body[1]/p[10]::242" xml:id="UID-FAKE-9961">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::296 /TEI[1]/text[1]/body[1]/p[10]::303" xml:id="UID-FAKE-9962">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::256 /TEI[1]/text[1]/body[1]/p[11]::263" xml:id="UID-FAKE-9963">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::325 /TEI[1]/text[1]/body[1]/p[11]::331" xml:id="UID-FAKE-9964">
+        <rs ana="https://topostext.org/place/383221PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::377 /TEI[1]/text[1]/body[1]/p[11]::384" xml:id="UID-FAKE-9965">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::435 /TEI[1]/text[1]/body[1]/p[11]::441" xml:id="UID-FAKE-9966">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 7, Chapter 23</head>
+      <p>After the Charadrus you come to some ruins, not at all remarkable, of the city Argyra, to the spring Argyra, on the right of the high road, and to the river Selemnus going down to the sea. The local legend about Selemnus is that he was a handsome lad who used to feed his flocks here. Argyra, they say, was a sea-nymph, who fell in love with Selemnus and used to come up out of the sea to visit him, sleeping by his side.</p>
+      <p>After no long while Selemnus no longer seemed so handsome, and the nymph would not visit him. So Selemnus, deserted by Argyra, died of love, and Aphrodite turned him into a river. This is what the people of Patrae say. As Selemnus continued to love Argyra even when he was turned into water, just as Alpheius in the legend continued to love Arethusa, Aphrodite bestowed on him a further gift, by blotting out the memory of Argyra.</p>
+      <p>I heard too another tale about the water, how that it is a useful remedy for both men and women when in love; if they wash in the river they forget their passion. If there is any truth in the story the water of the Selemnus is of more value to mankind than great wealth.</p>
+      <p>At some distance from Argyra is a river named Bolinaeus, and by it once stood a city Bolina. Apollo, says a legend, fell in love with a maiden called Bolina, who fleeing to the sea here threw herself into it, and by the favour of Apollo became an immortal. Next to it a cape juts out into the sea, and of it is told a story how Cronus threw into the sea here the sickle with which he mutilated his father Uranus. For this reason they call the cape Drepanum. Beyond the high road are the ruins of Rhypes. Aegium is about thirty stades distant from Rhypes.</p>
+      <p>The territory of Aegium is crossed by a river Phoenix, and by another called Meiganitas, both of which flow into the sea. A stoa near the city was made for Straton, an athlete who won at Olympia on the same day victories in the pancratium and in wrestling. The stoa was built that this man might exercise himself in it. At Aegium is an ancient sanctuary of Eileithyia, and her image is covered from head to foot with finely-woven drapery; it is of wood except the face, hands and feet,</p>
+      <p>which are made of Pentelic marble. One hand is stretched out straight; the other holds up a torch. One might conjecture that torches are an attribute of Eileithyia because the pangs of women are just like fire. The torches might also be explained by the fact that it is Eileithyia who brings children to the light. The image is a work of Damophon the Messenian.</p>
+      <p>Not far from Eileithyia is a precinct of Asclepius, with images of him and of Health. An iambic line on the pedestal says that the artist was Damophon the Messenian. In this sanctuary of Asclepius a man of Sidon entered upon an argument with me. He declared that the Phoenicians had better notions about the gods than the Greeks, giving as an instance that to Asclepius they assign Apollo as father, but no mortal woman as his mother.</p>
+      <p>Asclepius, he went on, is air, bringing health to mankind and to all animals likewise; Apollo is the sun, and most rightly is he named the father of Asclepius, because the sun, by adapting his course to the seasons, imparts to the air its healthfulness. I replied that I accepted his statements, but that the argument was as much Greek as Phoenician for at Titane in Sicyonia the same image is called both Health and . . .43 thus clearly showing that it is the course of the sun that brings health to mankind.</p>
+      <p>At Aegium you find a temple of Athena and a grove of Hera. Of Athena there are two images of white marble; the image of Hera may be seen by nobody except the woman who happens to hold the office of priestess to the goddess. Near the theater they have a sanctuary of Dionysus with an image of the god as a beardless youth. There is also in the agora a precinct of Zeus surnamed Saviour, with two images, both of bronze, on the left as you go in; the one without a beard seemed to me the more ancient.</p>
+      <p>In a building right in front of the entrance are images, of bronze like the others, representing Poseidon, Heracles, Zeus and Athena. They are called gods from Argos. The Argives say it is because they were made in Argos; the people of Aegium themselves say that the images were deposited by the Argives with them on trust.</p>
+      <p>They say further that they were ordered to sacrifice each day to the images. But bethinking themselves of a trick they sacrificed a vast number of animals, but the victims they ate up at public feasts, so that they were not put to any expense. At last the Argives asked for the images to be returned, whereupon the people of Aegium asked for the cost of the sacrifices. As the Argives had not the means to pay, they left the images at Aegium.</p>
+    </body>
+  </text>
+</TEI>

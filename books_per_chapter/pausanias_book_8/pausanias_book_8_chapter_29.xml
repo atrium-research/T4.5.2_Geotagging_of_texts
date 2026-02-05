@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::19 /TEI[1]/text[1]/body[1]/p[1]::27" xml:id="UID-FAKE-11443">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::55 /TEI[1]/text[1]/body[1]/p[1]::67" xml:id="UID-FAKE-11444">
+        <rs ana="https://topostext.org/place/375221PTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::105 /TEI[1]/text[1]/body[1]/p[1]::113" xml:id="UID-FAKE-11445">
+        <rs ana="https://topostext.org/place/375221PTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::154 /TEI[1]/text[1]/body[1]/p[1]::162" xml:id="UID-FAKE-11446">
+        <rs ana="https://topostext.org/place/410397PTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::178" xml:id="UID-FAKE-11447">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::229 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-11448">
+        <rs ana="https://topostext.org/place/375221UBat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::237 /TEI[1]/text[1]/body[1]/p[1]::242" xml:id="UID-FAKE-11449">
+        <rs ana="https://topostext.org/place/370270XBat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::347 /TEI[1]/text[1]/body[1]/p[1]::355" xml:id="UID-FAKE-11450">
+        <rs ana="https://topostext.org/place/399225UOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::442 /TEI[1]/text[1]/body[1]/p[1]::451" xml:id="UID-FAKE-11451">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::530 /TEI[1]/text[1]/body[1]/p[1]::537" xml:id="UID-FAKE-11452">
+        <rs ana="https://topostext.org/place/380238DPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::541 /TEI[1]/text[1]/body[1]/p[1]::547" xml:id="UID-FAKE-11453">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::44 /TEI[1]/text[1]/body[1]/p[2]::49" xml:id="UID-FAKE-11454">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::62 /TEI[1]/text[1]/body[1]/p[2]::69" xml:id="UID-FAKE-11455">
+        <rs ana="https://topostext.org/place/385206XSta"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::89 /TEI[1]/text[1]/body[1]/p[2]::101" xml:id="UID-FAKE-11456">
+        <rs ana="https://topostext.org/place/406144ISei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::209 /TEI[1]/text[1]/body[1]/p[2]::219" xml:id="UID-FAKE-11457">
+        <rs ana="https://topostext.org/place/383213IDol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::233 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-11458">
+        <rs ana="https://topostext.org/place/383213IDol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::274 /TEI[1]/text[1]/body[1]/p[2]::282" xml:id="UID-FAKE-11459">
+        <rs ana="https://topostext.org/place/377228BMMB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::129 /TEI[1]/text[1]/body[1]/p[3]::135" xml:id="UID-FAKE-11460">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::142 /TEI[1]/text[1]/body[1]/p[3]::149" xml:id="UID-FAKE-11461">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::265 /TEI[1]/text[1]/body[1]/p[3]::270" xml:id="UID-FAKE-11462">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::329 /TEI[1]/text[1]/body[1]/p[3]::336" xml:id="UID-FAKE-11463">
+        <rs ana="https://topostext.org/place/362362PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::204 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-11464">
+        <rs ana="https://topostext.org/place/380272SKla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::221 /TEI[1]/text[1]/body[1]/p[4]::228" xml:id="UID-FAKE-11465">
+        <rs ana="https://topostext.org/place/364367UGin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::270 /TEI[1]/text[1]/body[1]/p[4]::277" xml:id="UID-FAKE-11466">
+        <rs ana="https://topostext.org/place/361360WOro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::298 /TEI[1]/text[1]/body[1]/p[4]::304" xml:id="UID-FAKE-11467">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::491 /TEI[1]/text[1]/body[1]/p[4]::496" xml:id="UID-FAKE-11468">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::45 /TEI[1]/text[1]/body[1]/p[5]::51" xml:id="UID-FAKE-11469">
+        <rs ana="https://topostext.org/place/375221UBat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::70 /TEI[1]/text[1]/body[1]/p[5]::77" xml:id="UID-FAKE-11470">
+        <rs ana="https://topostext.org/place/374221UBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::192 /TEI[1]/text[1]/body[1]/p[5]::199" xml:id="UID-FAKE-11471">
+        <rs ana="https://topostext.org/place/374221UBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::248 /TEI[1]/text[1]/body[1]/p[5]::266" xml:id="UID-FAKE-11472">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::306 /TEI[1]/text[1]/body[1]/p[5]::314" xml:id="UID-FAKE-11473">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::331 /TEI[1]/text[1]/body[1]/p[5]::338" xml:id="UID-FAKE-11474">
+        <rs ana="https://topostext.org/place/374221UTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::489 /TEI[1]/text[1]/body[1]/p[5]::496" xml:id="UID-FAKE-11475">
+        <rs ana="https://topostext.org/place/373223WAmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::534 /TEI[1]/text[1]/body[1]/p[5]::542" xml:id="UID-FAKE-11476">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::565 /TEI[1]/text[1]/body[1]/p[5]::573" xml:id="UID-FAKE-11477">
+        <rs ana="https://topostext.org/place/374221WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::589 /TEI[1]/text[1]/body[1]/p[5]::597" xml:id="UID-FAKE-11478">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 29</head>
+      <p>After crossing the Alpheius you come to what is called Trapezuntian territory and to the ruins of a city Trapezus. On the left, as you go down again from Trapezus to the Alpheius, there is, not far from the river, a place called Bathos (Depth), where they celebrate mysteries every other year to the Great Goddesses. Here there is a spring called Olympias which, during every other year, does not flow, and near the spring rises up fire. The Arcadians say that the fabled battle between giants and gods took place here and not at Pallene in Thrace, and at this spot sacrifices are offered to lightnings, hurricanes and thunders.</p>
+      <p>Homer does not mention giants at all in the Iliad, but in the Odyssey he relates how the Laestrygones attacked the ships of Odysseus in the likeness not of men but of giants, and he makes also the king of the Phaeacians say that the Phaeacians are near to the gods like the Cyclopes and the race of giants. In these places then he indicates that the giants are mortal, and not of divine race, and his words in the following passage are plainer still: “Who once was king among the haughty giants; But he destroyed the infatuate folk, and was destroyed himself.” “Folk” in the poetry of Homer means the common people.</p>
+      <p>That the giants had serpents for feet is an absurd tale, as many pieces of evidence show, especially the following incident. The Syrian river Orontes does not flow its whole course to the sea on a level, but meets a precipitous ridge with a slope away from it. The Roman emperor wished ships to sail up the river from the sea to Antioch. So with much labour and expense he dug a channel suitable for ships to sail up, and turned the course of the river into this.</p>
+      <p>But when the old bed had dried up, an earthenware coffin more than eleven cubits long was found in it, and the corpse was proportionately large, and human in all parts of its body. This corpse the god in Clarus, when the Syrians came to his oracle there, declared to be Orontes, and that he was of Indian race. If it was by warming the earth of old when it was still wet and saturated with moisture that the sun made the first men, what other land is likely to have raised men either before India or of greater size, seeing that even today it still breeds beasts monstrous in their weird appearance and monstrous in size?</p>
+      <p>Some ten stades distant from the place named Bathos is what is called Basilis. The founder of it was Cypselus, who gave his daughter in marriage to Cresphontes, the son of Aristomachus. Today Basilis is in ruins, among which remains a sanctuary of Eleusinian Demeter. Going on from here you will cross the Alpheius again and reach Thocnia, which is named after Thocnus, the son of Lycaon, and today is altogether uninhabited. Thocnus was said to have built the city on the hill. The river Aminius, flowing by the hill, falls into the Helisson, and not far away the Helisson falls into the Alpheius.</p>
+    </body>
+  </text>
+</TEI>

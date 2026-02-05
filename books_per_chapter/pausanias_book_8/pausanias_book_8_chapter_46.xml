@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::32" xml:id="UID-FAKE-12077">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::78" xml:id="UID-FAKE-12078">
+        <rs ana="https://topostext.org/place/419125FATi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::105 /TEI[1]/text[1]/body[1]/p[1]::110" xml:id="UID-FAKE-12079">
+        <rs ana="https://topostext.org/place/389207LAkt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::197 /TEI[1]/text[1]/body[1]/p[1]::206" xml:id="UID-FAKE-12080">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::218 /TEI[1]/text[1]/body[1]/p[1]::228" xml:id="UID-FAKE-12081">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::165 /TEI[1]/text[1]/body[1]/p[2]::169" xml:id="UID-FAKE-12082">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::188 /TEI[1]/text[1]/body[1]/p[2]::194" xml:id="UID-FAKE-12083">
+        <rs ana="https://topostext.org/place/399182RSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::326 /TEI[1]/text[1]/body[1]/p[2]::333" xml:id="UID-FAKE-12084">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::352 /TEI[1]/text[1]/body[1]/p[2]::358" xml:id="UID-FAKE-12085">
+        <rs ana="https://topostext.org/place/372142UOmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::386 /TEI[1]/text[1]/body[1]/p[2]::390" xml:id="UID-FAKE-12086">
+        <rs ana="https://topostext.org/place/371143PGel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::410 /TEI[1]/text[1]/body[1]/p[2]::417" xml:id="UID-FAKE-12087">
+        <rs ana="https://topostext.org/place/372142UOmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::433 /TEI[1]/text[1]/body[1]/p[2]::442" xml:id="UID-FAKE-12088">
+        <rs ana="https://topostext.org/place/373140XMSa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::455 /TEI[1]/text[1]/body[1]/p[2]::459" xml:id="UID-FAKE-12089">
+        <rs ana="https://topostext.org/place/371143PGel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::45 /TEI[1]/text[1]/body[1]/p[3]::51" xml:id="UID-FAKE-12090">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::107 /TEI[1]/text[1]/body[1]/p[3]::113" xml:id="UID-FAKE-12091">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::167 /TEI[1]/text[1]/body[1]/p[3]::177" xml:id="UID-FAKE-12092">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::217 /TEI[1]/text[1]/body[1]/p[3]::226" xml:id="UID-FAKE-12093">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::283" xml:id="UID-FAKE-12094">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::287 /TEI[1]/text[1]/body[1]/p[3]::292" xml:id="UID-FAKE-12095">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::345 /TEI[1]/text[1]/body[1]/p[3]::355" xml:id="UID-FAKE-12096">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::424 /TEI[1]/text[1]/body[1]/p[3]::433" xml:id="UID-FAKE-12097">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::443 /TEI[1]/text[1]/body[1]/p[3]::450" xml:id="UID-FAKE-12098">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::21 /TEI[1]/text[1]/body[1]/p[4]::28" xml:id="UID-FAKE-12099">
+        <rs ana="https://topostext.org/place/405277LDin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::55 /TEI[1]/text[1]/body[1]/p[4]::66" xml:id="UID-FAKE-12100">
+        <rs ana="https://topostext.org/place/406276IPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::85 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-12101">
+        <rs ana="https://topostext.org/place/404279UCyz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::109 /TEI[1]/text[1]/body[1]/p[4]::120" xml:id="UID-FAKE-12102">
+        <rs ana="https://topostext.org/place/406276IPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::300 /TEI[1]/text[1]/body[1]/p[4]::306" xml:id="UID-FAKE-12103">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::348 /TEI[1]/text[1]/body[1]/p[4]::359" xml:id="UID-FAKE-12104">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::363 /TEI[1]/text[1]/body[1]/p[4]::367" xml:id="UID-FAKE-12105">
+        <rs ana="https://topostext.org/place/380237SRAu"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 46</head>
+      <p>The ancient image of Athena Alea, and with it the tusks of the Calydonian Boar, were carried away by the Roman emperor Augustus after his defeat of Antonius and his allies, among whom were all the Arcadians except the Mantineans.</p>
+      <p>It is clear that Augustus was not the first to carry away from the vanquished votive offerings and images of gods, but was only following an old precedent. For when Troy was taken and the Greeks were dividing up the spoils, Sthenelus the son of Capaneus was given the wooden image of Zeus Herkeios; and many years later, when Dorians were migrating to Sicily, Antiphemus the founder of Gela, after the sack of Omphace, a town of the Sicanians, removed to Gela an image made by Daedalus.</p>
+      <p>Xerxes, too, the son of Dareius, the king of Persia, apart from the spoil he carried away from the city of Athens, took besides, as we know, from Brauron the image of Brauronian Artemis, and furthermore, accusing the Milesians of cowardice in a naval engagement against the Athenians in Greek waters, carried away from them the bronze Apollo at Branchidae. This it was to be the lot of Seleucus afterwards to restore to the Milesians, but the Argives down to the present still retain the images they took from Tiryns; one, a wooden image, is by the Hera, the other is kept in the sanctuary of Apollo Lykios.</p>
+      <p>Again, the people of Cyzicus, compelling the people of Proconnesus by war to live at Cyzicus, took away from Proconnesus an image of Mother Dindymene. The image is of gold, and its face is made of hippopotamus teeth instead of ivory. So the emperor Augustus only followed a custom in vogue among the Greeks and barbarians from of old. The image of Athena Alea at Rome is as you enter the Forum made by Augustus.</p>
+      <p>Here then it has been set up, made throughout of ivory, the work of Endoeus. Those in charge of the curiosities say that one of the boar"s tusks has broken off; the remaining one is kept in the gardens of the emperor, in a sanctuary of Dionysus, and is about half a fathom long.</p>
+    </body>
+  </text>
+</TEI>

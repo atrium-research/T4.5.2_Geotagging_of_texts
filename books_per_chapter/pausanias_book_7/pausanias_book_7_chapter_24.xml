@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::22" xml:id="UID-FAKE-9967">
+        <rs ana="https://topostext.org/place/383221PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::239 /TEI[1]/text[1]/body[1]/p[1]::245" xml:id="UID-FAKE-9968">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::14 /TEI[1]/text[1]/body[1]/p[2]::20" xml:id="UID-FAKE-9969">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::105 /TEI[1]/text[1]/body[1]/p[2]::109" xml:id="UID-FAKE-9970">
+        <rs ana="https://topostext.org/place/375224XDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::226 /TEI[1]/text[1]/body[1]/p[2]::232" xml:id="UID-FAKE-9971">
+        <rs ana="https://topostext.org/place/374218SAPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::341 /TEI[1]/text[1]/body[1]/p[2]::347" xml:id="UID-FAKE-9972">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::492 /TEI[1]/text[1]/body[1]/p[2]::496" xml:id="UID-FAKE-9973">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::10 /TEI[1]/text[1]/body[1]/p[3]::25" xml:id="UID-FAKE-9974">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::97 /TEI[1]/text[1]/body[1]/p[3]::103" xml:id="UID-FAKE-9975">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::500 /TEI[1]/text[1]/body[1]/p[3]::508" xml:id="UID-FAKE-9976">
+        <rs ana="https://topostext.org/place/371153IOrt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::13 /TEI[1]/text[1]/body[1]/p[4]::19" xml:id="UID-FAKE-9977">
+        <rs ana="https://topostext.org/place/383221PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::122 /TEI[1]/text[1]/body[1]/p[4]::127" xml:id="UID-FAKE-9978">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::456 /TEI[1]/text[1]/body[1]/p[4]::463" xml:id="UID-FAKE-9979">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::488 /TEI[1]/text[1]/body[1]/p[4]::494" xml:id="UID-FAKE-9980">
+        <rs ana="https://topostext.org/place/383221PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::508 /TEI[1]/text[1]/body[1]/p[4]::519" xml:id="UID-FAKE-9981">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::526 /TEI[1]/text[1]/body[1]/p[4]::537" xml:id="UID-FAKE-9982">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::545 /TEI[1]/text[1]/body[1]/p[4]::551" xml:id="UID-FAKE-9983">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::39 /TEI[1]/text[1]/body[1]/p[5]::46" xml:id="UID-FAKE-9984">
+        <rs ana="https://topostext.org/place/383223WSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::75 /TEI[1]/text[1]/body[1]/p[5]::81" xml:id="UID-FAKE-9985">
+        <rs ana="https://topostext.org/place/383220WPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::111 /TEI[1]/text[1]/body[1]/p[5]::117" xml:id="UID-FAKE-9986">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::151 /TEI[1]/text[1]/body[1]/p[5]::157" xml:id="UID-FAKE-9987">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::169 /TEI[1]/text[1]/body[1]/p[5]::176" xml:id="UID-FAKE-9988">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::206 /TEI[1]/text[1]/body[1]/p[5]::216" xml:id="UID-FAKE-9989">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::244 /TEI[1]/text[1]/body[1]/p[5]::254" xml:id="UID-FAKE-9990">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::312 /TEI[1]/text[1]/body[1]/p[5]::320" xml:id="UID-FAKE-9991">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::324 /TEI[1]/text[1]/body[1]/p[5]::330" xml:id="UID-FAKE-9992">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::354 /TEI[1]/text[1]/body[1]/p[5]::360" xml:id="UID-FAKE-9993">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::378 /TEI[1]/text[1]/body[1]/p[5]::382" xml:id="UID-FAKE-9994">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::387 /TEI[1]/text[1]/body[1]/p[5]::394" xml:id="UID-FAKE-9995">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::424 /TEI[1]/text[1]/body[1]/p[5]::432" xml:id="UID-FAKE-9996">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::470 /TEI[1]/text[1]/body[1]/p[5]::480" xml:id="UID-FAKE-9997">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::498 /TEI[1]/text[1]/body[1]/p[5]::502" xml:id="UID-FAKE-9998">
+        <rs ana="https://topostext.org/place/382268PTeo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::516 /TEI[1]/text[1]/body[1]/p[5]::526" xml:id="UID-FAKE-9999">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::71" xml:id="UID-FAKE-10000">
+        <rs ana="https://topostext.org/place/377273SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::99 /TEI[1]/text[1]/body[1]/p[6]::107" xml:id="UID-FAKE-10001">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::85 /TEI[1]/text[1]/body[1]/p[12]::91" xml:id="UID-FAKE-10002">
+        <rs ana="https://topostext.org/place/382221PHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::250 /TEI[1]/text[1]/body[1]/p[12]::256" xml:id="UID-FAKE-10003">
+        <rs ana="https://topostext.org/place/382221PHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::484 /TEI[1]/text[1]/body[1]/p[12]::490" xml:id="UID-FAKE-10004">
+        <rs ana="https://topostext.org/place/382221PHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::62 /TEI[1]/text[1]/body[1]/p[13]::75" xml:id="UID-FAKE-10005">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::200 /TEI[1]/text[1]/body[1]/p[13]::205" xml:id="UID-FAKE-10006">
+        <rs ana="https://topostext.org/place/382221PHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::322 /TEI[1]/text[1]/body[1]/p[13]::328" xml:id="UID-FAKE-10007">
+        <rs ana="https://topostext.org/place/382221PHel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 7, Chapter 24</head>
+      <p>By the agora at Aegium is a temple shared by Apollo and Artemis in common; and in the agora there is a sanctuary of Artemis, who is represented in the act of shooting an arrow, and also the grave of Talthybius the herald. There is also at Sparta a barrow serving as a tomb to Talthybius, and both cities sacrifice to him as to a hero.</p>
+      <p>By the sea at Aegium is a sanctuary of Aphrodite, and after it one of Poseidon; there is also one of the Kore (Maiden), daughter of Demeter, and one to Zeus Homagyrius (Assembler). Here are images of Zeus, of Aphrodite and of Athena. The surname Homagyrius was given to Zeus because in this place Agamemnon assembled the most eminent men in Greece, in order that they might consult together how to make war on the empire of Priam. Among the claims of Agamemnon to renown is that he destroyed Troy and the cities around her with the forces that followed him originally, without any later reinforcements.</p>
+      <p>Adjoining Zeus Homagyrius is a sanctuary of Demeter Panachaea. The beach, on which the people of Aegium have the sanctuaries I have mentioned, affords a plentiful supply of water from a spring; it is pleasing both to the eye and to the taste. They have also a sanctuary of Soteria (salvation). Her image may be seen by none but the priests, and the following ritual is performed. They take cakes of the district from the goddess and throw them into the sea, saying that they send them to Arethusa at Syracuse.</p>
+      <p>There are at Aegium other images made of bronze, Zeus as a boy and Heracles as a beardless youth, the work of Ageladas of Argos. Priests are elected for them every year, and each of the two images remains at the house of the priest. In a more remote age there was chosen to be priest for Zeus from the boys he who won the prize for beauty. When his beard began to grow the honor for beauty passed to another boy. Such were the customs. Even in my time the Achaean assembly still meets at Aegium, just as the Amphictyons do at Thermopylae and at Delphi.</p>
+      <p>Going on further you come to the river Selinus, and forty stades away from Aegium is a place on the sea called Helice. Here used to be situated a city Helice, where the Ionians had a very holy sanctuary of Heliconian Poseidon. Their worship of Heliconian Poseidon has remained, even after their expulsion by the Achaeans to Athens, and subsequently from Athens to the coasts of Asia. At Miletus too on the way to the spring BiblisYY there is before the city an altar of Heliconian Poseidon, and in Teos likewise the Heliconian has a precinct and an altar, well worth seeing.</p>
+      <p>There are also passages in Homer referring to Helice and the Heliconian Poseidon. But later on the Achaeans of the place removed some suppliants from the sanctuary and killed them. But the wrath of Poseidon visited them without delay; an earthquake promptly struck their land and swallowed up, without leaving a trace for posterity to see, both the buildings and the very site on which the city stood.</p>
+      <p>Warnings, usually the same in all cases, are wont to be sent by the god before violent and far-reaching earthquakes. Either continuous storms of rain or else continuous droughts occur before earthquakes for an unusual length of time, and the weather is unseasonable. In winter it turns too hot, and in summer along with a tendency to haze the orb of the sun presents an unusual color, slightly inclining to red or else to black.</p>
+      <p>Springs of water generally dry up; blasts of wind sometimes swoop upon the land and overturn the trees; occasionally great flames dart across the sky; the shapes of stars too appear such as have never been witnessed before, producing consternation in those that witness them; furthermore there is a violent rumbling of winds beneath the earth — these and many other warnings is the god wont to send before violent earthquakes occur.</p>
+      <p>The shock itself is not of one fixed type, but the original inquirers into such matters and their pupils have been able to discover the following forms of earthquake. The mildest form — that is, if such a calamity admits of mitigation — is when there coincides with the original shock, which levels the buildings with the ground, a shock in the opposite direction, counteracting the first and raising up the buildings already knocked over.</p>
+      <p>In this form of"earthquake pillars may be seen righting themselves which have been almost entirely uprooted, split walls coming together to their original position; beams, dislocated by the shock, go back to their places, and likewise channels, and such-like means of furthering the flow of water, have their cracks cemented better than they could be by human craftsmen. Now the second form of earthquake brings destruction to anything liable to it, and it throws over at once, as it were by a battering-ram, whatever meets the force of its impact.</p>
+      <p>The most destructive kind of earthquake the experts are wont to liken to the symptoms of a man suffering from a non-intermittent fever, the breathing of such a patient being rapid and laboured. There are symptoms of this to be found in many parts of the body, especially at each wrist. In the same way, they say, the earthquake dives directly under buildings and shakes up their foundations, just as molehills come up from the bowels of the earth. It is this sort of shock alone that leaves no trace on the ground that men ever dwelt there.</p>
+      <p>This was the type of earthquake, they say, that on the occasion referred to levelled Helice to the ground, and that it was accompanied by another disaster in the season of winter. The sea flooded a great part of the land, and covered up the whole of Helice all round. Moreover, the tide was so deep in the grove of Poseidon that only the tops of the trees remained visible. What with the sudden earthquake, and the invasion of the sea that accompanied it, the tidal wave swallowed up Helice and every man in it.</p>
+      <p>A similar fate, though different in type, came upon a city on Mount Sipylus, so that it vanished into a chasm. The mountain split, water welled up from the fissure, and the chasm became a lake called Saloe. The ruins of the city were to be seen in the lake, until the water of the torrent hid them from view. The ruins of Helice too are visible, but not so plainly now as they were once, because they are corroded by the salt water.</p>
+    </body>
+  </text>
+</TEI>

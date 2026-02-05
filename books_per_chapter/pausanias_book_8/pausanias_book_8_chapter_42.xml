@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::33" xml:id="UID-FAKE-11921">
+        <rs ana="https://topostext.org/place/374220LEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::67 /TEI[1]/text[1]/body[1]/p[1]::75" xml:id="UID-FAKE-11922">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::119 /TEI[1]/text[1]/body[1]/p[1]::126" xml:id="UID-FAKE-11923">
+        <rs ana="https://topostext.org/place/376219UMel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::140 /TEI[1]/text[1]/body[1]/p[1]::150" xml:id="UID-FAKE-11924">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::187 /TEI[1]/text[1]/body[1]/p[1]::195" xml:id="UID-FAKE-11925">
+        <rs ana="https://topostext.org/place/377219PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::319 /TEI[1]/text[1]/body[1]/p[1]::328" xml:id="UID-FAKE-11926">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::29 /TEI[1]/text[1]/body[1]/p[3]::36" xml:id="UID-FAKE-11927">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::105 /TEI[1]/text[1]/body[1]/p[3]::117" xml:id="UID-FAKE-11928">
+        <rs ana="https://topostext.org/place/374220LEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::350 /TEI[1]/text[1]/body[1]/p[3]::360" xml:id="UID-FAKE-11929">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::111 /TEI[1]/text[1]/body[1]/p[5]::121" xml:id="UID-FAKE-11930">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::299 /TEI[1]/text[1]/body[1]/p[5]::306" xml:id="UID-FAKE-11931">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::0 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-11932">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::46 /TEI[1]/text[1]/body[1]/p[6]::55" xml:id="UID-FAKE-11933">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::9 /TEI[1]/text[1]/body[1]/p[7]::19" xml:id="UID-FAKE-11934">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::150 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-11935">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::221 /TEI[1]/text[1]/body[1]/p[7]::231" xml:id="UID-FAKE-11936">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::380 /TEI[1]/text[1]/body[1]/p[7]::387" xml:id="UID-FAKE-11937">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::400 /TEI[1]/text[1]/body[1]/p[7]::406" xml:id="UID-FAKE-11938">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::417 /TEI[1]/text[1]/body[1]/p[7]::427" xml:id="UID-FAKE-11939">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::42 /TEI[1]/text[1]/body[1]/p[8]::48" xml:id="UID-FAKE-11940">
+        <rs ana="https://topostext.org/place/442277WIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::92 /TEI[1]/text[1]/body[1]/p[8]::100" xml:id="UID-FAKE-11941">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::120 /TEI[1]/text[1]/body[1]/p[8]::126" xml:id="UID-FAKE-11942">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::237 /TEI[1]/text[1]/body[1]/p[8]::245" xml:id="UID-FAKE-11943">
+        <rs ana="https://topostext.org/place/376216BOPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::65 /TEI[1]/text[1]/body[1]/p[9]::72" xml:id="UID-FAKE-11944">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::151 /TEI[1]/text[1]/body[1]/p[9]::159" xml:id="UID-FAKE-11945">
+        <rs ana="https://topostext.org/place/376216BOPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::321 /TEI[1]/text[1]/body[1]/p[9]::330" xml:id="UID-FAKE-11946">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::97 /TEI[1]/text[1]/body[1]/p[10]::103" xml:id="UID-FAKE-11947">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::145 /TEI[1]/text[1]/body[1]/p[10]::151" xml:id="UID-FAKE-11948">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::168 /TEI[1]/text[1]/body[1]/p[10]::173" xml:id="UID-FAKE-11949">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::26 /TEI[1]/text[1]/body[1]/p[11]::33" xml:id="UID-FAKE-11950">
+        <rs ana="https://topostext.org/place/387225SDem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::49 /TEI[1]/text[1]/body[1]/p[11]::57" xml:id="UID-FAKE-11951">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::235 /TEI[1]/text[1]/body[1]/p[11]::243" xml:id="UID-FAKE-11952">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::307 /TEI[1]/text[1]/body[1]/p[12]::317" xml:id="UID-FAKE-11953">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 8, Chapter 42</head>
+      <p>The second mountain, Mount Elaius, is some thirty stades away from Phigalia, and has a cave sacred to Demeter surnamed Melaine (Black). The Phigalians accept the account of the people of Thelpusa about the mating of Poseidon and Demeter, but they assert that Demeter gave birth, not to a horse, but to Despoina, as the Arcadians call her.</p>
+      <p>Afterwards, they say, angry with Poseidon and grieved at the rape of Persephone, she put on black apparel and shut herself up in this cavern for a long time. But when all the fruits of the earth were perishing, and the human race dying yet more through famine, no god, it seemed, knew where Demeter was in hiding,</p>
+      <p>until Pan, they say, visited Arcadia. Roaming from mountain to mountain as he hunted, he came at last to Mount Elaius and spied Demeter, the state she was in and the clothes she wore. So Zeus learnt this from Pan, and sent the Fates to Demeter, who listened to the Fates and laid aside her wrath, moderating her grief as well. For these reasons, the Phigalians say, they concluded that this cavern was sacred to Demeter and set up in it a wooden image.</p>
+      <p>The image, they say, was made after this fashion. It was seated on a rock, like to a woman in all respects save the head. She had the head and hair of a horse, and there grew out of her head images of serpents and other beasts. Her tunic reached right to her feet; on one of her hands was a dolphin, on the other a dove. Now why they had the xoanon made after this fashion is plain to any intelligent man who is learned in traditions. They say that they named her Black because the goddess had black apparel.</p>
+      <p>They cannot relate either who made this xoanon or how it caught fire. But the old image was destroyed, and the Phigalians gave the goddess no fresh image, while they neglected for the most part her festivals and sacrifices, until the barrenness fell on the land. Then they went as suppliants to the Pythian priestess and received this response:</p>
+      <p>Azanian Arcadians, acorn-eaters, who dwell In Phigaleia, the cave that hid Deo, who bare a horse, You have come to learn a cure for grievous famine, Who alone have twice been nomads, alone have twice lived on wild fruits. It was Deo who made you cease from pasturing, Deo who made you pasture again After being binders of corn and eaters of cakes, Because she was deprived of privileges and ancient honors given by men of former times. And soon will she make you eat each other and feed on your children, Unless you appease her anger with libations offered by all your people, And adorn with divine honors the nook of the cave.”</p>
+      <p>When the Phigalians heard the oracle that was brought back, they held Demeter in greater honor than before, and particularly they persuaded Onatas of Aegina, son of Micon, to make them an image of Demeter at a price. The Pergamenes have a bronze Apollo made by this Onatas, a most wonderful marvel both for its size and workmanship. This man then, about two generations after the Persian invasion of Greece, made the Phigalians an image of bronze, guided partly by a picture or copy of the ancient wooden image which he discovered, but mostly (so goes the story) by a vision that he saw in dreams. As to the date, I have the following evidence to produce.</p>
+      <p>At the time when Xerxes crossed over into Europe, Gelon the son of Deinomenes was despot of Syracuse and of the rest of Sicily besides. When Gelon died, the kingdom devolved on his brother Hieron. Hieron died before he could dedicate to Olympian Zeus the offerings he had vowed for his victories in the chariot-race, and so Deinomenes his son paid the debt for his father.</p>
+      <p>These too are works of Onatas, and there are two inscriptions at Olympia. The one over the offering is this: “Having won victories in thy grand games, Olympian Zeus, Once with the four-horse chariot, twice with the race-horse, Hieron bestowed on thee these gifts: his son dedicated them, Deinomenes, as a memorial to his Syracusan father.”</p>
+      <p>The other inscription is: “Onatas, son of Micon, fashioned me, Who had his home in the island of Aegina.” Onatas was contemporary with Hegias of Athens and Ageladas of Argos.</p>
+      <p>It was mainly to see this Demeter that I came to Phigalia. I offered no burnt sacrifice to the goddess, that being a custom of the natives. But the rule for sacrifice by private persons, and at the annual sacrifice by the community of Phigalia, is to offer grapes and other cultivated fruits, with honeycombs and raw wool still full of its grease. These they place on the altar built before the cave, afterwards pouring oil over them.</p>
+      <p>They have a priestess who performs the rites, and with her is the youngest of their “sacrificers,” as they are called, who are citizens, three in number. There is a grove of oaks around the cave, and a cold spring rises from the earth. The image made by Onatas no longer existed in my time, and most of the Phigalians were ignorant that it had ever existed at all.</p>
+      <p>The oldest, however, of the inhabitants I met said that three generations before his time some stones had fallen on the image out of the roof; these crushed the image, destroying it utterly. Indeed, in the roof I could still discern plainly where the stones had broken away.</p>
+    </body>
+  </text>
+</TEI>
