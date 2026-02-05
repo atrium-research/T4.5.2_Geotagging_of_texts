@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::206 /TEI[1]/text[1]/body[1]/p[1]::219" xml:id="UID-FAKE-4860">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::252 /TEI[1]/text[1]/body[1]/p[1]::266" xml:id="UID-FAKE-4861">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::272 /TEI[1]/text[1]/body[1]/p[1]::282" xml:id="UID-FAKE-4862">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::318" xml:id="UID-FAKE-4863">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::345 /TEI[1]/text[1]/body[1]/p[1]::350" xml:id="UID-FAKE-4864">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::355 /TEI[1]/text[1]/body[1]/p[1]::361" xml:id="UID-FAKE-4865">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::367 /TEI[1]/text[1]/body[1]/p[1]::380" xml:id="UID-FAKE-4866">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::411 /TEI[1]/text[1]/body[1]/p[1]::422" xml:id="UID-FAKE-4867">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::424 /TEI[1]/text[1]/body[1]/p[1]::430" xml:id="UID-FAKE-4868">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::118 /TEI[1]/text[1]/body[1]/p[2]::127" xml:id="UID-FAKE-4869">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::132 /TEI[1]/text[1]/body[1]/p[2]::142" xml:id="UID-FAKE-4870">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::277 /TEI[1]/text[1]/body[1]/p[2]::284" xml:id="UID-FAKE-4871">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::289 /TEI[1]/text[1]/body[1]/p[2]::299" xml:id="UID-FAKE-4872">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::420 /TEI[1]/text[1]/body[1]/p[2]::432" xml:id="UID-FAKE-4873">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::361 /TEI[1]/text[1]/body[1]/p[3]::369" xml:id="UID-FAKE-4874">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::96 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-4875">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::177 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-4876">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::240 /TEI[1]/text[1]/body[1]/p[4]::253" xml:id="UID-FAKE-4877">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::25" xml:id="UID-FAKE-4878">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::80 /TEI[1]/text[1]/body[1]/p[5]::93" xml:id="UID-FAKE-4879">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::218 /TEI[1]/text[1]/body[1]/p[5]::231" xml:id="UID-FAKE-4880">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::452 /TEI[1]/text[1]/body[1]/p[5]::465" xml:id="UID-FAKE-4881">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::80 /TEI[1]/text[1]/body[1]/p[6]::88" xml:id="UID-FAKE-4882">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::332 /TEI[1]/text[1]/body[1]/p[6]::341" xml:id="UID-FAKE-4883">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::83 /TEI[1]/text[1]/body[1]/p[7]::92" xml:id="UID-FAKE-4884">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::190 /TEI[1]/text[1]/body[1]/p[7]::203" xml:id="UID-FAKE-4885">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::32 /TEI[1]/text[1]/body[1]/p[8]::44" xml:id="UID-FAKE-4886">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::191 /TEI[1]/text[1]/body[1]/p[8]::202" xml:id="UID-FAKE-4887">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::279 /TEI[1]/text[1]/body[1]/p[8]::286" xml:id="UID-FAKE-4888">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::293 /TEI[1]/text[1]/body[1]/p[8]::299" xml:id="UID-FAKE-4889">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 11</head>
+      <p>In the fifth year of the reign of Aristodemus, being exhausted by the length of the war and by their expenditure, after due notice that a battle would be fought, both sides were joined by their allies, the Lacedemonians by the Corinthians alone of the Peloponnesians, the Messenians by the full muster of"the Arcadians and by picked troops from Argos and Sicyon. The Lacedemonians entrusted their center to the Corinthians, Helots and all the neighboring peoples who were serving with them; they themselves and the kings were posted on the wings in a deeper and closer formation than ever before.</p>
+      <p>The dispositions of Aristodemus and his men were as follows: he selected the most serviceable of the arms for all the Arcadians and Messenians who were physically strong and stout hearted but did not possess powerful weapons, and as the matter was urgent, posted them with the Argives and Sicyonians, extending the line that they might not be surrounded by the enemy. He also took care that they should be drawn up with Mount Ithome in their rear. Placing Cleonnis in command of these troops,</p>
+      <p>he himself and Damis remained in reserve with the light troops consisting of a few slingers or archers, the bulk of the force being physically suited to rapid assaults and retirements and lightly armed. Not all of them possessed a breastplate or shield, but those who lacked them were protected with the skins of goats and sheep, some of them, particularly the Arcadian mountaineers, having the hides of wild beasts, wolves and bears.</p>
+      <p>Each carried several javelins, and some of them spears. While these were in ambush in a part of Ithome where they were least likely to be visible, the heavy-armed troops of the Messenians and their allies withstood the first assault of the Lacedemonians, and continued after this to show courage in every way. They were inferior in numbers to the enemy, but were picked men fighting against levies, not selected troops like themselves, and so, by their bravery and training were more able to maintain a lengthy resistance.</p>
+      <p>Then the mobile Messenian force, when the signal was given to them, charged the Lacedemonians and enveloping them threw javelins on their flanks. All who were of higher courage ran in and struck at close quarters. The Lacedemonians, faced simultaneously with a second and unforeseen danger, were not demoralized, but turning on the light troops, tried to defend themselves. But, as the enemy with their light equipment drew off without difficulty, the Lacedemonians were filled with perplexity and, as a consequence, with anger.</p>
+      <p>Men are apt to be most annoyed by what they regard as beneath them. So then the Spartans who had already been wounded and all who after the fall of their comrades were the first to meet the attack of the light troops, ran out to meet them when they saw the light troops advancing and hotly extended the pursuit as they retired. The Messenian light troops maintained their original tactics, striking and shooting at them when they stood still, and outstripping them in flight when they pursued, attacking again as they tried to retire.</p>
+      <p>They did this in separate parties and at different points of the enemy"s line. The Messenian heavy-armed and their allies meantime pressed more boldly on the troops facing them. Finally the Lacedemonians, worn out by the length of the battle and their wounds, and demoralized contrary to their custom by the light troops, broke their ranks. When they had been routed, the light troops inflicted greater damage on them.</p>
+      <p>It was impossible to reckon the Lacedemonian losses in the battle, but I for my part am convinced that they were heavy. The rest made their retreat homewards without molestation, but for the Corinthians it was likely to be difficult, for whether they tried to retire through the Argolid or by Sicyon, in either case it was through enemy country.</p>
+    </body>
+  </text>
+</TEI>

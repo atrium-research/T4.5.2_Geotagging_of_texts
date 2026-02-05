@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::47 /TEI[1]/text[1]/body[1]/p[1]::54" xml:id="UID-FAKE-5958">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::76 /TEI[1]/text[1]/body[1]/p[1]::87" xml:id="UID-FAKE-5959">
+        <rs ana="https://topostext.org/place/370217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::98 /TEI[1]/text[1]/body[1]/p[1]::103" xml:id="UID-FAKE-5960">
+        <rs ana="https://topostext.org/place/370217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::173 /TEI[1]/text[1]/body[1]/p[1]::180" xml:id="UID-FAKE-5961">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::185 /TEI[1]/text[1]/body[1]/p[1]::192" xml:id="UID-FAKE-5962">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::288 /TEI[1]/text[1]/body[1]/p[1]::298" xml:id="UID-FAKE-5963">
+        <rs ana="https://topostext.org/place/398223UPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::302 /TEI[1]/text[1]/body[1]/p[1]::308" xml:id="UID-FAKE-5964">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::379 /TEI[1]/text[1]/body[1]/p[1]::384" xml:id="UID-FAKE-5965">
+        <rs ana="https://topostext.org/place/373216PPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::388 /TEI[1]/text[1]/body[1]/p[1]::392" xml:id="UID-FAKE-5966">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::429 /TEI[1]/text[1]/body[1]/p[1]::434" xml:id="UID-FAKE-5967">
+        <rs ana="https://topostext.org/place/373216PPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::27 /TEI[1]/text[1]/body[1]/p[2]::33" xml:id="UID-FAKE-5968">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::49 /TEI[1]/text[1]/body[1]/p[2]::59" xml:id="UID-FAKE-5969">
+        <rs ana="https://topostext.org/place/370217CNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::202 /TEI[1]/text[1]/body[1]/p[2]::207" xml:id="UID-FAKE-5970">
+        <rs ana="https://topostext.org/place/370217XNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::31 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-5971">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::238 /TEI[1]/text[1]/body[1]/p[3]::246" xml:id="UID-FAKE-5972">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::669 /TEI[1]/text[1]/body[1]/p[3]::676" xml:id="UID-FAKE-5973">
+        <rs ana="https://topostext.org/place/390000RIbe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::35 /TEI[1]/text[1]/body[1]/p[4]::41" xml:id="UID-FAKE-5974">
+        <rs ana="https://topostext.org/place/380126UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::95 /TEI[1]/text[1]/body[1]/p[4]::103" xml:id="UID-FAKE-5975">
+        <rs ana="https://topostext.org/place/393233IEut"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::212 /TEI[1]/text[1]/body[1]/p[4]::217" xml:id="UID-FAKE-5976">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::108 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-5977">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::265 /TEI[1]/text[1]/body[1]/p[5]::270" xml:id="UID-FAKE-5978">
+        <rs ana="https://topostext.org/place/373216PPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::14 /TEI[1]/text[1]/body[1]/p[6]::24" xml:id="UID-FAKE-5979">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::68" xml:id="UID-FAKE-5980">
+        <rs ana="https://topostext.org/place/374252PRhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::90 /TEI[1]/text[1]/body[1]/p[6]::95" xml:id="UID-FAKE-5981">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::201 /TEI[1]/text[1]/body[1]/p[6]::207" xml:id="UID-FAKE-5982">
+        <rs ana="https://topostext.org/place/383248LKap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::255 /TEI[1]/text[1]/body[1]/p[6]::261" xml:id="UID-FAKE-5983">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::298 /TEI[1]/text[1]/body[1]/p[6]::302" xml:id="UID-FAKE-5984">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::362 /TEI[1]/text[1]/body[1]/p[6]::370" xml:id="UID-FAKE-5985">
+        <rs ana="https://topostext.org/place/379236IPsy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::397 /TEI[1]/text[1]/body[1]/p[6]::409" xml:id="UID-FAKE-5986">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::423 /TEI[1]/text[1]/body[1]/p[6]::433" xml:id="UID-FAKE-5987">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::460 /TEI[1]/text[1]/body[1]/p[6]::469" xml:id="UID-FAKE-5988">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::519 /TEI[1]/text[1]/body[1]/p[6]::528" xml:id="UID-FAKE-5989">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::560 /TEI[1]/text[1]/body[1]/p[6]::570" xml:id="UID-FAKE-5990">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::5 /TEI[1]/text[1]/body[1]/p[7]::16" xml:id="UID-FAKE-5991">
+        <rs ana="https://topostext.org/place/372217PKyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::33 /TEI[1]/text[1]/body[1]/p[7]::38" xml:id="UID-FAKE-5992">
+        <rs ana="https://topostext.org/place/370217XNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::219 /TEI[1]/text[1]/body[1]/p[7]::230" xml:id="UID-FAKE-5993">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::263 /TEI[1]/text[1]/body[1]/p[7]::274" xml:id="UID-FAKE-5994">
+        <rs ana="https://topostext.org/place/372217PKyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::282 /TEI[1]/text[1]/body[1]/p[7]::288" xml:id="UID-FAKE-5995">
+        <rs ana="https://topostext.org/place/374218SAPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::304 /TEI[1]/text[1]/body[1]/p[7]::314" xml:id="UID-FAKE-5996">
+        <rs ana="https://topostext.org/place/372217PKyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::341 /TEI[1]/text[1]/body[1]/p[7]::346" xml:id="UID-FAKE-5997">
+        <rs ana="https://topostext.org/place/373218PAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::420 /TEI[1]/text[1]/body[1]/p[7]::424" xml:id="UID-FAKE-5998">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::455 /TEI[1]/text[1]/body[1]/p[7]::463" xml:id="UID-FAKE-5999">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::468 /TEI[1]/text[1]/body[1]/p[7]::472" xml:id="UID-FAKE-6000">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 36</head>
+      <p>It is a journey of about a hundred stades from Mothone to the promontory of Coryphasium, on which Pylos lies. This was founded by Pylos the son of Cleson, bringing from the Megarid the Leleges who then occupied the country. But he did not enjoy it, as he was driven out by Neleus and the Pelasgians of Iolcos, on which he departed to the adjoining country and there occupied the Pylos in Elis. When Neleus became king, he raised Pylos to such renown that Homer in his epics calls it the city of Neleus.</p>
+      <p>It contains a sanctuary of Athena with the title Coryphasia, and a house called the house of Nestor, in which there is a painting of him. His tomb is inside the city; the tomb at a little distance from Pylos is said to be the tomb of Thrasymedes. There is a cave inside the town, in which it is said that the cattle belonging to Nestor and to Neleus before him were kept.</p>
+      <p>These cattle must have been of Thessalian stock, having once belonged to Iphiclus the father of Protesilaus. Neleus demanded these cattle as bride gifts for his daughter from her suitors, and it was on their account that Melampus went to Thessaly to gratify his brother Bias. He was put in bonds by the herdsmen of Iphiclus, but received them as his reward for the prophecies which he gave to Iphiclus at his request. So it seems the men of those days made it their business to amass wealth of this kind, herds of horses and cattle, if it is the case that Nestor desired to get possession of the cattle of Iphiclus and that Eurystheus, in view of the reputation of the Iberian cattle, ordered Heracles to drive off the herd of Geryones.</p>
+      <p>Eryx too, who was reigning then in Sicily, plainly had so violent a desire for the cattle from Erytheia that he wrestled with Heracles, staking his kingdom on the match against these cattle. As Homer says in the Iliad, a hundred kine were the first of the bride gifts paid by Iphidamas the son of Antenor to his bride"s father. This confirms my argument that the men of those days took the greatest pleasure in cattle.</p>
+      <p>But the cattle of Neleus were pastured for the most part across the border, I think. For the country of the Pylians in general is sandy and unable to provide so much grazing. Homer testifies to this, when he mentions Nestor, always adding that he was king of sandy Pylos.</p>
+      <p>The island of Sphacteria lies in front of the harbor just as Rheneia off the anchorage at Delos. It seems that places hitherto unknown have been raised to fame by the fortunes of men. For Caphereus in Euboea is famous since the storm that here befell the Greeks with Agamemnon on their voyage from Troy. Psyttaleia by Salamis we know from the destruction of the Persians there. In like manner the Lacedemonian reverse made Sphacteria known to all mankind. The Athenians dedicated a bronze statue of Victory also on the Acropolis as a memorial of the events at Sphacteria.</p>
+      <p>When Cyparissiae is reached from Pylos, there is a spring below the city near the sea, the water of which they say gushed forth for Dionysus when he struck he ground with a thyrsus. For this reason they call the spring DionysiasYY. There is a shrine of Apollo in Cyparissiae and of Athena with the title Cyparissia. In the depression called Aulon there is a temple and statue of Asclepius Aulonius. Here flows the river Neda, forming the boundary between Messenia and Elis.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::8 /TEI[1]/text[1]/body[1]/p[1]::18" xml:id="UID-FAKE-4934">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::37 /TEI[1]/text[1]/body[1]/p[1]::43" xml:id="UID-FAKE-4935">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::48 /TEI[1]/text[1]/body[1]/p[1]::53" xml:id="UID-FAKE-4936">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::75 /TEI[1]/text[1]/body[1]/p[1]::84" xml:id="UID-FAKE-4937">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::217 /TEI[1]/text[1]/body[1]/p[1]::224" xml:id="UID-FAKE-4938">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::17" xml:id="UID-FAKE-4939">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::30 /TEI[1]/text[1]/body[1]/p[2]::36" xml:id="UID-FAKE-4940">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::66 /TEI[1]/text[1]/body[1]/p[3]::71" xml:id="UID-FAKE-4941">
+        <rs ana="https://topostext.org/place/367222PAsi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::104 /TEI[1]/text[1]/body[1]/p[3]::111" xml:id="UID-FAKE-4942">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::126 /TEI[1]/text[1]/body[1]/p[3]::134" xml:id="UID-FAKE-4943">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::281 /TEI[1]/text[1]/body[1]/p[3]::287" xml:id="UID-FAKE-4944">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::319 /TEI[1]/text[1]/body[1]/p[3]::325" xml:id="UID-FAKE-4945">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-4946">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::263 /TEI[1]/text[1]/body[1]/p[4]::269" xml:id="UID-FAKE-4947">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::370 /TEI[1]/text[1]/body[1]/p[4]::377" xml:id="UID-FAKE-4948">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::57 /TEI[1]/text[1]/body[1]/p[5]::67" xml:id="UID-FAKE-4949">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::21 /TEI[1]/text[1]/body[1]/p[6]::31" xml:id="UID-FAKE-4950">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::65 /TEI[1]/text[1]/body[1]/p[6]::78" xml:id="UID-FAKE-4951">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::138 /TEI[1]/text[1]/body[1]/p[6]::149" xml:id="UID-FAKE-4952">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::37 /TEI[1]/text[1]/body[1]/p[7]::45" xml:id="UID-FAKE-4953">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::84 /TEI[1]/text[1]/body[1]/p[7]::91" xml:id="UID-FAKE-4954">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::175 /TEI[1]/text[1]/body[1]/p[7]::185" xml:id="UID-FAKE-4955">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::370 /TEI[1]/text[1]/body[1]/p[7]::381" xml:id="UID-FAKE-4956">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::409 /TEI[1]/text[1]/body[1]/p[7]::417" xml:id="UID-FAKE-4957">
+        <rs ana="https://topostext.org/place/399225UOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::427 /TEI[1]/text[1]/body[1]/p[7]::437" xml:id="UID-FAKE-4958">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::14" xml:id="UID-FAKE-4959">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::78 /TEI[1]/text[1]/body[1]/p[8]::89" xml:id="UID-FAKE-4960">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::127 /TEI[1]/text[1]/body[1]/p[8]::137" xml:id="UID-FAKE-4961">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::177 /TEI[1]/text[1]/body[1]/p[8]::183" xml:id="UID-FAKE-4962">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::278 /TEI[1]/text[1]/body[1]/p[8]::288" xml:id="UID-FAKE-4963">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::513 /TEI[1]/text[1]/body[1]/p[8]::522" xml:id="UID-FAKE-4964">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 14</head>
+      <p>All the Messenians who had ties with Sicyon and Argos and among any of the Arcadians retired to these states, but those who belonged to the family of the Priests and performed the mysteries of the Great Goddesses, to Eleusis. The majority of the common people were scattered in their native towns, as before.</p>
+      <p>The Lacedemonians first razed Ithome to the ground, then attacked and captured the remaining towns. Of the spoils they dedicated bronze tripods to the god of Amyclae. A statue of Aphrodite stands under the first tripod, of Artemis under the second, of Kore or Demeter under the third.</p>
+      <p>Dedicating these offerings at Amyclae, they gave to the people of Asine, who had been driven out by the Argives, that part of Messenia on the coast which they still occupy; to the descendants of Androcles (he had a daughter, who with her children had fled at his death and come to Sparta) they assigned the part called Hyamia.</p>
+      <p>The Messenians themselves were treated in this way: First they exacted an oath that they would never rebel or attempt any kind of revolution. Secondly, though no fixed tribute was imposed on them, they used to bring the half of all the produce of their fields to Sparta. It was also ordained that for the funerals of the kings and other magistrates men should come from Messene with their wives in black garments, and a penalty was laid on those who disobeyed.</p>
+      <p>As to the wanton punishments which they inflicted on the Messenians, this is what is said in Tyrtaeus"poems: “Like asses worn by their great burdens, bringing of dire necessity to their masters the half of all the fruits the corn-land bears. That they were compelled to share their mourning, he shows by the following: “Wailing for their masters, they and their wives alike, whensoever the baneful doom of death came upon any. Tyrtaeus, unknown location.</p>
+      <p>In these straits the Messenians, foreseeing no kindness from the Lacedemonians, and thinking death in battle or a complete migration from Peloponnese preferable to their present lot, resolved at all costs to revolt. They were incited to this mainly by the younger men, who were still without experience of war but were of high spirit and preferred death in a free country, even though slavery might bring happiness in all else.</p>
+      <p>Of the young men who had grown up in Messenia the best and most numerous were round Andania, and among them was Aristomenes, who to this day is worshipped as a hero among the Messenians. They think that even the circumstances of his birth were notable, for they assert that a spirit or a god united with his mother, Nicoteleia, in the form of a serpent. I know that the Macedonians tell a similar story about Olympias, and the Sicyonians about Aristodama, but there is this difference:</p>
+      <p>The Messenians do not make Aristomenes the son of Heracles or of Zeus, as the Macedonians do with Alexander and Ammon, and the Sicyonians with Aratus and Asclepius. Most of the Greeks say that Pyrrhus was the father of Aristomenes, but I myself know that in their libations the Messenians call him Aristomenes son of NicomedesYY. He then, being in the full vigor of youth and courage, with others of the nobles incited them to revolt. This was not done openly at first, but they sent secretly to Argos and to the Arcadians, to ask if they were ready to help unhesitatingly and no less energetically than in the former war.</p>
+    </body>
+  </text>
+</TEI>

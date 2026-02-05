@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::84 /TEI[1]/text[1]/body[1]/p[1]::92" xml:id="UID-FAKE-4606">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::251 /TEI[1]/text[1]/body[1]/p[1]::259" xml:id="UID-FAKE-4607">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::52 /TEI[1]/text[1]/body[1]/p[2]::56" xml:id="UID-FAKE-4608">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::62 /TEI[1]/text[1]/body[1]/p[2]::72" xml:id="UID-FAKE-4609">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::190 /TEI[1]/text[1]/body[1]/p[2]::198" xml:id="UID-FAKE-4610">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::211 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-4611">
+        <rs ana="https://topostext.org/place/396218PTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::463 /TEI[1]/text[1]/body[1]/p[2]::474" xml:id="UID-FAKE-4612">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::518 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-4613">
+        <rs ana="https://topostext.org/place/369222GTKa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::562 /TEI[1]/text[1]/body[1]/p[2]::568" xml:id="UID-FAKE-4614">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::28 /TEI[1]/text[1]/body[1]/p[3]::38" xml:id="UID-FAKE-4615">
+        <rs ana="https://topostext.org/place/398262UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::90 /TEI[1]/text[1]/body[1]/p[3]::96" xml:id="UID-FAKE-4616">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::126 /TEI[1]/text[1]/body[1]/p[3]::137" xml:id="UID-FAKE-4617">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::216 /TEI[1]/text[1]/body[1]/p[3]::224" xml:id="UID-FAKE-4618">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::325 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-4619">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::342 /TEI[1]/text[1]/body[1]/p[3]::347" xml:id="UID-FAKE-4620">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::399 /TEI[1]/text[1]/body[1]/p[3]::407" xml:id="UID-FAKE-4621">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::107 /TEI[1]/text[1]/body[1]/p[4]::113" xml:id="UID-FAKE-4622">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::148 /TEI[1]/text[1]/body[1]/p[4]::158" xml:id="UID-FAKE-4623">
+        <rs ana="https://topostext.org/place/383233GCoO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::381" xml:id="UID-FAKE-4624">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::433 /TEI[1]/text[1]/body[1]/p[5]::441" xml:id="UID-FAKE-4625">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::29 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-4626">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::69 /TEI[1]/text[1]/body[1]/p[6]::76" xml:id="UID-FAKE-4627">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::148 /TEI[1]/text[1]/body[1]/p[6]::155" xml:id="UID-FAKE-4628">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::261 /TEI[1]/text[1]/body[1]/p[6]::269" xml:id="UID-FAKE-4629">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::289 /TEI[1]/text[1]/body[1]/p[6]::295" xml:id="UID-FAKE-4630">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::372 /TEI[1]/text[1]/body[1]/p[6]::381" xml:id="UID-FAKE-4631">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::70 /TEI[1]/text[1]/body[1]/p[7]::81" xml:id="UID-FAKE-4632">
+        <rs ana="https://topostext.org/place/372220LSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::132 /TEI[1]/text[1]/body[1]/p[7]::139" xml:id="UID-FAKE-4633">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::167 /TEI[1]/text[1]/body[1]/p[7]::172" xml:id="UID-FAKE-4634">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::265 /TEI[1]/text[1]/body[1]/p[7]::270" xml:id="UID-FAKE-4635">
+        <rs ana="https://topostext.org/place/370217XNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::326 /TEI[1]/text[1]/body[1]/p[7]::337" xml:id="UID-FAKE-4636">
+        <rs ana="https://topostext.org/place/372220LSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::145 /TEI[1]/text[1]/body[1]/p[8]::154" xml:id="UID-FAKE-4637">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::158 /TEI[1]/text[1]/body[1]/p[8]::165" xml:id="UID-FAKE-4638">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::177 /TEI[1]/text[1]/body[1]/p[8]::183" xml:id="UID-FAKE-4639">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::393 /TEI[1]/text[1]/body[1]/p[8]::402" xml:id="UID-FAKE-4640">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::215 /TEI[1]/text[1]/body[1]/p[9]::221" xml:id="UID-FAKE-4641">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::313 /TEI[1]/text[1]/body[1]/p[9]::320" xml:id="UID-FAKE-4642">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::450 /TEI[1]/text[1]/body[1]/p[9]::457" xml:id="UID-FAKE-4643">
+        <rs ana="https://topostext.org/place/369222UGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::87 /TEI[1]/text[1]/body[1]/p[10]::93" xml:id="UID-FAKE-4644">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::153 /TEI[1]/text[1]/body[1]/p[10]::160" xml:id="UID-FAKE-4645">
+        <rs ana="https://topostext.org/place/368218UPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::169 /TEI[1]/text[1]/body[1]/p[10]::177" xml:id="UID-FAKE-4646">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::281 /TEI[1]/text[1]/body[1]/p[10]::288" xml:id="UID-FAKE-4647">
+        <rs ana="https://topostext.org/place/368223WPam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::354 /TEI[1]/text[1]/body[1]/p[10]::362" xml:id="UID-FAKE-4648">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::433 /TEI[1]/text[1]/body[1]/p[10]::440" xml:id="UID-FAKE-4649">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 3</head>
+      <p>After the fight about the cattle between the sons of Aphareus and their cousins the Dioscuri, when Lynceus was killed by Polydeuces and Idas met his doom from the lightning, the house of Aphareus was bereft of all male descendants, and the kingdom of Messenia passed to Nestor the son of Neleus, including all the part ruled formerly by Idas, but not that subject to the sons of Asclepius.</p>
+      <p>For they say that the sons of Asclepius who went to Troy were Messenians, Asclepius being the son of Arsinoe, daughter of Leucippus, not the son of Coronis, and they call a desolate spot in Messenia by the name Tricca and quote the lines of Homer, in which Nestor tends Machaon kindly, when he has been wounded by the arrow. He would not have shown such readiness except to a neighbor and king of a kindred people. But the surest warrant for their account of the Asclepiadae is that they point to a tomb of Machaon in Gerenia and to the sanctuary of his sons at Pharae.</p>
+      <p>After the conclusion of the Trojan War and the death of Nestor after his return home, the Dorian expedition and return of the Heracleidae, which took place two generations later, drove the descendants of Nestor from Messenia. This has already formed a part of my account of Tisamenus. I will only add the following: When the Dorians assigned Argos to Temenus, Cresphontes asked them for the land of Messenia, in that he was older than Aristodemus.</p>
+      <p>Aristodemus was now dead, but Cresphontes was vigorously opposed by Theras the son of Autesion, who was of Theban origin and fourth in descent from Polyneices the son of Oedipus. He was at that time guardian of the sons of Aristodemus, being their uncle on the mother"s side, Aristodemus having married a daughter of Autesion, called Argeia. Cresphontes, wishing to obtain Messenia as his portion at all costs, approached Temenus, and having suborned him pretended to leave the decision to the lot.</p>
+      <p>Temenus put the lots of the children of Aristodemus and of Cresphontes into a jar containing water, the terms being that the party whose lot came up first should be the first to choose a portion of the country. Temenus had caused both lots to be made of clay, but for the sons of Aristodemus sun-dried, for Cresphontes baked with fire. So the lot of the sons of Aristodemus was dissolved, and Cresphontes, winning in this way, chose Messenia.</p>
+      <p>The common people of the old Messenians were not dispossessed by the Dorians, but agreed to be ruled by Cresphontes and to divide the land with the Dorians. They were induced to give way to them in this by the suspicion which they felt for their rulers, as the Neleidae were originally of Iolcos. Cresphontes took to wife Merope the daughter of Cypselus, then king of the Arcadians, by whom with other children was born to him Aepytus his youngest.</p>
+      <p>He had the palace, which he and his children were to occupy, built in Stenyclerus. Originally Perieres and the other kings dwelt at Andania, but when Aphareus founded Arene, he and his sons settled there. In the time of Nestor and his descendants the palace was at Pylos, but Cresphontes ordained that the king should live in Stenyclerus. As his government for the most part was directed in favour of the people, the rich rebelled and killed Cresphontes and all his sons except Aepytus.</p>
+      <p>He was still a boy and being brought up by Cypselus, and was the sole survivor of his house. When he reached manhood, he was brought back by the Arcadians to Messene, the other Dorian kings, the sons of Aristodemus and Isthmius, the son of Temenus, helping to restore him. On becoming king, Aepytus punished his father"s murderers and all who had been accessories to the crime. By winning the Messenian nobles to his side by deference, and all who were of the people by gifts, he attained to such honor that his descendants were given the name of Aepytidae instead of Heracleidae.</p>
+      <p>Glaucus, Aepytus"s son and successor, was content to imitate Aepytus in all other matters, both publicly and in his treatment of individuals, but attained to greater piety. For the precinct of Zeus on the summit of Ithome, having been consecrated by Polycaon and Messene, had hitherto received no honor among the Dorians, and it was Glaucus who established this worship among them and he was the first to sacrifice to Machaon the son of Asclepius in Gerenia, and to assign to Messene, the daughter of Triopas, the honors customarily paid to heroes.</p>
+      <p>Isthmius the son of Glaucus built a shrine also to Gorgasus and Nicomachus which is in Pharae. Isthmius had a son Dotadas, who constructed the harbor at Mothone, though Messenia contained others. Sybotas the son of Dotadas established the annual sacrifice by the king to the river Pamisus and also the offering to the hero Eurytus the son of Melaneus at Oechalia before the mysteries of the great Goddesses, which were still held at Andania.</p>
+    </body>
+  </text>
+</TEI>

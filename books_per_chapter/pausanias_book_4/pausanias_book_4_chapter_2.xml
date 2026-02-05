@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::107 /TEI[1]/text[1]/body[1]/p[1]::112" xml:id="UID-FAKE-4576">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::126 /TEI[1]/text[1]/body[1]/p[1]::135" xml:id="UID-FAKE-4577">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::279 /TEI[1]/text[1]/body[1]/p[1]::290" xml:id="UID-FAKE-4578">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::187 /TEI[1]/text[1]/body[1]/p[2]::197" xml:id="UID-FAKE-4579">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::362 /TEI[1]/text[1]/body[1]/p[2]::371" xml:id="UID-FAKE-4580">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::406 /TEI[1]/text[1]/body[1]/p[2]::414" xml:id="UID-FAKE-4581">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::21" xml:id="UID-FAKE-4582">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::71" xml:id="UID-FAKE-4583">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::81 /TEI[1]/text[1]/body[1]/p[3]::89" xml:id="UID-FAKE-4584">
+        <rs ana="https://topostext.org/place/386241UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::156 /TEI[1]/text[1]/body[1]/p[3]::164" xml:id="UID-FAKE-4585">
+        <rs ana="https://topostext.org/place/386241UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::191 /TEI[1]/text[1]/body[1]/p[3]::199" xml:id="UID-FAKE-4586">
+        <rs ana="https://topostext.org/place/386241UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::248 /TEI[1]/text[1]/body[1]/p[3]::257" xml:id="UID-FAKE-4587">
+        <rs ana="https://topostext.org/place/377216PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::276 /TEI[1]/text[1]/body[1]/p[3]::283" xml:id="UID-FAKE-4588">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::296 /TEI[1]/text[1]/body[1]/p[3]::304" xml:id="UID-FAKE-4589">
+        <rs ana="https://topostext.org/place/386241UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::311 /TEI[1]/text[1]/body[1]/p[3]::318" xml:id="UID-FAKE-4590">
+        <rs ana="https://topostext.org/place/386241UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::354" xml:id="UID-FAKE-4591">
+        <rs ana="https://topostext.org/place/384238PEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::408 /TEI[1]/text[1]/body[1]/p[3]::418" xml:id="UID-FAKE-4592">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::488 /TEI[1]/text[1]/body[1]/p[3]::495" xml:id="UID-FAKE-4593">
+        <rs ana="https://topostext.org/place/389218UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::121 /TEI[1]/text[1]/body[1]/p[4]::130" xml:id="UID-FAKE-4594">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::215 /TEI[1]/text[1]/body[1]/p[4]::220" xml:id="UID-FAKE-4595">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::427 /TEI[1]/text[1]/body[1]/p[4]::434" xml:id="UID-FAKE-4596">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::442 /TEI[1]/text[1]/body[1]/p[4]::449" xml:id="UID-FAKE-4597">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::34 /TEI[1]/text[1]/body[1]/p[5]::39" xml:id="UID-FAKE-4598">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::43 /TEI[1]/text[1]/body[1]/p[5]::51" xml:id="UID-FAKE-4599">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::198 /TEI[1]/text[1]/body[1]/p[5]::204" xml:id="UID-FAKE-4600">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::286 /TEI[1]/text[1]/body[1]/p[5]::291" xml:id="UID-FAKE-4601">
+        <rs ana="https://topostext.org/place/373216PPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::73 /TEI[1]/text[1]/body[1]/p[6]::79" xml:id="UID-FAKE-4602">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::215 /TEI[1]/text[1]/body[1]/p[6]::222" xml:id="UID-FAKE-4603">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::396 /TEI[1]/text[1]/body[1]/p[7]::402" xml:id="UID-FAKE-4604">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::411 /TEI[1]/text[1]/body[1]/p[7]::415" xml:id="UID-FAKE-4605">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 2</head>
+      <p>As I was extremely anxious to learn what children were born to Polycaon by Messene, I read the poem called Eoeae and the epic Naupactia, and in addition to these all the genealogies of Cinaethon and Asius. However, they made no reference to this matter, although I know that the Great Eoeae says that Polycaon, the son of Butes, married Euaichme, the daughter of Hyllus, son of Heracles, but it omits all reference to the husband of Messene and to Messene herself.</p>
+      <p>Some time later, as no descendant of Polycaon survived (in my opinion his house lasted for five generations, but no more), they summoned Perieres, the son of Aeolus, as king. To him, the Messenians say, came Melaneus, a good archer and considered for this reason to be a son of Apollo; Perieres assigned to him as a dwelling a part of the country now called the Carnasium, but which then received the name Oechalia, derived, as they say, from the wife of Melaneus.</p>
+      <p>Most matters of Greek history have come to be disputed. The Thessalians say that Eurytium, which today is not inhabited, was formerly a city and was called Oechalia. The account given by the Euboeans agrees with the statements of Creophylus in his Heracleia; and Hecataeus of Miletus stated that Oechalia is in SciusYY, a part of the territory of Eretria. Nevertheless, I think that the whole version of the Messenians is more probable than these, particularly on account of the bones of Eurytus, which my story will deal with later.</p>
+      <p>Perieres had issue by Gorgophone the daughter of Perseus, Aphareus and Leucippus, and after his death they inherited the Messenian kingdom. But Aphareus had the greater authority. On his accession he founded a city Arene, named after the daughter of Oebalus, who was both his wife and sister by the same mother. For Gorgophone was married to Oebalus. The facts regarding her have already been given twice, in my account of the Argolid and of Laconia.</p>
+      <p>Aphareus then founded the city of Arena in Messenia, and received into his house his cousin Neleus the son of Cretheus, son of Aeolus (he was also called a son of Poseidon), when he was driven from Iolcos by Pelias. He gave him the maritime part of the land, where with other towns was Pylos, in which Neleus settled and established his palace.</p>
+      <p>Lycus the son of Pandion also came to Arene, when he too was driven from Athens by his brother Aegeus, and revealed the rites of the Great Goddesses to Aphareus and his children and to his wife Arene; but it was to Andania that he brought the rites and revealed them there, as it was there that Caucon initiated Messene.</p>
+      <p>Of the children born to Aphareus Idas was the elder and more brave, Lynceus the younger; he, if Pindar"s words are credible, possessed eyesight so keen that he saw through the trunk of an oak. We know of no child of Lynceus, but Idas had by Marpessa a daughter Cleopatra, who married Meleager. The writer of the epic Cypria says that the wife of Protesilaus, the first who dared to land when the Greeks reached Troy, was named Polydora, whom he calls a daughter of Meleager the son of Oeneus. If this is correct, these three women, the first of whom was Marpessa, all slew themselves on the death of their husbands.</p>
+    </body>
+  </text>
+</TEI>

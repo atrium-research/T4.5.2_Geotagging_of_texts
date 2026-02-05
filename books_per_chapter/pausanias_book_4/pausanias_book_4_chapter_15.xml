@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::133 /TEI[1]/text[1]/body[1]/p[1]::140" xml:id="UID-FAKE-4965">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::145 /TEI[1]/text[1]/body[1]/p[1]::154" xml:id="UID-FAKE-4966">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::168 /TEI[1]/text[1]/body[1]/p[1]::181" xml:id="UID-FAKE-4967">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::316 /TEI[1]/text[1]/body[1]/p[1]::324" xml:id="UID-FAKE-4968">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::330 /TEI[1]/text[1]/body[1]/p[1]::333" xml:id="UID-FAKE-4969">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::351 /TEI[1]/text[1]/body[1]/p[1]::360" xml:id="UID-FAKE-4970">
+        <rs ana="https://topostext.org/place/381224PHyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::388 /TEI[1]/text[1]/body[1]/p[1]::394" xml:id="UID-FAKE-4971">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::66 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-4972">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::28 /TEI[1]/text[1]/body[1]/p[3]::38" xml:id="UID-FAKE-4973">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::150 /TEI[1]/text[1]/body[1]/p[3]::156" xml:id="UID-FAKE-4974">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::39 /TEI[1]/text[1]/body[1]/p[4]::49" xml:id="UID-FAKE-4975">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::62 /TEI[1]/text[1]/body[1]/p[4]::75" xml:id="UID-FAKE-4976">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::94 /TEI[1]/text[1]/body[1]/p[4]::101" xml:id="UID-FAKE-4977">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::105 /TEI[1]/text[1]/body[1]/p[4]::113" xml:id="UID-FAKE-4978">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::307 /TEI[1]/text[1]/body[1]/p[4]::316" xml:id="UID-FAKE-4979">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::236 /TEI[1]/text[1]/body[1]/p[5]::249" xml:id="UID-FAKE-4980">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::347 /TEI[1]/text[1]/body[1]/p[5]::356" xml:id="UID-FAKE-4981">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::398 /TEI[1]/text[1]/body[1]/p[5]::410" xml:id="UID-FAKE-4982">
+        <rs ana="https://topostext.org/place/371224SACh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::482 /TEI[1]/text[1]/body[1]/p[5]::490" xml:id="UID-FAKE-4983">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::12" xml:id="UID-FAKE-4984">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::73 /TEI[1]/text[1]/body[1]/p[6]::81" xml:id="UID-FAKE-4985">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::124 /TEI[1]/text[1]/body[1]/p[6]::130" xml:id="UID-FAKE-4986">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::205 /TEI[1]/text[1]/body[1]/p[6]::214" xml:id="UID-FAKE-4987">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::253 /TEI[1]/text[1]/body[1]/p[6]::266" xml:id="UID-FAKE-4988">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::316 /TEI[1]/text[1]/body[1]/p[6]::327" xml:id="UID-FAKE-4989">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::557 /TEI[1]/text[1]/body[1]/p[6]::563" xml:id="UID-FAKE-4990">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::26 /TEI[1]/text[1]/body[1]/p[7]::33" xml:id="UID-FAKE-4991">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::-1 /TEI[1]/text[1]/body[1]/p[7]::16" xml:id="UID-FAKE-4992">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::146 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-4993">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::165 /TEI[1]/text[1]/body[1]/p[7]::172" xml:id="UID-FAKE-4994">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::177 /TEI[1]/text[1]/body[1]/p[7]::186" xml:id="UID-FAKE-4995">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::209 /TEI[1]/text[1]/body[1]/p[7]::214" xml:id="UID-FAKE-4996">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::224 /TEI[1]/text[1]/body[1]/p[7]::230" xml:id="UID-FAKE-4997">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::260 /TEI[1]/text[1]/body[1]/p[7]::270" xml:id="UID-FAKE-4998">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::340 /TEI[1]/text[1]/body[1]/p[7]::347" xml:id="UID-FAKE-4999">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::15" xml:id="UID-FAKE-5000">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::49 /TEI[1]/text[1]/body[1]/p[8]::62" xml:id="UID-FAKE-5001">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::80 /TEI[1]/text[1]/body[1]/p[8]::88" xml:id="UID-FAKE-5002">
+        <rs ana="https://topostext.org/place/378218UAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::118 /TEI[1]/text[1]/body[1]/p[8]::125" xml:id="UID-FAKE-5003">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::145 /TEI[1]/text[1]/body[1]/p[8]::150" xml:id="UID-FAKE-5004">
+        <rs ana="https://topostext.org/place/367222PAsi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::-1 /TEI[1]/text[1]/body[1]/p[8]::16" xml:id="UID-FAKE-5005">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::222 /TEI[1]/text[1]/body[1]/p[8]::233" xml:id="UID-FAKE-5006">
+        <rs ana="https://topostext.org/place/372220LSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::237 /TEI[1]/text[1]/body[1]/p[8]::245" xml:id="UID-FAKE-5007">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 15</head>
+      <p>When all their preparations were made for the war, the readiness of their allies exceeding expectation (for now the hatred which the Argives and Arcadians felt for the Lacedemonians had blazed up openly), they revolted in the thirty-ninth year after the capture of Ithome, and in the fourth year of the twenty-third Olympiad [685 BCE], when Icarus of Hyperesia won the short footrace. At Athens the archonship was now of annual tenure, and Tlesias held office.</p>
+      <p>Tyrtaeus has not recorded the names of the kings then reigning in Lacedemon, but Rhianos stated in his epic that Leotychides was king at the time of this war. I cannot agree with him at all on this point. Though Tyrtaeus makes no statement, he may be regarded as having done so by the following; there are lines of his which refer to the first war: “Around it they fought unceasingly for nineteen years, ever maintaining a stout heart, the warrior fathers of our fathers.</p>
+      <p>It is obvious then that the Messenians went to war now in the second generation after the first war, and the sequence of time shows that the kings of Sparta at that time were Anaxander the son of Eurycrates, son of Polydorus, and of the other house Anaxidamus the son of Zeuxidamus, son of Archidamus, son of Theopompus. I go as far as the third in descent from Theopompus, because Archidamus the son of Theopompus died before his father, and the kingdom of Theopompus passed to his grandson, Zeuxidamus. But Leotychides clearly succeeded Demaratus the son of Ariston, Ariston being sixth in descent from Theopompus.</p>
+      <p>In the first year after the revolt the Messenians engaged the Lacedemonians at a place called DeraeYY in Messenia, both sides being without their allies. Neither side won a clear victory, but Aristomenes is said to have achieved more than it seemed that one man could, so that, as he was of the race of the Aepytidae, they were for making him king after the battle. As he declined, they appointed him general with absolute power.</p>
+      <p>It was the view of Aristomenes that any man would be ready to die in battle if he had first done deeds worthy of record, but that it was his own especial task at the very beginning of the war to prove that he had struck terror into the Lacedemonians and that he would be more terrible to them for the future. With this purpose he came by night to Lacedemon and fixed on the temple of Athena of the Brazen House a shield inscribed “The Gift of Aristomenes to the Goddess, taken from Spartans.”</p>
+      <p>The Spartans received an oracle from Delphi that they should procure the Athenian as counsellor. So they sent messengers to Athens to announce the oracle, asking for a man to advise what they must do. The Athenians, who were not anxious either that the Lacedemonians should add to their possessions the best part of Peloponnese without great dangers, or that they themselves should disobey the god, made their plans accordingly. There was a man Tyrtaeus, a teacher of letters, who was considered of poor intellect and was lame in one foot. Him they sent to Sparta. On his arrival he recited his poems in elegiacs and anapaests to the nobles in private and to all whom he could collect.</p>
+      <p>A year after the fight at DeraeYY, both sides being joined by their allies, they prepared to join battle at the Boar"s Tomb, as it is called. The Messenians had the Eleians and Arcadians and also succors from Argos and from Sicyon. They were joined by all the Messenians who had previously been in voluntary exile, together with those from Eleusis, whose hereditary task it was to perform the rites of the Great Goddesses, and the descendants of Androcles. These indeed were their most zealous supporters.</p>
+      <p>The Corinthians came to fight on the side of the Lacedemonians, and some of the Lepreans owing to their hatred of the Eleians. But the people of Asine were bound by oaths to both sides. This spot, the Boar"s Tomb, lies in Stenyclerus of Messenia, and there, as is said, Heracles exchanged oaths with the sons of Neleus over the pieces of a boar.</p>
+    </body>
+  </text>
+</TEI>

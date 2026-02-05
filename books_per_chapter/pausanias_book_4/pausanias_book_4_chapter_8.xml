@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::85 /TEI[1]/text[1]/body[1]/p[1]::95" xml:id="UID-FAKE-4778">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::108 /TEI[1]/text[1]/body[1]/p[1]::121" xml:id="UID-FAKE-4779">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::233 /TEI[1]/text[1]/body[1]/p[1]::246" xml:id="UID-FAKE-4780">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::171 /TEI[1]/text[1]/body[1]/p[2]::181" xml:id="UID-FAKE-4781">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::222 /TEI[1]/text[1]/body[1]/p[2]::228" xml:id="UID-FAKE-4782">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::387 /TEI[1]/text[1]/body[1]/p[2]::394" xml:id="UID-FAKE-4783">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::513 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-4784">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::4 /TEI[1]/text[1]/body[1]/p[3]::17" xml:id="UID-FAKE-4785">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::186 /TEI[1]/text[1]/body[1]/p[3]::193" xml:id="UID-FAKE-4786">
+        <rs ana="https://topostext.org/place/383243RDry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::197 /TEI[1]/text[1]/body[1]/p[3]::202" xml:id="UID-FAKE-4787">
+        <rs ana="https://topostext.org/place/375229PAsi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::277 /TEI[1]/text[1]/body[1]/p[3]::284" xml:id="UID-FAKE-4788">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::315 /TEI[1]/text[1]/body[1]/p[3]::324" xml:id="UID-FAKE-4789">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::372 /TEI[1]/text[1]/body[1]/p[3]::381" xml:id="UID-FAKE-4790">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::408 /TEI[1]/text[1]/body[1]/p[3]::414" xml:id="UID-FAKE-4791">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-4792">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::242 /TEI[1]/text[1]/body[1]/p[4]::255" xml:id="UID-FAKE-4793">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-4794">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::88 /TEI[1]/text[1]/body[1]/p[6]::98" xml:id="UID-FAKE-4795">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::234 /TEI[1]/text[1]/body[1]/p[6]::244" xml:id="UID-FAKE-4796">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::282 /TEI[1]/text[1]/body[1]/p[8]::287" xml:id="UID-FAKE-4797">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::420 /TEI[1]/text[1]/body[1]/p[8]::431" xml:id="UID-FAKE-4798">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::345 /TEI[1]/text[1]/body[1]/p[9]::354" xml:id="UID-FAKE-4799">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::489 /TEI[1]/text[1]/body[1]/p[9]::501" xml:id="UID-FAKE-4800">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::14 /TEI[1]/text[1]/body[1]/p[10]::23" xml:id="UID-FAKE-4801">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::237 /TEI[1]/text[1]/body[1]/p[10]::247" xml:id="UID-FAKE-4802">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::288 /TEI[1]/text[1]/body[1]/p[10]::301" xml:id="UID-FAKE-4803">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::14 /TEI[1]/text[1]/body[1]/p[11]::27" xml:id="UID-FAKE-4804">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::352 /TEI[1]/text[1]/body[1]/p[11]::365" xml:id="UID-FAKE-4805">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::387 /TEI[1]/text[1]/body[1]/p[11]::396" xml:id="UID-FAKE-4806">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::157 /TEI[1]/text[1]/body[1]/p[12]::171" xml:id="UID-FAKE-4807">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::205 /TEI[1]/text[1]/body[1]/p[12]::214" xml:id="UID-FAKE-4808">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::235 /TEI[1]/text[1]/body[1]/p[12]::242" xml:id="UID-FAKE-4809">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::250 /TEI[1]/text[1]/body[1]/p[12]::262" xml:id="UID-FAKE-4810">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 8</head>
+      <p>Such were the words of Euphaes. When the leaders on either side gave the signal, the Messenians charged the Lacedemonians recklessly like men eager for death in their wrath, each one of them eager to be the first to join battle. The Lacedemonians also advanced to meet them eagerly, but were careful not to break their ranks.</p>
+      <p>When they were about to come to close quarters, they threatened one another by brandishing their arms and with fierce looks, and fell to recriminations, these calling the Messenians already their slaves, no freer than the Helots; the others answering that they were impious in their undertaking, who for the sake of gain attacked their kinsmen and outraged all the ancestral gods of the Dorians, and Heracles above all. And now with their taunts they come to deeds, mass thrusting against mass, especially on the Lacedemonian side, and man attacking man.</p>
+      <p>The Lacedemonians were far superior both in tactics and training, and also in numbers, for they had with them the neighboring peoples already reduced and serving in their ranks, and the Dryopes of Asine, who a generation earlier had been driven out of their own country by the Argives and had come as suppliants to Lacedemon, were forced to serve in the army. Against the Messenian light-armed they employed Cretan archers as mercenaries.</p>
+      <p>The Messenians were inspired alike by desperation and readiness to face death, regarding all their sufferings as necessary rather than terrible to men who honored their country, and exaggerating their achievements and the consequences to the Lacedemonians. Some of them leapt forth from the ranks, displaying glorious deeds of valor, in others fatally wounded and scarce breathing the frenzy of despair still reigned.</p>
+      <p>They encouraged one another, the living and unwounded urging the stricken before their last moment came to sell their lives as dearly as they could and accept their fate with joy. And the wounded, when they felt their strength ebbing and breath failing, urged the unwounded to prove themselves no less valorous than they and not to render their death of no avail to their fatherland.</p>
+      <p>The Lacedemonians refrained from exhorting one another, and were less inclined than the Messenians to engage in striking deeds of valor. As they were versed in warfare from boyhood, they employed a deeper formation and hoped that the Messenians would not endure the contest for so long as they, or sustain the toil of battle or wounds.</p>
+      <p>These were the differences in both sets of combatants in action and in feeling; but on both sides alike the conquered made no appeals or promises of ransom, perhaps in their enmity despairing of getting quarter, but mainly because they scorned to disgrace their previous achievements. The victorious refrained alike from boasting and from taunts, neither side having yet sure hopes of victory. The most remarkable was the death of those who tried to strip any of the fallen. For if they exposed any part of their bodies, they were struck with javelins or were struck down while intent on their present occupation, or were killed by those whom they were plundering who still lived.</p>
+      <p>The kings fought in a manner that deserves mention. Theopompus rushed wildly forward to slay Euphaes himself. Euphaes, seeing him advancing, said to Antander that the action of Theopompus was no different from the attempt of his ancestor Polyneices; for Polyneices led an army from Argos against his fatherland, and slaying his brother with his own hand was slain by him. Theopompus was ready to involve the race of the Heracleidae in pollution as great as that of the house of Laius and Oedipus, but he would not leave the field unscathed. With these words he too advanced.</p>
+      <p>Thereupon the battle, though the combatants had wearied, everywhere broke out again in full force. Their strength was renewed and recklessness of death heightened on both sides, so that it might have been thought that they were engaging for the first time. Finally Euphaes and his men in a frenzy of despair that was near to madness (for picked Messenian troops formed the whole of the king"s bodyguard), overpowering the enemy by their valor, drove back Theopompus himself and routed the Lacedemonian troops opposed to them.</p>
+      <p>But the other Messenian wing was in difficulties, for the general PytharatuYY had been killed, and the men, without a commander, were fighting in a disorganized and confused manner, though not without heart. Polydorus did not pursue the Messenians when they gave way, nor Euphaes"men the Lacedemonians. It seemed better to him and his men to support the defeated wing; they did not, however, engage with Polydorus"force, for darkness had already descended on the field;</p>
+      <p>moreover, the Lacedemonians were prevented from following the retiring force further not least by their ignorance of the country. Also it was an ancient practice with them not to carry out a pursuit too quickly, as they were more careful about maintaining their formation than about slaying the flying. In the center, where Euryleon was commanding the Lacedemonians, and Cleonnis on the Messenian side, the contest was undecided; the coming of night separated them here also.</p>
+      <p>This battle was fought principally or entirely by the heavy-armed troops on both sides. The mounted men were few and achieved nothing worth mention; for the Peloponnesians were not good horsemen then. The Messenian light-armed and the Cretans on the Lacedemonian side did not engage at all; for on both sides according to the ancient practice they were posted in reserve to their own infantry.</p>
+      <p>The following day neither side was minded to begin battle or to be the first to set up a trophy, but as the day advanced they made proposals for taking up the dead; when this was agreed on both sides, they proceeded to bury them.</p>
+    </body>
+  </text>
+</TEI>

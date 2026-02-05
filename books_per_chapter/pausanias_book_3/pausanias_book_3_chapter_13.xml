@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::293 /TEI[1]/text[1]/body[1]/p[1]::299" xml:id="UID-FAKE-3863">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::430 /TEI[1]/text[1]/body[1]/p[1]::438" xml:id="UID-FAKE-3864">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::25 /TEI[1]/text[1]/body[1]/p[2]::35" xml:id="UID-FAKE-3865">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::76 /TEI[1]/text[1]/body[1]/p[2]::88" xml:id="UID-FAKE-3866">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::259 /TEI[1]/text[1]/body[1]/p[2]::267" xml:id="UID-FAKE-3867">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::268 /TEI[1]/text[1]/body[1]/p[2]::277" xml:id="UID-FAKE-3868">
+        <rs ana="https://topostext.org/place/364282SAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::282 /TEI[1]/text[1]/body[1]/p[2]::295" xml:id="UID-FAKE-3869">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::425 /TEI[1]/text[1]/body[1]/p[2]::437" xml:id="UID-FAKE-3870">
+        <rs ana="https://topostext.org/place/520255LRhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::67 /TEI[1]/text[1]/body[1]/p[3]::73" xml:id="UID-FAKE-3871">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::104 /TEI[1]/text[1]/body[1]/p[3]::115" xml:id="UID-FAKE-3872">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::273 /TEI[1]/text[1]/body[1]/p[3]::280" xml:id="UID-FAKE-3873">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::372 /TEI[1]/text[1]/body[1]/p[3]::378" xml:id="UID-FAKE-3874">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::62 /TEI[1]/text[1]/body[1]/p[4]::69" xml:id="UID-FAKE-3875">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::92 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-3876">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::235 /TEI[1]/text[1]/body[1]/p[4]::242" xml:id="UID-FAKE-3877">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::356 /TEI[1]/text[1]/body[1]/p[4]::363" xml:id="UID-FAKE-3878">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::384 /TEI[1]/text[1]/body[1]/p[4]::394" xml:id="UID-FAKE-3879">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::428 /TEI[1]/text[1]/body[1]/p[4]::440" xml:id="UID-FAKE-3880">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::523 /TEI[1]/text[1]/body[1]/p[4]::531" xml:id="UID-FAKE-3881">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::560 /TEI[1]/text[1]/body[1]/p[4]::566" xml:id="UID-FAKE-3882">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::54 /TEI[1]/text[1]/body[1]/p[5]::60" xml:id="UID-FAKE-3883">
+        <rs ana="https://topostext.org/place/352248CIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::151 /TEI[1]/text[1]/body[1]/p[5]::161" xml:id="UID-FAKE-3884">
+        <rs ana="https://topostext.org/place/397268LIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::220 /TEI[1]/text[1]/body[1]/p[5]::226" xml:id="UID-FAKE-3885">
+        <rs ana="https://topostext.org/place/395261USmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::244 /TEI[1]/text[1]/body[1]/p[5]::260" xml:id="UID-FAKE-3886">
+        <rs ana="https://topostext.org/place/395261USmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::13 /TEI[1]/text[1]/body[1]/p[6]::20" xml:id="UID-FAKE-3887">
+        <rs ana="https://topostext.org/place/380237SZPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::27 /TEI[1]/text[1]/body[1]/p[7]::33" xml:id="UID-FAKE-3888">
+        <rs ana="https://topostext.org/place/371224SDiK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::150 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-3889">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::414 /TEI[1]/text[1]/body[1]/p[7]::420" xml:id="UID-FAKE-3890">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::426 /TEI[1]/text[1]/body[1]/p[7]::432" xml:id="UID-FAKE-3891">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::17 /TEI[1]/text[1]/body[1]/p[8]::25" xml:id="UID-FAKE-3892">
+        <rs ana="https://topostext.org/place/371224SDiK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::600 /TEI[1]/text[1]/body[1]/p[8]::607" xml:id="UID-FAKE-3893">
+        <rs ana="https://topostext.org/place/371224WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::243 /TEI[1]/text[1]/body[1]/p[9]::250" xml:id="UID-FAKE-3894">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 13</head>
+      <p>Hard by is the grave of Cynortas son of Amyclas, together with the tomb of Castor, and over the tomb there has also been made a sanctuary, for they say that it was not before the fortieth year after the fight with Idas and Lynceus that divine honors were paid to the sons of Tyndareus. By the Canopy is also shown the grave of Idas and Lynceus. Now it fits in best with their history to hold that they were buried not here but in Messenia.</p>
+      <p>But the disasters of the Messenians, and the length of their exile from the Peloponnesus, even after their return wrapped in darkness much of their ancient history, and their ignorance makes it easy for any who wish to dispute a claim with them. Opposite the Olympian Aphrodite the Lacedemonians have a temple of the Saviour Kore. Some say that it was made by Orpheus the Thracian, others by Abaris when he had come from the Hyperboreans.</p>
+      <p>Carneus, whom they surname “Oiketas” (of the House), had honors in Sparta even before the return of the Heracleidae, his seat being in the house of a seer, Crius (Ram) the son of TheoclesYY. The daughter of this Crius was met as she was filling her pitcher by spies of the Dorians, who entered into conversation with her, visited Crius and learned from him how to capture Sparta.</p>
+      <p>The cult of Apollo Carneus has been established among all the Dorians ever since Carnus, an Acarnanian by birth, who was a seer of Apollo. When he was killed by Hippotes the son of Phylas, the wrath of Apollo fell upon the camp of the Dorians Hippotes went into banishment because of the bloodguilt, and from this time the custom was established among the Dorians of propitiating the Acarnanian seer. But this Carnus is not the Lacedemonian Carneus of the House, who was worshipped in the house of Crius the seer while the Achaeans were still in possession of Sparta.</p>
+      <p>The poetess Praxilla represents Carneus as the son of Europa and Zeus, Apollo and Leto being his nurses. There is also another account of the name; in Trojan Ida there grew, in a grove of Apollo, cornel-trees, which the Greeks cut down to make the Wooden Horse. Learning that the god was wroth with them they propitiated him with sacrifices and named Apollo Carneus from the cornel-tree (craneia), a custom prevalent in the olden time making them transpose the r and the a.</p>
+      <p>Not far from Carneus is what is called the image of Aphetaeus. Here they say was the starting-place of the race run by the suitors of Penelope. There is a place having its porticoes in the form of a square, where of old stuff used to be sold to the people. By this is an altar of Zeus Amboulios (Counsellor) and of Athena Amboulia, also of the Dioscuri, likewise surnamed Counsellors.</p>
+      <p>Opposite is what is called Kolona, with a temple of Dionysus Kolonatas, by which is a precinct of the hero who they say guided Dionysus on the way to Sparta. To this hero sacrifices are offered before they are offered to the god by the daughters of Dionysus and the daughters of Leucippus. For the other eleven ladies who are named Dionysiades [daughters of Dionysus] there is held a footrace; this custom came to Sparta from Delphi.</p>
+      <p>Not far from the Dionysus is a sanctuary of Zeus Euanemos (of Fair Wind), on the right of which is a hero-shrine of Pleuron. The sons of Tyndareus were descended on their mother"s side from Pleuron, for Asius in his poem says that Thestius the father of Leda was the son of Agenor the son of Pleuron. Not far from the hero-shrine is a hill, and on the hill a temple of Argive Hera, set up, they say, by Eurydice, the daughter of Lacedemon and the wife of Acrisius the son of Abas. An oracular utterance caused to be built a sanctuary of Hera Hypercheiria (she whose hand is above) at a time when the Eurotas was flooding a great part of the land.</p>
+      <p>An old xoanon they call that of Aphrodite Hera. A mother is wont to sacrifice to the goddess when a daughter is married. On the road to the right of the hill is a statue of Hetoemocles. Both Hetoemocles himself and his father Hipposthenes won Olympic victories for wrestling the two together won eleven, but Hipposthenes succeeded in beating his son by one victory.</p>
+    </body>
+  </text>
+</TEI>

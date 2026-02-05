@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::12 /TEI[1]/text[1]/body[1]/p[1]::16" xml:id="UID-FAKE-5104">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::46 /TEI[1]/text[1]/body[1]/p[1]::54" xml:id="UID-FAKE-5105">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::90 /TEI[1]/text[1]/body[1]/p[1]::95" xml:id="UID-FAKE-5106">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::100 /TEI[1]/text[1]/body[1]/p[1]::107" xml:id="UID-FAKE-5107">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::155 /TEI[1]/text[1]/body[1]/p[1]::165" xml:id="UID-FAKE-5108">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::181 /TEI[1]/text[1]/body[1]/p[1]::188" xml:id="UID-FAKE-5109">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::36 /TEI[1]/text[1]/body[1]/p[2]::48" xml:id="UID-FAKE-5110">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::176 /TEI[1]/text[1]/body[1]/p[2]::189" xml:id="UID-FAKE-5111">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::243 /TEI[1]/text[1]/body[1]/p[2]::247" xml:id="UID-FAKE-5112">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::294 /TEI[1]/text[1]/body[1]/p[2]::302" xml:id="UID-FAKE-5113">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::331 /TEI[1]/text[1]/body[1]/p[2]::338" xml:id="UID-FAKE-5114">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::30 /TEI[1]/text[1]/body[1]/p[3]::36" xml:id="UID-FAKE-5115">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::270 /TEI[1]/text[1]/body[1]/p[3]::277" xml:id="UID-FAKE-5116">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::356 /TEI[1]/text[1]/body[1]/p[3]::362" xml:id="UID-FAKE-5117">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::95 /TEI[1]/text[1]/body[1]/p[4]::107" xml:id="UID-FAKE-5118">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::286 /TEI[1]/text[1]/body[1]/p[4]::299" xml:id="UID-FAKE-5119">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::386" xml:id="UID-FAKE-5120">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::423 /TEI[1]/text[1]/body[1]/p[4]::429" xml:id="UID-FAKE-5121">
+        <rs ana="https://topostext.org/place/373223CKai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::26" xml:id="UID-FAKE-5122">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::200 /TEI[1]/text[1]/body[1]/p[5]::206" xml:id="UID-FAKE-5123">
+        <rs ana="https://topostext.org/place/371216XKan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::194 /TEI[1]/text[1]/body[1]/p[7]::198" xml:id="UID-FAKE-5124">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::479 /TEI[1]/text[1]/body[1]/p[7]::485" xml:id="UID-FAKE-5125">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 18</head>
+      <p>Settling on Eira and cut off from the rest of Messenia, except in so far as the people of Pylos and Mothone maintained the coastal districts for them, the Messenians plundered both Laconia and their own territory, regarding it now as enemy country. The men taking part in the raids were drawn from all sources, and Aristomenes raised the number of his chosen troop to three hundred.</p>
+      <p>They harried and plundered whatever Lacedemonian property they could; when corn, cattle and wine were captured, they were consumed, but movable property and men were sold. The Lacedemonians, as their labours were more profitable to the men at Eira than to themselves, accordingly resolved that Messenia and the neighboring part of Laconia should be left uncultivated during the war.</p>
+      <p>As a result scarcity arose in Sparta, and with it revolution. For those who had property here could not endure its lying idle. Their differences were being composed by Tyrtaeus, when Aristomenes and his troop, starting in the late evening and by rapid movement reaching Amyclae before sunrise, captured and plundered the town, retiring before a force from Sparta could come to its relief.</p>
+      <p>He continued to overrun the country afterwards, until in an engagement with more than half the Lacedemonian infantry and both the kings he received various wounds while defending himself and was struck on the head by a stone, so that his eyes became dizzy. When he fell a number of the Lacedemonians closed upon him and took him alive with some fifty of his followers. The Lacedemonians resolved to fling them all into the Ceadas, into which they throw men punished for the greatest crimes.</p>
+      <p>The rest of the Messenians were killed at once as they fell, but Aristomenes now as on other occasions was preserved by one of the gods. His panegyrists say that, when Aristomenes was thrown into the Ceadas, an eagle flew below him and supported him with its wings, bringing him to the bottom without any damage to his body and without wound. Even from here, as it seems, it was the will of heaven to show him a means of escape.</p>
+      <p>For when he came to the bottom of the chasm he lay down, and covering himself with his cloak awaited the death that fate had surely decreed. But after two days he heard a noise and uncovered, and being by this time able to see through the gloom, saw a fox devouring the dead bodies. Realizing that the beast must have some entrance, he waited for the fox to come near him, and then seized it. Whenever it turned on him he used one hand to hold out his cloak for it to bite. For the most part he kept pace with it as it ran, but over the more difficult ground he was dragged along by it. At last he saw a hole big enough for a fox to get through and daylight showing through it.</p>
+      <p>The fox, when released by Aristomenes, made of presumably, to its earth. But Aristomenes enlarged the hole, which was not large enough to let him through, with his hands and reached his home at Eira in safety, having undergone a remarkable chance in the matter of his capture, for his courage and prowess were so high that no one would have expected Aristomenes to be made a prisoner. Still more remarkable, and a convincing example of divine assistance, was his escape from the Ceadas.</p>
+    </body>
+  </text>
+</TEI>

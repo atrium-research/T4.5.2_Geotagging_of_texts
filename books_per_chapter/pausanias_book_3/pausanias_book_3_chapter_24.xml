@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::22 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-4398">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::40" xml:id="UID-FAKE-4399">
+        <rs ana="https://topostext.org/place/368231UZar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::118 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-4400">
+        <rs ana="https://topostext.org/place/368231UZar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::314" xml:id="UID-FAKE-4401">
+        <rs ana="https://topostext.org/place/368231UZar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::14 /TEI[1]/text[1]/body[1]/p[2]::19" xml:id="UID-FAKE-4402">
+        <rs ana="https://topostext.org/place/368231UZar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::160 /TEI[1]/text[1]/body[1]/p[2]::168" xml:id="UID-FAKE-4403">
+        <rs ana="https://topostext.org/place/376231SAlA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::0 /TEI[1]/text[1]/body[1]/p[3]::7" xml:id="UID-FAKE-4404">
+        <rs ana="https://topostext.org/place/371224SDiK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::55 /TEI[1]/text[1]/body[1]/p[3]::69" xml:id="UID-FAKE-4405">
+        <rs ana="https://topostext.org/place/367227WLac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::134 /TEI[1]/text[1]/body[1]/p[3]::142" xml:id="UID-FAKE-4406">
+        <rs ana="https://topostext.org/place/370230PKyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::196 /TEI[1]/text[1]/body[1]/p[3]::202" xml:id="UID-FAKE-4407">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::56 /TEI[1]/text[1]/body[1]/p[4]::64" xml:id="UID-FAKE-4408">
+        <rs ana="https://topostext.org/place/371224SDiK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::81 /TEI[1]/text[1]/body[1]/p[4]::88" xml:id="UID-FAKE-4409">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::235 /TEI[1]/text[1]/body[1]/p[4]::242" xml:id="UID-FAKE-4410">
+        <rs ana="https://topostext.org/place/376217SDiL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::133 /TEI[1]/text[1]/body[1]/p[5]::140" xml:id="UID-FAKE-4411">
+        <rs ana="https://topostext.org/place/369228UPle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::32 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-4412">
+        <rs ana="https://topostext.org/place/368226PGyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::43 /TEI[1]/text[1]/body[1]/p[6]::46" xml:id="UID-FAKE-4413">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::87 /TEI[1]/text[1]/body[1]/p[6]::94" xml:id="UID-FAKE-4414">
+        <rs ana="https://topostext.org/place/368226PGyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::178 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-4415">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::187 /TEI[1]/text[1]/body[1]/p[6]::191" xml:id="UID-FAKE-4416">
+        <rs ana="https://topostext.org/place/368228LLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::196 /TEI[1]/text[1]/body[1]/p[6]::205" xml:id="UID-FAKE-4417">
+        <rs ana="https://topostext.org/place/367228QAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::240 /TEI[1]/text[1]/body[1]/p[6]::250" xml:id="UID-FAKE-4418">
+        <rs ana="https://topostext.org/place/368228LLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::375 /TEI[1]/text[1]/body[1]/p[6]::386" xml:id="UID-FAKE-4419">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::448 /TEI[1]/text[1]/body[1]/p[6]::455" xml:id="UID-FAKE-4420">
+        <rs ana="https://topostext.org/place/383231ALeT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::44 /TEI[1]/text[1]/body[1]/p[7]::48" xml:id="UID-FAKE-4421">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::119 /TEI[1]/text[1]/body[1]/p[7]::126" xml:id="UID-FAKE-4422">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::136 /TEI[1]/text[1]/body[1]/p[7]::145" xml:id="UID-FAKE-4423">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::252 /TEI[1]/text[1]/body[1]/p[7]::261" xml:id="UID-FAKE-4424">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::313 /TEI[1]/text[1]/body[1]/p[7]::326" xml:id="UID-FAKE-4425">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::369 /TEI[1]/text[1]/body[1]/p[7]::375" xml:id="UID-FAKE-4426">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::377 /TEI[1]/text[1]/body[1]/p[7]::382" xml:id="UID-FAKE-4427">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::3 /TEI[1]/text[1]/body[1]/p[8]::16" xml:id="UID-FAKE-4428">
+        <rs ana="https://topostext.org/place/371224SDiK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::82 /TEI[1]/text[1]/body[1]/p[8]::91" xml:id="UID-FAKE-4429">
+        <rs ana="https://topostext.org/place/372219SStm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::98 /TEI[1]/text[1]/body[1]/p[8]::104" xml:id="UID-FAKE-4430">
+        <rs ana="https://topostext.org/place/387272SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::168 /TEI[1]/text[1]/body[1]/p[8]::174" xml:id="UID-FAKE-4431">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::187 /TEI[1]/text[1]/body[1]/p[8]::194" xml:id="UID-FAKE-4432">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::260 /TEI[1]/text[1]/body[1]/p[8]::268" xml:id="UID-FAKE-4433">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::113 /TEI[1]/text[1]/body[1]/p[9]::119" xml:id="UID-FAKE-4434">
+        <rs ana="https://topostext.org/place/368223WSme"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::225 /TEI[1]/text[1]/body[1]/p[9]::239" xml:id="UID-FAKE-4435">
+        <rs ana="https://topostext.org/place/370223LTay"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::17 /TEI[1]/text[1]/body[1]/p[10]::24" xml:id="UID-FAKE-4436">
+        <rs ana="https://topostext.org/place/367225UAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::411 /TEI[1]/text[1]/body[1]/p[10]::429" xml:id="UID-FAKE-4437">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::66 /TEI[1]/text[1]/body[1]/p[11]::70" xml:id="UID-FAKE-4438">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::184 /TEI[1]/text[1]/body[1]/p[11]::189" xml:id="UID-FAKE-4439">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::313 /TEI[1]/text[1]/body[1]/p[11]::318" xml:id="UID-FAKE-4440">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 24</head>
+      <p>A hundred stades from Epidaurus is Zarax; though possessing a good harbor, it is the most ruinous of the towns of the Free Laconians, since it was the only town of theirs to be depopulated by Cleonymus the son of Cleomenes, son of Agesipolis. I have told the story of Cleomenes elsewhere. There is nothing in Zarax except a temple of Apollo, with a statue holding a lyre, at the head of the harbor.</p>
+      <p>The road from Zarax follows the coast for about a hundred stades, and there strikes inland. After an ascent of ten stades inland are the ruins of the so-called Cyphanta, among which is a cave sacred to Asclepius; the image is of stone. There is a fountain of cold water springing from the rock, where they say that Atalanta, distressed by thirst when hunting, struck the rock with her spear, so that the water gushed forth.</p>
+      <p>Brasiae is the last town on the coast belonging to the Free Laconians in this direction. It is distant two hundred stades by sea from Cyphanta. The inhabitants have a story, found nowhere else in Greece, that Semele, after giving birth to her son by Zeus, was discovered by Cadmus and put with Dionysus into a chest, which was washed up by the waves in their country. Semele, who was no longer alive when found, received a splendid funeral, but they brought up Dionysus.</p>
+      <p>For this reason the name of their city, hitherto called Oreiatae, was changed to Brasiae after the washing up of the chest to land; so too in our time the common word used of the waves casting things ashore is ekbrazein. The people of Brasiae add that Ino in the course of her wanderings came to the country, and agreed to become the nurse of Dionysus. They show the cave where Ino nursed him, and call the plain the garden of Dionysus.</p>
+      <p>The temples here are those of Asclepius and of Achilles, in whose honor they hold an annual festival. There is a small promontory at Brasiae, which projects gently into the sea; on it stand bronze figures, not more than a foot high, with caps on their heads. I am not sure whether they consider them to be Dioscuri or Corybants. They are three in number; a statue of Athena makes a fourth.</p>
+      <p>[NEW ITINERARY] To the right of Gythium is Las, ten stades from the sea and forty from Gythium. The site of the present town extends over the ground between the mountains called IliusYY, Asia and Cnacadium; formerly it lay on the summit of Mount Asia. Even now there are ruins of the old town, with a statue of Heracles outside the walls, and a trophy for a victory over the Macedonians. These formed a detachment of Philip"s army, when he invaded Laconia, but were separated from the main body and were plundering the coastal districts.</p>
+      <p>Among the ruins is a temple of Athena named Asia, made, it is said, by Polydeuces and Castor on their return home from Colchis; for the Colchians had a shrine of Athena Asia. I know that the sons of Tyndareus took part in Jason"s expedition. As to the Colchians honoring Athena Asia, I give what I heard from the Lacedemonians. Near the present town is a spring called Galaco (Milky) from the color of the water, and beside the spring a gymnasium, which contains an ancient statue of Hermes.</p>
+      <p>On Mount IliusYY is a temple of Dionysus, and of Asclepius at the very summit. On Cnacadium is an Apollo called Carneius. Some thirty stades from the Apollo is a place Hypsoi, within the Spartan frontier. Here is a sanctuary of Asclepius and of Artemis called Daphnaea (of the laurel).</p>
+      <p>By the sea is a temple of Artemis Dictynna on a promontory, in whose honor they hold an annual festival. A river Smenus reaches the sea to the left of the promontory; its water is extremely sweet to drink; its sources are in Mount Taygetus, and it passes within five stades of the town.</p>
+      <p>At a spot called Arainon is the tomb of Las with a statue upon it. The natives say that Las was their founder and was killed by Achilles, and that Achilles put in to their country to ask the hand of Helen of Tyndareus. In point of fact it was Patroclus who killed Las, for it was he who was Helen"s suitor. We need not regard it as a proof that Achilles did not ask for Helen because he is not mentioned in the Catalogue of Women as one of her suitors.</p>
+      <p>But at the beginning of his poem Homer says that Achilles came to Troy as a favour to the sons of Atreus, and not because he was bound by the oaths which Tyndareus exacted; and in the Games he makes Antilochus say that Odysseus was a generation older than he, whereas Odysseus, telling Alcinous of his descent to Hades and other adventures, said that he wished to see Theseus and Peirithous, men of an earlier age. We know that Theseus carried off Helen, so that it is quite impossible that Achilles could have been her suitor.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-4683">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::250 /TEI[1]/text[1]/body[1]/p[1]::260" xml:id="UID-FAKE-4684">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::55 /TEI[1]/text[1]/body[1]/p[2]::68" xml:id="UID-FAKE-4685">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::210 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-4686">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::285 /TEI[1]/text[1]/body[1]/p[2]::291" xml:id="UID-FAKE-4687">
+        <rs ana="https://topostext.org/place/380237LAre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::303 /TEI[1]/text[1]/body[1]/p[2]::312" xml:id="UID-FAKE-4688">
+        <rs ana="https://topostext.org/place/380237LAre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::48 /TEI[1]/text[1]/body[1]/p[3]::61" xml:id="UID-FAKE-4689">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::235 /TEI[1]/text[1]/body[1]/p[3]::244" xml:id="UID-FAKE-4690">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::256 /TEI[1]/text[1]/body[1]/p[3]::263" xml:id="UID-FAKE-4691">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::471 /TEI[1]/text[1]/body[1]/p[3]::477" xml:id="UID-FAKE-4692">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::481 /TEI[1]/text[1]/body[1]/p[3]::491" xml:id="UID-FAKE-4693">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::504 /TEI[1]/text[1]/body[1]/p[3]::511" xml:id="UID-FAKE-4694">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::528 /TEI[1]/text[1]/body[1]/p[3]::534" xml:id="UID-FAKE-4695">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::33 /TEI[1]/text[1]/body[1]/p[4]::40" xml:id="UID-FAKE-4696">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::74 /TEI[1]/text[1]/body[1]/p[4]::80" xml:id="UID-FAKE-4697">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::102 /TEI[1]/text[1]/body[1]/p[4]::109" xml:id="UID-FAKE-4698">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::249 /TEI[1]/text[1]/body[1]/p[4]::262" xml:id="UID-FAKE-4699">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::386 /TEI[1]/text[1]/body[1]/p[4]::397" xml:id="UID-FAKE-4700">
+        <rs ana="https://topostext.org/place/402233UPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::67 /TEI[1]/text[1]/body[1]/p[5]::77" xml:id="UID-FAKE-4701">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::156 /TEI[1]/text[1]/body[1]/p[5]::166" xml:id="UID-FAKE-4702">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::327 /TEI[1]/text[1]/body[1]/p[5]::338" xml:id="UID-FAKE-4703">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::371 /TEI[1]/text[1]/body[1]/p[5]::380" xml:id="UID-FAKE-4704">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::97 /TEI[1]/text[1]/body[1]/p[6]::110" xml:id="UID-FAKE-4705">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::154 /TEI[1]/text[1]/body[1]/p[6]::163" xml:id="UID-FAKE-4706">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::269 /TEI[1]/text[1]/body[1]/p[6]::275" xml:id="UID-FAKE-4707">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::269 /TEI[1]/text[1]/body[1]/p[7]::275" xml:id="UID-FAKE-4708">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::369 /TEI[1]/text[1]/body[1]/p[7]::382" xml:id="UID-FAKE-4709">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::87 /TEI[1]/text[1]/body[1]/p[8]::100" xml:id="UID-FAKE-4710">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::149 /TEI[1]/text[1]/body[1]/p[8]::159" xml:id="UID-FAKE-4711">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::464 /TEI[1]/text[1]/body[1]/p[8]::472" xml:id="UID-FAKE-4712">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::38 /TEI[1]/text[1]/body[1]/p[9]::45" xml:id="UID-FAKE-4713">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::118 /TEI[1]/text[1]/body[1]/p[9]::125" xml:id="UID-FAKE-4714">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::145 /TEI[1]/text[1]/body[1]/p[9]::153" xml:id="UID-FAKE-4715">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::163 /TEI[1]/text[1]/body[1]/p[9]::171" xml:id="UID-FAKE-4716">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::400 /TEI[1]/text[1]/body[1]/p[9]::410" xml:id="UID-FAKE-4717">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::36 /TEI[1]/text[1]/body[1]/p[10]::49" xml:id="UID-FAKE-4718">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::62 /TEI[1]/text[1]/body[1]/p[10]::72" xml:id="UID-FAKE-4719">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::106 /TEI[1]/text[1]/body[1]/p[10]::114" xml:id="UID-FAKE-4720">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::120 /TEI[1]/text[1]/body[1]/p[10]::123" xml:id="UID-FAKE-4721">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::144 /TEI[1]/text[1]/body[1]/p[10]::152" xml:id="UID-FAKE-4722">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::181 /TEI[1]/text[1]/body[1]/p[10]::187" xml:id="UID-FAKE-4723">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::501 /TEI[1]/text[1]/body[1]/p[10]::508" xml:id="UID-FAKE-4724">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::578 /TEI[1]/text[1]/body[1]/p[10]::584" xml:id="UID-FAKE-4725">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 5</head>
+      <p>The Lacedemonians say that they went to war because Polychares was not surrendered to them, and on account of the murder of Teleclus; even before this they had been suspicious on account of the wrongdoing of Cresphontes in the matter of the lot. The Messenians make the reply that I have already given with regard to Teleclus, and point to the fact that the sons of Aristodemus helped to restore Aepytus the son of Cresphontes, which they would never have done if they had been at variance with Cresphontes.</p>
+      <p>They say that they did not surrender Polychares to the Lacedemonians for punishment because they also had not surrendered Euaephnus, but that they offered to stand trial at the meeting of the league before the Argives, kinsmen of both parties, and to submit the matter to the court at Athens called the Areopagus, as this court was held to exercise an ancient jurisdiction in cases pertaining to murder.</p>
+      <p>They say that these were not the reasons of the Lacedemonians in going to war, but that they had formed designs on their country through covetousness, as in others of their actions, bringing forward against them their treatment of the Arcadians and of the Argives; for in both cases they have never been satisfied with their continual encroachments. When Croesus sent them presents they were the first to become friends with the barbarian, after he had reduced the other Greeks of Asia Minor and all the Dorians who live on the Carian mainland.</p>
+      <p>They point out too that when the Phocian leaders had seized the temple at Delphi, the kings and every Spartan of repute privately, and the board of ephors and senate publicly, had a share of the god"s property. As the most convincing proof that the Lacedemonians would stick at nothing for the sake of gain, they reproach them with their alliance with Apollodorus, who became tyrant in Cassandreia.</p>
+      <p>I could not introduce into the present account the reasons why the Messenians have come to regard this as so bitter a reproach. Although the courage of the Messenians and the length of time for which they fought differ from the facts of the tyranny of Apollodorus, in their disastrous character the sufferings of the people of Cassandreia would not fall far short of the Messenian.</p>
+      <p>These then are the reasons for the war which the two sides allege. An embassy then came from the Lacedemonians to demand the surrender of Polychares. The Messenian kings replied to the ambassadors that after deliberation with the people they would send the findings to Sparta and after their departure they themselves summoned the citizens to a meeting. The views put forward differed widely, Androcles urging the surrender of Polychares as guilty of an impious and abominable crime. Antiochus among other arguments urged against him that it would be the most piteous thing that Polychares should suffer before the eyes of Euaephnus, and enumerated in detail all that he would have to undergo.</p>
+      <p>Finally the supporters of Androcles and of Antiochus were so carried away that they took up arms. But the battle did not last long, for the party of Antiochus, far outnumbering the other, killed Androcles and his principal supporters, Antiochus, now sole king, sent to Sparta that he was ready to submit the matter to the courts which I have already mentioned. But the Lacedemonians are said to have made no reply to the bearers of the letter.</p>
+      <p>Not many months later Antiochus died and his son Euphaes succeeded to the kingdom. The Lacedemonians, without sending a herald to declare war on the Messenians or renouncing their friendship beforehand, had made their preparations secretly and with all the concealment possible; they first took an oath that neither the length of the war, should it not be decided soon, nor their disasters, however great they might be, would deter them until they won the land of Messenia by the sword.</p>
+      <p>After taking this oath, they attacked Ampheia by night, appointing Alcamenes the son of Teleclus leader of the force. Ampheia is a small town in Messenia near the Laconian border, of no great size, but situated on a high hill and possessing copious springs of water. It seemed generally a suitable base for the whole war. The gates being open and the town not garrisoned, they took it and killed the Messenians captured there, some still in their beds and others who had taken refuge at the sanctuaries and altars of the gods when they realized what had happened. Those who escaped were few.</p>
+      <p>This was the first attack which the Lacedemonians made on the Messenians, in the second year of the ninth Olympiad [743 BCE], when Xenodocus of Messenia won the short foot-race. In Athens there were not as yet the archons appointed annually by lot for at first the people deprived the descendants of Melanthus, called Medontidae, of most of their power, transforming the kingship into a constitutional office; afterwards they limited their tenure of office to ten years. At the time of the seizure of Ampheia, Aesimides the son of Aeschylus was holding his fifth year office at Athens.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::245 /TEI[1]/text[1]/body[1]/p[1]::250" xml:id="UID-FAKE-4057">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::37 /TEI[1]/text[1]/body[1]/p[2]::45" xml:id="UID-FAKE-4058">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::47 /TEI[1]/text[1]/body[1]/p[2]::53" xml:id="UID-FAKE-4059">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::329 /TEI[1]/text[1]/body[1]/p[2]::342" xml:id="UID-FAKE-4060">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::65 /TEI[1]/text[1]/body[1]/p[3]::78" xml:id="UID-FAKE-4061">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::116 /TEI[1]/text[1]/body[1]/p[3]::121" xml:id="UID-FAKE-4062">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::142 /TEI[1]/text[1]/body[1]/p[3]::148" xml:id="UID-FAKE-4063">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::210 /TEI[1]/text[1]/body[1]/p[3]::217" xml:id="UID-FAKE-4064">
+        <rs ana="https://topostext.org/place/400236LPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::400 /TEI[1]/text[1]/body[1]/p[3]::413" xml:id="UID-FAKE-4065">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::459 /TEI[1]/text[1]/body[1]/p[3]::466" xml:id="UID-FAKE-4066">
+        <rs ana="https://topostext.org/place/401234PAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::496 /TEI[1]/text[1]/body[1]/p[3]::509" xml:id="UID-FAKE-4067">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::90 /TEI[1]/text[1]/body[1]/p[4]::98" xml:id="UID-FAKE-4068">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::185 /TEI[1]/text[1]/body[1]/p[4]::190" xml:id="UID-FAKE-4069">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::222 /TEI[1]/text[1]/body[1]/p[4]::229" xml:id="UID-FAKE-4070">
+        <rs ana="https://topostext.org/place/353254SChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::41 /TEI[1]/text[1]/body[1]/p[5]::46" xml:id="UID-FAKE-4071">
+        <rs ana="https://topostext.org/place/358238IIou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::92 /TEI[1]/text[1]/body[1]/p[5]::105" xml:id="UID-FAKE-4072">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::161" xml:id="UID-FAKE-4073">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::203 /TEI[1]/text[1]/body[1]/p[5]::215" xml:id="UID-FAKE-4074">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::224 /TEI[1]/text[1]/body[1]/p[5]::233" xml:id="UID-FAKE-4075">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::458 /TEI[1]/text[1]/body[1]/p[5]::465" xml:id="UID-FAKE-4076">
+        <rs ana="https://topostext.org/place/381239DAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::48 /TEI[1]/text[1]/body[1]/p[6]::55" xml:id="UID-FAKE-4077">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::67" xml:id="UID-FAKE-4078">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::95 /TEI[1]/text[1]/body[1]/p[6]::100" xml:id="UID-FAKE-4079">
+        <rs ana="https://topostext.org/place/373223WTia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::27 /TEI[1]/text[1]/body[1]/p[7]::34" xml:id="UID-FAKE-4080">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::136 /TEI[1]/text[1]/body[1]/p[7]::143" xml:id="UID-FAKE-4081">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::312 /TEI[1]/text[1]/body[1]/p[7]::321" xml:id="UID-FAKE-4082">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::186 /TEI[1]/text[1]/body[1]/p[8]::192" xml:id="UID-FAKE-4083">
+        <rs ana="https://topostext.org/place/377235SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::267 /TEI[1]/text[1]/body[1]/p[8]::272" xml:id="UID-FAKE-4084">
+        <rs ana="https://topostext.org/place/371252PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::292 /TEI[1]/text[1]/body[1]/p[8]::297" xml:id="UID-FAKE-4085">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::364 /TEI[1]/text[1]/body[1]/p[8]::370" xml:id="UID-FAKE-4086">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::522 /TEI[1]/text[1]/body[1]/p[8]::533" xml:id="UID-FAKE-4087">
+        <rs ana="https://topostext.org/place/383264UEmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::13 /TEI[1]/text[1]/body[1]/p[9]::21" xml:id="UID-FAKE-4088">
+        <rs ana="https://topostext.org/place/379275UMag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::50 /TEI[1]/text[1]/body[1]/p[9]::59" xml:id="UID-FAKE-4089">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::105 /TEI[1]/text[1]/body[1]/p[9]::111" xml:id="UID-FAKE-4090">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::202 /TEI[1]/text[1]/body[1]/p[9]::211" xml:id="UID-FAKE-4091">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::70 /TEI[1]/text[1]/body[1]/p[10]::77" xml:id="UID-FAKE-4092">
+        <rs ana="https://topostext.org/place/374219SBas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::130 /TEI[1]/text[1]/body[1]/p[10]::137" xml:id="UID-FAKE-4093">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::484 /TEI[1]/text[1]/body[1]/p[10]::492" xml:id="UID-FAKE-4094">
+        <rs ana="https://topostext.org/place/381237CPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::508 /TEI[1]/text[1]/body[1]/p[10]::514" xml:id="UID-FAKE-4095">
+        <rs ana="https://topostext.org/place/379214STSi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::154 /TEI[1]/text[1]/body[1]/p[11]::163" xml:id="UID-FAKE-4096">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::177 /TEI[1]/text[1]/body[1]/p[11]::186" xml:id="UID-FAKE-4097">
+        <rs ana="https://topostext.org/place/380237BPny"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::380 /TEI[1]/text[1]/body[1]/p[12]::386" xml:id="UID-FAKE-4098">
+        <rs ana="https://topostext.org/place/407260WHeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::440 /TEI[1]/text[1]/body[1]/p[13]::445" xml:id="UID-FAKE-4099">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::191 /TEI[1]/text[1]/body[1]/p[14]::201" xml:id="UID-FAKE-4100">
+        <rs ana="https://topostext.org/place/376216BSyT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::283 /TEI[1]/text[1]/body[1]/p[14]::293" xml:id="UID-FAKE-4101">
+        <rs ana="https://topostext.org/place/397227RMag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[15]::88 /TEI[1]/text[1]/body[1]/p[15]::98" xml:id="UID-FAKE-4102">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::316 /TEI[1]/text[1]/body[1]/p[16]::324" xml:id="UID-FAKE-4103">
+        <rs ana="https://topostext.org/place/319248UMen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::342 /TEI[1]/text[1]/body[1]/p[16]::349" xml:id="UID-FAKE-4104">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::424 /TEI[1]/text[1]/body[1]/p[16]::431" xml:id="UID-FAKE-4105">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 18</head>
+      <p>Near the statues of Pausanias is an image of Aphrodite Ambologera (Postponer of Old Age), which was set up in accordance with an oracle; there are also images of Sleep and of Death. They think them brothers, in accordance with the verses in the Iliad.</p>
+      <p>As you go towards what is called the Aliteion [Alpium in ms] is a temple of Athena Ophthalmitis (Goddess of the Eye). They say that Lycurgus dedicated it when one of his eyes had been struck out by Alcander, because the laws he had made happened not to find favour with Alcander. Having fled to this place he was defended by the Lacedemonians and avoided losing his remaining eye, and so he made this temple of Athena Ophthalmitis.</p>
+      <p>Farther on from here is a sanctuary of Ammon. From the first the Lacedemonians are known to have used the oracle in Libya more than any other Greeks. It is said also that when Lysander was besieging Aphytis in Pallene Ammon appeared by night and declared that it would be better for him and for Lacedemon if they ceased from warring against Aphytis. And so Lysander raised the siege, and induced the Lacedemonians to worship the god still more. The people of Aphytis honor Ammon no less than the Ammon Libyans.</p>
+      <p>The story of Artemis Cnagia is as follows. Cnageus, they say, was a native who joined the Dioscuri in their expedition against Aphidna. Being taken prisoner in the battle and sold into Crete, he lived as a slave where the Cretans had a sanctuary of Artemis; but in course of time he ran away in the company of the maiden priestess, who took the image with her. It is for this reason that they name Artemis Cnagia.</p>
+      <p>But I am of opinion that Cnageus came to Crete in some other way, and not in the manner the Lacedemonians state; for I do not think there was a battle at Aphidna at all, Theseus being detained among the Thesprotians and the Athenians not being unanimous, their sympathies inclining towards Menestheus. Moreover, even if a fight occurred, nobody would believe that prisoners were taken from the conquerors, especially as the victory was overwhelming, so that Aphidna itself was captured.</p>
+      <p>I must now end my criticisms. As you go down to Amyclae from Sparta you come to a river called Tiasa. They hold that Tiasa was a daughter of Eurotas, and by it is a sanctuary of Graces, Phaenna and Cleta, as Alcman calls them in a poem. They believe that Lacedemon founded the sanctuary for the Graces here, and gave them their names.</p>
+      <p>The things worth seeing in Amyclae include a victor in the pentathlon, named Aenetus, on a stele. The story is that he won a victory at Olympia, but died while the crown was being placed on his head. So there is the statue of this man; there are also bronze tripods. The older ones are said to be a tithe of the Messenian war.</p>
+      <p>Under the first tripod stood an image of Aphrodite, and under the second an Artemis. The two tripods themselves and the reliefs are the work of Gitiadas. The third was made by Callon of Aegina, and under it stands an image of Kore, daughter of Demeter. Aristander of Paros and Polycleitus of Argos have statues here; the former a woman with a lyre, supposed to be Sparta, the latter an Aphrodite called “beside the Amyclaean.” These tripods are larger than the others, and were dedicated from the spoils of the victory at Aegospotami.</p>
+      <p>Bathycles of Magnesia, who made the throne of the Amyclaean, dedicated, on the completion of the throne, Graces and an image of Artemis Leucophryene. Whose pupil this Bathycles was, and who was king of Lacedemon when he made the throne, I pass over; but I saw the throne and will describe its details.</p>
+      <p>It is supported in front, and similarly behind, by two Graces and two Seasons. On the left stand Echidna and Typhos, on the right Tritons. To describe the reliefs one by one in detail would have merely bored my readers; but to be brief and concise (for the greater number of them are not unknown either) Poseidon and Zeus are carrying Taygete, daughter of Atlas, and her sister Alcyone. There are also reliefs of Atlas, the single combat of Heracles and Cycnus, and the battle of the Centaurs at the cave of Pholus.</p>
+      <p>I cannot say why Bathycles has represented the so-called Bull of Minos bound, and being led along alive by Theseus. There is also on the throne a band of Phaeacian dancers, and Demodocus singing. Perseus, too, is represented killing Medusa. Passing over the fight of Heracles with the giant Thurius and that of Tyndareus with Eurytus, we have next the rape of the daughters of Leucippus. Here are Dionysus, too, and Heracles; Hermes is bearing the infant Dionysus to heaven, and Athena is taking Heracles to dwell henceforth with the gods.</p>
+      <p>There is Peleus handing over Achilles to be reared by Cheiron, who is also said to have been his teacher. There is Cephalus, too, carried off by Day because of his beauty. The gods are bringing gifts to the marriage of Harmonia. There is wrought also the single combat of Achilles and Memnon, and Heracles avenging himself upon Diomedes the Thracian, and upon Nessus at the river Euenus. Hermes is bringing the goddesses to Alexander to be judged. Adrastus and Tydeus are staying the fight between Amphiaraus and Lycurgus the son of Pronax.</p>
+      <p>Hera is gazing at Io, the daughter of Inachus, who is already a cow, and Athena is running away from Hephaestus, who chases her. Next to these have been wrought two of the exploits of Heracles — his slaying the Hydra, and his bringing up the hound of Hades. Anaxias and Mnasinous are each seated on horseback, but there is one horse only carrying Megapenthes, the son of Menelaus, and Nicostratus. Bellerophontes is destroying the beast in Lycia, and Heracles is driving off the cows of Geryones.</p>
+      <p>At the upper edge of the throne are wrought, one on each side, the sons of Tyndareus on horses. There are sphinxes under the horses, and beasts running upwards, on the one side a leopard, by Polydeuces a lioness. On the very top of the throne has been wrought a band of dancers, the Magnesians who helped Bathycles to make the throne.</p>
+      <p>Underneath the throne, the inner part away from the Tritons contains the hunting of the Calydonian Boar and Heracles killing the children of Actor. Calais and Zetes are driving the Harpies away from Phineus. Peirithous and Theseus have seized Helen, and Heracles is strangling the lion. Apollo and Artemis are shooting Tityus.</p>
+      <p>There is represented the fight between Heracles and Oreius the Centaur, and also that between Theseus and the Bull of Minos. There are also represented the wrestling of Heracles with Achelous, the fabled binding of Hera by Hephaestus, the games Acastus held in honor of his father, and the story of Menelaus and the Egyptian Proteus from the Odyssey. Lastly there is Admetus yoking a boar and a lion to his chariot, and the Trojans are bringing libations to Hector.</p>
+    </body>
+  </text>
+</TEI>

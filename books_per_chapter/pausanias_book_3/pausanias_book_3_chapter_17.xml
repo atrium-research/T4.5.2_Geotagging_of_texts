@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::17 /TEI[1]/text[1]/body[1]/p[1]::23" xml:id="UID-FAKE-4021">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::166 /TEI[1]/text[1]/body[1]/p[1]::179" xml:id="UID-FAKE-4022">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::238 /TEI[1]/text[1]/body[1]/p[1]::244" xml:id="UID-FAKE-4023">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::248 /TEI[1]/text[1]/body[1]/p[1]::254" xml:id="UID-FAKE-4024">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::263 /TEI[1]/text[1]/body[1]/p[1]::269" xml:id="UID-FAKE-4025">
+        <rs ana="https://topostext.org/place/376227FLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::273 /TEI[1]/text[1]/body[1]/p[1]::278" xml:id="UID-FAKE-4026">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::411 /TEI[1]/text[1]/body[1]/p[2]::424" xml:id="UID-FAKE-4027">
+        <rs ana="https://topostext.org/place/371224SACh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::519 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-4028">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::545 /TEI[1]/text[1]/body[1]/p[2]::551" xml:id="UID-FAKE-4029">
+        <rs ana="https://topostext.org/place/371224SACh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::354 /TEI[1]/text[1]/body[1]/p[3]::360" xml:id="UID-FAKE-4030">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::472 /TEI[1]/text[1]/body[1]/p[3]::477" xml:id="UID-FAKE-4031">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::141 /TEI[1]/text[1]/body[1]/p[4]::149" xml:id="UID-FAKE-4032">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::256 /TEI[1]/text[1]/body[1]/p[4]::265" xml:id="UID-FAKE-4033">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::341 /TEI[1]/text[1]/body[1]/p[4]::348" xml:id="UID-FAKE-4034">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::414 /TEI[1]/text[1]/body[1]/p[4]::422" xml:id="UID-FAKE-4035">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::485 /TEI[1]/text[1]/body[1]/p[4]::493" xml:id="UID-FAKE-4036">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::503 /TEI[1]/text[1]/body[1]/p[4]::514" xml:id="UID-FAKE-4037">
+        <rs ana="https://topostext.org/place/403266UAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::43" xml:id="UID-FAKE-4038">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::99 /TEI[1]/text[1]/body[1]/p[5]::112" xml:id="UID-FAKE-4039">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::252 /TEI[1]/text[1]/body[1]/p[5]::276" xml:id="UID-FAKE-4040">
+        <rs ana="https://topostext.org/place/380237AAtP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::350 /TEI[1]/text[1]/body[1]/p[5]::356" xml:id="UID-FAKE-4041">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::16 /TEI[1]/text[1]/body[1]/p[6]::44" xml:id="UID-FAKE-4042">
+        <rs ana="https://topostext.org/place/371224SACh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::333 /TEI[1]/text[1]/body[1]/p[6]::340" xml:id="UID-FAKE-4043">
+        <rs ana="https://topostext.org/place/381156PRhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::515 /TEI[1]/text[1]/body[1]/p[6]::528" xml:id="UID-FAKE-4044">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::569 /TEI[1]/text[1]/body[1]/p[6]::576" xml:id="UID-FAKE-4045">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::51 /TEI[1]/text[1]/body[1]/p[7]::56" xml:id="UID-FAKE-4046">
+        <rs ana="https://topostext.org/place/380237BCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::104 /TEI[1]/text[1]/body[1]/p[7]::111" xml:id="UID-FAKE-4047">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::281 /TEI[1]/text[1]/body[1]/p[7]::290" xml:id="UID-FAKE-4048">
+        <rs ana="https://topostext.org/place/410290UByz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::386 /TEI[1]/text[1]/body[1]/p[7]::391" xml:id="UID-FAKE-4049">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::31 /TEI[1]/text[1]/body[1]/p[8]::41" xml:id="UID-FAKE-4050">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::51 /TEI[1]/text[1]/body[1]/p[8]::63" xml:id="UID-FAKE-4051">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::106 /TEI[1]/text[1]/body[1]/p[8]::115" xml:id="UID-FAKE-4052">
+        <rs ana="https://topostext.org/place/410290UByz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::430 /TEI[1]/text[1]/body[1]/p[8]::436" xml:id="UID-FAKE-4053">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::189 /TEI[1]/text[1]/body[1]/p[9]::197" xml:id="UID-FAKE-4054">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::201 /TEI[1]/text[1]/body[1]/p[9]::208" xml:id="UID-FAKE-4055">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::271 /TEI[1]/text[1]/body[1]/p[9]::284" xml:id="UID-FAKE-4056">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 17</head>
+      <p>Not far from the Orthia is a sanctuary of Eileithyia. They say that they built it, and came to worship Eileithyia as a goddess, because of an oracle from Delphi. The Lacedemonians have no acropolis rising to a conspicuous height like the Cadmea at Thebes and the Larisa at Argos. There are, however, hills in the city, and the highest of them they call the acropolis.</p>
+      <p>Here is built a sanctuary of Athena, who is called both Poliouchos (City-protecting) and Lady of the Bronze House. The building of the sanctuary was begun, they say, by Tyndareus. On his death his children were desirous of making a second attempt to complete the building, and the resources they intended to use were the spoils of Aphidna. They too left it unfinished, and it was many years afterwards that the Lacedemonians made of bronze both the temple and the image of Athena. The builder was Gitiadas, a native of Sparta, who also composed Dorian lyrics, including a hymn to the goddess.</p>
+      <p>On the bronze are wrought in relief many of the labours of Heracles and many of the voluntary exploits he successfully carried out, besides the rape of the daughters of Leucippus and other achievements of the sons of Tyndareus. There is also Hephaestus releasing his mother from the fetters. The legend about this I have already related in my history of Attica. There are also represented nymphs bestowing upon Perseus, who is starting on his enterprise against Medusa in Libya, a cap and the shoes by which he was to be carried through the air. There are also wrought the birth of Athena, Amphitrite, and Poseidon, the largest figures, and those which I thought the best worth seeing.</p>
+      <p>There is here another sanctuary of Athena; her surname is Ergane (Worker). As you go to the south portico there is a temple of Zeus surnamed Cosmetas (Orderer), and before it is the tomb of Tyndareus. The west portico has two eagles, and upon them are two Victories. Lysander dedicated them to commemorate both his exploits; the one was off Ephesus, when he conquered Antiochus, the captain of Alcibiades, and the Athenian warships and the second occurred later, when he destroyed the Athenian fleet at Aegospotami.</p>
+      <p>On the left of the Lady of the Bronze House they have set up a sanctuary of the Muses, because the Lacedemonians used to go out to fight, not to the sound of the trumpet, but to the music of the flute and the accompaniment of lyre and harp. Behind the Lady of the Bronze House is a temple of Aphrodite Areia (Warlike). The xoana are as old as any in Greece.</p>
+      <p>On the right of the Lady of the Bronze House has been set up an image of Zeus Hypatos (Most High), the oldest image that is made of bronze. It is not wrought in one piece. Each of the limbs has been hammered separately; these are fitted together, being prevented from coming apart by nails. They say that the artist was Clearchus of Rhegium, who is said by some to have been a pupil of Dipoenus and Scyllis, by others of Daedalus himself. By what is called the Scenoma (Tent) there is a statue of a woman, whom the Lacedemonians say is Euryleonis. She won a victory at Olympia with a two-horse chariot.</p>
+      <p>By the side of the altar of the Lady of the Bronze House stand two statues of Pausanias, the general at Plataea. His history, as it is known, I will not relate. The accurate accounts of my predecessors suffice; I shall content myself with adding to them what I heard from a man of Byzantium. Pausanias was detected in his treachery, and was the only suppliant of the Lady of the Bronze House who failed to win security, solely because he had been unable to wipe away a defilement of bloodshed.</p>
+      <p>When he was cruising about the Hellespont with the Lacedemonian and allied fleets, he fell in love with a Byzantine maiden. And straightway at the beginning of night Cleonice — that was the girl"s name — was brought by those who had been ordered to do so. But Pausanias was asleep at the time and the noise awoke him. For as she came to him she unintentionally dropped her lighted lamp. And Pausanias, conscious of his treason to Greece, and therefore always nervous and fearful, jumped up then and struck the girl with his sword.</p>
+      <p>From this defilement Pausanias could not escape, although he underwent all sorts of purifications and became a suppliant of Zeus Phyxius (God of Flight), and finally went to the wizards at Phigalia in Arcadia but he paid a fitting penalty to Cleonice and to the god. The Lacedemonians, in fulfillment of a command from Delphi, had the bronze images made and honor the daimon Epidotes (Bountiful), saying that it was this Epidotes that turns aside the wrath that Hicesius (the god of Suppliants) shows because of Pausanias.</p>
+    </body>
+  </text>
+</TEI>

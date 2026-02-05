@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::176 /TEI[1]/text[1]/body[1]/p[1]::185" xml:id="UID-FAKE-4726">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::219 /TEI[1]/text[1]/body[1]/p[1]::232" xml:id="UID-FAKE-4727">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::259 /TEI[1]/text[1]/body[1]/p[1]::269" xml:id="UID-FAKE-4728">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::346 /TEI[1]/text[1]/body[1]/p[1]::353" xml:id="UID-FAKE-4729">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::358 /TEI[1]/text[1]/body[1]/p[1]::371" xml:id="UID-FAKE-4730">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::393 /TEI[1]/text[1]/body[1]/p[1]::402" xml:id="UID-FAKE-4731">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::442 /TEI[1]/text[1]/body[1]/p[1]::452" xml:id="UID-FAKE-4732">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::466 /TEI[1]/text[1]/body[1]/p[1]::471" xml:id="UID-FAKE-4733">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::518 /TEI[1]/text[1]/body[1]/p[1]::522" xml:id="UID-FAKE-4734">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::554 /TEI[1]/text[1]/body[1]/p[1]::564" xml:id="UID-FAKE-4735">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::335 /TEI[1]/text[1]/body[1]/p[2]::345" xml:id="UID-FAKE-4736">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::374 /TEI[1]/text[1]/body[1]/p[2]::387" xml:id="UID-FAKE-4737">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::479 /TEI[1]/text[1]/body[1]/p[2]::491" xml:id="UID-FAKE-4738">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::4 /TEI[1]/text[1]/body[1]/p[3]::13" xml:id="UID-FAKE-4739">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::150 /TEI[1]/text[1]/body[1]/p[3]::157" xml:id="UID-FAKE-4740">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::299 /TEI[1]/text[1]/body[1]/p[3]::304" xml:id="UID-FAKE-4741">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::162 /TEI[1]/text[1]/body[1]/p[4]::171" xml:id="UID-FAKE-4742">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::242 /TEI[1]/text[1]/body[1]/p[4]::255" xml:id="UID-FAKE-4743">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::170 /TEI[1]/text[1]/body[1]/p[5]::177" xml:id="UID-FAKE-4744">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::14" xml:id="UID-FAKE-4745">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::49 /TEI[1]/text[1]/body[1]/p[6]::56" xml:id="UID-FAKE-4746">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::119 /TEI[1]/text[1]/body[1]/p[6]::130" xml:id="UID-FAKE-4747">
+        <rs ana="https://topostext.org/place/372220LSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::293 /TEI[1]/text[1]/body[1]/p[6]::300" xml:id="UID-FAKE-4748">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::418 /TEI[1]/text[1]/body[1]/p[6]::431" xml:id="UID-FAKE-4749">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::466 /TEI[1]/text[1]/body[1]/p[6]::479" xml:id="UID-FAKE-4750">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 6</head>
+      <p>Before I wrote the history of the war and all the sufferings and actions that heaven prepared in it for both sides, I wished to reach a decision regarding the age of a certain Messenian. This war was fought between the Lacedemonians with their allies and the Messenians with their supporters, but received its name not from the invaders like the Persian and Peloponnesian wars, but was called Messenian from their disasters, just as the name Trojan War, rather than Greek, came to be universally applied to the war at Troy. An account of this war of the Messenians has been given by Rhianus of Bene in his epic, and by Myron of Priene. Myron"s history is in prose.</p>
+      <p>Neither writer achieved a complete and continuous account of the whole war from its beginning to the end, but only of the part which each selected: Myron narrated the capture of Ampheia and subsequent events down to the death of Aristodemus; Rhianus did not touch this first war at all. He described the events that in time befell the Messenians after their revolt from the Lacedemonians, not indeed the whole of them, but those subsequent to the battle which they fought at the Great Trench, as it is called.</p>
+      <p>The Messenian, Aristomenes, on whose account I have made my whole mention of Rhianus and Myron, was the man who first and foremost raised the name of Messene to renown. He was introduced by Myron into his history, while to Rhianus in his epic Aristomenes is as great a man as is the Achilles of the Iliad to Homer. As their statements differ so widely, it remained for me to adopt one or other of the accounts, but not both together, and Rhianus appeared to me to have given the more probable account as to the age of Aristomenes.</p>
+      <p>One may realize in others of his works that Myron gives no heed to the question of his statements seeming to lack truth and credibility, and particularly in this Messenian history. For he has made Aristomenes kill Theopompus, the king of the Lacedemonians, shortly before the death of Aristodemus but we know that Theopompus was not killed either in battle or in any other way before the war was concluded.</p>
+      <p>It was this Theopompus who put an end to the war, and my evidence is the lines of Tyrtaeus, which say: “To our king beloved of the gods, Theopompus, through whom we took Messene with wide dancing-grounds. Aristomenes then in my view belongs to the time of the second war, and I will relate his history when I come to this.</p>
+      <p>The Messenians, when they heard of the events at Ampheia from the actual survivors from the captured town, mustered in Stenyclerus from their cities. When the people had gathered in the assembly, first the leading men and finally the king exhorted them not to be panic-stricken at the sack of Ampheia, or to suppose that the issue of the whole war had already been decided thereby, or to be afraid of the power of the Lacedemonians as superior to their own. For the Lacedemonians had longer practice in warfare, but they themselves had a stronger necessity to show themselves brave men, and greater goodwill would be shown by the gods to men defending their country, who were not the authors of injustice.</p>
+    </body>
+  </text>
+</TEI>

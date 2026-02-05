@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::38 /TEI[1]/text[1]/body[1]/p[1]::47" xml:id="UID-FAKE-3348">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::198 /TEI[1]/text[1]/body[1]/p[1]::211" xml:id="UID-FAKE-3349">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::256 /TEI[1]/text[1]/body[1]/p[1]::263" xml:id="UID-FAKE-3350">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::269 /TEI[1]/text[1]/body[1]/p[1]::276" xml:id="UID-FAKE-3351">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::448 /TEI[1]/text[1]/body[1]/p[1]::455" xml:id="UID-FAKE-3352">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::562 /TEI[1]/text[1]/body[1]/p[1]::568" xml:id="UID-FAKE-3353">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::36 /TEI[1]/text[1]/body[1]/p[2]::42" xml:id="UID-FAKE-3354">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::83 /TEI[1]/text[1]/body[1]/p[2]::92" xml:id="UID-FAKE-3355">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::155 /TEI[1]/text[1]/body[1]/p[2]::161" xml:id="UID-FAKE-3356">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::202 /TEI[1]/text[1]/body[1]/p[2]::215" xml:id="UID-FAKE-3357">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::260 /TEI[1]/text[1]/body[1]/p[2]::268" xml:id="UID-FAKE-3358">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::323 /TEI[1]/text[1]/body[1]/p[2]::329" xml:id="UID-FAKE-3359">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::365 /TEI[1]/text[1]/body[1]/p[2]::374" xml:id="UID-FAKE-3360">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::488 /TEI[1]/text[1]/body[1]/p[2]::493" xml:id="UID-FAKE-3361">
+        <rs ana="https://topostext.org/place/381234RSOr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::530 /TEI[1]/text[1]/body[1]/p[2]::537" xml:id="UID-FAKE-3362">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::561 /TEI[1]/text[1]/body[1]/p[2]::567" xml:id="UID-FAKE-3363">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::610 /TEI[1]/text[1]/body[1]/p[2]::620" xml:id="UID-FAKE-3364">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::634 /TEI[1]/text[1]/body[1]/p[2]::641" xml:id="UID-FAKE-3365">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::32 /TEI[1]/text[1]/body[1]/p[3]::38" xml:id="UID-FAKE-3366">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::106 /TEI[1]/text[1]/body[1]/p[3]::118" xml:id="UID-FAKE-3367">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::148 /TEI[1]/text[1]/body[1]/p[3]::154" xml:id="UID-FAKE-3368">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::236 /TEI[1]/text[1]/body[1]/p[3]::243" xml:id="UID-FAKE-3369">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::161 /TEI[1]/text[1]/body[1]/p[4]::174" xml:id="UID-FAKE-3370">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::227 /TEI[1]/text[1]/body[1]/p[4]::233" xml:id="UID-FAKE-3371">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::222 /TEI[1]/text[1]/body[1]/p[5]::229" xml:id="UID-FAKE-3372">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::331 /TEI[1]/text[1]/body[1]/p[5]::340" xml:id="UID-FAKE-3373">
+        <rs ana="https://topostext.org/place/380237GLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::387 /TEI[1]/text[1]/body[1]/p[5]::392" xml:id="UID-FAKE-3374">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::398 /TEI[1]/text[1]/body[1]/p[5]::407" xml:id="UID-FAKE-3375">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::446 /TEI[1]/text[1]/body[1]/p[5]::453" xml:id="UID-FAKE-3376">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::239 /TEI[1]/text[1]/body[1]/p[6]::246" xml:id="UID-FAKE-3377">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::258 /TEI[1]/text[1]/body[1]/p[6]::267" xml:id="UID-FAKE-3378">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::315 /TEI[1]/text[1]/body[1]/p[6]::322" xml:id="UID-FAKE-3379">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::157 /TEI[1]/text[1]/body[1]/p[7]::163" xml:id="UID-FAKE-3380">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::197 /TEI[1]/text[1]/body[1]/p[7]::210" xml:id="UID-FAKE-3381">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::222 /TEI[1]/text[1]/body[1]/p[7]::233" xml:id="UID-FAKE-3382">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::252 /TEI[1]/text[1]/body[1]/p[7]::258" xml:id="UID-FAKE-3383">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::462 /TEI[1]/text[1]/body[1]/p[7]::472" xml:id="UID-FAKE-3384">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::508 /TEI[1]/text[1]/body[1]/p[7]::516" xml:id="UID-FAKE-3385">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::58 /TEI[1]/text[1]/body[1]/p[8]::63" xml:id="UID-FAKE-3386">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::77 /TEI[1]/text[1]/body[1]/p[8]::85" xml:id="UID-FAKE-3387">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::213 /TEI[1]/text[1]/body[1]/p[8]::224" xml:id="UID-FAKE-3388">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::277 /TEI[1]/text[1]/body[1]/p[8]::283" xml:id="UID-FAKE-3389">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::314 /TEI[1]/text[1]/body[1]/p[8]::320" xml:id="UID-FAKE-3390">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::336 /TEI[1]/text[1]/body[1]/p[8]::343" xml:id="UID-FAKE-3391">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::416 /TEI[1]/text[1]/body[1]/p[8]::420" xml:id="UID-FAKE-3392">
+        <rs ana="https://topostext.org/place/388224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::460 /TEI[1]/text[1]/body[1]/p[8]::466" xml:id="UID-FAKE-3393">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::533 /TEI[1]/text[1]/body[1]/p[8]::539" xml:id="UID-FAKE-3394">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::158 /TEI[1]/text[1]/body[1]/p[9]::171" xml:id="UID-FAKE-3395">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::175 /TEI[1]/text[1]/body[1]/p[9]::182" xml:id="UID-FAKE-3396">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::223 /TEI[1]/text[1]/body[1]/p[9]::233" xml:id="UID-FAKE-3397">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::301 /TEI[1]/text[1]/body[1]/p[9]::305" xml:id="UID-FAKE-3398">
+        <rs ana="https://topostext.org/place/369273PKos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::367 /TEI[1]/text[1]/body[1]/p[9]::372" xml:id="UID-FAKE-3399">
+        <rs ana="https://topostext.org/place/384261PChi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::442 /TEI[1]/text[1]/body[1]/p[9]::449" xml:id="UID-FAKE-3400">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::37 /TEI[1]/text[1]/body[1]/p[10]::44" xml:id="UID-FAKE-3401">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::113 /TEI[1]/text[1]/body[1]/p[10]::116" xml:id="UID-FAKE-3402">
+        <rs ana="https://topostext.org/place/368278IHym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::161 /TEI[1]/text[1]/body[1]/p[10]::168" xml:id="UID-FAKE-3403">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 4</head>
+      <p>Now Dorieus could not bear to stay at Lacedemon and be subject to his brother, and so he went on a colonizing expedition. As soon as he became king, Cleomenes gathered together an army, both of the Lacedemonians themselves and of their allies, and invaded Argolis. The Argives came out under arms to meet them, but Cleomenes won the day. Near the battlefield was a grove sacred to Argus, son of Niobe, and on being routed some five thousand of the Argives took refuge therein. Cleomenes was subject to fits of mad excitement, and on this occasion he ordered the Helots to set the grove on fire, and the flames spread all over the grove, which, as it burned, burned up the suppliants with it.</p>
+      <p>He also conducted campaigns against Athens, by the first of which he delivered the Athenians from the sons of Peisistratus and won a good report among the Greeks both for himself personally and for the Lacedemonians; while the second campaign was to please an Athenian, Isagoras, by helping him to establish a tyranny over Athens. When he was disappointed, and the Athenians fought strenuously for their freedom, Cleomenes devastated the country, including, they say, the district called Orgas, which was sacred to the deities in Eleusis. He advanced as far as Aegina, and proceeded to arrest such influential Aeginetans as had shown Persian sympathies, and had persuaded the citizens to give earth and water to king Dareius, son of Hystaspes.</p>
+      <p>While Cleomenes was occupied in Aegina, Demaratus, the king of the other house, was slandering him to the Lacedemonian populace. On his return from Aegina, Cleomenes began to intrigue for the deposition of king Demaratus. He bribed the Pythian prophetess to frame responses about Demaratus according to his instructions, and instigated Leotychides, a man of royal birth and of the same family as Demaratus, to put in a claim to the throne.</p>
+      <p>Leotychides seized upon the remark that Ariston in his ignorance blurted out when Demaratus was born, denying that he was his child. On the present occasion the Lacedemonians, according to their wont, referred to the oracle at Delphi the claim against Demaratus, and the prophetess gave them a response which favoured the designs of Cleomenes.</p>
+      <p>So Demaratus was deposed, not rightfully, but because Cleomenes hated him. Subsequently Cleomenes met his end in a fit of madness for seizing a sword he began to wound himself, and hacked and maimed his body all over. The Argives assert that the manner of his end was a punishment for his treatment of the suppliants of Argus; the Athenians say that it was because he had devastated the Orgas; the Delphians put it down to the bribes he gave the Pythian prophetess, persuading her to give lying responses about Demaratus.</p>
+      <p>It may well be too that the wrath of heroes and the wrath of gods united together to punish Cleomenes since it is a fact that for a personal wrong Protesilaus, a hero not a whit more illustrious than Argus, punished at Elaeus Artayctes, a Persian; while the Megarians never succeeded in propitiating the deities at Eleusis for having encroached upon the sacred land. As to the tampering with the oracle, we know of nobody, with the exception of Cleomenes, who has had the audacity even to attempt it.</p>
+      <p>Cleomenes had no male issue, and the kingdom devolved on Leonidas, son of Anaxandrides and full brother of Dorieus. At this time Xerxes led his host against Greece, and Leonidas with three hundred Lacedemonians met him at Thermopylae. Now although the Greeks have waged many wars, and so have foreigners among themselves, yet there are but few that have been made more illustrious by the exceptional valor of one man, in the way that Achilles shed luster on the Trojan War and Miltiades on the engagement at Marathon. But in truth the success of Leonidas surpassed, in my opinion, all later as well as all previous achievements.</p>
+      <p>For Xerxes, the proudest of all who have reigned over the Medes, or over the Persians who succeeded them, the achiever of such brilliant exploits, was met on his march by Leonidas and the handful of men he led to Thermopylae, and they would have prevented him from even seeing Greece at all, and from ever burning Athens, if the man of Trachis had not guided the army with Hydarnes by the path that stretches across Oeta, and enabled the enemy to surround the Greeks; so Leonidas was overwhelmed and the foreigners passed along into Greece.</p>
+      <p>Pausanias the son of Cleombrotus never became king. For while guardian of Pleistarchus, the son of Leonidas, who was a child when his father died, he led the Lacedemonians to Plataea, and afterwards with their fleet to the Hellespont. I cannot praise too highly the way in which Pausanias treated the Coan lady, who was the daughter of a man of distinction among the Coans, Hegetorides the son of Antagoras1, and the unwilling concubine of a Persian, Pharandates the son of Teaspis.</p>
+      <p>When Mardonius fell in the battle of Plataea, and the foreigners were destroyed, Pausanias sent the lady back to Cos, and she took with her the apparel that the Persian had procured for her as well as the rest of her belongings. Pausanias also refused to dishonor the body of Mardonius, as Lampon the Aeginetan advised him to do.</p>
+    </body>
+  </text>
+</TEI>

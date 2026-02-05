@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::102 /TEI[1]/text[1]/body[1]/p[1]::109" xml:id="UID-FAKE-3458">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::122 /TEI[1]/text[1]/body[1]/p[1]::131" xml:id="UID-FAKE-3459">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::239 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-3460">
+        <rs ana="https://topostext.org/place/380237STyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::310 /TEI[1]/text[1]/body[1]/p[1]::319" xml:id="UID-FAKE-3461">
+        <rs ana="https://topostext.org/place/380237BStr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::375 /TEI[1]/text[1]/body[1]/p[1]::381" xml:id="UID-FAKE-3462">
+        <rs ana="https://topostext.org/place/383237UDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::410 /TEI[1]/text[1]/body[1]/p[1]::418" xml:id="UID-FAKE-3463">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::232 /TEI[1]/text[1]/body[1]/p[3]::238" xml:id="UID-FAKE-3464">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::357 /TEI[1]/text[1]/body[1]/p[3]::364" xml:id="UID-FAKE-3465">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::45 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-3466">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::93 /TEI[1]/text[1]/body[1]/p[4]::99" xml:id="UID-FAKE-3467">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::145 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-3468">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::170 /TEI[1]/text[1]/body[1]/p[4]::178" xml:id="UID-FAKE-3469">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::237 /TEI[1]/text[1]/body[1]/p[4]::250" xml:id="UID-FAKE-3470">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::25" xml:id="UID-FAKE-3471">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::44 /TEI[1]/text[1]/body[1]/p[5]::52" xml:id="UID-FAKE-3472">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::148 /TEI[1]/text[1]/body[1]/p[5]::161" xml:id="UID-FAKE-3473">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::260 /TEI[1]/text[1]/body[1]/p[5]::271" xml:id="UID-FAKE-3474">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::324 /TEI[1]/text[1]/body[1]/p[5]::332" xml:id="UID-FAKE-3475">
+        <rs ana="https://topostext.org/place/313301UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::351 /TEI[1]/text[1]/body[1]/p[5]::362" xml:id="UID-FAKE-3476">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::376 /TEI[1]/text[1]/body[1]/p[5]::389" xml:id="UID-FAKE-3477">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::459 /TEI[1]/text[1]/body[1]/p[5]::465" xml:id="UID-FAKE-3478">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::273 /TEI[1]/text[1]/body[1]/p[6]::282" xml:id="UID-FAKE-3479">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::333 /TEI[1]/text[1]/body[1]/p[6]::339" xml:id="UID-FAKE-3480">
+        <rs ana="https://topostext.org/place/380237BSAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::422 /TEI[1]/text[1]/body[1]/p[6]::428" xml:id="UID-FAKE-3481">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::132 /TEI[1]/text[1]/body[1]/p[7]::145" xml:id="UID-FAKE-3482">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::492 /TEI[1]/text[1]/body[1]/p[7]::498" xml:id="UID-FAKE-3483">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::190 /TEI[1]/text[1]/body[1]/p[8]::199" xml:id="UID-FAKE-3484">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::210 /TEI[1]/text[1]/body[1]/p[8]::218" xml:id="UID-FAKE-3485">
+        <rs ana="https://topostext.org/place/315275LKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::268 /TEI[1]/text[1]/body[1]/p[8]::276" xml:id="UID-FAKE-3486">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::367 /TEI[1]/text[1]/body[1]/p[8]::374" xml:id="UID-FAKE-3487">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::427 /TEI[1]/text[1]/body[1]/p[8]::440" xml:id="UID-FAKE-3488">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::93 /TEI[1]/text[1]/body[1]/p[9]::101" xml:id="UID-FAKE-3489">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::179 /TEI[1]/text[1]/body[1]/p[9]::185" xml:id="UID-FAKE-3490">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::241 /TEI[1]/text[1]/body[1]/p[9]::246" xml:id="UID-FAKE-3491">
+        <rs ana="https://topostext.org/place/295255WSol"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 6</head>
+      <p>As Agesipolis died childless, the kingdom devolved upon Cleombrotus, who was general in the battle at Leuctra against the Boeotians. Cleombrotus showed personal bravery, but fell when the battle was only just beginning. In great disasters Providence is peculiarly apt to cut off early the general, just as the Athenians lost Hippocrates the son of Ariphron, who commanded at Delium, and later on Leosthenes in Thessaly.</p>
+      <p>Agesipolis, the elder of the sons of Cleombrotus, is not a striking figure in history, and was succeeded by his younger brother Cleomenes. His first son was Acrotatus, his second Cleonymus. Acrotatus did not outlive his father, and when Cleomenes afterwards died, there arose a dispute about the throne between Cleonymus the son of Cleomenes and Areus the son of Acrotatus. So the senators acted as arbitrators, and decided that the dignity was the inheritance of Areus the son of Acrotatus, and not of Cleonymus.</p>
+      <p>Deprived of his kingship Cleonymus became violently angry, and the ephors tried to soothe his feelings by bestowing upon him various honors, especially the leadership of the armies, so as to prevent his becoming one day an enemy of Sparta. But at last he committed many hostile acts against his fatherland, and induced Pyrrhus the son of Aeacides to invade Laconia.</p>
+      <p>While Areus the son of Acrotatus was king in Sparta, Antigonus the son of Demetrius attacked Athens with an army and a fleet. To the help of the Athenians there came the Egyptian expedition with Patroclus, and every available man of the Lacedemonians with Areus their king at their head.</p>
+      <p>Antigonus invested Athens and prevented the Athenian reinforcements from entering the city; so Patroclus dispatched messengers urging Areus and the Lacedemonians to take the offensive against Antigonus. On their doing so, he would himself, he said, attack the Macedonians in rear; but before such a move it was not fair for Egyptian sailors to attack Macedonians on land. The Lacedemonians were eager to make the venture, both because of their friendship for Athens and also because they were ambitious to hand down to posterity a famous achievement,</p>
+      <p>but as their supplies were exhausted Areus led his army back home, thinking that desperate measures should be reserved for one"s own advantage and not risked recklessly for the benefit of others. After they had held out as long as they could, Antigonus made peace with the Athenians, on condition that he brought a garrison into the Museum to be a guard over them. After a time Antigonus himself removed the garrison from Athens of his own accord while Areus begat Acrotatus, and Acrotatus Areus, who died of disease when he was just about eight years old.</p>
+      <p>And as the only male representative of the house of Eurysthenes was Leonidas the son of Cleonymus, by this time a very old man, the Lacedemonians gave him the throne. Leonidas, it so happened, had a bitter opponent in Lysander, a descendant of Lysander the son of Aristocritus. This Lysander won over to his side Leonidas"son-in-law Cleombrotus. After gaining his support he brought various charges against Leonidas, in particular that when a boy he had sworn to his father Cleonymus to ruin Sparta.</p>
+      <p>So Leonidas ceased to be king and Cleombrotus came to the throne in his stead. Now if Leonidas had given way to impulse and retired, like Demaratus the son of Ariston, either to the king of Macedonia or to the Egyptian king, he would have profited nothing even by the Spartans changing their minds. But as it was, when the citizens sentenced him to exile, he went to Arcadia, whence not many years later he was recalled by the Lacedemonians, who made him king again.</p>
+      <p>Now how Cleomenes the son of Leonidas performed daring feats of valor, and how after him the Spartans ceased to be ruled by kings, I have already shown in my account of Aratus of Sicyon. My narrative also included the manner of his death in Egypt.</p>
+    </body>
+  </text>
+</TEI>

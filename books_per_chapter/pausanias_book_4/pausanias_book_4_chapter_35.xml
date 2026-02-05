@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::41 /TEI[1]/text[1]/body[1]/p[1]::51" xml:id="UID-FAKE-5904">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::73 /TEI[1]/text[1]/body[1]/p[1]::80" xml:id="UID-FAKE-5905">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::92 /TEI[1]/text[1]/body[1]/p[1]::99" xml:id="UID-FAKE-5906">
+        <rs ana="https://topostext.org/place/367227WLac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::204 /TEI[1]/text[1]/body[1]/p[1]::211" xml:id="UID-FAKE-5907">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::308 /TEI[1]/text[1]/body[1]/p[1]::319" xml:id="UID-FAKE-5908">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::375 /TEI[1]/text[1]/body[1]/p[1]::381" xml:id="UID-FAKE-5909">
+        <rs ana="https://topostext.org/place/378233HPog"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::48 /TEI[1]/text[1]/body[1]/p[2]::57" xml:id="UID-FAKE-5910">
+        <rs ana="https://topostext.org/place/376228UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::90 /TEI[1]/text[1]/body[1]/p[2]::95" xml:id="UID-FAKE-5911">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::120 /TEI[1]/text[1]/body[1]/p[2]::128" xml:id="UID-FAKE-5912">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::145 /TEI[1]/text[1]/body[1]/p[2]::158" xml:id="UID-FAKE-5913">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::240 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-5914">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::275 /TEI[1]/text[1]/body[1]/p[2]::284" xml:id="UID-FAKE-5915">
+        <rs ana="https://topostext.org/place/376228UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::301 /TEI[1]/text[1]/body[1]/p[2]::310" xml:id="UID-FAKE-5916">
+        <rs ana="https://topostext.org/place/376228UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::358 /TEI[1]/text[1]/body[1]/p[2]::365" xml:id="UID-FAKE-5917">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::409 /TEI[1]/text[1]/body[1]/p[2]::416" xml:id="UID-FAKE-5918">
+        <rs ana="https://topostext.org/place/376228UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::71 /TEI[1]/text[1]/body[1]/p[3]::78" xml:id="UID-FAKE-5919">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::125 /TEI[1]/text[1]/body[1]/p[3]::133" xml:id="UID-FAKE-5920">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::188 /TEI[1]/text[1]/body[1]/p[3]::206" xml:id="UID-FAKE-5921">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::83 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-5922">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::9 /TEI[1]/text[1]/body[1]/p[5]::16" xml:id="UID-FAKE-5923">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::129 /TEI[1]/text[1]/body[1]/p[5]::138" xml:id="UID-FAKE-5924">
+        <rs ana="https://topostext.org/place/405195RIll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::155 /TEI[1]/text[1]/body[1]/p[5]::165" xml:id="UID-FAKE-5925">
+        <rs ana="https://topostext.org/place/408187WIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::172 /TEI[1]/text[1]/body[1]/p[5]::178" xml:id="UID-FAKE-5926">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::285 /TEI[1]/text[1]/body[1]/p[5]::294" xml:id="UID-FAKE-5927">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::300 /TEI[1]/text[1]/body[1]/p[5]::309" xml:id="UID-FAKE-5928">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::369 /TEI[1]/text[1]/body[1]/p[5]::374" xml:id="UID-FAKE-5929">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::8 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-5930">
+        <rs ana="https://topostext.org/place/405195RIll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::157 /TEI[1]/text[1]/body[1]/p[6]::164" xml:id="UID-FAKE-5931">
+        <rs ana="https://topostext.org/place/404226UMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::230 /TEI[1]/text[1]/body[1]/p[7]::239" xml:id="UID-FAKE-5932">
+        <rs ana="https://topostext.org/place/405195RIll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::348 /TEI[1]/text[1]/body[1]/p[7]::358" xml:id="UID-FAKE-5933">
+        <rs ana="https://topostext.org/place/408187WIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::393 /TEI[1]/text[1]/body[1]/p[7]::404" xml:id="UID-FAKE-5934">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::3 /TEI[1]/text[1]/body[1]/p[8]::10" xml:id="UID-FAKE-5935">
+        <rs ana="https://topostext.org/place/368217UMot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::426 /TEI[1]/text[1]/body[1]/p[8]::433" xml:id="UID-FAKE-5936">
+        <rs ana="https://topostext.org/place/404279UCyz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::59 /TEI[1]/text[1]/body[1]/p[9]::70" xml:id="UID-FAKE-5937">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::-1 /TEI[1]/text[1]/body[1]/p[9]::13" xml:id="UID-FAKE-5938">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::166 /TEI[1]/text[1]/body[1]/p[9]::173" xml:id="UID-FAKE-5939">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::236 /TEI[1]/text[1]/body[1]/p[9]::243" xml:id="UID-FAKE-5940">
+        <rs ana="https://topostext.org/place/320348UJop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::261 /TEI[1]/text[1]/body[1]/p[9]::266" xml:id="UID-FAKE-5941">
+        <rs ana="https://topostext.org/place/320348UJop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::57 /TEI[1]/text[1]/body[1]/p[10]::63" xml:id="UID-FAKE-5942">
+        <rs ana="https://topostext.org/place/396269UAst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::65 /TEI[1]/text[1]/body[1]/p[10]::71" xml:id="UID-FAKE-5943">
+        <rs ana="https://topostext.org/place/396269UAst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::81 /TEI[1]/text[1]/body[1]/p[10]::87" xml:id="UID-FAKE-5944">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::140 /TEI[1]/text[1]/body[1]/p[10]::148" xml:id="UID-FAKE-5945">
+        <rs ana="https://topostext.org/place/391269PAta"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::162 /TEI[1]/text[1]/body[1]/p[10]::170" xml:id="UID-FAKE-5946">
+        <rs ana="https://topostext.org/place/391269PAta"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::182 /TEI[1]/text[1]/body[1]/p[10]::188" xml:id="UID-FAKE-5947">
+        <rs ana="https://topostext.org/place/384261PChi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::219 /TEI[1]/text[1]/body[1]/p[10]::227" xml:id="UID-FAKE-5948">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::335 /TEI[1]/text[1]/body[1]/p[10]::341" xml:id="UID-FAKE-5949">
+        <rs ana="https://topostext.org/place/392273BAll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::401 /TEI[1]/text[1]/body[1]/p[10]::405" xml:id="UID-FAKE-5950">
+        <rs ana="https://topostext.org/place/419125WAni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::235 /TEI[1]/text[1]/body[1]/p[11]::246" xml:id="UID-FAKE-5951">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::268 /TEI[1]/text[1]/body[1]/p[11]::273" xml:id="UID-FAKE-5952">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::304 /TEI[1]/text[1]/body[1]/p[11]::317" xml:id="UID-FAKE-5953">
+        <rs ana="https://topostext.org/place/366281UKas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::437 /TEI[1]/text[1]/body[1]/p[11]::444" xml:id="UID-FAKE-5954">
+        <rs ana="https://topostext.org/place/469320WHyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::517 /TEI[1]/text[1]/body[1]/p[11]::528" xml:id="UID-FAKE-5955">
+        <rs ana="https://topostext.org/place/408141PDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::530 /TEI[1]/text[1]/body[1]/p[11]::537" xml:id="UID-FAKE-5956">
+        <rs ana="https://topostext.org/place/408141PDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::559 /TEI[1]/text[1]/body[1]/p[11]::570" xml:id="UID-FAKE-5957">
+        <rs ana="https://topostext.org/place/430105RTyr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 35</head>
+      <p>Before the mustering of the army for the Trojan War, and during the war, Mothone was called Pedasus. Later, as the people themselves say, it received a new name from the daughter of Oeneus. They say that Mothone was born of a concubine to Oeneus the son of Porthaon, when he had taken refuge with Diomede in Peloponnese after the fall of Troy. But in my view it was the rock Mothon that gave the place its name. It is this which forms their harbor. For projecting under water, it makes the entrance for ships more narrow and also serves as a breakwater against a heavy swell.</p>
+      <p>I have shown in earlier passages that, when the Nauplians in the reign of Damocratidas in Argos were expelled for their Laconian sympathies, the Lacedemonians gave them Mothone, and that no change was made regarding them on the part of the Messenians when they returned. The Nauplians in my view were Egyptians originally, who came by sea with Danaus to the Argolid, and two generations later were settled in Nauplia by Nauplius the son of Amymone.</p>
+      <p>The Emperor Trajan granted civic freedom and autonomy to the people of Mothone. In earlier days they were the only people of Messenia on the coast to suffer a disaster like the following: Thesprotian Epirus was ruined by anarchy. For Deidameia the daughter of Pyrrhus, being without children, handed over the government to the people when she was on the point of death. She was the daughter of Pyrrhus, son of Ptolemy, son of Alexander, son of Pyrrhus.</p>
+      <p>I have told the facts relating to Pyrrhus the son of Aeacides in my account of the Athenians. Procles the Carthaginian indeed rated Alexander the son of Philip higher on account of his good fortune and for the brilliance of his achievements, but said that Pyrrhus was the better man in infantry and cavalry tactics and in the invention of stratagems of war.</p>
+      <p>When the Epirots were rid of their kings, the people threw off all control and disdained to listen to their magistrates, and the Illyrians who live on the Ionian Sea above Epirus reduced them by a raid. We have yet to hear of a democracy bringing prosperity to a nation other than the Athenians; the Athenians attained to greatness by its means, for they surpassed the Greek world in native wit, and least disregarded the established laws.</p>
+      <p>Now the Illyrians, having tasted empire and being always desirous of more, built ships, and plundering others whom they fell in with, put in to the coast of Mothone and anchored as in a friendly port. Sending a messenger to the city they asked for wine to be brought to their ships. A few men came with it and they bought the wine at the price which the inhabitants asked, and themselves sold a part of their cargo.</p>
+      <p>When on the following day a larger number arrived from the town, they allowed them also to make their profit. Finally women and men came down to the ships to sell wine and trade with the barbarians. Thereupon by a bold stroke the Illyrians carried off a number of men and still more of the women. Carrying them on board ship, they set sail for the Ionian Sea, having desolated the city of the Mothonaeans.</p>
+      <p>In Mothone is a temple of Athena Anemotis (Of the Winds), with a statue dedicated, it is said, by Diomedes, who gave the goddess her name. The country being damaged by violent and unseasonable blasts, Diomedes prayed to the goddess, and henceforward no disaster caused by the winds has visited their country. There is also a shrine of Artemis here and water in a well mixed with pitch, in appearance very like the iris-oil of Cyzicos. Water can assume every color and scent.</p>
+      <p>The bluest that I know from personal experience is that at Thermopylae, not all of it, but that which flows into the swimming-baths, called locally the Women"s Pots (Chytroi). Red water, in color like blood, is found in the land of the Hebrews near the city of Joppa. The water is close to the sea, and the account which the natives give of the spring is that Perseus, after destroying the sea-monster, to which the daughter of Cepheus was exposed, washed off the blood in the spring.</p>
+      <p>I have myself seen water coming up black from springs at Astyra. Astyra opposite Lesbos is the name of the hot baths in the district called Atarneus. It was this Atarneus, which the Chians received as a reward from the Persians as a reward for surrendering the suppliant, Pactyas the Lydian. This water then has a black color; but the Romans have a white water, above the city across the river called Anio. When a man enters it, he is at first attacked with cold and shivering, but after a little time it warms him like the hottest drug.</p>
+      <p>All these springs that had something wonderful to show I have seen myself. For I pass over the less wonderful that I know, and it is no great marvel to find water that is salt and harsh. But there are two other kinds. The water in the White Plain, as it is called, in Caria, by the village with the name Dascylou Kome, is warm and sweeter than milk to drink. I know that Herodotus says that a spring of bitter water flows into the river Hypanis. We can assuredly admit the truth of his statement, when in our days at Dicaearchia (Puteoli), in the land of the Tyrrhenians, a hot spring has been found, so acid that in a few years it dissolved the lead through which its water passed.</p>
+    </body>
+  </text>
+</TEI>

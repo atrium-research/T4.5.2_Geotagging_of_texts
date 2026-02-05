@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::52 /TEI[1]/text[1]/body[1]/p[2]::59" xml:id="UID-FAKE-3973">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::75 /TEI[1]/text[1]/body[1]/p[2]::81" xml:id="UID-FAKE-3974">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::83 /TEI[1]/text[1]/body[1]/p[2]::88" xml:id="UID-FAKE-3975">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::270 /TEI[1]/text[1]/body[1]/p[2]::277" xml:id="UID-FAKE-3976">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::295 /TEI[1]/text[1]/body[1]/p[2]::303" xml:id="UID-FAKE-3977">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::368 /TEI[1]/text[1]/body[1]/p[2]::374" xml:id="UID-FAKE-3978">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::295 /TEI[1]/text[1]/body[1]/p[3]::303" xml:id="UID-FAKE-3979">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::38 /TEI[1]/text[1]/body[1]/p[4]::44" xml:id="UID-FAKE-3980">
+        <rs ana="https://topostext.org/place/374133PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::46 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-3981">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::146 /TEI[1]/text[1]/body[1]/p[4]::151" xml:id="UID-FAKE-3982">
+        <rs ana="https://topostext.org/place/399182RSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::250 /TEI[1]/text[1]/body[1]/p[4]::256" xml:id="UID-FAKE-3983">
+        <rs ana="https://topostext.org/place/380126UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::318 /TEI[1]/text[1]/body[1]/p[4]::325" xml:id="UID-FAKE-3984">
+        <rs ana="https://topostext.org/place/380126UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::590 /TEI[1]/text[1]/body[1]/p[4]::596" xml:id="UID-FAKE-3985">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::78 /TEI[1]/text[1]/body[1]/p[5]::84" xml:id="UID-FAKE-3986">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::355 /TEI[1]/text[1]/body[1]/p[5]::365" xml:id="UID-FAKE-3987">
+        <rs ana="https://topostext.org/place/379128PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-3988">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::412 /TEI[1]/text[1]/body[1]/p[6]::422" xml:id="UID-FAKE-3989">
+        <rs ana="https://topostext.org/place/378228PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::583 /TEI[1]/text[1]/body[1]/p[6]::595" xml:id="UID-FAKE-3990">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::621 /TEI[1]/text[1]/body[1]/p[6]::629" xml:id="UID-FAKE-3991">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::633 /TEI[1]/text[1]/body[1]/p[6]::643" xml:id="UID-FAKE-3992">
+        <rs ana="https://topostext.org/place/380236ASSB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::648 /TEI[1]/text[1]/body[1]/p[6]::655" xml:id="UID-FAKE-3993">
+        <rs ana="https://topostext.org/place/380236ASSB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::16 /TEI[1]/text[1]/body[1]/p[7]::24" xml:id="UID-FAKE-3994">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::26 /TEI[1]/text[1]/body[1]/p[7]::32" xml:id="UID-FAKE-3995">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::163 /TEI[1]/text[1]/body[1]/p[7]::169" xml:id="UID-FAKE-3996">
+        <rs ana="https://topostext.org/place/453343RChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::184 /TEI[1]/text[1]/body[1]/p[7]::197" xml:id="UID-FAKE-3997">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::324 /TEI[1]/text[1]/body[1]/p[7]::333" xml:id="UID-FAKE-3998">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::402 /TEI[1]/text[1]/body[1]/p[7]::409" xml:id="UID-FAKE-3999">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::426 /TEI[1]/text[1]/body[1]/p[7]::435" xml:id="UID-FAKE-4000">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::56 /TEI[1]/text[1]/body[1]/p[8]::62" xml:id="UID-FAKE-4001">
+        <rs ana="https://topostext.org/place/376261STau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::101 /TEI[1]/text[1]/body[1]/p[8]::113" xml:id="UID-FAKE-4002">
+        <rs ana="https://topostext.org/place/388350RCap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::130 /TEI[1]/text[1]/body[1]/p[8]::136" xml:id="UID-FAKE-4003">
+        <rs ana="https://topostext.org/place/435335WPon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::206 /TEI[1]/text[1]/body[1]/p[8]::213" xml:id="UID-FAKE-4004">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::269 /TEI[1]/text[1]/body[1]/p[8]::278" xml:id="UID-FAKE-4005">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::344 /TEI[1]/text[1]/body[1]/p[8]::352" xml:id="UID-FAKE-4006">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::371 /TEI[1]/text[1]/body[1]/p[8]::378" xml:id="UID-FAKE-4007">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::394 /TEI[1]/text[1]/body[1]/p[8]::398" xml:id="UID-FAKE-4008">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::439 /TEI[1]/text[1]/body[1]/p[8]::446" xml:id="UID-FAKE-4009">
+        <rs ana="https://topostext.org/place/346365ULaL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::450 /TEI[1]/text[1]/body[1]/p[8]::458" xml:id="UID-FAKE-4010">
+        <rs ana="https://topostext.org/place/378291PLao"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::36 /TEI[1]/text[1]/body[1]/p[9]::42" xml:id="UID-FAKE-4011">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::46 /TEI[1]/text[1]/body[1]/p[9]::55" xml:id="UID-FAKE-4012">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::259 /TEI[1]/text[1]/body[1]/p[9]::277" xml:id="UID-FAKE-4013">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::283 /TEI[1]/text[1]/body[1]/p[9]::294" xml:id="UID-FAKE-4014">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::314 /TEI[1]/text[1]/body[1]/p[9]::319" xml:id="UID-FAKE-4015">
+        <rs ana="https://topostext.org/place/378221UMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::324 /TEI[1]/text[1]/body[1]/p[9]::330" xml:id="UID-FAKE-4016">
+        <rs ana="https://topostext.org/place/371224DPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::316 /TEI[1]/text[1]/body[1]/p[11]::322" xml:id="UID-FAKE-4017">
+        <rs ana="https://topostext.org/place/453343RChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::386 /TEI[1]/text[1]/body[1]/p[11]::392" xml:id="UID-FAKE-4018">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::403 /TEI[1]/text[1]/body[1]/p[11]::412" xml:id="UID-FAKE-4019">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::-1 /TEI[1]/text[1]/body[1]/p[11]::12" xml:id="UID-FAKE-4020">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 16</head>
+      <p>Near is a sanctuary of Hilaeira and of Phoebe. The author of the poem Cypria calls them daughters of Apollo. Their priestesses are young maidens, called, as are also the goddesses, Leucippides (Daughter of Leucippus). One of the images was adorned by a Leucippis who had served the goddesses as a priestess. She gave it a face of modern workmanship instead of the old one; she was forbidden by a dream to adorn the other one as well. Here there has been hung from the roof an egg tied to ribands, and they say that it is the famous egg that legend says Leda brought forth.</p>
+      <p>Each year the women weave a tunic for the Apollo at Amyclae, and they call Chiton (Tunic) the chamber in which they do their weaving. Near it is built a house, said to have been occupied originally by the sons of Tyndareus, but afterwards it was acquired by Phormio1, a Spartan. To him came the Dioscuri in the likeness of strangers. They said that they had come from Cyrene, and asked to lodge with him, requesting to have the chamber which had pleased them most when they dwelt among men.</p>
+      <p>He replied that they might lodge in any other part of the house they wished, but that they could not have the chamber. For it so happened that his maiden daughter was living in it. By the next day this maiden and all her girlish apparel had disappeared, and in the room were found images of the Dioscuri, a table, and silphium upon it.</p>
+      <p>Such is the story. As you go from the Chiton (Tunic) in the direction of the gate there is a hero-shrine of Cheilon, who is considered one of the Seven Sages, and also of AthenodorYY, one of those who with Dorieus the son of Anaxandrides set out for Sicily. The reason of their setting out was that they held that the Erycine district belonged to the descendants of Heracles and not to the foreigners who held it. The story is that Heracles wrestled with Eryx on these terms: if Heracles won, the land of Eryx was to belong to him but if he were beaten, Eryx was to depart with the cows of Geryon;</p>
+      <p>for Heracles at the time was driving these away, and when they swam across to Sicily he too crossed over in search of them near the bent olive-tree. The favour of heaven was more partial to Heracles than it was afterwards to Dorieus the son of Anaxandrides; Heracles killed Eryx, but Dorieus himself and the greater part of his army were destroyed by the Egestaeans.</p>
+      <p>The Lacedemonians have also made a sanctuary for Lycurgus, who drew up the laws, looking upon him as a god. Behind the temple is the grave of Eucosmus, the son of Lycurgus, and by the altar the grave of Lathria and Anaxandra. Now these were themselves twins, and therefore the sons of Aristodemus, who also were twins likewise, took them to wife; they were daughters of Thersander son of Agamedidas, king of the Cleonaeans and great-grandson of Ctesippus, son of Heracles. Opposite the temple is the tomb of Theopompus son of Nicander, and also that of Eurybiades, who commanded the Lacedemonian warships that fought the Persians at Artemisium and Salamis. Near is what is called the hero-shrine of Astrabacus.</p>
+      <p>The place named Limnaeum (Marshy) is sacred to Artemis Ortheia. The wooden image (xoanon) there they say is that which once Orestes and Iphigenia stole out of the Tauric land, and the Lacedemonians say that it was brought to their land because there also Orestes was king. I think their story more probable than that of the Athenians. For what could have induced Iphigenia to leave the image behind at Brauron? Or why did the Athenians, when they were preparing to abandon their land, fail to include this image in what they put on board their ships?</p>
+      <p>And yet, right down to the present day, the fame of the Tauric goddess has remained so high that the Cappadocians dwelling on the Euxine claim that the image is among them, a like claim being made by those Lydians also who have a sanctuary of Artemis Anaeitis. But the Athenians, we are asked to believe, made light of it becoming booty of the Persians. For the image at Brauron was brought to Susa, and afterwards Seleucus gave it to the Syrians of Laodicea, who still possess it.</p>
+      <p>I will give other evidence that the Orthia in Lacedemon is the xoanon from the foreigners. Firstly, Astrabacus and Alopecus, sons of Irbus, son of Amphisthenes, son of Amphicles, son of Agis, when they found the image straightway became insane. Secondly, the Spartan Limnatians, the Cynosurians, and the people of Mesoa and Pitane, while sacrificing to Artemis, fell to quarreling, which led also to bloodshed; many were killed at the altar and the rest died of disease.</p>
+      <p>Whereat an oracle was delivered to them, that they should stain the altar with human blood. He used to be sacrificed upon whomsoever the lot fell, but Lycurgus changed the custom to a scourging of the lads, and so in this way the altar is stained with human blood. By them stands the priestess, holding the xoanon. Now it is small and light,</p>
+      <p>but if ever the scourgers spare the lash because of a lad"s beauty or high rank, then at once the priestess finds the xoanon grow so heavy that she can hardly carry it. She lays the blame on the scourgers, and says that it is their fault that she is being weighed down. So the image ever since the sacrifices in the Tauric land keeps its fondness for human blood. They call it not only Orthia, but also Lygodesma (Willow-bound), because it was found in a thicket of willows, and the encircling willow made the image stand upright.</p>
+    </body>
+  </text>
+</TEI>

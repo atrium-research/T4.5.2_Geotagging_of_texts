@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::8 /TEI[1]/text[1]/body[1]/p[1]::21" xml:id="UID-FAKE-4832">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::73" xml:id="UID-FAKE-4833">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::216 /TEI[1]/text[1]/body[1]/p[1]::222" xml:id="UID-FAKE-4834">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::258 /TEI[1]/text[1]/body[1]/p[1]::271" xml:id="UID-FAKE-4835">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::288 /TEI[1]/text[1]/body[1]/p[1]::294" xml:id="UID-FAKE-4836">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::300 /TEI[1]/text[1]/body[1]/p[1]::307" xml:id="UID-FAKE-4837">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::352 /TEI[1]/text[1]/body[1]/p[1]::362" xml:id="UID-FAKE-4838">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::387 /TEI[1]/text[1]/body[1]/p[1]::395" xml:id="UID-FAKE-4839">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::444 /TEI[1]/text[1]/body[1]/p[1]::458" xml:id="UID-FAKE-4840">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::478 /TEI[1]/text[1]/body[1]/p[1]::487" xml:id="UID-FAKE-4841">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::492 /TEI[1]/text[1]/body[1]/p[1]::499" xml:id="UID-FAKE-4842">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::505 /TEI[1]/text[1]/body[1]/p[1]::512" xml:id="UID-FAKE-4843">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::559 /TEI[1]/text[1]/body[1]/p[1]::572" xml:id="UID-FAKE-4844">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::682 /TEI[1]/text[1]/body[1]/p[1]::691" xml:id="UID-FAKE-4845">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::733 /TEI[1]/text[1]/body[1]/p[1]::743" xml:id="UID-FAKE-4846">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::166 /TEI[1]/text[1]/body[1]/p[3]::179" xml:id="UID-FAKE-4847">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::261 /TEI[1]/text[1]/body[1]/p[3]::271" xml:id="UID-FAKE-4848">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::248 /TEI[1]/text[1]/body[1]/p[4]::258" xml:id="UID-FAKE-4849">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::292 /TEI[1]/text[1]/body[1]/p[4]::305" xml:id="UID-FAKE-4850">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::73 /TEI[1]/text[1]/body[1]/p[6]::82" xml:id="UID-FAKE-4851">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::529 /TEI[1]/text[1]/body[1]/p[6]::537" xml:id="UID-FAKE-4852">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::553 /TEI[1]/text[1]/body[1]/p[6]::558" xml:id="UID-FAKE-4853">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::563 /TEI[1]/text[1]/body[1]/p[6]::569" xml:id="UID-FAKE-4854">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::157 /TEI[1]/text[1]/body[1]/p[7]::167" xml:id="UID-FAKE-4855">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::191 /TEI[1]/text[1]/body[1]/p[7]::200" xml:id="UID-FAKE-4856">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::221 /TEI[1]/text[1]/body[1]/p[7]::228" xml:id="UID-FAKE-4857">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::234 /TEI[1]/text[1]/body[1]/p[7]::241" xml:id="UID-FAKE-4858">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::292 /TEI[1]/text[1]/body[1]/p[7]::305" xml:id="UID-FAKE-4859">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 10</head>
+      <p>But the Lacedemonians, when they heard the oracle given to the Messenians, were in despair, both they and their kings, and for the future shrank from offering battle. But five years after the escape of Lyciscus from Ithome, the victims being auspicious, the Lacedemonians marched against Ithome. The Cretans were no longer with them. The allies of the Messenians also were late, for the Spartans had now incurred the suspicion of others of the Peloponnesians, especially of the Arcadians and Argives. The Argives intended to come without the knowledge of the Lacedemonians, and by private enterprise rather than by public declaration. The expedition was openly proclaimed among the Arcadians, but they did not arrive either. For the Messenians were induced by the credit placed in the oracle to face the risk without allies.</p>
+      <p>This engagement did not differ in most points from the first, as on this occasion too daylight failed the combatants, but they record that on neither side was a wing or division broken, as they did not maintain the formation in which they were originally posted, champions on either side meeting in the middle, and there supporting the whole combat.</p>
+      <p>Euphaes, who showed more eagerness than a king should and recklessly attacked Theopompus"bodyguard, received a number of mortal wounds. When he swooned and fell, the Lacedemonians did their utmost to drag him into their own ranks, as he still breathed. But the Messenians were roused by the affection which they felt for their king and by the reproach which would be theirs. It seemed better to die for their kings and sacrifice their lives than that he should be abandoned while one of them escaped.</p>
+      <p>So the fall of Euphaes prolonged the battle and called forth further deeds of daring on both sides. He came to himself later and saw that his men had not had the worst of the fight, but he died in a few days, having reigned thirteen years over the Messenians, and having been at war with the Lacedemonians for the whole of his reign.</p>
+      <p>Euphaes, having no children, left his kingdom to the man chosen by the people. Cleonnis and Damis came forward to dispute it with Aristodemus, as they were considered superior to him in war and all else. Antander had been killed by the enemy, risking his life for Euphaes in the battle. The views of both the seers, Epebolus and Ophioneus, were identical, that they should not give the honors of Aepytus and his descendants to a man who was accursed and polluted by the murder of his daughter.</p>
+      <p>Nevertheless Aristodemus was chosen and became king. This Ophioneus, the Messenian seer, was blind from birth and practised the following method of divination. By learning the facts relevant to each case, both private and public, he thus foretold the future. This then was the way he practised his art. Aristodemus, becoming king, constantly was ready to show all reasonable favour to the people, and held all the nobles in honor, especially Cleonnis and Damis. He maintained good relations with the allies, sending gifts to the Arcadian leaders and to Argos and Sicyon.</p>
+      <p>They carried on the war during his reign by means of constant forays with small parties, and made incursions into one another"s country at harvest time, the Messenians being supported by the Arcadians in their raids into Laconia. The Argives did not think fit to declare their hatred for the Lacedemonians beforehand, but prepared to take part in the contest when it came.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::29 /TEI[1]/text[1]/body[1]/p[1]::33" xml:id="UID-FAKE-5580">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::39 /TEI[1]/text[1]/body[1]/p[1]::50" xml:id="UID-FAKE-5581">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::153 /TEI[1]/text[1]/body[1]/p[1]::159" xml:id="UID-FAKE-5582">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::113 /TEI[1]/text[1]/body[1]/p[2]::124" xml:id="UID-FAKE-5583">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::181 /TEI[1]/text[1]/body[1]/p[2]::188" xml:id="UID-FAKE-5584">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::244 /TEI[1]/text[1]/body[1]/p[2]::251" xml:id="UID-FAKE-5585">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::337 /TEI[1]/text[1]/body[1]/p[2]::343" xml:id="UID-FAKE-5586">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::462 /TEI[1]/text[1]/body[1]/p[2]::468" xml:id="UID-FAKE-5587">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::126 /TEI[1]/text[1]/body[1]/p[3]::139" xml:id="UID-FAKE-5588">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::313 /TEI[1]/text[1]/body[1]/p[3]::324" xml:id="UID-FAKE-5589">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::417 /TEI[1]/text[1]/body[1]/p[3]::427" xml:id="UID-FAKE-5590">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::234 /TEI[1]/text[1]/body[1]/p[4]::245" xml:id="UID-FAKE-5591">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::279 /TEI[1]/text[1]/body[1]/p[4]::289" xml:id="UID-FAKE-5592">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::319 /TEI[1]/text[1]/body[1]/p[4]::330" xml:id="UID-FAKE-5593">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::30" xml:id="UID-FAKE-5594">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::291 /TEI[1]/text[1]/body[1]/p[5]::297" xml:id="UID-FAKE-5595">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::14" xml:id="UID-FAKE-5596">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::51 /TEI[1]/text[1]/body[1]/p[6]::58" xml:id="UID-FAKE-5597">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::150 /TEI[1]/text[1]/body[1]/p[6]::163" xml:id="UID-FAKE-5598">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::303 /TEI[1]/text[1]/body[1]/p[6]::309" xml:id="UID-FAKE-5599">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::436 /TEI[1]/text[1]/body[1]/p[6]::449" xml:id="UID-FAKE-5600">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::32 /TEI[1]/text[1]/body[1]/p[7]::42" xml:id="UID-FAKE-5601">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::105 /TEI[1]/text[1]/body[1]/p[7]::113" xml:id="UID-FAKE-5602">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::133 /TEI[1]/text[1]/body[1]/p[7]::146" xml:id="UID-FAKE-5603">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::156 /TEI[1]/text[1]/body[1]/p[7]::163" xml:id="UID-FAKE-5604">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::172 /TEI[1]/text[1]/body[1]/p[7]::180" xml:id="UID-FAKE-5605">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::375 /TEI[1]/text[1]/body[1]/p[7]::383" xml:id="UID-FAKE-5606">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::384 /TEI[1]/text[1]/body[1]/p[7]::395" xml:id="UID-FAKE-5607">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::17 /TEI[1]/text[1]/body[1]/p[8]::28" xml:id="UID-FAKE-5608">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::272 /TEI[1]/text[1]/body[1]/p[8]::282" xml:id="UID-FAKE-5609">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::340 /TEI[1]/text[1]/body[1]/p[8]::349" xml:id="UID-FAKE-5610">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::406 /TEI[1]/text[1]/body[1]/p[8]::413" xml:id="UID-FAKE-5611">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::100 /TEI[1]/text[1]/body[1]/p[9]::110" xml:id="UID-FAKE-5612">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::145 /TEI[1]/text[1]/body[1]/p[9]::154" xml:id="UID-FAKE-5613">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::216 /TEI[1]/text[1]/body[1]/p[9]::222" xml:id="UID-FAKE-5614">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::261 /TEI[1]/text[1]/body[1]/p[9]::269" xml:id="UID-FAKE-5615">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::301 /TEI[1]/text[1]/body[1]/p[9]::309" xml:id="UID-FAKE-5616">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::321 /TEI[1]/text[1]/body[1]/p[9]::327" xml:id="UID-FAKE-5617">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::9 /TEI[1]/text[1]/body[1]/p[10]::22" xml:id="UID-FAKE-5618">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::280 /TEI[1]/text[1]/body[1]/p[10]::287" xml:id="UID-FAKE-5619">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::328 /TEI[1]/text[1]/body[1]/p[10]::339" xml:id="UID-FAKE-5620">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::4 /TEI[1]/text[1]/body[1]/p[11]::11" xml:id="UID-FAKE-5621">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::45 /TEI[1]/text[1]/body[1]/p[11]::53" xml:id="UID-FAKE-5622">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::95 /TEI[1]/text[1]/body[1]/p[11]::105" xml:id="UID-FAKE-5623">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::243 /TEI[1]/text[1]/body[1]/p[11]::251" xml:id="UID-FAKE-5624">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::333 /TEI[1]/text[1]/body[1]/p[11]::343" xml:id="UID-FAKE-5625">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::473 /TEI[1]/text[1]/body[1]/p[11]::480" xml:id="UID-FAKE-5626">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::486 /TEI[1]/text[1]/body[1]/p[11]::494" xml:id="UID-FAKE-5627">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::504 /TEI[1]/text[1]/body[1]/p[11]::514" xml:id="UID-FAKE-5628">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::134 /TEI[1]/text[1]/body[1]/p[12]::144" xml:id="UID-FAKE-5629">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::298 /TEI[1]/text[1]/body[1]/p[12]::305" xml:id="UID-FAKE-5630">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::317 /TEI[1]/text[1]/body[1]/p[12]::327" xml:id="UID-FAKE-5631">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::418 /TEI[1]/text[1]/body[1]/p[12]::425" xml:id="UID-FAKE-5632">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::62 /TEI[1]/text[1]/body[1]/p[13]::72" xml:id="UID-FAKE-5633">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::133 /TEI[1]/text[1]/body[1]/p[13]::144" xml:id="UID-FAKE-5634">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 29</head>
+      <p>Not long after the affair at Elis, the Macedonians and Demetrius the son of Philip, son of Demetrius, captured Messene. I have already, in my account of Sicyon, narrated most of the crimes of Perseus against Philip himself and against Demetrius the son of Philip. These are the facts relating to the capture of Messene.</p>
+      <p>Philip was in need of money, and as it was necessary to raise it at all costs, he sent Demetrius with a fleet to Peloponnese. He put in to one of the less frequented harbors of the Argolid, and at once marched his army by the shortest route to Messene. With an advance guard consisting of all the light-armed troops who knew the road to Ithome, he succeeded just before dawn in scaling the wall unnoticed at a point where it lay between the city and the peak of Ithome.</p>
+      <p>When day dawned and the inhabitants had realized the danger that beset them, they were at first under the impression that the Lacedemonians had forced an entry into the town, and attacked them more recklessly owing to their ancient hatred. But when they discovered from their equipment and speech that it was the Macedonians and Demetrius the son of Philip, they were filled with great fear, when they considered the Macedonian training in warfare and the good fortune which they saw that they enjoyed in all their ventures.</p>
+      <p>Nevertheless the magnitude of the present evil caused them to display a courage beyond their strength, also they were inspired with hope for the best, since it seemed not without divine help that they had accomplished their return to Peloponnese after so long an absence. So the Messenians in the town went against the Macedonians full of courage, and the garrison on the acropolis attacked from the high ground above.</p>
+      <p>In like manner the Macedonians, brave and experienced troops, at first offered a firm resistance. But worn out by their march, attacked by the men and bombarded with tiles and stones by the women, they took to flight in disorder. The majority were pushed over the precipices and killed, for Ithome is very steep at this point. A few escaped by throwing away their arms.</p>
+      <p>The Messenians refrained at first from joining the Achaean league for the following reason, I think. When Pyrrhus the son of Aeacides made war on the Lacedemonians, they came unasked to their assistance, and as a result of this service a more peaceful disposition towards them came to be established at Sparta. Therefore they were unwilling to revive the feud by joining the league, which was openly declared the bitterest enemy of the Lacedemonians.</p>
+      <p>I realize, as of course did the Messenians, that even without their joining the league the policy of the Achaeans was hostile to the Lacedemonians. For the Argives and the Arcadian group formed not the smallest element in the league. However, in the course of time they joined the league. And not long afterwards Cleomenes the son of Leonidas, son of Cleonymus, captured the Arcadian Megalopolis in peace-time.</p>
+      <p>Of the people of Megalopolis who were caught in the city, some were killed at the time of its capture, but Philopoemen the son of Craugis and all who withdrew with him (the number of the citizens who escaped is said to have been more than two-thirds) were received by the Messenians, who for the sake of the former services rendered by the Arcadians in the time of Aristomenes and again at the founding of Messene now repaid the like.</p>
+      <p>Such, it would seem, are the vicissitudes of human affairs, that it was the will of heaven that the Messenians should in their turn preserve the Arcadians, and what is still more surprising, that they should capture Sparta. For they fought against Cleomenes at Sellasia and joined with Aratus and the Achaeans to capture Sparta.</p>
+      <p>When the Lacedemonians were rid of Cleomenes there rose to power a tyrant Machanidas, and after his death a second tyrant arose in Nabis. As he plundered human property and robbed temples alike, he amassed vast wealth in a short time and with it raised an army. This Nabis seized Messene, but when Philopoemen and the people of Megalopolis arrived during the same night,</p>
+      <p>the Spartan tyrant retired on terms. But the Achaeans after this, having some quarrel with the Messenians, invaded them with all their forces and ravaged most of the country. On a second occasion they mustered when the corn was ripe to invade Messenia. But Deinocrates, the head of the government, who had been chosen to command the Messenians on that occasion, compelled Lycortas and his force to retire without effecting anything, by occupying beforehand the passes from Arcadia into Messenia with the Messenians from the city and troops from the surrounding districts that came to their assistance.</p>
+      <p>Philopoemen arrived with a few cavalry some time later than the force with Lycortas and had been unable to obtain any news of it; the Messenians, having the advantage of the high ground, defeated him and took him alive. I will narrate the manner of Philopoemen"s capture and death in my account of Arcadia later. The Messenians, who were responsible for his death, were punished and Messene was again brought into the Achaean league.</p>
+      <p>Hitherto my account has dealt with the many sufferings of the Messenians, how fate scattered them to the ends of the earth, far from Peloponnese, and afterwards brought them safely home to their own country. Let us now turn to a description of the country and cities.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::28 /TEI[1]/text[1]/body[1]/p[1]::32" xml:id="UID-FAKE-5635">
+        <rs ana="https://topostext.org/place/370221UAbi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::36 /TEI[1]/text[1]/body[1]/p[1]::44" xml:id="UID-FAKE-5636">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::95 /TEI[1]/text[1]/body[1]/p[1]::110" xml:id="UID-FAKE-5637">
+        <rs ana="https://topostext.org/place/370223WCho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::151 /TEI[1]/text[1]/body[1]/p[1]::154" xml:id="UID-FAKE-5638">
+        <rs ana="https://topostext.org/place/370221UAbi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::261 /TEI[1]/text[1]/body[1]/p[1]::268" xml:id="UID-FAKE-5639">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::290 /TEI[1]/text[1]/body[1]/p[1]::298" xml:id="UID-FAKE-5640">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::374" xml:id="UID-FAKE-5641">
+        <rs ana="https://topostext.org/place/370221UAbi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::533 /TEI[1]/text[1]/body[1]/p[1]::537" xml:id="UID-FAKE-5642">
+        <rs ana="https://topostext.org/place/370221UAbi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::0 /TEI[1]/text[1]/body[1]/p[2]::6" xml:id="UID-FAKE-5643">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::38 /TEI[1]/text[1]/body[1]/p[2]::42" xml:id="UID-FAKE-5644">
+        <rs ana="https://topostext.org/place/370221UAbi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::106 /TEI[1]/text[1]/body[1]/p[2]::116" xml:id="UID-FAKE-5645">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::120 /TEI[1]/text[1]/body[1]/p[2]::126" xml:id="UID-FAKE-5646">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::149 /TEI[1]/text[1]/body[1]/p[2]::156" xml:id="UID-FAKE-5647">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::344 /TEI[1]/text[1]/body[1]/p[2]::349" xml:id="UID-FAKE-5648">
+        <rs ana="https://topostext.org/place/380232UThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::521 /TEI[1]/text[1]/body[1]/p[2]::530" xml:id="UID-FAKE-5649">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::22" xml:id="UID-FAKE-5650">
+        <rs ana="https://topostext.org/place/384236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::190 /TEI[1]/text[1]/body[1]/p[3]::196" xml:id="UID-FAKE-5651">
+        <rs ana="https://topostext.org/place/384236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::441 /TEI[1]/text[1]/body[1]/p[3]::447" xml:id="UID-FAKE-5652">
+        <rs ana="https://topostext.org/place/384236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::88 /TEI[1]/text[1]/body[1]/p[4]::103" xml:id="UID-FAKE-5653">
+        <rs ana="https://topostext.org/place/380237STyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::132 /TEI[1]/text[1]/body[1]/p[5]::137" xml:id="UID-FAKE-5654">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::91 /TEI[1]/text[1]/body[1]/p[6]::97" xml:id="UID-FAKE-5655">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::226 /TEI[1]/text[1]/body[1]/p[6]::235" xml:id="UID-FAKE-5656">
+        <rs ana="https://topostext.org/place/352248CIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::244 /TEI[1]/text[1]/body[1]/p[6]::250" xml:id="UID-FAKE-5657">
+        <rs ana="https://topostext.org/place/380237STyc"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 30</head>
+      <p>There is in our time a city Abia in Messenia on the coast, some twenty stades distant from the Choerius valley. They say that this was formerly called Ire and was one of the seven cities which Homer says that Agamemnon promised to Achilles. When Hyllus and the Dorians were defeated by the Achaeans, it is said that Abia, nurse of Glenus the son of Heracles, withdrew to Ire, and settling there built a temple to Heracles, and that afterwards for this reason Cresphontes, amongst other honors assigned to her, renamed the city after Abia. There was a notable sanctuary of Heracles here, and also of Asclepius.</p>
+      <p>Pharae is seventy stades distant from Abia. On the road is a salt spring. The Emperor Augustus caused the Messenians of Pharae to be incorporated in Laconia. The founder Pharis is said to have been the son of Hermes and Phylodameia the daughter of Danaus. He had no male children, but a daughter Telegone. Homer, tracing her descendants in the Iliad, says that twins, Crethon and Ortilochus, were born to Diocles, Diocles himself being the son of Ortilochus son of Alpheius. He makes no reference to Telegone, who in the Messenian account bore Ortilochus to Alpheius.</p>
+      <p>I heard also at Pharae that besides the twins a daughter Anticleia was born to Diocles, and that her children were Nicomachus and Gorgasus, by Machaon the son of Asclepius. They remained at Pharae and succeeded to the kingdom on the death of Diocles. The power of healing diseases and curing the maimed has remained with them to this day, and in return for this, sacrifices and votive offerings are brought to their sanctuary. The people of Pharae possess also a temple of Tyche (fortune) and an ancient image.</p>
+      <p>Homer is the first whom I know to have mentioned Fortune in his poems. He did so in the Hymn to Demeter, where he enumerates the daughters of Ocean, telling how they played with Kore the daughter of Demeter, and making Tyche one of them. The lines are: “We all in a lovely meadow, Leucippe, Phaeno, Electre and Ianthe, Melobosis and Tyche and Ocyrhoe with face like a flower.</p>
+      <p>He said nothing further about this goddess being the mightiest of gods in human affairs and displaying greatest strength, as in the Iliad he represented Athena and Enyo as supreme in war, and Artemis feared in childbirth, and Aphrodite heeding the affairs of marriage. But he makes no other mention of Fortune.</p>
+      <p>Bupalus a skilful temple-architect and carver of images, who made the statue of Fortune at Smyrna, was the first whom we know to have represented her with the heavenly sphere upon her head and carrying in one hand the horn of Amaltheia, as the Greeks call it, representing her functions to this extent. The poems of Pindar later contained references to Fortune, and it is he who called her Pherepolis (Supporter of the City).</p>
+    </body>
+  </text>
+</TEI>

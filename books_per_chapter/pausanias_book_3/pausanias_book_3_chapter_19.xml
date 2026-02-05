@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::124 /TEI[1]/text[1]/body[1]/p[3]::134" xml:id="UID-FAKE-4106">
+        <rs ana="https://topostext.org/place/371224SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::178 /TEI[1]/text[1]/body[1]/p[5]::187" xml:id="UID-FAKE-4107">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::0 /TEI[1]/text[1]/body[1]/p[6]::7" xml:id="UID-FAKE-4108">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::30 /TEI[1]/text[1]/body[1]/p[6]::37" xml:id="UID-FAKE-4109">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::171 /TEI[1]/text[1]/body[1]/p[6]::181" xml:id="UID-FAKE-4110">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::346 /TEI[1]/text[1]/body[1]/p[6]::355" xml:id="UID-FAKE-4111">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::442 /TEI[1]/text[1]/body[1]/p[6]::447" xml:id="UID-FAKE-4112">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::587 /TEI[1]/text[1]/body[1]/p[6]::594" xml:id="UID-FAKE-4113">
+        <rs ana="https://topostext.org/place/370224SAgA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::36 /TEI[1]/text[1]/body[1]/p[7]::44" xml:id="UID-FAKE-4114">
+        <rs ana="https://topostext.org/place/371225UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::102 /TEI[1]/text[1]/body[1]/p[7]::109" xml:id="UID-FAKE-4115">
+        <rs ana="https://topostext.org/place/371224WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::589 /TEI[1]/text[1]/body[1]/p[7]::596" xml:id="UID-FAKE-4116">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::604 /TEI[1]/text[1]/body[1]/p[7]::612" xml:id="UID-FAKE-4117">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::107 /TEI[1]/text[1]/body[1]/p[8]::116" xml:id="UID-FAKE-4118">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::162 /TEI[1]/text[1]/body[1]/p[8]::168" xml:id="UID-FAKE-4119">
+        <rs ana="https://topostext.org/place/365253IThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::-1 /TEI[1]/text[1]/body[1]/p[8]::3" xml:id="UID-FAKE-4120">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::12 /TEI[1]/text[1]/body[1]/p[9]::20" xml:id="UID-FAKE-4121">
+        <rs ana="https://topostext.org/place/371225UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::165 /TEI[1]/text[1]/body[1]/p[9]::173" xml:id="UID-FAKE-4122">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::320 /TEI[1]/text[1]/body[1]/p[9]::326" xml:id="UID-FAKE-4123">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::29 /TEI[1]/text[1]/body[1]/p[10]::35" xml:id="UID-FAKE-4124">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::116 /TEI[1]/text[1]/body[1]/p[10]::122" xml:id="UID-FAKE-4125">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::461 /TEI[1]/text[1]/body[1]/p[10]::469" xml:id="UID-FAKE-4126">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::51 /TEI[1]/text[1]/body[1]/p[11]::58" xml:id="UID-FAKE-4127">
+        <rs ana="https://topostext.org/place/391171PCro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::91 /TEI[1]/text[1]/body[1]/p[11]::97" xml:id="UID-FAKE-4128">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::134 /TEI[1]/text[1]/body[1]/p[11]::140" xml:id="UID-FAKE-4129">
+        <rs ana="https://topostext.org/place/453302ILeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::162 /TEI[1]/text[1]/body[1]/p[11]::167" xml:id="UID-FAKE-4130">
+        <rs ana="https://topostext.org/place/442277WIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::214 /TEI[1]/text[1]/body[1]/p[11]::219" xml:id="UID-FAKE-4131">
+        <rs ana="https://topostext.org/place/453302ILeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::221 /TEI[1]/text[1]/body[1]/p[11]::233" xml:id="UID-FAKE-4132">
+        <rs ana="https://topostext.org/place/453302ILeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::56 /TEI[1]/text[1]/body[1]/p[12]::63" xml:id="UID-FAKE-4133">
+        <rs ana="https://topostext.org/place/391171PCro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::127 /TEI[1]/text[1]/body[1]/p[12]::132" xml:id="UID-FAKE-4134">
+        <rs ana="https://topostext.org/place/382162PLoc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::136 /TEI[1]/text[1]/body[1]/p[12]::141" xml:id="UID-FAKE-4135">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::147 /TEI[1]/text[1]/body[1]/p[12]::152" xml:id="UID-FAKE-4136">
+        <rs ana="https://topostext.org/place/382162PLoc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::205 /TEI[1]/text[1]/body[1]/p[12]::214" xml:id="UID-FAKE-4137">
+        <rs ana="https://topostext.org/place/386231ROpu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::228 /TEI[1]/text[1]/body[1]/p[12]::232" xml:id="UID-FAKE-4138">
+        <rs ana="https://topostext.org/place/380237SAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::312 /TEI[1]/text[1]/body[1]/p[12]::319" xml:id="UID-FAKE-4139">
+        <rs ana="https://topostext.org/place/391171PCro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::373 /TEI[1]/text[1]/body[1]/p[12]::377" xml:id="UID-FAKE-4140">
+        <rs ana="https://topostext.org/place/380237SAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::473 /TEI[1]/text[1]/body[1]/p[12]::479" xml:id="UID-FAKE-4141">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::501 /TEI[1]/text[1]/body[1]/p[12]::508" xml:id="UID-FAKE-4142">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::536 /TEI[1]/text[1]/body[1]/p[12]::548" xml:id="UID-FAKE-4143">
+        <rs ana="https://topostext.org/place/380269IMyo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::573 /TEI[1]/text[1]/body[1]/p[12]::577" xml:id="UID-FAKE-4144">
+        <rs ana="https://topostext.org/place/375252LGyR"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::40 /TEI[1]/text[1]/body[1]/p[13]::52" xml:id="UID-FAKE-4145">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::269 /TEI[1]/text[1]/body[1]/p[13]::280" xml:id="UID-FAKE-4146">
+        <rs ana="https://topostext.org/place/379214GTAc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::284 /TEI[1]/text[1]/body[1]/p[13]::290" xml:id="UID-FAKE-4147">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 19</head>
+      <p>The part of the throne where the god would sit is not continuous; there are several seats, and by the side of each seat is left a wide empty space, the middle, whereon the image stands, being the widest of them.</p>
+      <p>I know of nobody who has measured the height of the image, but at a guess one would estimate it to be as much as thirty cubits. It is not the work of Bathycles, being old and uncouth; for though it has face, feet, and hands, the rest resembles a bronze pillar. On its head it has a helmet, in its hands a spear and a bow.</p>
+      <p>The pedestal of the statue is fashioned into the shape of an altar and they say that Hyacinthus is buried in it, and at the Hyacinthia, before the sacrifice to Apollo, they devote offerings to Hyacinthus as to a hero into this altar through a bronze door, which is on the left of the altar. On the altar are wrought in relief, here an image of Biris, there Amphitrite and Poseidon. Zeus and Hermes are conversing; near stand Dionysus and Semele, with Ino by her side.</p>
+      <p>On the altar are also Demeter, Kore, Plouton, next to them Fates and Seasons, and with them Aphrodite, Athena and Artemis. They are carrying to heaven Hyacinthus and Polyboea, the sister, they say, of Hyacinthus, who died a maid. Now this statue of Hyacinthus represents him as bearded, but Nicias, son of NicomedesYY, has painted him in the very prime of youthful beauty, hinting at the love of Apollo for Hyacinthus of which legend tells.</p>
+      <p>Wrought on the altar is also Heracles; he too is being led to heaven by Athena and the other gods. On the altar are also the daughters of Thestius, Muses and Seasons. As for the West Wind, how Apollo unintentionally killed Hyacinthus, and the story of the flower, we must be content with the legends, although perhaps they are not true history.</p>
+      <p>Amyclae was laid waste by the Dorians, and since that time has remained a village; I found there a sanctuary and image of Alexandra worth seeing. Alexandra is said by the Amyclaeans to be Cassandra, the daughter of Priam. Here is also a statue of Clytaemnestra, together with what is supposed to be the tomb of Agamemnon. The natives worship the Amyclaean god and Dionysus, surnaming the latter, quite correctly I think, Psilax. For psila is Doric for wings, and wine uplifts men and lightens their spirit no less than wings do birds. Such I found were the things worth mentioning about Amyclae.</p>
+      <p>Another road from the city leads to Therapne, and on this road is a xoanon of Athena Alea. Before the Eurotas is crossed, a little above the bank is shown a sanctuary of Zeus Plousios (Wealthy). Across the river is a temple of Asclepius Cotyleus (of the Hip-joint); it was made by Heracles, who named Asclepius Cotyleus, because he was cured of the wound in the hip-joint that he received in the former fight with Hippocoon and his sons. Of all the objects along this road the oldest is a sanctuary of Ares. This is on the left of the road, and the image is said to have been brought from Colchis by the Dioscuri.</p>
+      <p>They surname him Theritas after Thero, who is said to have been the nurse of Ares. Perhaps it was from the Colchians that they heard the name Theritas, since the Greeks know of no Thero, nurse of Ares. My own belief is that the surname Theritas was not given to Ares because of his nurse, but because when a man meets an enemy in battle he must cast aside all gentleness, as Homer says of Achilles: And he is fierce as a lion.” [Il. 24.41]</p>
+      <p>The name of Therapne is derived from the daughter of Lelex, and in it is a temple of Menelaus; they say that Menelaus and Helen were buried here. The account of the Rhodians is different. They say that when Menelaus was dead, and Orestes still a wanderer, Helen was driven out by Nicostratus and Megapenthes and came to Rhodes, where she had a friend in Polyxo, the wife of Tlepolemus.</p>
+      <p>For Polyxo, they say, was an Argive by descent, and when she was already married to Tlepolemus shared his flight to Rhodes. At the time she was queen of the island, having been left with an orphan boy. They say that this Polyxo desired to avenge the death of Tlepolemus on Helen, now that she had her in her power. So she sent against her when she was bathing handmaidens dressed up as Furies, who seized Helen and hanged her on a tree, and for this reason the Rhodians have a sanctuary of Helen Dendritis (of the Tree).</p>
+      <p>A story too I will tell which I know the people of Crotona tell about Helen. The people of Himera too agree with this account. In the Euxine at the mouths of the Ister is an island sacred to Achilles. It is called Leuke (White Island), and its circumference is twenty stades. It is wooded throughout and abounds in animals, wild and tame, while on it is a temple of Achilles with statue inside.</p>
+      <p>The first to sail thither, legend says, was Leonymus of Crotona. For when war had arisen between the people of Crotona and the Locri in Italy, the Locri, in virtue of the relationship between them and the Opuntians, called upon Ajax son of Oileus to help them in battle. So Leonymus the general of the people of Crotona attacked his enemy at that point where he heard that Ajax was posted in the front line. Now he was wounded in the breast, and weak with his hurt came to Delphi. When he arrived the Pythian priestess sent Leonymus to White Island, telling him that there Ajax would appear to him and cure his wound.</p>
+      <p>In time he was healed and returned from White Island, where, he used to declare, he saw Achilles, as well as Ajax the son of Oileus and Ajax the son of Telamon. With them, he said, were Patroclus and Antilochus; Helen was wedded to Achilles, and had bidden him sail to Stesichorus at Himera, and announce that the loss of his sight was caused by her wrath.</p>
+    </body>
+  </text>
+</TEI>

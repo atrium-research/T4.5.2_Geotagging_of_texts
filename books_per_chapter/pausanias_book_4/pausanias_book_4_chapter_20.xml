@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::56 /TEI[1]/text[1]/body[1]/p[1]::60" xml:id="UID-FAKE-5145">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::85 /TEI[1]/text[1]/body[1]/p[1]::95" xml:id="UID-FAKE-5146">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::233 /TEI[1]/text[1]/body[1]/p[1]::239" xml:id="UID-FAKE-5147">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::339 /TEI[1]/text[1]/body[1]/p[1]::344" xml:id="UID-FAKE-5148">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::383 /TEI[1]/text[1]/body[1]/p[1]::390" xml:id="UID-FAKE-5149">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::19 /TEI[1]/text[1]/body[1]/p[2]::23" xml:id="UID-FAKE-5150">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::31 /TEI[1]/text[1]/body[1]/p[2]::44" xml:id="UID-FAKE-5151">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::86 /TEI[1]/text[1]/body[1]/p[2]::95" xml:id="UID-FAKE-5152">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::122 /TEI[1]/text[1]/body[1]/p[2]::130" xml:id="UID-FAKE-5153">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::171 /TEI[1]/text[1]/body[1]/p[2]::179" xml:id="UID-FAKE-5154">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::184 /TEI[1]/text[1]/body[1]/p[2]::188" xml:id="UID-FAKE-5155">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-5156">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::325 /TEI[1]/text[1]/body[1]/p[2]::331" xml:id="UID-FAKE-5157">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::372 /TEI[1]/text[1]/body[1]/p[2]::382" xml:id="UID-FAKE-5158">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::472 /TEI[1]/text[1]/body[1]/p[2]::476" xml:id="UID-FAKE-5159">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::74 /TEI[1]/text[1]/body[1]/p[3]::78" xml:id="UID-FAKE-5160">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::172 /TEI[1]/text[1]/body[1]/p[3]::182" xml:id="UID-FAKE-5161">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::8 /TEI[1]/text[1]/body[1]/p[4]::18" xml:id="UID-FAKE-5162">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::67 /TEI[1]/text[1]/body[1]/p[4]::74" xml:id="UID-FAKE-5163">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::210 /TEI[1]/text[1]/body[1]/p[4]::220" xml:id="UID-FAKE-5164">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::351 /TEI[1]/text[1]/body[1]/p[4]::357" xml:id="UID-FAKE-5165">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::412 /TEI[1]/text[1]/body[1]/p[4]::418" xml:id="UID-FAKE-5166">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::463 /TEI[1]/text[1]/body[1]/p[4]::473" xml:id="UID-FAKE-5167">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::572 /TEI[1]/text[1]/body[1]/p[4]::585" xml:id="UID-FAKE-5168">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::32 /TEI[1]/text[1]/body[1]/p[5]::39" xml:id="UID-FAKE-5169">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::62 /TEI[1]/text[1]/body[1]/p[5]::71" xml:id="UID-FAKE-5170">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::105 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-5171">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::142 /TEI[1]/text[1]/body[1]/p[5]::146" xml:id="UID-FAKE-5172">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::176 /TEI[1]/text[1]/body[1]/p[5]::180" xml:id="UID-FAKE-5173">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::278 /TEI[1]/text[1]/body[1]/p[5]::285" xml:id="UID-FAKE-5174">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::385 /TEI[1]/text[1]/body[1]/p[5]::391" xml:id="UID-FAKE-5175">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::52 /TEI[1]/text[1]/body[1]/p[6]::56" xml:id="UID-FAKE-5176">
+        <rs ana="https://topostext.org/place/373218WNed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::85 /TEI[1]/text[1]/body[1]/p[6]::95" xml:id="UID-FAKE-5177">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::378 /TEI[1]/text[1]/body[1]/p[6]::388" xml:id="UID-FAKE-5178">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::132 /TEI[1]/text[1]/body[1]/p[7]::142" xml:id="UID-FAKE-5179">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::378 /TEI[1]/text[1]/body[1]/p[7]::391" xml:id="UID-FAKE-5180">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::35 /TEI[1]/text[1]/body[1]/p[8]::46" xml:id="UID-FAKE-5181">
+        <rs ana="https://topostext.org/place/383207PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::100 /TEI[1]/text[1]/body[1]/p[8]::104" xml:id="UID-FAKE-5182">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::152 /TEI[1]/text[1]/body[1]/p[8]::165" xml:id="UID-FAKE-5183">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::183 /TEI[1]/text[1]/body[1]/p[8]::189" xml:id="UID-FAKE-5184">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::218 /TEI[1]/text[1]/body[1]/p[8]::225" xml:id="UID-FAKE-5185">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::96 /TEI[1]/text[1]/body[1]/p[10]::106" xml:id="UID-FAKE-5186">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::114 /TEI[1]/text[1]/body[1]/p[10]::127" xml:id="UID-FAKE-5187">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::172 /TEI[1]/text[1]/body[1]/p[10]::184" xml:id="UID-FAKE-5188">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::266 /TEI[1]/text[1]/body[1]/p[10]::270" xml:id="UID-FAKE-5189">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::400 /TEI[1]/text[1]/body[1]/p[10]::404" xml:id="UID-FAKE-5190">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::456 /TEI[1]/text[1]/body[1]/p[10]::465" xml:id="UID-FAKE-5191">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 20</head>
+      <p>But in the eleventh year of the siege it was fated that Eira should be taken and the Messenians dispersed, and the god fulfilled for them an oracle given to Aristomenes and Theoclus. They had come to Delphi after the disaster at the Trench and asked concerning safety, receiving this reply from the Pythia: “Whensoever a he-goat drinks of Neda"s winding stream, no more do I protect Messene, for destruction is at hand.</p>
+      <p>The springs of the Neda are in Mount Lykaion. The river flows through the land of the Arcadians and turning again towards Messenia forms the boundary on the coast between Messenia and Elis. Then they were afraid of the he-goats drinking from the Neda, but it appeared that what the god foretold to them was this. Some of the Greeks call the wild fig-tree olynthe, but the Messenians themselves tragos (he-goat). Now at that time a wild fig-tree growing on the bank of the Neda had not grown straight up, but was bending towards the stream and touching the water with the tips of its leaves.</p>
+      <p>When the seer Theoclus saw it, he guessed that the goat who drinks of the Neda foretold by the Pythia was this wild fig-tree, and that their fate had already come upon the Messenians. He kept it secret from the rest, but led Aristomenes to the fig-tree and showed him that their time of safety had gone by. Aristomenes believed that it was so and that there was no delaying their fate, and made provision such as circumstances demanded.</p>
+      <p>For the Messenians possessed a secret thing. If it were destroyed, Messene would be overwhelmed and lost for ever, but if it were kept, the oracles of Lycus the son of Pandion said that after lapse of time the Messenians would recover their country. Aristomenes, knowing the oracles, took it towards nightfall, and coming to the most deserted part of Ithome, buried it on the mountain, calling on Zeus who keeps Ithome and the gods who had hitherto protected the Messenians to remain guardians of the pledge, and not to put their only hope of return into the power of the Lacedemonians.</p>
+      <p>After this, as formerly for the Trojans, the beginning of the Messenian misfortunes was in adultery. The Messenians commanded the mountain of Eira and its slopes as far as the Neda, some of them having their dwellings outside the gates. The only deserter that came to them from Laconia was a herdsman, slave of Emperamus, bringing his master"s cattle. Emperamus was a man of repute in Sparta.</p>
+      <p>This herdsman, who kept his cattle not far from the Neda, saw the wife of one of the Messenians, who had their dwellings outside the wall, as she came to draw water. Falling in love with her, he dared to speak with her and seduced her with gifts. Thenceforward he marked the time when her husband went away to mount guard, garrison duty on the acropolis being undertaken by the Messenians in turn. For it was at this point that they were most afraid of the enemy making their way into the town. Whenever he went away, then the herdsman used to visit the lady.</p>
+      <p>Now once when it happened that the turn for duty fell to him and others in the night, it chanced that there was heavy rain, and the Messenians deserted their post. For they were overcome by the density of the rain that streamed from heaven, as there were no battlements or towers erected on the wall owing to the hurried nature of its building; moreover they did not expect the Lacedemonians even to stir on a moonless night that was so stormy.</p>
+      <p>A few days earlier a merchant from Cephallenia, who was a friend of Aristomenes and was bringing to Eira all that they needed, had been captured by the Lacedemonians and archers from Aptera, commanded by A723;A724 the Spartan; Aristomenes rescued him and recovered all the goods that he was bringing, but had himself been wounded and was unable to visit rounds, as was his custom. This was the main reason that the acropolis was deserted.</p>
+      <p>All of them left their posts and with them the husband of the woman seduced by the herdsman. She was entertaining the herdsman at the time but heard her husband coming and at once hid the man away as quickly as possible. When the husband entered, she treated him with greater affection than ever before and asked him what was the reason of his return. But knowing that she was unfaithful or that the herdsman was in the house, he told her the truth, that owing to the violence of the rain he and all the rest had deserted their post.</p>
+      <p>The herdsman listened to him speaking, and learning the exact position, again deserted from the Messenians to the Lacedemonians. The Kings were absent at the time from the Lacedemonian camp, but Emperamus, his master, who was commandant, was conducting the siege of Eira. Coming to him he first begged forgiveness for his crime of deserting and then showed him that now was the time for them to take Eira, recounting everything that he had learnt from the Messenian.</p>
+    </body>
+  </text>
+</TEI>

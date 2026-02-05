@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::47 /TEI[1]/text[1]/body[1]/p[1]::57" xml:id="UID-FAKE-4650">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::130" xml:id="UID-FAKE-4651">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::328 /TEI[1]/text[1]/body[1]/p[1]::341" xml:id="UID-FAKE-4652">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::39 /TEI[1]/text[1]/body[1]/p[2]::47" xml:id="UID-FAKE-4653">
+        <rs ana="https://topostext.org/place/371222SLim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::81 /TEI[1]/text[1]/body[1]/p[2]::90" xml:id="UID-FAKE-4654">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::105 /TEI[1]/text[1]/body[1]/p[2]::115" xml:id="UID-FAKE-4655">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::124 /TEI[1]/text[1]/body[1]/p[2]::137" xml:id="UID-FAKE-4656">
+        <rs ana="https://topostext.org/place/371222SLim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::151 /TEI[1]/text[1]/body[1]/p[2]::158" xml:id="UID-FAKE-4657">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::184 /TEI[1]/text[1]/body[1]/p[2]::197" xml:id="UID-FAKE-4658">
+        <rs ana="https://topostext.org/place/372219SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::252 /TEI[1]/text[1]/body[1]/p[2]::261" xml:id="UID-FAKE-4659">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::4 /TEI[1]/text[1]/body[1]/p[3]::14" xml:id="UID-FAKE-4660">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::93 /TEI[1]/text[1]/body[1]/p[3]::100" xml:id="UID-FAKE-4661">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::174 /TEI[1]/text[1]/body[1]/p[3]::183" xml:id="UID-FAKE-4662">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::236 /TEI[1]/text[1]/body[1]/p[3]::243" xml:id="UID-FAKE-4663">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::375 /TEI[1]/text[1]/body[1]/p[3]::385" xml:id="UID-FAKE-4664">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::414 /TEI[1]/text[1]/body[1]/p[3]::424" xml:id="UID-FAKE-4665">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::509 /TEI[1]/text[1]/body[1]/p[3]::522" xml:id="UID-FAKE-4666">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::68 /TEI[1]/text[1]/body[1]/p[4]::77" xml:id="UID-FAKE-4667">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::232 /TEI[1]/text[1]/body[1]/p[4]::240" xml:id="UID-FAKE-4668">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::327 /TEI[1]/text[1]/body[1]/p[4]::340" xml:id="UID-FAKE-4669">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::345 /TEI[1]/text[1]/body[1]/p[4]::355" xml:id="UID-FAKE-4670">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::377 /TEI[1]/text[1]/body[1]/p[4]::390" xml:id="UID-FAKE-4671">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::12 /TEI[1]/text[1]/body[1]/p[5]::21" xml:id="UID-FAKE-4672">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::87 /TEI[1]/text[1]/body[1]/p[5]::94" xml:id="UID-FAKE-4673">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::108 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-4674">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::140 /TEI[1]/text[1]/body[1]/p[5]::148" xml:id="UID-FAKE-4675">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::157" xml:id="UID-FAKE-4676">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::344 /TEI[1]/text[1]/body[1]/p[5]::351" xml:id="UID-FAKE-4677">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::149 /TEI[1]/text[1]/body[1]/p[6]::156" xml:id="UID-FAKE-4678">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::411 /TEI[1]/text[1]/body[1]/p[7]::418" xml:id="UID-FAKE-4679">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::58 /TEI[1]/text[1]/body[1]/p[8]::67" xml:id="UID-FAKE-4680">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::244 /TEI[1]/text[1]/body[1]/p[8]::257" xml:id="UID-FAKE-4681">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::448 /TEI[1]/text[1]/body[1]/p[8]::460" xml:id="UID-FAKE-4682">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 4</head>
+      <p>In the reign of Phintas the son of Sybotas the Messenians for the first time sent an offering and chorus of men to Apollo at Delos. Their processional hymn to the god was composed by Eumelus, this poem being the only one of his that is considered genuine. It was in the reign of Phintas that a quarrel first took place with the Lacedemonians. The very cause is disputed, but is said to have been as follows:</p>
+      <p>There is a sanctuary of Artemis called Limnatis (of the Lake) on the frontier of Messenian, in which the Messenians and the Lacedemonians alone of the Dorians shared. According to the Lacedemonians their maidens coming to the festival were violated by Messenian men and their king was killed in trying to prevent it. He was Teleclus the son of Archelaus, son of Agesilaus, son of Doryssus, son of Labotas, son of Echestratus, son of Agis. In addition to this they say that the maidens who were violated killed themselves for shame.</p>
+      <p>The Messenians say that a plot was formed by Teleclus against persons of the highest rank in Messene who had come to the sanctuary, his incentive being the excellence of the Messenian land; in furtherance of his design he selected some Spartan youths, all without beards, dressed them in girls"clothes and ornaments, and providing them with daggers introduced them among the Messenians when they were resting; the Messenians, in defending themselves, killed the beardless youths and Teleclus himself; but the Lacedemonians, they say, whose king did not plan this without the general consent, being conscious that they had begun the wrong, did not demand justice for the murder of Teleclus. These are the accounts given by the two sides; one may believe them according to one"s feelings towards either side.</p>
+      <p>A generation later in the reign of Alcamenes the son of Teleclus in Lacedemon — the king of the other house was Theopompus the son of Nicander, son of Charillus, son of Polydectes, son of Eunomus, son of Prytanis, son of Eurypon in Messenia Antiochus and Androcles, the sons of Phintas were reigning — the mutual hatred of the Lacedemonians and Messenians was aroused, and the Lacedemonians began war, obtaining a pretext which was not only sufficient for them, eager for a quarrel as they were and resolved on war at all costs, but also plausible in the highest degree, although with a more peaceful disposition it could have been settled by the decision of a court. What happened was as follows.</p>
+      <p>There was a Messenian Polychares, a man of no small distinction in all respects and an Olympic victor. (The Eleians were holding the fourth Olympiad [764 BCE], the only event being the short foot-race, when Polychares won his victory.) This man, possessing cattle without land of his own to provide them with sufficient grazing, gave them to a Spartan Euaephnus to feed on his own land, Euaephnus to have a share of the produce.</p>
+      <p>Now Euaephnus was a man who set unjust gain above loyalty, and a trickster besides. He sold the cattle of Polychares to some merchants who put in to Laconia, and went himself to inform Polychares but he said that pirates had landed in the country, had overcome him and carried off the cattle and the herdsmen. While he was trying to deceive him by his lies, one of the herdsmen, escaping in the meantime from the merchants, returned and found Euaephnus there with his master, and convicted him before Polychares.</p>
+      <p>Thus caught and unable to deny it, he made many appeals to Polychares himself and to his son to grant him pardon; for among the many inducements to be found in human nature which drive us to wrongdoing the love of gain exercises the greatest power. He stated the price which he had received for the cattle and begged that the son of Polychares should come with him to receive it. When on their way they reached Laconia, Euaephnus dared a deed more impious than the first; he murdered Polychares"son.</p>
+      <p>Polychares, when he heard of this new misfortune, went to Lacedemon and plagued the kings and ephors, loudly lamenting his son and recounting the wrongs that he had suffered from Euaephnus, whom he had made his friend and trusted above all the Lacedemonians. Obtaining no redress in spite of continual visits to the authorities, Polychares at last was driven out of his mind, gave way to his rage, and, regardless of himself, dared to murder every Lacedemonian whom he could capture.</p>
+    </body>
+  </text>
+</TEI>

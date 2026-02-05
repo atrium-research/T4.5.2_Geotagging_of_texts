@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::10 /TEI[1]/text[1]/body[1]/p[1]::15" xml:id="UID-FAKE-3221">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::25 /TEI[1]/text[1]/body[1]/p[1]::32" xml:id="UID-FAKE-3222">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::80 /TEI[1]/text[1]/body[1]/p[1]::93" xml:id="UID-FAKE-3223">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::204 /TEI[1]/text[1]/body[1]/p[2]::210" xml:id="UID-FAKE-3224">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::94 /TEI[1]/text[1]/body[1]/p[3]::101" xml:id="UID-FAKE-3225">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::203 /TEI[1]/text[1]/body[1]/p[3]::210" xml:id="UID-FAKE-3226">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::48 /TEI[1]/text[1]/body[1]/p[4]::53" xml:id="UID-FAKE-3227">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::339 /TEI[1]/text[1]/body[1]/p[4]::352" xml:id="UID-FAKE-3228">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::380" xml:id="UID-FAKE-3229">
+        <rs ana="https://topostext.org/place/372223PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::388 /TEI[1]/text[1]/body[1]/p[4]::397" xml:id="UID-FAKE-3230">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::446 /TEI[1]/text[1]/body[1]/p[4]::454" xml:id="UID-FAKE-3231">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::586 /TEI[1]/text[1]/body[1]/p[4]::594" xml:id="UID-FAKE-3232">
+        <rs ana="https://topostext.org/place/368223PTha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::598 /TEI[1]/text[1]/body[1]/p[4]::606" xml:id="UID-FAKE-3233">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::322 /TEI[1]/text[1]/body[1]/p[5]::329" xml:id="UID-FAKE-3234">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::334 /TEI[1]/text[1]/body[1]/p[5]::339" xml:id="UID-FAKE-3235">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::366 /TEI[1]/text[1]/body[1]/p[5]::371" xml:id="UID-FAKE-3236">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::412 /TEI[1]/text[1]/body[1]/p[5]::421" xml:id="UID-FAKE-3237">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::514 /TEI[1]/text[1]/body[1]/p[5]::521" xml:id="UID-FAKE-3238">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::50 /TEI[1]/text[1]/body[1]/p[6]::56" xml:id="UID-FAKE-3239">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::68 /TEI[1]/text[1]/body[1]/p[6]::75" xml:id="UID-FAKE-3240">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::92 /TEI[1]/text[1]/body[1]/p[6]::104" xml:id="UID-FAKE-3241">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::276 /TEI[1]/text[1]/body[1]/p[6]::283" xml:id="UID-FAKE-3242">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::314 /TEI[1]/text[1]/body[1]/p[6]::326" xml:id="UID-FAKE-3243">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::386 /TEI[1]/text[1]/body[1]/p[7]::394" xml:id="UID-FAKE-3244">
+        <rs ana="https://topostext.org/place/368119IKos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::39 /TEI[1]/text[1]/body[1]/p[8]::44" xml:id="UID-FAKE-3245">
+        <rs ana="https://topostext.org/place/365253IThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 1</head>
+      <p>After the Herms we reach Laconia on the west. According to the tradition of the Lacedemonians themselves, Lelex, an aboriginal was the first king in this land, after whom his subjects were named Leleges. Lelex had a son Myles, and a younger one Polycaon. Polycaon retired into exile, the place of this retirement and its reason I will set forth elsewhere. On the death of Myles his son Eurotas succeeded to the throne. He led down to the sea by means of a trench the stagnant water on the plain, and when it had flowed away, as what was left formed a river-stream, he named it Eurotas.</p>
+      <p>Having no male issue, he left the kingdom to Lacedemon, whose mother was Taygete, after whom the mountain was named, while according to report his father was none other than Zeus. Lacedemon was wedded to Sparta, a daughter of Eurotas. When he came to the throne, he first changed the names of the land and its inhabitants, calling them after himself, and next he founded and named after his wife a city, which even down to our own day has been called Sparta.</p>
+      <p>Amyclas, too, son of Lacedemon, wished to leave some memorial behind him, and built a town in Laconia. Hyacinthus, the youngest and most beautiful of his sons, died before his father, and his tomb is in Amyclae below the image of Apollo. On the death of Amyclas the empire came to Argalus [Aegalus?], the eldest of his sons, and afterwards, when Argalus died, to Cynortas.</p>
+      <p>Cynortas had a son Oebalus. He took a wife from Argos, Gorgophone the daughter of Perseus, and begat a son Tyndareus, with whom Hippocoon disputed about the kingship, claiming the throne on the ground of being the eldest. With the aid of Icarius and his partisans he had surpassed Tyndareus in power, and forced him to retire in fear; the Lacedemonians say that he went to Pellana, but a Messenian legend about him is that he fled to Aphareus in Messenia, Aphareus being the son of Perieres and the brother of Tyndareus on his mother"s side. The story goes on to say that he settled at Thalamae in Messenia, and that his children were born to him when he was living there.</p>
+      <p>Subsequently Tyndareus was brought back by Heracles and recovered his throne. His sons too became kings, as did Menelaus the son of Atreus and son-in-law of Tyndareus, and Orestes the husband of Hermione the daughter of Menelaus. On the return of the Heracleidae in the reign of Tisamenus, son of Orestes, both districts, Messene and Argos, had kings put over them; Argos had Temenus and Messene Cresphontes. In Lacedemon, as the sons of Aristodemus were twins, there arose two royal houses; for they say that the Pythian priestess approved.</p>
+      <p>Tradition has it that Aristodemus himself died at Delphi before the Dorians returned to the Peloponnesus, but those who glorify his fate assert that he was shot by Apollo for not going to the oracle, having learned from Heracles, who met him before he arrived there, that the Dorians would make this return to the Peloponnesus. But the more correct account is that Aristodemus was murdered by the sons of Pylades and Electra, who were cousins of Tisamenus son of Orestes.</p>
+      <p>The names given to the sons of Aristodemus were Procles and Eurysthenes, and although they were twins they were bitter enemies. Their enmity reached a high pitch, but nevertheless they combined to help Theras, the son of Autesion and the brother of their mother Argeia and their guardian as well, to found a colony. This colony Theras was dispatching to the island that was then called Calliste, and he hoped that the descendants of Membliarus would of their own accord give up the kingship to him. This as a matter of fact they did,</p>
+      <p>taking into account that the family of Theras went back to Cadmus himself, while they were only descendants of Membliarus, who was a man of the people whom Cadmus left in the island to be the leader of the settlers. And Theras changed the name of the island, renaming it after himself, and even at the present day the people of Thera every year offer to him as their founder the sacrifices that are given to a hero. Procles and Eurysthenes were of one mind in their eagerness to serve Theras; but in all else their purposes were always widely different.</p>
+      <p>Even if they had agreed together, I should never have ventured to include their descendants in a common list; for they did not altogether coincide in respect of age, so that cousins, cousins"children, and later generations were not born so as to make the steps in one pedigree coincide with those of the other. So I shall give the history of each house by itself separately, instead of combining them both in one narrative.</p>
+    </body>
+  </text>
+</TEI>

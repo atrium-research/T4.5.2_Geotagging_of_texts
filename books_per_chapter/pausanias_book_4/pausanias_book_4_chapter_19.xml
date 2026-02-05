@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-5126">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::278 /TEI[1]/text[1]/body[1]/p[1]::289" xml:id="UID-FAKE-5127">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::325 /TEI[1]/text[1]/body[1]/p[1]::338" xml:id="UID-FAKE-5128">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::359 /TEI[1]/text[1]/body[1]/p[1]::363" xml:id="UID-FAKE-5129">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::350 /TEI[1]/text[1]/body[1]/p[2]::358" xml:id="UID-FAKE-5130">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::396 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-5131">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::128 /TEI[1]/text[1]/body[1]/p[3]::138" xml:id="UID-FAKE-5132">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::-1 /TEI[1]/text[1]/body[1]/p[3]::16" xml:id="UID-FAKE-5133">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::311 /TEI[1]/text[1]/body[1]/p[3]::322" xml:id="UID-FAKE-5134">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::8 /TEI[1]/text[1]/body[1]/p[4]::21" xml:id="UID-FAKE-5135">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::113 /TEI[1]/text[1]/body[1]/p[4]::117" xml:id="UID-FAKE-5136">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::177 /TEI[1]/text[1]/body[1]/p[4]::183" xml:id="UID-FAKE-5137">
+        <rs ana="https://topostext.org/place/352254PLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::236 /TEI[1]/text[1]/body[1]/p[4]::242" xml:id="UID-FAKE-5138">
+        <rs ana="https://topostext.org/place/352254PLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::277 /TEI[1]/text[1]/body[1]/p[4]::285" xml:id="UID-FAKE-5139">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::359 /TEI[1]/text[1]/body[1]/p[4]::363" xml:id="UID-FAKE-5140">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::23 /TEI[1]/text[1]/body[1]/p[5]::29" xml:id="UID-FAKE-5141">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::127 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-5142">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::17 /TEI[1]/text[1]/body[1]/p[6]::24" xml:id="UID-FAKE-5143">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::272 /TEI[1]/text[1]/body[1]/p[6]::279" xml:id="UID-FAKE-5144">
+        <rs ana="https://topostext.org/place/352241PAno"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 19</head>
+      <p>The Lacedemonians at once received information from deserters that Aristomenes had returned in safety. Though they thought it as incredible as the news that anyone had risen from the dead, their belief was ensured by the following action on the part of Aristomenes himself. The Corinthians were sending a force to assist the Lacedemonians in the reduction of Eira.</p>
+      <p>Learning from his scouts that their march discipline was lax and that their encampments were made without precaution, Aristomenes attacked them by night. He slew most of them while the rest were still sleeping, and killed the leaders Hypermenides, Achladaeus, Lysistratu1 and Sidectus. And having plundered the generals"tent, he made it clear to the Spartans that it was Aristomenes and no other Messenian who had done this.</p>
+      <p>He also made the sacrifice called the Offering for the hundred slain to Zeus of Ithome. This was an old-established custom, all Messenians making it who had slain their hundred enemies. Aristomenes first offered it after the battle at the Boar"s Tomb, his second offering was occasioned by the slaughter of the Corinthians in the night. It is said that he made a third offering as the result of his later raids.</p>
+      <p>Now the Lacedemonians, as the festival of Hyacinthus was approaching, made a truce of forty days with the men of Eira. They themselves returned home to keep the feast, but some Cretan archers, whom they had summoned as mercenaries from Lyctus and other cities, were patrolling Messenia for them. Aristomenes then, in view of the truce, was at a distance from Eira and was advancing somewhat carelessly, when seven of these archers laid an ambush for him. They captured him and bound him with the thongs which they had on their quivers, as evening was coming on.</p>
+      <p>So two of them went to Sparta, bringing the glad news that Aristomenes had been captured. The rest went to one of the farms in Messenia, where there dwelt a fatherless girl with her mother. On the previous night the girl had seen a dream. Wolves brought a lion to their farm bound and without talons; but she herself loosed the lion from his bonds and found and gave to him his talons, and thus it seemed that the wolves were torn in pieces by the lion.</p>
+      <p>And now when the Cretans brought in Aristomenes, the girl realized that the dream of the night had come true, and asked her mother who he was. On learning she was encouraged, and looking intently at him understood what she had been bidden to do. Accordingly she plied the Cretans with wine, and when they were overcome with drunkenness she stole away the dagger of the man who was sleeping most heavily. Then the girl cut the bonds of Aristomenes, and he took the sword and despatched the men. This maiden was taken to wife by Gorgus the son of Aristomenes. Aristomenes gave him to the girl as a recompense for saving his life, for Gorgus had not yet completed his eighteenth year when he wedded her.</p>
+    </body>
+  </text>
+</TEI>

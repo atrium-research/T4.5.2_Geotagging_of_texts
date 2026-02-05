@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::75 /TEI[1]/text[1]/body[1]/p[1]::87" xml:id="UID-FAKE-5008">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::96 /TEI[1]/text[1]/body[1]/p[1]::101" xml:id="UID-FAKE-5009">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::185 /TEI[1]/text[1]/body[1]/p[1]::191" xml:id="UID-FAKE-5010">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::200 /TEI[1]/text[1]/body[1]/p[1]::209" xml:id="UID-FAKE-5011">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::264 /TEI[1]/text[1]/body[1]/p[1]::270" xml:id="UID-FAKE-5012">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::291 /TEI[1]/text[1]/body[1]/p[1]::298" xml:id="UID-FAKE-5013">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::332 /TEI[1]/text[1]/body[1]/p[1]::339" xml:id="UID-FAKE-5014">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::77 /TEI[1]/text[1]/body[1]/p[2]::89" xml:id="UID-FAKE-5015">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::104 /TEI[1]/text[1]/body[1]/p[2]::111" xml:id="UID-FAKE-5016">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::136 /TEI[1]/text[1]/body[1]/p[2]::145" xml:id="UID-FAKE-5017">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::67 /TEI[1]/text[1]/body[1]/p[3]::77" xml:id="UID-FAKE-5018">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::449 /TEI[1]/text[1]/body[1]/p[3]::461" xml:id="UID-FAKE-5019">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::42 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-5020">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::346 /TEI[1]/text[1]/body[1]/p[4]::359" xml:id="UID-FAKE-5021">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::122 /TEI[1]/text[1]/body[1]/p[5]::130" xml:id="UID-FAKE-5022">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::310 /TEI[1]/text[1]/body[1]/p[5]::323" xml:id="UID-FAKE-5023">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-5024">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::193 /TEI[1]/text[1]/body[1]/p[6]::199" xml:id="UID-FAKE-5025">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::251 /TEI[1]/text[1]/body[1]/p[6]::258" xml:id="UID-FAKE-5026">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::379 /TEI[1]/text[1]/body[1]/p[6]::390" xml:id="UID-FAKE-5027">
+        <rs ana="https://topostext.org/place/372220LSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::447 /TEI[1]/text[1]/body[1]/p[6]::460" xml:id="UID-FAKE-5028">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::39 /TEI[1]/text[1]/body[1]/p[7]::45" xml:id="UID-FAKE-5029">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::99 /TEI[1]/text[1]/body[1]/p[7]::107" xml:id="UID-FAKE-5030">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::177 /TEI[1]/text[1]/body[1]/p[7]::185" xml:id="UID-FAKE-5031">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::347 /TEI[1]/text[1]/body[1]/p[7]::354" xml:id="UID-FAKE-5032">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::22 /TEI[1]/text[1]/body[1]/p[8]::32" xml:id="UID-FAKE-5033">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::112 /TEI[1]/text[1]/body[1]/p[8]::119" xml:id="UID-FAKE-5034">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::-1 /TEI[1]/text[1]/body[1]/p[8]::17" xml:id="UID-FAKE-5035">
+        <rs ana="https://topostext.org/place/370223UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::163 /TEI[1]/text[1]/body[1]/p[8]::169" xml:id="UID-FAKE-5036">
+        <rs ana="https://topostext.org/place/370223UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::185 /TEI[1]/text[1]/body[1]/p[8]::193" xml:id="UID-FAKE-5037">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::201 /TEI[1]/text[1]/body[1]/p[8]::209" xml:id="UID-FAKE-5038">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::343 /TEI[1]/text[1]/body[1]/p[8]::350" xml:id="UID-FAKE-5039">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::382 /TEI[1]/text[1]/body[1]/p[8]::394" xml:id="UID-FAKE-5040">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::78 /TEI[1]/text[1]/body[1]/p[9]::84" xml:id="UID-FAKE-5041">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::148 /TEI[1]/text[1]/body[1]/p[9]::156" xml:id="UID-FAKE-5042">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::254 /TEI[1]/text[1]/body[1]/p[9]::260" xml:id="UID-FAKE-5043">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::357 /TEI[1]/text[1]/body[1]/p[9]::365" xml:id="UID-FAKE-5044">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::175 /TEI[1]/text[1]/body[1]/p[10]::180" xml:id="UID-FAKE-5045">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 16</head>
+      <p>Sacrifice was offered by the seers on both sides before the battle; on the Lacedemonian side by Hecas, descendant and namesake of the Hecas who had come with the sons of Aristodemus to Sparta, on the Messenian side by Theoclus, who was descended from Eumantis, an Eleian of the house of the Iamidae, whom Cresphontes had brought to Messene. Then in the presence of the seers both sides were spurred by greater ardor for the fight.</p>
+      <p>All showed the zeal that befitted their age and strength, but Anaxander, the Lacedemonian king, and his Spartan guard above all. On the Messenian side the descendants of Androcles, Phintas and Androcles, and their company tried to acquit themselves like brave men. Tyrtaeus and the chief priests of the Great Goddesses took no part in the action, but urged on the hindmost on their own sides.</p>
+      <p>As to Aristomenes himself he had with him eighty picked men of the Messenians of the same age as himself, each one of them thinking it the highest honor that he had been thought worthy of a place in the troop with Aristomenes. They were quick to understand each other"s movements, especially those of their leader, when he began or contemplated any manoeuvre. They themselves with Aristomenes were at first hard pressed in face of Anaxander and the Lacedemonian champions, but receiving wounds unflinchingly and slowing every form of desperate courage they repulsed Anaxander and his men by their long endurance and valor.</p>
+      <p>As they fled, Aristomenes ordered another Messenian troop to undertake the pursuit. He himself attacked the enemies"line where it was firmest, and after breaking it at this point sought a new point of assault. Soon successful here, he was the more ready to assail those who stood their ground, until he threw into confusion the whole line of the Lacedemonians themselves and of their allies. They were now running without shame and without waiting for one another, while he assailed them with a terror that seemed more than one man"s fury could inspire.</p>
+      <p>There was a wild pear-tree growing in the plain, beyond which Theoclus the seer forbade him to pass, for he said that the Dioscuri were seated on the tree. Aristomenes, in the heat of passion, did not hear all that the seer said, and when he reached the tree, lost his shield, and his disobedience gave to the Lacedemonians an opportunity for some to escape from the rout. For he lost time trying to recover his shield.</p>
+      <p>The Lacedemonians were thrown into despair after this blow and purposed to put an end to the war. But Tyrtaeus by reciting his poems contrived to dissuade them, and filled their ranks from the Helots to replace the slain. When Aristomenes returned to Andania, the women threw ribbons and flower blossoms over him, singing also a song which is sung to this day: “To the middle of Stenyclerus"plain and to the hilltop Aristomenes followed after the Lacedemonians. Unknown.</p>
+      <p>He recovered his shield also, going to Delphi and descending into the holy shrine of Trophonius at Lebadeia, as the Pythia bade. Afterwards he took the shield of Aristomenes to Lebadeia and dedicated it, and I myself have seen it there among the offerings. The device on it is an eagle with both wings outspread to the rim. Now on his return from Boeotia having learnt of the shield at the shrine of Trophonius and recovered it, he at once engaged in greater deeds.</p>
+      <p>Collecting a force of Messenians, together with his own picked troop, he waited for night and went to a city of Laconia whose ancient name in Homer"s Catalogue is Pharis, but is called PharaeYY by the Spartans and neighboring people. Arriving here he killed those who offered resistance and surrounding the cattle started to drive them off to Messene. On the way he was attacked by Lacedemonian troops under king Anaxander, but put them to flight and began to pursue Anaxander; but he stopped the pursuit when wounded in the buttocks with a javelin; he did not, however, lose the booty which he was driving away.</p>
+      <p>After waiting only for the wound to heal, he was making an attack by night on Sparta itself, but was deterred by the appearance of Helen and of the Dioscuri. But he lay in wait by day for the maidens who were performing the dances in honor of Artemis at Caryae, and capturing those who were wealthiest and of noblest birth, carried them off to a village in Messenia, entrusting them to men of his troop to guard, while he rested for the night.</p>
+      <p>There the young men, intoxicated, I suppose, and without any self-control, attempted to violate the girls. When Aristomenes attempted to deter them from an action contrary to Greek usage, they paid no attention, so that he was compelled to kill the most disorderly. He released the captives for a large ransom, maidens, as when he captured them.</p>
+    </body>
+  </text>
+</TEI>

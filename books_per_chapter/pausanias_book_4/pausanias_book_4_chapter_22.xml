@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::15 /TEI[1]/text[1]/body[1]/p[1]::24" xml:id="UID-FAKE-5219">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::49 /TEI[1]/text[1]/body[1]/p[1]::53" xml:id="UID-FAKE-5220">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::123 /TEI[1]/text[1]/body[1]/p[1]::133" xml:id="UID-FAKE-5221">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::260 /TEI[1]/text[1]/body[1]/p[1]::269" xml:id="UID-FAKE-5222">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::87 /TEI[1]/text[1]/body[1]/p[2]::91" xml:id="UID-FAKE-5223">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::137 /TEI[1]/text[1]/body[1]/p[2]::150" xml:id="UID-FAKE-5224">
+        <rs ana="https://topostext.org/place/375220LLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::236 /TEI[1]/text[1]/body[1]/p[2]::246" xml:id="UID-FAKE-5225">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::315 /TEI[1]/text[1]/body[1]/p[2]::328" xml:id="UID-FAKE-5226">
+        <rs ana="https://topostext.org/place/375220SLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::334 /TEI[1]/text[1]/body[1]/p[2]::343" xml:id="UID-FAKE-5227">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::38 /TEI[1]/text[1]/body[1]/p[3]::42" xml:id="UID-FAKE-5228">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::65 /TEI[1]/text[1]/body[1]/p[3]::78" xml:id="UID-FAKE-5229">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::146 /TEI[1]/text[1]/body[1]/p[3]::156" xml:id="UID-FAKE-5230">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::293 /TEI[1]/text[1]/body[1]/p[3]::302" xml:id="UID-FAKE-5231">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::116 /TEI[1]/text[1]/body[1]/p[4]::122" xml:id="UID-FAKE-5232">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::199 /TEI[1]/text[1]/body[1]/p[4]::212" xml:id="UID-FAKE-5233">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::225 /TEI[1]/text[1]/body[1]/p[4]::229" xml:id="UID-FAKE-5234">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::256 /TEI[1]/text[1]/body[1]/p[4]::264" xml:id="UID-FAKE-5235">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::318 /TEI[1]/text[1]/body[1]/p[4]::324" xml:id="UID-FAKE-5236">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::370 /TEI[1]/text[1]/body[1]/p[4]::383" xml:id="UID-FAKE-5237">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::51 /TEI[1]/text[1]/body[1]/p[5]::60" xml:id="UID-FAKE-5238">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::219 /TEI[1]/text[1]/body[1]/p[5]::232" xml:id="UID-FAKE-5239">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::501 /TEI[1]/text[1]/body[1]/p[5]::510" xml:id="UID-FAKE-5240">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::514 /TEI[1]/text[1]/body[1]/p[5]::520" xml:id="UID-FAKE-5241">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::62 /TEI[1]/text[1]/body[1]/p[6]::71" xml:id="UID-FAKE-5242">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::225 /TEI[1]/text[1]/body[1]/p[6]::234" xml:id="UID-FAKE-5243">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::339 /TEI[1]/text[1]/body[1]/p[6]::351" xml:id="UID-FAKE-5244">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::404 /TEI[1]/text[1]/body[1]/p[6]::417" xml:id="UID-FAKE-5245">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::35 /TEI[1]/text[1]/body[1]/p[7]::44" xml:id="UID-FAKE-5246">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::90 /TEI[1]/text[1]/body[1]/p[7]::100" xml:id="UID-FAKE-5247">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::205 /TEI[1]/text[1]/body[1]/p[7]::214" xml:id="UID-FAKE-5248">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::563 /TEI[1]/text[1]/body[1]/p[7]::570" xml:id="UID-FAKE-5249">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 22</head>
+      <p>As soon as the Arcadians heard of the Capture of Eira, they at once ordered Aristocrates to lead them to the rescue of the Messenians or to death with them. But he, being in receipt of bribes from Lacedemon, refused to lead them, and said that he knew that no Messenian survived for them to help.</p>
+      <p>When they obtained more certain news, that they survived and had been forced to desert Eira, they themselves proposed to receive them at Mount Lykaion after preparing clothing and food, and sent some of their leading men to comfort the Messenians and also to be their guides on the way. After their safe arrival at Mount Lykaion, the Arcadians entertained them and treated them kindly in every way, offering to distribute them among their towns and to make a new distribution of their land on their account.</p>
+      <p>But Aristomenes"grief for the sack of Eira and his hatred of the Lacedemonians suggested to him the following plan. He chose from the body of the Messenians five hundred men whom he knew to be the most unsparing of themselves, and asked them in the hearing of Aristocrates and the rest of the Arcadians if they were ready to die with him, avenging their country He did not know that Aristocrates was a traitor, for he thought that he had fled from the battle formerly from lack of courage and through cowardice, not for any knavery; so he asked the five hundred in his presence.</p>
+      <p>When they said that they were ready, he revealed the whole plan, that he proposed at all costs to lead them against Sparta during the following evening. For now was the time when the majority of the Lacedemonians was away at Eira, and others were scouring Messenia for booty and plunder. “If we can capture and occupy Sparta,” said Aristomenes, “we can give back to the Lacedemonians what is theirs and receive our own. If we fail, we shall die together, having done a deed for posterity to remember.”</p>
+      <p>When he said this, as many as three hundred of the Arcadians were ready to share his enterprise. For the time they delayed their departure, as the victims were unfavorable, but on the following day they learnt that the Lacedemonians had been forewarned of their secret, and that they themselves had been a second time betrayed by Aristocrates. For Aristocrates had at once written the designs of Aristomenes in a letter, and having entrusted it to the slave whom he knew to be most loyal, sent him to Anaxander in Sparta.</p>
+      <p>As the slave was returning, he was intercepted by some of the Arcadians, who had formerly been at variance with Aristocrates and regarded him then with some suspicion. Having intercepted the slave they brought him before the Arcadians and made known to the people the answer from Lacedemon. Anaxander was writing that his retreat from the Great Trench formerly had not gone unrewarded on the part of the Lacedemonians and that he would receive an additional recompense for his information on the present occasion.</p>
+      <p>When this was declared to all, the Arcadians themselves stoned Aristocrates and urged the Messenians to join them. They looked to Aristomenes. But he was weeping, with his eyes fixed on the ground. So the Arcadians stoned Aristocrates to death and flung him beyond their borders without burial, and set up a tablet in the precinct of Zeus Lycaeus with the words: “Truly time hath declared justice upon an unjust king And with the help of Zeus hath easily declared the betrayer of Messene. Hard it is for a man forsworn to hide from God. Hail, king Zeus, and keep Arcadia safe.</p>
+    </body>
+  </text>
+</TEI>

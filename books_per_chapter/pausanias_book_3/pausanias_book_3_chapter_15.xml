@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::14" xml:id="UID-FAKE-3943">
+        <rs ana="https://topostext.org/place/371224SPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::90 /TEI[1]/text[1]/body[1]/p[1]::98" xml:id="UID-FAKE-3944">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::180 /TEI[1]/text[1]/body[1]/p[1]::187" xml:id="UID-FAKE-3945">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::229 /TEI[1]/text[1]/body[1]/p[1]::240" xml:id="UID-FAKE-3946">
+        <rs ana="https://topostext.org/place/371224SPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::292" xml:id="UID-FAKE-3947">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::95 /TEI[1]/text[1]/body[1]/p[2]::102" xml:id="UID-FAKE-3948">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::124 /TEI[1]/text[1]/body[1]/p[2]::131" xml:id="UID-FAKE-3949">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::147 /TEI[1]/text[1]/body[1]/p[2]::153" xml:id="UID-FAKE-3950">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::171 /TEI[1]/text[1]/body[1]/p[2]::178" xml:id="UID-FAKE-3951">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::278 /TEI[1]/text[1]/body[1]/p[2]::286" xml:id="UID-FAKE-3952">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::80 /TEI[1]/text[1]/body[1]/p[3]::86" xml:id="UID-FAKE-3953">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::384 /TEI[1]/text[1]/body[1]/p[3]::390" xml:id="UID-FAKE-3954">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::157 /TEI[1]/text[1]/body[1]/p[4]::163" xml:id="UID-FAKE-3955">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::249 /TEI[1]/text[1]/body[1]/p[5]::255" xml:id="UID-FAKE-3956">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::19 /TEI[1]/text[1]/body[1]/p[6]::25" xml:id="UID-FAKE-3957">
+        <rs ana="https://topostext.org/place/380237XTrR"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::118" xml:id="UID-FAKE-3958">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::345 /TEI[1]/text[1]/body[1]/p[6]::355" xml:id="UID-FAKE-3959">
+        <rs ana="https://topostext.org/place/380237SHAl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::470 /TEI[1]/text[1]/body[1]/p[6]::476" xml:id="UID-FAKE-3960">
+        <rs ana="https://topostext.org/place/380237XTrR"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::509 /TEI[1]/text[1]/body[1]/p[6]::514" xml:id="UID-FAKE-3961">
+        <rs ana="https://topostext.org/place/363253IHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::678 /TEI[1]/text[1]/body[1]/p[6]::686" xml:id="UID-FAKE-3962">
+        <rs ana="https://topostext.org/place/363253IHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::688 /TEI[1]/text[1]/body[1]/p[6]::695" xml:id="UID-FAKE-3963">
+        <rs ana="https://topostext.org/place/363253IHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::238 /TEI[1]/text[1]/body[1]/p[7]::251" xml:id="UID-FAKE-3964">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::293 /TEI[1]/text[1]/body[1]/p[7]::302" xml:id="UID-FAKE-3965">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::438 /TEI[1]/text[1]/body[1]/p[7]::447" xml:id="UID-FAKE-3966">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::3 /TEI[1]/text[1]/body[1]/p[8]::9" xml:id="UID-FAKE-3967">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::48 /TEI[1]/text[1]/body[1]/p[8]::55" xml:id="UID-FAKE-3968">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::17" xml:id="UID-FAKE-3969">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::31 /TEI[1]/text[1]/body[1]/p[9]::37" xml:id="UID-FAKE-3970">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::219 /TEI[1]/text[1]/body[1]/p[10]::226" xml:id="UID-FAKE-3971">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::325 /TEI[1]/text[1]/body[1]/p[10]::333" xml:id="UID-FAKE-3972">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 15</head>
+      <p>At Platanistas there is also a hero-shrine of Cynisca, daughter of Archidamus king of the Spartans. She was the first woman to breed horses, and the first to win a chariot race at Olympia. Behind the portico built by the side of Platanistas are other hero-shrines, of Alcimus, of Enaraephorus, at a little distance away one of Dorceus, and close to it one of Sebrus.</p>
+      <p>These are said to be sons of Hippocoon. The fountain near the hero-shrine of Dorceus they call Dorcean after him; the place Sebrium is named after Sebrus. On the right of Sebrium is the tomb of Alcman, the lyric poet, the charm of whose works was not in the least spoilt by the Laconian dialect, which is the least musical of them all.</p>
+      <p>There are sanctuaries of Helen and of Heracles; the former is near the grave of Alcman, the latter is quite close to the wall and contains an armed image of Heracles. The attitude of the image is due, they say, to the fight with Hippocoon and his sons. The enmity of Heracles towards the family of Hippocoon is said to have sprung out of their refusing to cleanse him when he came to Sparta for cleansing after the death of Iphitus.</p>
+      <p>The following incident, too, helped to begin the feud. Oeonus, a stripling cousin of Heracles — he was the son of Licymnius the brother of Alcmene — came to Sparta along with Heracles, and went round to view the city. When he came to the house of Hippocoon, a house-dog attacked him. Oeonus happened to throw a stone which knocked over the dog. So the sons of Hippocoon ran out, and dispatched Oeonus with their clubs.</p>
+      <p>This made Heracles most bitterly wroth with Hippocoon and his sons, and straightway, angry as he was, he set out to give them battle. On this occasion he was wounded, and made good his retreat by stealth but afterwards he made an expedition against Sparta and succeeded in avenging himself on Hippocoon, and also on the sons of Hippocoon for their murder of Oeonus. The tomb of Oeonus is built by the side of the sanctuary of Heracles.</p>
+      <p>As you go from the Dromos towards the east, there is a path on the right, with a sanctuary of Athena called Axiopoinos (Just Requital or Tit for Tat). For when Heracles, in avenging himself on Hippocoon and his sons, had inflicted upon them a just requital for their treatment of his relative, he founded a sanctuary of Athena, and surnamed her Axiopoinos because the ancients used to call vengeance poinai. There is another sanctuary of Athena on another road from the Dromos. It was dedicated, they say, by Theras son of Autesion son of Tisamenus son of Thersander, when he was leading a colony to the island now called Thera after him, the name of which in ancient times was Calliste (Fairest).</p>
+      <p>Near is a temple of Hipposthenes, who won so many victories in wrestling. They worship Hipposthenes in accordance with an oracle, paying him honors as to Poseidon. Opposite this temple is an old image of Enyalius in fetters. The idea the Lacedemonians express by this image is the same as the Athenians express by their Wingless Victory; the former think that Enyalius will never run away from them, being bound in the fetters, while the Athenians think that Victory, having no wings, will always remain where she is. In this fashion, and with such a belief have these cities set up the xoana.</p>
+      <p>In Sparta is a lesche (clubhouse,lounge) called Poikile (painted), and by it hero-shrines of Cadmus the son of Agenor, and of his descendants Oeolycus, son of Theras, and Aegeus, son of Oeolycus. They are said to have been made by Maesis, Laeas and Europas, sons of Hyraeus, son of Aegeus. They made for Amphilochus too his hero-shrine, because their ancestor Tisamenus had for his mother Demonassa, the sister of Amphilochus.</p>
+      <p>The Lacedemonians are the only Greeks who surname Hera Goat-eater, and sacrifice goats to the goddess. They say that Heracles founded the sanctuary and was the first to sacrifice goats, because in his fight against Hippocoon and his children he met with no hindrance from Hera, although in his other adventures he thought that the goddess opposed him. He sacrificed goats, they say, because he lacked other kinds of victims.</p>
+      <p>Not far from the theater is a sanctuary of Poseidon Genethlios (God of Kin), and there are hero-shrines of Cleodaeus, son of Hyllus, and of Oebalus. The most famous of their sanctuaries of Asclepius has been built near Booneta, and on the left is the hero-shrine of Teleclus. I shall mention him again later in my history of Messenia. A little farther on is a small hill, on which is an ancient temple with a xoanon (wooden image) of Aphrodite armed. This is the only temple I know that has an upper storey built upon it, a sanctuary of Morpho.</p>
+      <p>Morpho is a surname of Aphrodite, who sits wearing a veil and with fetters on her feet. The story is that the fetters were put on her by Tyndareus, who symbolized by the bonds the faithfulness of wives to their husbands. The other account, that Tyndareus punished the goddess with fetters because he thought that from Aphrodite had come the shame of his daughters, I will not admit for a moment. For it were surely altogether silly to expect to punish the goddess by making a cedar figure and naming it Aphrodite.</p>
+    </body>
+  </text>
+</TEI>

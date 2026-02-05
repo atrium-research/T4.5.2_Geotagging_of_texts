@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::40 /TEI[1]/text[1]/body[1]/p[1]::50" xml:id="UID-FAKE-4811">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::201 /TEI[1]/text[1]/body[1]/p[1]::214" xml:id="UID-FAKE-4812">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::421 /TEI[1]/text[1]/body[1]/p[1]::433" xml:id="UID-FAKE-4813">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::64 /TEI[1]/text[1]/body[1]/p[2]::73" xml:id="UID-FAKE-4814">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::76 /TEI[1]/text[1]/body[1]/p[2]::90" xml:id="UID-FAKE-4815">
+        <rs ana="https://topostext.org/place/394217UIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-4816">
+        <rs ana="https://topostext.org/place/394217UIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::292 /TEI[1]/text[1]/body[1]/p[2]::299" xml:id="UID-FAKE-4817">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::39 /TEI[1]/text[1]/body[1]/p[3]::45" xml:id="UID-FAKE-4818">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::212 /TEI[1]/text[1]/body[1]/p[3]::224" xml:id="UID-FAKE-4819">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::237 /TEI[1]/text[1]/body[1]/p[3]::244" xml:id="UID-FAKE-4820">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::16 /TEI[1]/text[1]/body[1]/p[4]::22" xml:id="UID-FAKE-4821">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::135 /TEI[1]/text[1]/body[1]/p[4]::145" xml:id="UID-FAKE-4822">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::64 /TEI[1]/text[1]/body[1]/p[5]::73" xml:id="UID-FAKE-4823">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::424 /TEI[1]/text[1]/body[1]/p[5]::430" xml:id="UID-FAKE-4824">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::14" xml:id="UID-FAKE-4825">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::118 /TEI[1]/text[1]/body[1]/p[6]::127" xml:id="UID-FAKE-4826">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::2 /TEI[1]/text[1]/body[1]/p[7]::11" xml:id="UID-FAKE-4827">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::362 /TEI[1]/text[1]/body[1]/p[8]::368" xml:id="UID-FAKE-4828">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::46 /TEI[1]/text[1]/body[1]/p[9]::56" xml:id="UID-FAKE-4829">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::277 /TEI[1]/text[1]/body[1]/p[9]::287" xml:id="UID-FAKE-4830">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::55 /TEI[1]/text[1]/body[1]/p[10]::64" xml:id="UID-FAKE-4831">
+        <rs ana="https://topostext.org/place/381236UEpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 9</head>
+      <p>But after the battle the affairs of the Messenians began to get serious. They were exhausted by the expenditure of money devoted to the garrisoning of the towns, and their slaves were deserting to the Lacedemonians. They were visited also by disease, which caused alarm, as resembling plague, although it did not attack all. In these circumstances they resolved to desert all their numerous towns inland and to settle on Mount Ithome.</p>
+      <p>A small town existed here, which they say Homer mentions in the Catalogue: “Stepped Ithome.” To this town they withdrew, extending the old circuit to form a sufficient protection for them all. The place was strong in other respects, for Ithome falls short of none of the mountains within the Isthmus in height and at this point was most difficult to climb.</p>
+      <p>They also resolved to send an envoy to Delphi, and despatched Tisis the son of Alcis, a man of the highest reputation, considered to be fully versed in divination. While he was returning from Delphi men from the Lacedemonian garrison at Ampheia laid an ambush for him. Though trapped, he did not submit to be made a prisoner, but stood his ground to resist in spite of the wounds he received, until a voice was heard from an unseen quarter, “Let the bearer of the oracle go free.”</p>
+      <p>Tisis, reaching Ithome with all speed, delivered the oracle to the king, and soon afterwards died of his wounds. Euphaes assembled the Messenians and made known the oracle: “Ye shall sacrifice a pure maiden to the gods below, appointed by lot of the blood of the sons of Aepytus, and slay her by night. But if that ye cannot do, offer a maiden from another house, if the father gives her freely for the slaughter.”</p>
+      <p>When the god declared this, all the maidens of the house of the Aepytidae forthwith cast lots, and the lot fell on the daughter of Lyciscus. But Epebolus the seer forbade them to offer her, for she was not the daughter of Lyciscus, but the woman who was married to Lyciscus being unable to bear a child had palmed off the girl as hers. While Epebolus was making this declaration, Lyciscus took the girl away and deserted to Sparta.</p>
+      <p>The Messenians were in despair when they saw that Lyciscus had fled; thereupon Aristodemus, a son of the house of the Aepytidae, of higher standing than Lyciscus both in reputation and in war, freely offered his daughter for the sacrifice. But human affairs and human purpose above all are obscured by fate, just as the mud of a river hides a pebble; for when Aristodemus was striving his utmost to save Messene, fate set this obstacle in his path.</p>
+      <p>A Messenian, whose name is not recorded, was in love with the daughter of Aristodemus, and was already about to make her his wife. He at first disputed the rights of Aristodemus over the girl for Aristodemus, since he had betrothed her to himself had no further rights over the girl, but he to whom she was betrothed had greater rights than the father. Next, when he saw that this was of no avail, he had recourse to a shameless plea, that the girl was with child by him.</p>
+      <p>At last he drove Aristodemus to such a fury of passion that he killed his daughter; then cutting her open he showed that she was not pregnant. Epebolus, who was present, ordered another man to come forward and offer his daughter, for the daughter of Aristodemus was of no avail to them dead; for the father had murdered her, not offered her to the gods whom the Pythia ordained.</p>
+      <p>When the seer said this, the multitude of the Messenians rushed on the girl"s lover to kill him, since he had fixed the guilt of bloodshed on Aristodemus to no purpose, and had made their hopes of safety doubtful. But as he was a close friend of Euphaes, Euphaes persuaded the Messenians that the oracle was fulfilled by the death of the girl and that the deed done by Aristodemus sufficed for them.</p>
+      <p>When he said this, all the members of the house of the Aepytidae said that he spoke truth, for each was eager to be rid of the terror threatening his daughter. The people took the advice of"the king and broke up the assembly and thereupon turned to sacrifices to the gods and feasting.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::17 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-5736">
+        <rs ana="https://topostext.org/place/372219SStm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::37 /TEI[1]/text[1]/body[1]/p[1]::47" xml:id="UID-FAKE-5737">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::90 /TEI[1]/text[1]/body[1]/p[1]::96" xml:id="UID-FAKE-5738">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::275 /TEI[1]/text[1]/body[1]/p[1]::283" xml:id="UID-FAKE-5739">
+        <rs ana="https://topostext.org/place/372219SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::432 /TEI[1]/text[1]/body[1]/p[1]::438" xml:id="UID-FAKE-5740">
+        <rs ana="https://topostext.org/place/372219SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::141 /TEI[1]/text[1]/body[1]/p[2]::151" xml:id="UID-FAKE-5741">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::181 /TEI[1]/text[1]/body[1]/p[2]::191" xml:id="UID-FAKE-5742">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::192 /TEI[1]/text[1]/body[1]/p[3]::198" xml:id="UID-FAKE-5743">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::592 /TEI[1]/text[1]/body[1]/p[3]::602" xml:id="UID-FAKE-5744">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::59 /TEI[1]/text[1]/body[1]/p[4]::66" xml:id="UID-FAKE-5745">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::123 /TEI[1]/text[1]/body[1]/p[4]::130" xml:id="UID-FAKE-5746">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::162 /TEI[1]/text[1]/body[1]/p[4]::174" xml:id="UID-FAKE-5747">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::201 /TEI[1]/text[1]/body[1]/p[4]::211" xml:id="UID-FAKE-5748">
+        <rs ana="https://topostext.org/place/379211SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::216 /TEI[1]/text[1]/body[1]/p[4]::222" xml:id="UID-FAKE-5749">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::323 /TEI[1]/text[1]/body[1]/p[4]::329" xml:id="UID-FAKE-5750">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::459 /TEI[1]/text[1]/body[1]/p[4]::472" xml:id="UID-FAKE-5751">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::23 /TEI[1]/text[1]/body[1]/p[5]::29" xml:id="UID-FAKE-5752">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::55 /TEI[1]/text[1]/body[1]/p[5]::64" xml:id="UID-FAKE-5753">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::125 /TEI[1]/text[1]/body[1]/p[5]::132" xml:id="UID-FAKE-5754">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::161 /TEI[1]/text[1]/body[1]/p[5]::168" xml:id="UID-FAKE-5755">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::239 /TEI[1]/text[1]/body[1]/p[5]::247" xml:id="UID-FAKE-5756">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::268 /TEI[1]/text[1]/body[1]/p[5]::276" xml:id="UID-FAKE-5757">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::281 /TEI[1]/text[1]/body[1]/p[5]::286" xml:id="UID-FAKE-5758">
+        <rs ana="https://topostext.org/place/385233SPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::336 /TEI[1]/text[1]/body[1]/p[5]::340" xml:id="UID-FAKE-5759">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::516 /TEI[1]/text[1]/body[1]/p[5]::525" xml:id="UID-FAKE-5760">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::183 /TEI[1]/text[1]/body[1]/p[6]::196" xml:id="UID-FAKE-5761">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::239 /TEI[1]/text[1]/body[1]/p[6]::247" xml:id="UID-FAKE-5762">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::322 /TEI[1]/text[1]/body[1]/p[6]::329" xml:id="UID-FAKE-5763">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::419 /TEI[1]/text[1]/body[1]/p[6]::428" xml:id="UID-FAKE-5764">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 32</head>
+      <p>The place called Hierothesion by the Messenians contains statues of all the gods whom the Greeks worship, and also a bronze image of Epaminondas. Ancient tripods are dedicated there, which “have felt not the fire,” as Homer says. The statues in the gymnasium are the work of Egyptian artists. They represent Hermes, Heracles and Theseus, who are honored in the gymnasium and wrestling-ground according to a practice universal among Greeks, and now common among barbarians...</p>
+      <p>I learnt by enquiry that Saithidas [ms. Aithidas] was a man older than myself, who gained influence through his wealth and is honored by the Messenians as a hero. There are certain Messenians, who, while admitting that Saithidas was a man of great wealth, maintain that it is not he who is represented on the relief but an ancestor and namesake. The elder AethidasYY was their leader, when Demetrius the son of Philip and his force surprised them in the night and succeeded in penetrating into the town unnoticed.</p>
+      <p>There is also the tomb of Aristomenes here. They say that it is not a cenotaph, but when I asked whence and in what manner they recovered the bones of Aristomenes, they said that they sent to Rhodes for them, and that it was the god of Delphi who ordered it. They also instructed me in the nature of the rites carried out at the tomb. The bull which is to be offered to the dead man is brought to the tomb and bound to the pillar which stands upon the grave. Being fierce and unused to bonds he will not stand; and if the pillar is moved by his struggles and bounds, it is a good omen to the Messenians, but if the pillar is not moved the sign portends misfortune.</p>
+      <p>They have it that Aristomenes was present at the battle of Leuctra, though no longer among men, and say that he helped the Thebans and was the chief cause of the Lacedemonian disaster. I know that the ChaldeanYY and Indian sages were the first to say that the soul of man is immortal, and have been followed by some of the Greeks, particularly by Plato the son of Ariston. If all are willing to accept this, this too cannot be denied, that his hatred for the Lacedemonians was imparted to Aristomenes for all time.</p>
+      <p>What I myself heard in Thebes gives probability to the Messenian account, although it does not coincide in all respects. The Thebans say that when the battle of Leuctra was imminent, they sent to other oracles and to enquire of the god of Lebadeia. The replies of the Ismenian and Ptoan Apollo are recorded, also the responses given at Abae and at Delphi. Trophonius, they say, answered in hexameters: “Or ever ye join battle with the foe, set up a trophy and deck it with my shield, which impetuous Aristomenes the Messenian placed in my temple. And I will destroy the host of foemen bearing shields.</p>
+      <p>When the oracle was brought, they say that Epaminondas urged XenocrateYY, who sent for the shield of Aristomenes and used it to adorn a trophy in a spot where it could be seen by the Lacedemonians. Those of them who had seen the shield at Lebadeia in peace-time knew it, and all knew it by repute. After their victory the Thebans restored the offering to Trophonius. There is also a bronze statue of Aristomenes in the Messenian running-ground. Not far from the theater is a sanctuary of Sarapis and Isis.</p>
+    </body>
+  </text>
+</TEI>

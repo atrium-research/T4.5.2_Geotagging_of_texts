@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-4890">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::389 /TEI[1]/text[1]/body[1]/p[1]::398" xml:id="UID-FAKE-4891">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::113 /TEI[1]/text[1]/body[1]/p[2]::117" xml:id="UID-FAKE-4892">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::145 /TEI[1]/text[1]/body[1]/p[2]::151" xml:id="UID-FAKE-4893">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::369 /TEI[1]/text[1]/body[1]/p[2]::382" xml:id="UID-FAKE-4894">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::30 /TEI[1]/text[1]/body[1]/p[3]::43" xml:id="UID-FAKE-4895">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::75 /TEI[1]/text[1]/body[1]/p[3]::84" xml:id="UID-FAKE-4896">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::120 /TEI[1]/text[1]/body[1]/p[3]::129" xml:id="UID-FAKE-4897">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::191 /TEI[1]/text[1]/body[1]/p[3]::196" xml:id="UID-FAKE-4898">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::226 /TEI[1]/text[1]/body[1]/p[3]::238" xml:id="UID-FAKE-4899">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::80 /TEI[1]/text[1]/body[1]/p[4]::86" xml:id="UID-FAKE-4900">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::24 /TEI[1]/text[1]/body[1]/p[5]::34" xml:id="UID-FAKE-4901">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::85 /TEI[1]/text[1]/body[1]/p[5]::91" xml:id="UID-FAKE-4902">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::165 /TEI[1]/text[1]/body[1]/p[5]::172" xml:id="UID-FAKE-4903">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::204 /TEI[1]/text[1]/body[1]/p[5]::212" xml:id="UID-FAKE-4904">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::268 /TEI[1]/text[1]/body[1]/p[5]::274" xml:id="UID-FAKE-4905">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::359 /TEI[1]/text[1]/body[1]/p[6]::366" xml:id="UID-FAKE-4906">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::246 /TEI[1]/text[1]/body[1]/p[7]::252" xml:id="UID-FAKE-4907">
+        <rs ana="https://topostext.org/place/372219SStm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::289 /TEI[1]/text[1]/body[1]/p[7]::298" xml:id="UID-FAKE-4908">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::146 /TEI[1]/text[1]/body[1]/p[8]::152" xml:id="UID-FAKE-4909">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::175 /TEI[1]/text[1]/body[1]/p[8]::188" xml:id="UID-FAKE-4910">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::347 /TEI[1]/text[1]/body[1]/p[8]::356" xml:id="UID-FAKE-4911">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::380 /TEI[1]/text[1]/body[1]/p[8]::386" xml:id="UID-FAKE-4912">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::219 /TEI[1]/text[1]/body[1]/p[9]::232" xml:id="UID-FAKE-4913">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::279 /TEI[1]/text[1]/body[1]/p[9]::289" xml:id="UID-FAKE-4914">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::327 /TEI[1]/text[1]/body[1]/p[9]::333" xml:id="UID-FAKE-4915">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::432 /TEI[1]/text[1]/body[1]/p[9]::438" xml:id="UID-FAKE-4916">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::451 /TEI[1]/text[1]/body[1]/p[9]::464" xml:id="UID-FAKE-4917">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::4 /TEI[1]/text[1]/body[1]/p[10]::14" xml:id="UID-FAKE-4918">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::110 /TEI[1]/text[1]/body[1]/p[10]::123" xml:id="UID-FAKE-4919">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 12</head>
+      <p>The Lacedemonians were distressed by the reverse that had befallen them. Their losses in the battle were great and included important men, and they were inclined to despair of all hope in the war. For this reason they sent envoys to Delphi, who received the following reply from the Pythia: “Phoebus bids thee pursue not only the task of war with the hand, but by guile a people holds the Messenian land, and by the same arts as they first employed shall the people fall.</p>
+      <p>At this the kings and ephors were eager to invent stratagems, but failed. They imitated that deed of Odysseus at Troy, and sent a hundred men to Ithome to observe what the enemy were planning, but pretending to be deserters. A sentence of banishment had been openly pronounced on them. On their arrival Aristodemus at once sent them away, saying that the crimes of the Lacedemonians were new, but their tricks old.</p>
+      <p>Failing in their attempt, the Lacedemonians next attempted to break up the Messenian alliance. But when repulsed by the Arcadians, to whom their ambassadors came first, they put off going to Argos. Aristodemus, hearing of the Lacedemonian intrigues, also sent men to enquire of the god. And the Pythia replied to them:</p>
+      <p>"The god gives thee glory in war, but beware lest by guile the hated company of Sparta scale the well-built walls, for mightier is their Ares. And harsh shall be the dwellers in the circle of the dancing ground, when the two have started forth by one chance from the hidden ambush. Yet the holy day shall not behold this ending until their doom o"ertake those which have changed their nature." At the time Aristodemus and the seers were at a loss to interpret the saying, but in a few years the god was like to reveal it and bring it to fulfillment.</p>
+      <p>Other things befell the Messenians at that time: while Lyciscus was living abroad in Sparta, death overtook the daughter whom he carried with him on his flight from Messene. As he often visited her tomb, Arcadian horsemen lay in wait and captured him. When carried to Ithome and brought into the assembly he urged that he had not departed a traitor to his country, but because he believed the words of the seer that the girl was not his own.</p>
+      <p>His defence did not win credence until the woman who was then holding the priesthood of Hera came into the theater. She confessed that she was the mother of the girl and had given her to Lyciscus"wife to pass off as her own. “And now,” she said, “revealing the secret, I have come to lay down my office.” She said this because it was an established custom in Messene that, if a child of a man or woman holding a priesthood died before its parent, the office should pass to another. Accepting the truth of her statement, they chose another woman to take her place as priestess of the goddess, and said that Lyciscus"deed was pardonable.</p>
+      <p>After this, as the twentieth year of the war was approaching, they resolved to send again to Delphi to ask concerning victory. The Pythia made answer to their question: “To those who first around the altar set up tripods ten times ten to Zeus of Ithome, heaven grants glory in war and the Messenian land. For thus hath Zeus ordained. Deceit raised thee up and punishment follows after, nor would"st thou deceive the god. Act as fate wills, destruction comes on this man before that.</p>
+      <p>Hearing this they thought that the oracle was in their favour and granted them victory; for as they themselves possessed the sanctuary of Zeus of Ithome within the walls, the Lacedemonians could not forestall them in making the dedication. They set about making tripods of wood, as they had not money enough to make them of bronze. But one of the Delphians reported the oracle to Sparta. When they heard it, no plan occurred to them in public,</p>
+      <p>but Oebalus, a man of no repute in general, but evidently shrewd, made a hundred tripods, as best he might, of clay, and hiding them in a bag, carried nets with them like a hunter. As he was unknown even to most of the Lacedemonians, he would more easily escape detection by the Messenians. Joining some countrymen, he entered Ithome with them, and as soon as night fell, dedicated these tripods of clay to the god, and returned to Sparta to tell the Lacedemonians.</p>
+      <p>The Messenians, when they saw them, were greatly disturbed, thinking, rightly enough, that they were from the Lacedemonians. Nevertheless Aristodemus encouraged them, saying what the occasion demanded, and setting up the wooden tripods, which had already been made, round the altar of the god of Ithome. It happened also that Ophioneus, the seer who had been blind from birth, received his sight in the most remarkable way. He was seized with a violent pain in the head, and thereupon received his sight.</p>
+    </body>
+  </text>
+</TEI>

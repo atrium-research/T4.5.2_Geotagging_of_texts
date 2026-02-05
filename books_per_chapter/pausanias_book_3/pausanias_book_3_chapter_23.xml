@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::7" xml:id="UID-FAKE-4356">
+        <rs ana="https://topostext.org/place/363230PKyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::22 /TEI[1]/text[1]/body[1]/p[1]::27" xml:id="UID-FAKE-4357">
+        <rs ana="https://topostext.org/place/363230LPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::50 /TEI[1]/text[1]/body[1]/p[1]::61" xml:id="UID-FAKE-4358">
+        <rs ana="https://topostext.org/place/363230LPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::192 /TEI[1]/text[1]/body[1]/p[1]::202" xml:id="UID-FAKE-4359">
+        <rs ana="https://topostext.org/place/365229LOno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::207 /TEI[1]/text[1]/body[1]/p[1]::214" xml:id="UID-FAKE-4360">
+        <rs ana="https://topostext.org/place/363230PKyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::233" xml:id="UID-FAKE-4361">
+        <rs ana="https://topostext.org/place/362231USka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::261 /TEI[1]/text[1]/body[1]/p[1]::268" xml:id="UID-FAKE-4362">
+        <rs ana="https://topostext.org/place/363230PKyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::301 /TEI[1]/text[1]/body[1]/p[1]::309" xml:id="UID-FAKE-4363">
+        <rs ana="https://topostext.org/place/362231USka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::447 /TEI[1]/text[1]/body[1]/p[1]::453" xml:id="UID-FAKE-4364">
+        <rs ana="https://topostext.org/place/363230PKyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::19 /TEI[1]/text[1]/body[1]/p[2]::24" xml:id="UID-FAKE-4365">
+        <rs ana="https://topostext.org/place/384236HBat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::51" xml:id="UID-FAKE-4366">
+        <rs ana="https://topostext.org/place/364232LMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::71 /TEI[1]/text[1]/body[1]/p[2]::80" xml:id="UID-FAKE-4367">
+        <rs ana="https://topostext.org/place/376231BNph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::254 /TEI[1]/text[1]/body[1]/p[2]::259" xml:id="UID-FAKE-4368">
+        <rs ana="https://topostext.org/place/364232LMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::351 /TEI[1]/text[1]/body[1]/p[2]::358" xml:id="UID-FAKE-4369">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::397 /TEI[1]/text[1]/body[1]/p[2]::406" xml:id="UID-FAKE-4370">
+        <rs ana="https://topostext.org/place/376232BETh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::48 /TEI[1]/text[1]/body[1]/p[3]::53" xml:id="UID-FAKE-4371">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::55 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-4372">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::72 /TEI[1]/text[1]/body[1]/p[3]::77" xml:id="UID-FAKE-4373">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::237 /TEI[1]/text[1]/body[1]/p[3]::248" xml:id="UID-FAKE-4374">
+        <rs ana="https://topostext.org/place/406370UKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::337 /TEI[1]/text[1]/body[1]/p[3]::348" xml:id="UID-FAKE-4375">
+        <rs ana="https://topostext.org/place/374253SSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::67 /TEI[1]/text[1]/body[1]/p[4]::74" xml:id="UID-FAKE-4376">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::232 /TEI[1]/text[1]/body[1]/p[4]::237" xml:id="UID-FAKE-4377">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::431 /TEI[1]/text[1]/body[1]/p[4]::438" xml:id="UID-FAKE-4378">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::476 /TEI[1]/text[1]/body[1]/p[4]::485" xml:id="UID-FAKE-4379">
+        <rs ana="https://topostext.org/place/383237UDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::394 /TEI[1]/text[1]/body[1]/p[5]::400" xml:id="UID-FAKE-4380">
+        <rs ana="https://topostext.org/place/440205RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::19 /TEI[1]/text[1]/body[1]/p[6]::26" xml:id="UID-FAKE-4381">
+        <rs ana="https://topostext.org/place/367230UEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::42 /TEI[1]/text[1]/body[1]/p[6]::58" xml:id="UID-FAKE-4382">
+        <rs ana="https://topostext.org/place/367230UEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::97 /TEI[1]/text[1]/body[1]/p[6]::106" xml:id="UID-FAKE-4383">
+        <rs ana="https://topostext.org/place/367230UEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::160 /TEI[1]/text[1]/body[1]/p[6]::173" xml:id="UID-FAKE-4384">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::187 /TEI[1]/text[1]/body[1]/p[6]::198" xml:id="UID-FAKE-4385">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::206 /TEI[1]/text[1]/body[1]/p[6]::213" xml:id="UID-FAKE-4386">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::254 /TEI[1]/text[1]/body[1]/p[6]::261" xml:id="UID-FAKE-4387">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::310 /TEI[1]/text[1]/body[1]/p[6]::313" xml:id="UID-FAKE-4388">
+        <rs ana="https://topostext.org/place/369273SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::72 /TEI[1]/text[1]/body[1]/p[7]::81" xml:id="UID-FAKE-4389">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::46 /TEI[1]/text[1]/body[1]/p[8]::49" xml:id="UID-FAKE-4390">
+        <rs ana="https://topostext.org/place/374253WIno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::197 /TEI[1]/text[1]/body[1]/p[8]::200" xml:id="UID-FAKE-4391">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::15 /TEI[1]/text[1]/body[1]/p[9]::20" xml:id="UID-FAKE-4392">
+        <rs ana="https://topostext.org/place/377150LAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::25 /TEI[1]/text[1]/body[1]/p[10]::30" xml:id="UID-FAKE-4393">
+        <rs ana="https://topostext.org/place/384236UAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::34 /TEI[1]/text[1]/body[1]/p[10]::50" xml:id="UID-FAKE-4394">
+        <rs ana="https://topostext.org/place/367230UEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::108 /TEI[1]/text[1]/body[1]/p[10]::119" xml:id="UID-FAKE-4395">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::20 /TEI[1]/text[1]/body[1]/p[11]::25" xml:id="UID-FAKE-4396">
+        <rs ana="https://topostext.org/place/368233LMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::141 /TEI[1]/text[1]/body[1]/p[11]::148" xml:id="UID-FAKE-4397">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 23</head>
+      <p>Cythera lies opposite Boeae; to the promontory of Platanistus, the point where the island lies nearest to the mainland, it is a voyage of forty stades from a promontory on the mainland called Onugnathus. In Cythera is a port Scandeia on the coast, but the town Cythera is about ten stades inland from Scandeia. The sanctuary of Aphrodite Urania (the Heavenly) is most holy, and it is the most ancient of all the sanctuaries of Aphrodite among the Greeks. The goddess herself is represented by an armed xoanon.</p>
+      <p>On the voyage from Boeae towards the point of Malea is a harbor called Nymphaeum, with a statue of Poseidon standing, and a cave close to the sea; in it is a spring of sweet water. There is a large population in the district. After doubling the point of Malea and proceeding a hundred stades, you reach a place on the coast within the frontier of the Boeatae, which is sacred to Apollo and called Epidelium.</p>
+      <p>For the xoanon which is now here, once stood in Delos. Delos was then a Greek market, and seemed to offer security to traders on account of the god; but as the place was unfortified and the inhabitants unarmed, Menophanes, an officer of Mithridates, attacked it with a fleet, to show his contempt for the god, or acting on the orders of Mithridates; for to a man whose object is gain what is sacred is of less account than what is profitable.</p>
+      <p>This Menophanes put to death the foreigners residing there and the Delians themselves, and after plundering much property belonging to the traders and all the offerings, and also carrying women and children away as slaves, he razed Delos itself to the ground. As it was being sacked and pillaged, one of the barbarians wantonly flung this xoanon into the sea; but the wave took it and brought it to land here in the country of the Boeatae. For this reason they call the place Epidelium.</p>
+      <p>But neither Menophanes nor Mithridates himself escaped the wrath of the god. Menophanes, as he was putting to sea after the sack of Delos was sunk at once by those of the merchants who had escaped; for they lay in wait for him in ships. The god caused Mithridates at a later date to lay hands upon himself, when his empire had been destroyed and he himself was being hunted on all sides by the Romans. There are some who say that he obtained a violent death as a favour at the hands of one of his mercenaries. This was the reward of their impiety.</p>
+      <p>The country of the Boeatae is adjoined by Epidaurus Limera, distant some two hundred stades from Epidelium. The people say that they are not descended from the Lacedemonians but from the Epidaurians of the Argolid, and that they touched at this point in Laconia when sailing on public business to Asclepius in Cos. Warned by dreams that appeared to them, they remained and settled here.</p>
+      <p>They also say that a snake, which they were bringing from their home in Epidaurus, escaped from the ship, and disappeared into the ground not far from the sea. As a result of the portent of the snake together with the vision in their dreams they resolved to remain and settle here. There are altars to Asclepius where the snake disappeared, with olive trees growing round them.</p>
+      <p>About two stades to the right is the water of Ino, as it is called, in extent like a small lake, but going deeper into the earth. Into this water they throw cakes of barley meal at the festival of Ino. If good luck is portended to the thrower, the water keeps them under. But if it brings them to the surface, it is judged a bad sign.</p>
+      <p>The craters in Aetna have the same feature; for they lower into them objects of gold and silver and also all kinds of victims. If the fire receives and consumes them, they rejoice at the appearance of a good sign, but if it casts up what has been thrown in, they think misfortune will befall the man to whom this happens.</p>
+      <p>By the road leading from Boeae to Epidaurus Limera is a sanctuary of Artemis Limnatis in the country of the Epidaurians. The city lies on high ground, not far from the sea. Here the sanctuary of Artemis is worth seeing, also that of Asclepius with a standing statue of stone, a temple of Athena on the acropolis, and of Zeus with the title Saviour in front of the harbor.</p>
+      <p>A promontory called Minoa projects into the sea near the town. The bay has nothing to distinguish it from all the other inlets of the sea in Laconia, but the beach here contains pebbles of prettier form and of all colors.</p>
+    </body>
+  </text>
+</TEI>

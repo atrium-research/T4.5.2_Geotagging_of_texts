@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::74 /TEI[1]/text[1]/body[1]/p[1]::82" xml:id="UID-FAKE-5192">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::244 /TEI[1]/text[1]/body[1]/p[1]::248" xml:id="UID-FAKE-5193">
+        <rs ana="https://topostext.org/place/374219UEir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::389 /TEI[1]/text[1]/body[1]/p[1]::399" xml:id="UID-FAKE-5194">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::736 /TEI[1]/text[1]/body[1]/p[1]::744" xml:id="UID-FAKE-5195">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::219 /TEI[1]/text[1]/body[1]/p[2]::227" xml:id="UID-FAKE-5196">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::84 /TEI[1]/text[1]/body[1]/p[3]::94" xml:id="UID-FAKE-5197">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::380 /TEI[1]/text[1]/body[1]/p[3]::390" xml:id="UID-FAKE-5198">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::150 /TEI[1]/text[1]/body[1]/p[4]::163" xml:id="UID-FAKE-5199">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::175 /TEI[1]/text[1]/body[1]/p[4]::185" xml:id="UID-FAKE-5200">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::114 /TEI[1]/text[1]/body[1]/p[5]::124" xml:id="UID-FAKE-5201">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::215 /TEI[1]/text[1]/body[1]/p[5]::221" xml:id="UID-FAKE-5202">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::238 /TEI[1]/text[1]/body[1]/p[5]::244" xml:id="UID-FAKE-5203">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::334 /TEI[1]/text[1]/body[1]/p[5]::341" xml:id="UID-FAKE-5204">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::14" xml:id="UID-FAKE-5205">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::129 /TEI[1]/text[1]/body[1]/p[6]::142" xml:id="UID-FAKE-5206">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::172 /TEI[1]/text[1]/body[1]/p[7]::185" xml:id="UID-FAKE-5207">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::46 /TEI[1]/text[1]/body[1]/p[8]::59" xml:id="UID-FAKE-5208">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::80 /TEI[1]/text[1]/body[1]/p[8]::90" xml:id="UID-FAKE-5209">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::17" xml:id="UID-FAKE-5210">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::82 /TEI[1]/text[1]/body[1]/p[9]::92" xml:id="UID-FAKE-5211">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::124 /TEI[1]/text[1]/body[1]/p[10]::131" xml:id="UID-FAKE-5212">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::325 /TEI[1]/text[1]/body[1]/p[10]::335" xml:id="UID-FAKE-5213">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::506 /TEI[1]/text[1]/body[1]/p[10]::519" xml:id="UID-FAKE-5214">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::573 /TEI[1]/text[1]/body[1]/p[10]::581" xml:id="UID-FAKE-5215">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::190 /TEI[1]/text[1]/body[1]/p[11]::200" xml:id="UID-FAKE-5216">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::237 /TEI[1]/text[1]/body[1]/p[12]::245" xml:id="UID-FAKE-5217">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::278 /TEI[1]/text[1]/body[1]/p[12]::288" xml:id="UID-FAKE-5218">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 21</head>
+      <p>His story seemed to be reliable, and he led the way for Emperamus and the Spartans. Their march was difficult, as it was dark and the rain never ceased. Nevertheless they accomplished it in their eagerness, and arriving before the acropolis of Eira, mounted by raising ladders and in any other way that was possible. Various indications of the trouble that was upon them were given to the Messenians, especially by the dogs barking, not in their usual fashion, but uttering more loud and continuous howls. Realizing that the supreme and most desperate crisis had come upon them, they did not wait to collect all their arms but snatched whatever lay ready to the hand of each, to defend the fatherland that alone was left to them of all Messenia.</p>
+      <p>The first to realize that the enemy were within and to go against them were Gorgus the son of Aristomenes, Aristomenes himself, Theoclus the seer and Manticlus his son, and with them EuergetidYY a man of high repute in Messenia who had attained to greater honor through his wife for he was wedded to Hagnagora, the sister of Aristomenes. Then the rest, though understanding that they were caught as in a net, nevertheless derived some hope even from their present plight.</p>
+      <p>But Aristomenes and the seer knew that there was no putting off destruction for the Messenians, for they knew the riddle of the oracle which the Pythia had uttered concerning the goat. Nevertheless they would not declare it, and kept it secret from the rest. As they hastened through the city, visiting all, they exhorted those whom they encountered, when they saw that they were Messenians, to be brave men, and summoned from the houses those who still remained.</p>
+      <p>During the night nothing worthy of mention was done on either side; for their ignorance of the ground and the daring of Aristomenes gave pause to the Lacedemonians, while the Messenians had not previously received a watchword from their generals, and the rain would put out torches or any other light that they kindled.</p>
+      <p>When it was day and they could see one another Aristomenes and Theoclus tried to rouse the fury of despair in the Messenians, setting forth all that suited the occasion and reminding them of the valor of the men of Smyrna, how, though an Ionian people, by their valor and courage they had driven out Gyges the son of Dascylus and the Lydians, when they were in occupation of their town.</p>
+      <p>The Messenians, when they heard, were filled with desperate courage, and mustering as they happened to be gathered rushed on the Lacedemonians. Women too were eager to fling tiles and what they could upon the enemy, yet the violence of the rain prevented them from doing this and from mounting to the house-tops. But they dared to take arms, and they too further inflamed the ardor of the men, when they saw their women preferring to perish with their fatherland rather than be taken as slaves to Lacedemon, so that they might yet have been able to escape their fate.</p>
+      <p>But the god caused the rain to descend more densely, with loud claps of thunder, and dazzled their eyes with lightning flashing in their faces. All this put courage in the Lacedemonians, who said that heaven itself was-helping them and as the lightning was on their right, Hecas the seer declared the sign of good omen.</p>
+      <p>It was he who devised the following plan. The Lacedemonians far outnumbered the Messenians, but as the battle was not being fought on open ground with troops in line, but they were fighting over different quarters of the town, the rearmost of each detachment were rendered useless. Hecas ordered these to retire to the camp, take food and sleep, and return before evening to relieve their own men who were to remain on duty.</p>
+      <p>The Lacedemonians, by resting and fighting by turns, held out the longer, but the Messenians were faced with difficulties on all sides. They fought continuously day and night until the third day with none to relieve them. When the next day dawned, worn out by lack of sleep and by the rain and cold from heaven, they were assailed by hunger and thirst. The women especially, unaccustomed to war, were exhausted by the continuous suffering.</p>
+      <p>So the seer Theoclus came to Aristomenes"side and said: “Why vainly maintain this toil? The decree of fate stands fast that Messene should fall; long since the Pythia declared to us the disaster now before our eyes, and lately the fig-tree revealed it. On me the gods have laid one doom with my country, but do thou save the Messenians with what power thou hast and save thyself.” When he had spoken to Aristomenes he rushed upon the enemy, and these were the words that he was constrained to fling at the Lacedemonians. “Yet not for all time shall you enjoy the fruits of Messenia with impunity.”</p>
+      <p>Then falling upon the men who faced him he killed them and himself was wounded, and having sated his passion with the slaughter of his foes, he breathed his last. But Aristomenes called the Messenians back from the fight, except those who by virtue of their courage were fighting to cover them. These he allowed to remain at their post. The rest he ordered to receive the women and children within their ranks and follow him wherever he should show a passage.</p>
+      <p>He appointed Gorgus and Manticlus to command the rear, he himself ran to the head of the company and by the gestures of his head and movement of his spear signified that he asked a passage and had resolved to depart. EmperamusYY and the Spartans present were pleased to let the Messenians pass, without further inflaming men who had reached the bounds of frenzy and despair. Moreover Hecas the seer ordered them to act thus.</p>
+    </body>
+  </text>
+</TEI>

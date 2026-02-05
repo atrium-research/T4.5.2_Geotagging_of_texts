@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-4534">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::91 /TEI[1]/text[1]/body[1]/p[1]::98" xml:id="UID-FAKE-4535">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::107 /TEI[1]/text[1]/body[1]/p[1]::114" xml:id="UID-FAKE-4536">
+        <rs ana="https://topostext.org/place/369222UGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::158 /TEI[1]/text[1]/body[1]/p[1]::166" xml:id="UID-FAKE-4537">
+        <rs ana="https://topostext.org/place/370223WCho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::318 /TEI[1]/text[1]/body[1]/p[1]::325" xml:id="UID-FAKE-4538">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::550 /TEI[1]/text[1]/body[1]/p[1]::555" xml:id="UID-FAKE-4539">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::72 /TEI[1]/text[1]/body[1]/p[2]::78" xml:id="UID-FAKE-4540">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::204 /TEI[1]/text[1]/body[1]/p[2]::209" xml:id="UID-FAKE-4541">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::219 /TEI[1]/text[1]/body[1]/p[2]::228" xml:id="UID-FAKE-4542">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::365 /TEI[1]/text[1]/body[1]/p[2]::372" xml:id="UID-FAKE-4543">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::28 /TEI[1]/text[1]/body[1]/p[3]::35" xml:id="UID-FAKE-4544">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::52 /TEI[1]/text[1]/body[1]/p[3]::65" xml:id="UID-FAKE-4545">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::69 /TEI[1]/text[1]/body[1]/p[3]::76" xml:id="UID-FAKE-4546">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::120 /TEI[1]/text[1]/body[1]/p[3]::127" xml:id="UID-FAKE-4547">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::134 /TEI[1]/text[1]/body[1]/p[3]::140" xml:id="UID-FAKE-4548">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::176 /TEI[1]/text[1]/body[1]/p[3]::183" xml:id="UID-FAKE-4549">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::276 /TEI[1]/text[1]/body[1]/p[3]::280" xml:id="UID-FAKE-4550">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::295 /TEI[1]/text[1]/body[1]/p[3]::300" xml:id="UID-FAKE-4551">
+        <rs ana="https://topostext.org/place/370217XNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::302 /TEI[1]/text[1]/body[1]/p[3]::307" xml:id="UID-FAKE-4552">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::344 /TEI[1]/text[1]/body[1]/p[3]::351" xml:id="UID-FAKE-4553">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::360 /TEI[1]/text[1]/body[1]/p[3]::367" xml:id="UID-FAKE-4554">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::386 /TEI[1]/text[1]/body[1]/p[3]::396" xml:id="UID-FAKE-4555">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::448 /TEI[1]/text[1]/body[1]/p[3]::457" xml:id="UID-FAKE-4556">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::486 /TEI[1]/text[1]/body[1]/p[3]::492" xml:id="UID-FAKE-4557">
+        <rs ana="https://topostext.org/place/383207IIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::88 /TEI[1]/text[1]/body[1]/p[4]::95" xml:id="UID-FAKE-4558">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::179 /TEI[1]/text[1]/body[1]/p[4]::185" xml:id="UID-FAKE-4559">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::189 /TEI[1]/text[1]/body[1]/p[4]::196" xml:id="UID-FAKE-4560">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::281 /TEI[1]/text[1]/body[1]/p[4]::287" xml:id="UID-FAKE-4561">
+        <rs ana="https://topostext.org/place/370221UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::202 /TEI[1]/text[1]/body[1]/p[5]::209" xml:id="UID-FAKE-4562">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::241 /TEI[1]/text[1]/body[1]/p[5]::250" xml:id="UID-FAKE-4563">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::330 /TEI[1]/text[1]/body[1]/p[5]::339" xml:id="UID-FAKE-4564">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::92 /TEI[1]/text[1]/body[1]/p[6]::98" xml:id="UID-FAKE-4565">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::195 /TEI[1]/text[1]/body[1]/p[6]::201" xml:id="UID-FAKE-4566">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::157 /TEI[1]/text[1]/body[1]/p[7]::165" xml:id="UID-FAKE-4567">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::285 /TEI[1]/text[1]/body[1]/p[7]::291" xml:id="UID-FAKE-4568">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::295 /TEI[1]/text[1]/body[1]/p[7]::301" xml:id="UID-FAKE-4569">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::335 /TEI[1]/text[1]/body[1]/p[7]::344" xml:id="UID-FAKE-4570">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::262 /TEI[1]/text[1]/body[1]/p[8]::267" xml:id="UID-FAKE-4571">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::281 /TEI[1]/text[1]/body[1]/p[8]::288" xml:id="UID-FAKE-4572">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::47 /TEI[1]/text[1]/body[1]/p[9]::54" xml:id="UID-FAKE-4573">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::178 /TEI[1]/text[1]/body[1]/p[9]::185" xml:id="UID-FAKE-4574">
+        <rs ana="https://topostext.org/place/373219UAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::219 /TEI[1]/text[1]/body[1]/p[9]::226" xml:id="UID-FAKE-4575">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 1</head>
+      <p>The frontier between Messenia and that part of it which was incorporated by the emperor in Laconia towards Gerenia is formed in our time by the valley called Choerius. They say that this country, being unoccupied, received its first inhabitants in the following manner: On the death of Lelex, who ruled in the present Laconia, then called after him Lelegia, Myles, the elder of his sons, received the kingdom. Polycaon was the younger and for this reason a private person, until he took to wife Messene, the daughter of Triopas, son of Phorbas, from Argos.</p>
+      <p>Messene, being proud of her origin, for her father was the chief of the Greeks of his day in reputation and power, was not content that her husband should be a private person. They collected a force from Argos and from Lacedemon and came to this country, the whole land receiving the name Messene from the wife of Polycaon. Together with other cities, they founded Andania, where their palace was built.</p>
+      <p>Before the battle which the Thebans fought with the Lacedemonians at Leuctra, and the foundation of the present city of Messene under Ithome, I think that no city had the name Messene. I base this conclusion principally on Homer"s lines. In the catalogue of those who came to Troy he enumerated Pylos, Arene and other towns, but called no town Messene. In the Odyssey he shows that the Messenians were a tribe and not a city by the following: “For Messenian men carried away sheep from Ithaca.” 21.18</p>
+      <p>He is still more clear when speaking about the bow of Iphitus: “They met one another in Messene in the dwelling of Ortilochus.” By the dwelling of Ortilochus he meant the city of Pherae in Messene, and explained this himself in the visit of Peisistratus to Menelaus: “They came to Pherae to the house of Diocles, son of Ortilochus.”</p>
+      <p>The first rulers then in this country were Polycaon, the son of Lelex, and Messene his wife. It was to her that Caucon, the son of Celaenus, son of Phlyus, brought the rites of the Great Goddesses from Eleusis. Phlyus himself is said by the Athenians to have been the son of Earth, and the hymn of Musaeus to Demeter made for the Lycomidae agrees.</p>
+      <p>But the mysteries of the Great Goddesses were raised to greater honor many years later than Caucon by Lycus, the son of Pandion, an oak-wood, where he purified the celebrants, being still called Lycus"wood. That there is a wood in this land so called is stated by Rhianus the Cretan: “By rugged Elaeum above Lycus"wood.</p>
+      <p>That this Lycus was the son of Pandion is made clear by the lines on the statue of Methapus, who made certain improvements in the mysteries. Methapus was an Athenian by birth, an expert in the mysteries and founder of all kinds of rites. It was he who established the mysteries of the Cabiri at Thebes, and dedicated in the hut of the Lycomidae a statue with an inscription that amongst other things helps to confirm my account:</p>
+      <p>“I sanctified houses of Hermes and paths of holy Demeter and Kore her firstborn, where they say that Messene established the feast of the Great Goddesses, taught by Caucon, sprung from Phlyus"noble son. And I wondered that Lycus, son of Pandion, brought all the Attic rite to wise Andania.</p>
+      <p>This inscription shows that Caucon who came to Messene was a descendant of Phlyus, and proves my other statements with regard to Lycus, and that the mysteries were originally at Andania. And it seems natural to me that Messene should have established the mysteries where she and Polycaon lived, not anywhere else.</p>
+    </body>
+  </text>
+</TEI>

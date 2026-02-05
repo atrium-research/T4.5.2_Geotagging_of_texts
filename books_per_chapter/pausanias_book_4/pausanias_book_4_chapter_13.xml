@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::64 /TEI[1]/text[1]/body[1]/p[1]::74" xml:id="UID-FAKE-4920">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::257 /TEI[1]/text[1]/body[1]/p[1]::263" xml:id="UID-FAKE-4921">
+        <rs ana="https://topostext.org/place/372219SStm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::105 /TEI[1]/text[1]/body[1]/p[3]::115" xml:id="UID-FAKE-4922">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::274 /TEI[1]/text[1]/body[1]/p[4]::284" xml:id="UID-FAKE-4923">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::14" xml:id="UID-FAKE-4924">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::77 /TEI[1]/text[1]/body[1]/p[5]::90" xml:id="UID-FAKE-4925">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::14 /TEI[1]/text[1]/body[1]/p[6]::24" xml:id="UID-FAKE-4926">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::227 /TEI[1]/text[1]/body[1]/p[6]::233" xml:id="UID-FAKE-4927">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::420 /TEI[1]/text[1]/body[1]/p[6]::426" xml:id="UID-FAKE-4928">
+        <rs ana="https://topostext.org/place/372219LIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::60 /TEI[1]/text[1]/body[1]/p[7]::68" xml:id="UID-FAKE-4929">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::74 /TEI[1]/text[1]/body[1]/p[7]::77" xml:id="UID-FAKE-4930">
+        <rs ana="https://topostext.org/place/380237FDia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::95 /TEI[1]/text[1]/body[1]/p[7]::102" xml:id="UID-FAKE-4931">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::130 /TEI[1]/text[1]/body[1]/p[7]::136" xml:id="UID-FAKE-4932">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::141 /TEI[1]/text[1]/body[1]/p[7]::151" xml:id="UID-FAKE-4933">
+        <rs ana="https://topostext.org/place/384227PMed"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 13</head>
+      <p>Next, as fate was already inclining towards the conquest of the Messenians, the god revealed to them the future. For the armed statue of Artemis, which was all of bronze, let its shield fall. And as Aristodemus was about to sacrifice the victims to Zeus of Ithome, the rams of their own accord leapt towards the altar, and dashing their horns violently against it were killed by the force of the blow. A third portent befell them. The dogs assembled together and howled every night, and at last fled together to the camp of the Lacedemonians.</p>
+      <p>Aristodemus was alarmed by this and by the following dream which came to him. He thought that he was about to go forth armed to battle and the victims"entrails were lying before him on a table, when his daughter appeared, wearing a black robe and showing her breast and belly cut open; when she appeared she flung down what was on the table, stripped him of his arms, and instead set a golden crown on his head and put a white robe about him.</p>
+      <p>Aristodemus, who was already in despair, thought the dream foretold the end of life for him, because the Messenians used to carry out their chiefs for burial wearing a crown and dressed in white garments. Then he received news that Ophioneus the seer could no longer see but had suddenly become blind, as he was at first. Then they understood the oracle, that by the two starting forth from the ambush and again meeting their doom the Pythia meant the eyes of Ophioneus.</p>
+      <p>Then Aristodemus, reckoning up his private sorrows, that to no purpose he had become the slayer of his daughter, and seeing that no hope of safety remained for his country, slew himself upon the tomb of his child. He had done all that human calculation could do to save the Messenians, but fortune brought to naught both his achievements and his plans. He had reigned six years and a few months when he died.</p>
+      <p>The Messenians were plunged into despair, and were even ready to send to the Lacedemonians to ask mercy, so demoralized were they by the death of Aristodemus. Their pride, however, prevented them from doing this. But they met in the assembly and chose not a king, but Damis as general with absolute power. He selected Cleonnis and Phyleus as colleagues, and even with their present resources made ready to join battle. For he was forced to this by the blockade, and above all by famine and by the consequent terror that they would be destroyed by want.</p>
+      <p>Even then the Messenians were not inferior in courage and brave deeds, but all their generals were killed and their most notable men. After this they held out for some five months, but as the year was coming to an end deserted Ithome, the war having lasted twenty years in all, as is stated in the poems of Tyrtaeus: “But in the twentieth year they left their rich tilled lands, and fled from out the lofty mountains of Ithome. Tyrtaeus, unknown location.</p>
+      <p>This war came to an end in the first year of the fourteenth Olympiad [724 BCE], when Dasmon of Corinth won the short footrace. At Athens the Medontidae were still holding the archonship as a ten years"office, Hippomenes having completed his fourth year.</p>
+    </body>
+  </text>
+</TEI>

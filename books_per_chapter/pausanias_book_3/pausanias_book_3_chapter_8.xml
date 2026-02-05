@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::213 /TEI[1]/text[1]/body[1]/p[1]::220" xml:id="UID-FAKE-3544">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::292 /TEI[1]/text[1]/body[1]/p[1]::299" xml:id="UID-FAKE-3545">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::356 /TEI[1]/text[1]/body[1]/p[1]::365" xml:id="UID-FAKE-3546">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::376 /TEI[1]/text[1]/body[1]/p[1]::383" xml:id="UID-FAKE-3547">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-3548">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::350 /TEI[1]/text[1]/body[1]/p[2]::363" xml:id="UID-FAKE-3549">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::47 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-3550">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::106 /TEI[1]/text[1]/body[1]/p[3]::110" xml:id="UID-FAKE-3551">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::177 /TEI[1]/text[1]/body[1]/p[3]::184" xml:id="UID-FAKE-3552">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::212 /TEI[1]/text[1]/body[1]/p[3]::219" xml:id="UID-FAKE-3553">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::278" xml:id="UID-FAKE-3554">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::386 /TEI[1]/text[1]/body[1]/p[3]::390" xml:id="UID-FAKE-3555">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::458 /TEI[1]/text[1]/body[1]/p[3]::464" xml:id="UID-FAKE-3556">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::534 /TEI[1]/text[1]/body[1]/p[3]::547" xml:id="UID-FAKE-3557">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::589 /TEI[1]/text[1]/body[1]/p[3]::593" xml:id="UID-FAKE-3558">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::99 /TEI[1]/text[1]/body[1]/p[4]::106" xml:id="UID-FAKE-3559">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::115 /TEI[1]/text[1]/body[1]/p[4]::122" xml:id="UID-FAKE-3560">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::224 /TEI[1]/text[1]/body[1]/p[4]::228" xml:id="UID-FAKE-3561">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::291 /TEI[1]/text[1]/body[1]/p[4]::304" xml:id="UID-FAKE-3562">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::489 /TEI[1]/text[1]/body[1]/p[4]::493" xml:id="UID-FAKE-3563">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::59 /TEI[1]/text[1]/body[1]/p[5]::68" xml:id="UID-FAKE-3564">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::115 /TEI[1]/text[1]/body[1]/p[5]::120" xml:id="UID-FAKE-3565">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::156 /TEI[1]/text[1]/body[1]/p[5]::164" xml:id="UID-FAKE-3566">
+        <rs ana="https://topostext.org/place/374217PLep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::218 /TEI[1]/text[1]/body[1]/p[5]::231" xml:id="UID-FAKE-3567">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::285 /TEI[1]/text[1]/body[1]/p[5]::289" xml:id="UID-FAKE-3568">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::314 /TEI[1]/text[1]/body[1]/p[5]::320" xml:id="UID-FAKE-3569">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::469 /TEI[1]/text[1]/body[1]/p[5]::482" xml:id="UID-FAKE-3570">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::538 /TEI[1]/text[1]/body[1]/p[5]::545" xml:id="UID-FAKE-3571">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::49 /TEI[1]/text[1]/body[1]/p[6]::55" xml:id="UID-FAKE-3572">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::95 /TEI[1]/text[1]/body[1]/p[6]::102" xml:id="UID-FAKE-3573">
+        <rs ana="https://topostext.org/place/382238DDek"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::116 /TEI[1]/text[1]/body[1]/p[6]::125" xml:id="UID-FAKE-3574">
+        <rs ana="https://topostext.org/place/380234FBou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::136 /TEI[1]/text[1]/body[1]/p[6]::144" xml:id="UID-FAKE-3575">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::167 /TEI[1]/text[1]/body[1]/p[6]::178" xml:id="UID-FAKE-3576">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::253 /TEI[1]/text[1]/body[1]/p[6]::266" xml:id="UID-FAKE-3577">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::307 /TEI[1]/text[1]/body[1]/p[6]::316" xml:id="UID-FAKE-3578">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::386 /TEI[1]/text[1]/body[1]/p[6]::393" xml:id="UID-FAKE-3579">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::459 /TEI[1]/text[1]/body[1]/p[6]::465" xml:id="UID-FAKE-3580">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::370 /TEI[1]/text[1]/body[1]/p[7]::377" xml:id="UID-FAKE-3581">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::399 /TEI[1]/text[1]/body[1]/p[7]::405" xml:id="UID-FAKE-3582">
+        <rs ana="https://topostext.org/place/376219PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::583 /TEI[1]/text[1]/body[1]/p[7]::596" xml:id="UID-FAKE-3583">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::108 /TEI[1]/text[1]/body[1]/p[8]::121" xml:id="UID-FAKE-3584">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::169 /TEI[1]/text[1]/body[1]/p[8]::178" xml:id="UID-FAKE-3585">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::184 /TEI[1]/text[1]/body[1]/p[8]::190" xml:id="UID-FAKE-3586">
+        <rs ana="https://topostext.org/place/376219PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::120 /TEI[1]/text[1]/body[1]/p[9]::126" xml:id="UID-FAKE-3587">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::144 /TEI[1]/text[1]/body[1]/p[9]::150" xml:id="UID-FAKE-3588">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::225 /TEI[1]/text[1]/body[1]/p[10]::238" xml:id="UID-FAKE-3589">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 3, Chapter 8</head>
+      <p>Archidamus left sons when he died, of whom Agis was the elder and inherited the throne instead of Agesilaus. Archidamus had also a daughter, whose name was Cynisca; she was exceedingly ambitious to succeed at the Olympic games, and was the first woman to breed horses and the first to win an Olympic victory. After Cynisca other women, especially women of Lacedemon, have won Olympic victories, but none of them was more distinguished for their victories than she.</p>
+      <p>The Spartans seem to me to be of all men the least moved by poetry and the praise of poets. For with the exception of the epigram upon Cynisca, of uncertain authorship, and the still earlier one upon Pausanias that Simonides wrote on the tripod dedicated at Delphi, there is no poetic composition to commemorate the doings of the royal houses of the Lacedemonians.</p>
+      <p>In the reign of Agis the son of Archidamus the Lacedemonians had several grievances against the people of Elis, being especially exasperated because they were debarred from the Olympic games and the sanctuary at Olympia. So they dispatched a herald commanding the people of Elis to grant home-rule to Lepreum and to any other of their neighbors that were subject to them. The people of Elis replied that, when they saw the cities free that were neighbors of Sparta, they would without delay set free their own subjects; whereupon the Lacedemonians under king Agis invaded the territory of Elis.</p>
+      <p>On this occasion there occurred an earthquake, and the army retired home after advancing as far as Olympia and the Alpheus but in the next year Agis devastated the country and carried off most of the booty. Xenias, a man of Elis who was a personal friend of Agis and the state-friend of the Lacedemonians, rose up with the rich citizens against the people but before Agis and his army could come to their aid, Thrasydaeus, who at this time championed the interests of the popular party at Elis, overthrew in battle Xenias and his followers and cast them out of the city.</p>
+      <p>When Agis led back his army, he left behind Lysistratus, a Spartiate, with a portion of his forces, along with the Elean refugees, that they might help the Lepreans to ravage the land. In the third year of the war the Lacedemonians under Agis again prepared to invade the territory of Elis. So Thrasydaeus and the Eleans, reduced to dire extremities, agreed to forgo their supremacy over their neighbors, to dismantle the fortifications of their city, and to allow the Lacedemonians to sacrifice to the god and to compete in the games at Olympia.</p>
+      <p>Agis used also to make continual incursions into Attica, and established the fortified post at Decelea to annoy the Athenians. When the Athenian navy was destroyed at Aegospotami, Lysander, the son of Aristocritus, and Agis violated the oaths which the Lacedemonians as a state had sworn by the gods to the Athenians, and it was on their own initiative, and without the approval of the Spartan state, that they put before their allies the proposal to destroy Athens root and branch.</p>
+      <p>Such were the most remarkable military achievements of Agis. The rash remark that Ariston made about Demaratus was also made by Agis about his son Leotychides; at the suggestion of some evil spirit he said in the hearing of the ephors that he did not believe Leotychides to be his son. Yet Agis, too, repented afterwards; he was at the time being carried home sick from Arcadia, and when he reached Heraea, he not only called the people to witness that he sincerely believed Leotychides to be his very own son, but also with prayers and tears charged them to take the tidings to the Lacedemonians.</p>
+      <p>After the death of Agis, Agesilaus tried to keep Leotychides from the throne, recalling to the minds of the Lacedemonians what Agis once said about Leotychides. But the Arcadians from Heraea arrived and bore witness for Leotychides, stating what they had heard the dying Agis say.</p>
+      <p>Yet further fuel for the controversy between Agesilaus and Leotychides was supplied by the oracle that was delivered at Delphi to this effect: “Sparta beware! though haughty, pay heed to the warning I give thee. Never let thy sound limbs give birth to a kingdom that lame is. Too long then shalt thou lie in the clutches of desperate hardships; Turmoil of war shall arise, o"erwhelming men in its billows.”</p>
+      <p>Leotychides on this occasion said that these words pointed to Agesilaus, who was lame in one of his feet, while Agesilaus interpreted them as alluding to the illegitimacy of Leotychides. Although they might have done so, the Lacedemonians did not refer the disputed point to Delphi; the reason was in my opinion that Lysander, the son of Aristocritus, an active supporter of Agesilaus, would have him king at all costs.</p>
+    </body>
+  </text>
+</TEI>

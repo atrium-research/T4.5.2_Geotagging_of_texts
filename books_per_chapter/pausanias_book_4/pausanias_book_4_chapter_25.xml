@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::19 /TEI[1]/text[1]/body[1]/p[1]::28" xml:id="UID-FAKE-5367">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::112 /TEI[1]/text[1]/body[1]/p[1]::121" xml:id="UID-FAKE-5368">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::248 /TEI[1]/text[1]/body[1]/p[1]::259" xml:id="UID-FAKE-5369">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::263 /TEI[1]/text[1]/body[1]/p[1]::271" xml:id="UID-FAKE-5370">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::331 /TEI[1]/text[1]/body[1]/p[1]::340" xml:id="UID-FAKE-5371">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::4 /TEI[1]/text[1]/body[1]/p[3]::14" xml:id="UID-FAKE-5372">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::98 /TEI[1]/text[1]/body[1]/p[3]::109" xml:id="UID-FAKE-5373">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::176 /TEI[1]/text[1]/body[1]/p[3]::185" xml:id="UID-FAKE-5374">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::265 /TEI[1]/text[1]/body[1]/p[3]::274" xml:id="UID-FAKE-5375">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::356" xml:id="UID-FAKE-5376">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::54 /TEI[1]/text[1]/body[1]/p[4]::64" xml:id="UID-FAKE-5377">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::68 /TEI[1]/text[1]/body[1]/p[4]::76" xml:id="UID-FAKE-5378">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::232 /TEI[1]/text[1]/body[1]/p[4]::243" xml:id="UID-FAKE-5379">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::249 /TEI[1]/text[1]/body[1]/p[4]::259" xml:id="UID-FAKE-5380">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::94 /TEI[1]/text[1]/body[1]/p[5]::104" xml:id="UID-FAKE-5381">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::150 /TEI[1]/text[1]/body[1]/p[5]::163" xml:id="UID-FAKE-5382">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::254 /TEI[1]/text[1]/body[1]/p[5]::263" xml:id="UID-FAKE-5383">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::302 /TEI[1]/text[1]/body[1]/p[5]::311" xml:id="UID-FAKE-5384">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::315 /TEI[1]/text[1]/body[1]/p[5]::323" xml:id="UID-FAKE-5385">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::343 /TEI[1]/text[1]/body[1]/p[5]::351" xml:id="UID-FAKE-5386">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::31 /TEI[1]/text[1]/body[1]/p[6]::42" xml:id="UID-FAKE-5387">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::179 /TEI[1]/text[1]/body[1]/p[6]::189" xml:id="UID-FAKE-5388">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::234 /TEI[1]/text[1]/body[1]/p[6]::243" xml:id="UID-FAKE-5389">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::349 /TEI[1]/text[1]/body[1]/p[6]::360" xml:id="UID-FAKE-5390">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::14" xml:id="UID-FAKE-5391">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::62 /TEI[1]/text[1]/body[1]/p[7]::73" xml:id="UID-FAKE-5392">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::226 /TEI[1]/text[1]/body[1]/p[7]::237" xml:id="UID-FAKE-5393">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::287 /TEI[1]/text[1]/body[1]/p[7]::297" xml:id="UID-FAKE-5394">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::378 /TEI[1]/text[1]/body[1]/p[7]::388" xml:id="UID-FAKE-5395">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::14" xml:id="UID-FAKE-5396">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::84 /TEI[1]/text[1]/body[1]/p[8]::95" xml:id="UID-FAKE-5397">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::251 /TEI[1]/text[1]/body[1]/p[8]::262" xml:id="UID-FAKE-5398">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::416 /TEI[1]/text[1]/body[1]/p[8]::427" xml:id="UID-FAKE-5399">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::491 /TEI[1]/text[1]/body[1]/p[8]::501" xml:id="UID-FAKE-5400">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::67 /TEI[1]/text[1]/body[1]/p[9]::78" xml:id="UID-FAKE-5401">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::20 /TEI[1]/text[1]/body[1]/p[10]::31" xml:id="UID-FAKE-5402">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::167 /TEI[1]/text[1]/body[1]/p[10]::175" xml:id="UID-FAKE-5403">
+        <rs ana="https://topostext.org/place/384212POin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::241 /TEI[1]/text[1]/body[1]/p[10]::252" xml:id="UID-FAKE-5404">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::395 /TEI[1]/text[1]/body[1]/p[10]::406" xml:id="UID-FAKE-5405">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::442 /TEI[1]/text[1]/body[1]/p[10]::451" xml:id="UID-FAKE-5406">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::495 /TEI[1]/text[1]/body[1]/p[10]::504" xml:id="UID-FAKE-5407">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 25</head>
+      <p>When they occupied Naupactus it was not enough for them to have received a city and country at the hands of the Athenians, but they were filled with a strong desire to show that they had won something notable with their own hands. Knowing that the Acarnanians of Oeniadae possessed a good land and were continually at war with the Athenians, they marched against them. They had no numerical advantage, but defeating them by their superior courage, they shut them up in the fortress and besieged them.</p>
+      <p>They neglected no human invention in the matter of siege-craft, tried to carry the town by raising scaling-ladders, mined the walls, and by bringing up such engines as could be made ready at short notice proceeded with the destruction of the fortifications. The inhabitants, fearing that if the city were taken they would be put to death and their wives and children enslaved, elected to withdraw on terms.</p>
+      <p>The Messenians held the town and occupied the country for about a year. In the following year the Acarnanians collected a force from all their towns and discussed an attack on Naupactus. They rejected this, as they saw that their line of march would be through the Aetolians, who were always their enemies; moreover they suspected that the men of Naupactus possessed a fleet, which was the fact; and while they commanded the sea, it was impossible to achieve anything of importance with a land force.</p>
+      <p>So they changed their plans and at once turned on the Messenians in Oeniadae and prepared to besiege them, for they never supposed that men so few in number would show such desperate courage as to fight against the full levy of the Acarnanians. The Messenians had previously prepared food and all else that was requisite, expecting to stand a long siege.</p>
+      <p>But they were determined before the siege was formed to fight a battle in the open, and being Messenians, who had not been surpassed in valor even by Lacedemonians, but in fortune only, were determined not to be dismayed at the horde which had come from Acarnania. They recalled the achievement of the Athenians at Marathon, how thirty myriad Persians had been destroyed by men not numbering ten thousand.</p>
+      <p>So they joined battle with the Acarnanians, and the course of the battle is said to have been thus. The enemy, being far superior in numbers, had no difficulty in surrounding the Messenians, except where prevented by the gates in the Messenian rear and by the zealous help of their men posted on the wall. Here they could not be surrounded, but the Acarnanians enveloped both their flanks and shot volleys at them from all sides.</p>
+      <p>The Messenians, in close formation, whenever they charged the Acarnanians in a body, threw the enemy at that point into confusion, killing and wounding many of them, but they could not effect a complete rout. For wherever the Acarnanians saw a part of their own line being broken by the Messenians they went to the support of their harassed troops at this point and checked the Messenians, overwhelming them by numbers.</p>
+      <p>The Messenians, beaten back and again attempting to pierce the massed troops of the Acarnanians at another point, would meet with the same result. Wherever they attacked, they threw the enemy into confusion and drove them a short distance, but as the Acarnanians again streamed eagerly to this point, they were driven back against their will. The battle was evenly contested until evening, but when at nightfall the Acarnanians received reinforcements from their cities, the blockade of the Messenians was formed.</p>
+      <p>They had no fear of the wall being taken by assault, either by the Acarnanians scaling it or by themselves being forced to abandon their posts. But in the eighth month all their provisions alike had been consumed.</p>
+      <p>They shouted to the Acarnanians from the wall in mockery that their supplies would not fail them until the tenth year of the siege, but they themselves sallied out of Oeniadae at the time of the first sleep. Their escape became known to the Acarnanians and they were compelled to fight, losing some three hundred and killing still more of the enemy. But the greater part of them got through the Acarnanians, and reaching the territory of the Aetolians, who were their friends, arrived safely at Naupactus.</p>
+    </body>
+  </text>
+</TEI>

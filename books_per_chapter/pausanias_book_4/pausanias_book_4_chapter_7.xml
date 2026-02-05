@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::80 /TEI[1]/text[1]/body[1]/p[1]::90" xml:id="UID-FAKE-4751">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::227 /TEI[1]/text[1]/body[1]/p[1]::240" xml:id="UID-FAKE-4752">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::264 /TEI[1]/text[1]/body[1]/p[1]::272" xml:id="UID-FAKE-4753">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::213 /TEI[1]/text[1]/body[1]/p[2]::223" xml:id="UID-FAKE-4754">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::241 /TEI[1]/text[1]/body[1]/p[2]::249" xml:id="UID-FAKE-4755">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::290 /TEI[1]/text[1]/body[1]/p[2]::298" xml:id="UID-FAKE-4756">
+        <rs ana="https://topostext.org/place/370223LTay"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::86 /TEI[1]/text[1]/body[1]/p[3]::96" xml:id="UID-FAKE-4757">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::145 /TEI[1]/text[1]/body[1]/p[3]::158" xml:id="UID-FAKE-4758">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::379 /TEI[1]/text[1]/body[1]/p[3]::392" xml:id="UID-FAKE-4759">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::422 /TEI[1]/text[1]/body[1]/p[3]::429" xml:id="UID-FAKE-4760">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::439 /TEI[1]/text[1]/body[1]/p[3]::449" xml:id="UID-FAKE-4761">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::21 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-4762">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::145 /TEI[1]/text[1]/body[1]/p[4]::155" xml:id="UID-FAKE-4763">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::254 /TEI[1]/text[1]/body[1]/p[6]::267" xml:id="UID-FAKE-4764">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::339 /TEI[1]/text[1]/body[1]/p[6]::349" xml:id="UID-FAKE-4765">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::190 /TEI[1]/text[1]/body[1]/p[7]::200" xml:id="UID-FAKE-4766">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::334 /TEI[1]/text[1]/body[1]/p[7]::344" xml:id="UID-FAKE-4767">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::382 /TEI[1]/text[1]/body[1]/p[7]::390" xml:id="UID-FAKE-4768">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::16" xml:id="UID-FAKE-4769">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::127 /TEI[1]/text[1]/body[1]/p[8]::139" xml:id="UID-FAKE-4770">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::148 /TEI[1]/text[1]/body[1]/p[8]::154" xml:id="UID-FAKE-4771">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::288 /TEI[1]/text[1]/body[1]/p[8]::298" xml:id="UID-FAKE-4772">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::345 /TEI[1]/text[1]/body[1]/p[8]::357" xml:id="UID-FAKE-4773">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::135 /TEI[1]/text[1]/body[1]/p[9]::148" xml:id="UID-FAKE-4774">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::236 /TEI[1]/text[1]/body[1]/p[9]::246" xml:id="UID-FAKE-4775">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::478 /TEI[1]/text[1]/body[1]/p[9]::485" xml:id="UID-FAKE-4776">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::400 /TEI[1]/text[1]/body[1]/p[10]::407" xml:id="UID-FAKE-4777">
+        <rs ana="https://topostext.org/place/373221UAmp"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 4, Chapter 7</head>
+      <p>With these words Euphaes dismissed the gathering, and henceforward kept all the Messenians under arms, compelling the untrained to learn the art of war and the trained men to undergo a more rigorous discipline than before. The Lacedemonians carried out raids into Messenia, but did no harm to the country, regarding it as their own, nor did they cut down trees or demolish buildings, but they drove off any cattle that they met with, and carried off the corn and other produce.</p>
+      <p>They made assaults on the towns but captured none, as they were fortified with walls and carefully garrisoned. They withdrew with loss and without effecting anything, and finally gave up attempting the towns. The Messenians also ravaged the Laconian coast and all the cultivated land round Taygetos.</p>
+      <p>Three years after the capture of Ampheia, being eager to put to use the spirit of the Messenians, now at the height of their passion against the Lacedemonians, and considering too that they had undergone sufficient training, Euphaes ordered an advance. He bade the slaves also accompany him, bringing wood and all else that was required for the making of an entrenched camp. The Lacedemonians heard from their garrison at Ampheia that the Messenians were marching out, so they also came out to battle.</p>
+      <p>There was a place in Messenia which was in other ways suitable for an engagement, but had a deep ravine in front of it. Here Euphaes drew up the Messenians and appointed Cleonnis general; the cavalry and light-armed, together amounting to less than 500, were commanded by Pytharatus and Antander.</p>
+      <p>As the two forces were about to engage, the ravine which divided them prevented the heavy-armed from coming to close quarters, though they approached one another eagerly and with a recklessness born of hate. The cavalry and light-armed engaged above the ravine, but as they were equally matched in numbers and skill, for this reason the fight was indecisive.</p>
+      <p>While they were involved, Euphaes ordered the slaves to fortify with a palisade first the rear of his force and afterwards both flanks, and when the battle had been broken off at nightfall, they fortified his front also on the ravine. So at daybreak the Lacedemonians realized the forethought of Euphaes. They had no means of fighting the Messenians unless they came out from the stockade, and despaired of forming a siege, for which they were unprepared in all things alike.</p>
+      <p>They then returned home; but a year later, when the older men reviled them and taunted them both with cowardice and disregard of their oath, they made a second expedition openly against the Messenians. Both kings were in command, Theopompus the son of Nicander and Polydorus the son of Alcamenes, Alcamenes being no longer alive. The Messenians encamped opposite them, and when the Spartans endeavored to join battle, went out to meet them.</p>
+      <p>The Lacedemonian commander on the left wing was Polydorus, and Theopompus on the right. The center was held by Euryleon, now a Lacedemonian, but of Theban origin of the house of Cadmus, fourth in descent from Aegeus the son of Oeolycus, son of Theras, son of Autesion. On the side of the Messenians Antander and Euphaes were posted opposite the Lacedemonian right; the other wing, opposite Polydorus, was held by Pytharatus, with Cleonnis in the center.</p>
+      <p>As they were about to engage, the kings came forward to encourage their men. The words of encouragement addressed by Theopompus to the Lacedemonians were few, according to their native custom. He reminded them of their oath against the Messenians, and said how noble was their ambition, to prove themselves to have done a deed more glorious than their fathers, who subdued the neighboring peoples, and to have won a more fortunate land. Euphaes spoke at greater length than the Spartan, but no more than he saw the occasion admitted.</p>
+      <p>He declared that the contest would be not only for land and possessions, but he knew well what would overtake them if defeated. Their wives and children would be carried off as slaves, and death unaccompanied by outrage would be the mildest fate for their grown men their sanctuaries would be despoiled and their ancestral homes burnt. His words were not supposition, the fate of the men captured at Ampheia was evidence that all could see.</p>
+      <p>Better a noble death than such evils; it was far easier for them, while still undefeated and equally matched in courage, to outdo their adversaries in zeal than to repair their losses when once they had lost heart.</p>
+    </body>
+  </text>
+</TEI>
