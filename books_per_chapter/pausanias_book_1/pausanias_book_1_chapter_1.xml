@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::7 /TEI[1]/text[1]/body[1]/p[1]::12" xml:id="UID-FAKE-0"/>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::7 /TEI[1]/text[1]/body[1]/p[1]::12" xml:id="UID-FAKE-0">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::33 /TEI[1]/text[1]/body[1]/p[1]::49" xml:id="UID-FAKE-1">
+        <rs ana="https://topostext.org/place/372248RKyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::58 /TEI[1]/text[1]/body[1]/p[1]::68" xml:id="UID-FAKE-2">
+        <rs ana="https://topostext.org/place/381253WAeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::73 /TEI[1]/text[1]/body[1]/p[1]::79" xml:id="UID-FAKE-3">
+        <rs ana="https://topostext.org/place/376240LSou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::111 /TEI[1]/text[1]/body[1]/p[1]::116" xml:id="UID-FAKE-4">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::193 /TEI[1]/text[1]/body[1]/p[1]::207" xml:id="UID-FAKE-5">
+        <rs ana="https://topostext.org/place/376240LSou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::253 /TEI[1]/text[1]/body[1]/p[1]::260" xml:id="UID-FAKE-6">
+        <rs ana="https://topostext.org/place/377241RLau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::277 /TEI[1]/text[1]/body[1]/p[1]::286" xml:id="UID-FAKE-7">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::347 /TEI[1]/text[1]/body[1]/p[1]::366" xml:id="UID-FAKE-8">
+        <rs ana="https://topostext.org/place/377240IPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::479 /TEI[1]/text[1]/body[1]/p[1]::487" xml:id="UID-FAKE-9">
+        <rs ana="https://topostext.org/place/377240IPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::558 /TEI[1]/text[1]/body[1]/p[1]::567" xml:id="UID-FAKE-10">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-11">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::111 /TEI[1]/text[1]/body[1]/p[2]::120" xml:id="UID-FAKE-12">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::137 /TEI[1]/text[1]/body[1]/p[2]::145" xml:id="UID-FAKE-13">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::190 /TEI[1]/text[1]/body[1]/p[2]::196" xml:id="UID-FAKE-14">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::264 /TEI[1]/text[1]/body[1]/p[2]::268" xml:id="UID-FAKE-15">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::406 /TEI[1]/text[1]/body[1]/p[2]::409" xml:id="UID-FAKE-16">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::438 /TEI[1]/text[1]/body[1]/p[2]::446" xml:id="UID-FAKE-17">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::532 /TEI[1]/text[1]/body[1]/p[2]::540" xml:id="UID-FAKE-18">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::557 /TEI[1]/text[1]/body[1]/p[2]::565" xml:id="UID-FAKE-19">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::701 /TEI[1]/text[1]/body[1]/p[2]::710" xml:id="UID-FAKE-20">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::819 /TEI[1]/text[1]/body[1]/p[2]::827" xml:id="UID-FAKE-21">
+        <rs ana="https://topostext.org/place/397227RMag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::899 /TEI[1]/text[1]/body[1]/p[2]::908" xml:id="UID-FAKE-22">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::33 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-23">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::267 /TEI[1]/text[1]/body[1]/p[3]::276" xml:id="UID-FAKE-24">
+        <rs ana="https://topostext.org/place/381232PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::292 /TEI[1]/text[1]/body[1]/p[3]::298" xml:id="UID-FAKE-25">
+        <rs ana="https://topostext.org/place/380237BPny"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::312 /TEI[1]/text[1]/body[1]/p[3]::323" xml:id="UID-FAKE-26">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::327 /TEI[1]/text[1]/body[1]/p[3]::334" xml:id="UID-FAKE-27">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::353 /TEI[1]/text[1]/body[1]/p[3]::364" xml:id="UID-FAKE-28">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::382 /TEI[1]/text[1]/body[1]/p[3]::387" xml:id="UID-FAKE-29">
+        <rs ana="https://topostext.org/place/389224PLam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::454 /TEI[1]/text[1]/body[1]/p[3]::463" xml:id="UID-FAKE-30">
+        <rs ana="https://topostext.org/place/380236BLSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::729 /TEI[1]/text[1]/body[1]/p[3]::741" xml:id="UID-FAKE-31">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::755 /TEI[1]/text[1]/body[1]/p[3]::761" xml:id="UID-FAKE-32">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::769 /TEI[1]/text[1]/body[1]/p[3]::775" xml:id="UID-FAKE-33">
+        <rs ana="https://topostext.org/place/368281LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::795 /TEI[1]/text[1]/body[1]/p[3]::803" xml:id="UID-FAKE-34">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::1025 /TEI[1]/text[1]/body[1]/p[3]::1032" xml:id="UID-FAKE-35">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::1084 /TEI[1]/text[1]/body[1]/p[3]::1092" xml:id="UID-FAKE-36">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::13" xml:id="UID-FAKE-37">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::43 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-38">
+        <rs ana="https://topostext.org/place/379237SMou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::70 /TEI[1]/text[1]/body[1]/p[4]::79" xml:id="UID-FAKE-39">
+        <rs ana="https://topostext.org/place/379237SMou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::108 /TEI[1]/text[1]/body[1]/p[4]::116" xml:id="UID-FAKE-40">
+        <rs ana="https://topostext.org/place/379237LHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::396 /TEI[1]/text[1]/body[1]/p[4]::405" xml:id="UID-FAKE-41">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::435 /TEI[1]/text[1]/body[1]/p[4]::442" xml:id="UID-FAKE-42">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::523 /TEI[1]/text[1]/body[1]/p[4]::528" xml:id="UID-FAKE-43">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::26 /TEI[1]/text[1]/body[1]/p[5]::32" xml:id="UID-FAKE-44">
+        <rs ana="https://topostext.org/place/379236LKol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::63 /TEI[1]/text[1]/body[1]/p[5]::70" xml:id="UID-FAKE-45">
+        <rs ana="https://topostext.org/place/380236ASSB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::303 /TEI[1]/text[1]/body[1]/p[5]::312" xml:id="UID-FAKE-46">
+        <rs ana="https://topostext.org/place/387268UPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::316 /TEI[1]/text[1]/body[1]/p[5]::321" xml:id="UID-FAKE-47">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::374 /TEI[1]/text[1]/body[1]/p[5]::380" xml:id="UID-FAKE-48">
+        <rs ana="https://topostext.org/place/379236LKol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::398 /TEI[1]/text[1]/body[1]/p[5]::406" xml:id="UID-FAKE-49">
+        <rs ana="https://topostext.org/place/379237LHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::410 /TEI[1]/text[1]/body[1]/p[5]::416" xml:id="UID-FAKE-50">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::650 /TEI[1]/text[1]/body[1]/p[5]::658" xml:id="UID-FAKE-51">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 1</head>
+      <p>On the Greek mainland facing the Cyclades Islands and the Aegean Sea the Sunium promontory stands out from the Attic land. When you have rounded the promontory you see a harbor and a temple to Athena Sounias on the peak of the promontory. Farther on is Laurium, where once the Athenians had silver mines, and a small uninhabited island called the Island of Patroclus. For a fortification was built on it and a palisade constructed by Patroclus, who was admiral in command of the Egyptian men-of-war sent by Ptolemy, son of Ptolemy, son of Lagus, to help the Athenians, when Antigonus, son of Demetrius, was ravaging their country, which he had invaded with an army, and at the same time was blockading them by sea with a fleet.</p>
+      <p>On the Greek mainland facing the Cyclades Islands and the Aegean Sea the Sunium promontory stands out from the Attic land. When you have rounded the promontory you see a harbor and a temple to Athena Sounias on the peak of the promontory. Farther on is Laurium, where once the Athenians had silver mines, and a small uninhabited island called the Island of Patroclus. For a fortification was built on it and a palisade constructed by Patroclus, who was admiral in command of the Egyptian men-of-war sent by Ptolemy, son of Ptolemy, son of Lagus, to help the Athenians, when Antigonus, son of Demetrius, was ravaging their country, which he had invaded with an army, and at the same time was blockading them by sea with a fleet.</p>
+      <p>The Peiraeus was a deme from early times, though it was not a port before Themistocles became an archon of the Athenians. Their port was Phalerum, for at this place the sea comes nearest to Athens, and from here men say that Menestheus set sail with his fleet for Troy, and before him Theseus, when he went to give satisfaction to Minos for the death of Androgeos. But when Themistocles became archon [493 BCE], since he thought that the Peiraeus was more conveniently situated for mariners, and had three harbors as against one at Phalerum, he made it the Athenian port. Even up to my time there were shipsheds there, and near the largest harbor is the grave of Themistocles. For it is said that the Athenians repented of their treatment of Themistocles, and that his relations took up his bones and brought them from Magnesia. And the children of Themistocles certainly returned and set up in the Parthenon a painting, on which is a portrait of Themistocles.</p>
+      <p>The most noteworthy sight in the Peiraeus is a precinct of Athena and Zeus. Both their images are of bronze; Zeus holds a staff and a Victory, Athena a spear. Here is a portrait of Leosthenes and of his sons, painted by Arcesilaus. This Leosthenes at the head of the Athenians and the united Greeks defeated the Macedonians in Boeotia and again outside Thermopylae forced them into Lamia over against Oeta, and shut them up there. The portrait is in the Long Stoa, where stands an agora for those living near the sea — those farther away from the harbor have another — but behind the stoa near the sea stand a Zeus and a Demos, the work of Leochares. And by the sea Conon built a sanctuary of Aphrodite, after he had crushed the Lacedemonian triremes off Cnidus in the Carian peninsula. For the Cnidians hold Aphrodite in very great honor, and they have sanctuaries of the goddess; the oldest is to her as Doritis (Bountiful), the next in age as Acraea (Of the Height/Promontory), while the newest is to the Aphrodite called Cnidian by men generally, but Euploia (Fair Voyage) by the Cnidians themselves.</p>
+      <p>The Athenians have also another harbor, at Munychia, with a temple of Munychian Artemis, and yet another at Phalerum, as I have already stated, and near it is a sanctuary of Demeter. Here there is also a temple of Athena Sciras, and one of Zeus some distance away, and altars of the gods named Unknown, and of heroes, and of the children of Theseus and Phalerus; for this Phalerus is said by the Athenians to have sailed with Jason to Colchis. There is also an altar of Androgeos, son of Minos, though it is called that of Heros; those, however, who pay special attention to the study of their country"s antiquities know that it belongs to Androgeos.</p>
+      <p>Twenty stades away is the Colias promontory; onto it, when the Persian fleet was destroyed, the wrecks were carried down by the waves. There is here an image of the Coliad Aphrodite, with the goddesses Genetyllides (Goddesses of Birth), as they are called. And I am of opinion that the goddesses of the Phocaeans in Ionia, whom they call Gennaides, are the same as those at Colias. On the way from Phalerum to Athens there is a temple of Hera with neither doors nor roof. Men say that Mardonius, son of Gobryas, burnt it. But the image there today is, as report goes, the work of Alcamenes. So that this, at any rate, cannot have been damaged by the Persians.</p>
+    </body>
+  </text>
+</TEI>

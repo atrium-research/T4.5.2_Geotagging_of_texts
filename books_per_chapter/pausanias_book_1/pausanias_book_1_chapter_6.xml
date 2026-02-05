@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::332 /TEI[1]/text[1]/body[1]/p[1]::337" xml:id="UID-FAKE-209">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::346 /TEI[1]/text[1]/body[1]/p[1]::353" xml:id="UID-FAKE-210">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::7 /TEI[1]/text[1]/body[1]/p[2]::18" xml:id="UID-FAKE-211">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-212">
+        <rs ana="https://topostext.org/place/375433RGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::366 /TEI[1]/text[1]/body[1]/p[2]::375" xml:id="UID-FAKE-213">
+        <rs ana="https://topostext.org/place/315650RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::19 /TEI[1]/text[1]/body[1]/p[3]::24" xml:id="UID-FAKE-214">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::197 /TEI[1]/text[1]/body[1]/p[3]::208" xml:id="UID-FAKE-215">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::285 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-216">
+        <rs ana="https://topostext.org/place/405223PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::362 /TEI[1]/text[1]/body[1]/p[3]::372" xml:id="UID-FAKE-217">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::382 /TEI[1]/text[1]/body[1]/p[3]::389" xml:id="UID-FAKE-218">
+        <rs ana="https://topostext.org/place/298313PMem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::443 /TEI[1]/text[1]/body[1]/p[3]::448" xml:id="UID-FAKE-219">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::681 /TEI[1]/text[1]/body[1]/p[3]::686" xml:id="UID-FAKE-220">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::712 /TEI[1]/text[1]/body[1]/p[3]::717" xml:id="UID-FAKE-221">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::811 /TEI[1]/text[1]/body[1]/p[3]::822" xml:id="UID-FAKE-222">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::81 /TEI[1]/text[1]/body[1]/p[4]::88" xml:id="UID-FAKE-223">
+        <rs ana="https://topostext.org/place/346383UPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::93 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-224">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::329 /TEI[1]/text[1]/body[1]/p[4]::335" xml:id="UID-FAKE-225">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::118 /TEI[1]/text[1]/body[1]/p[5]::124" xml:id="UID-FAKE-226">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::147 /TEI[1]/text[1]/body[1]/p[5]::152" xml:id="UID-FAKE-227">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::181 /TEI[1]/text[1]/body[1]/p[5]::188" xml:id="UID-FAKE-228">
+        <rs ana="https://topostext.org/place/364367UGin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::193 /TEI[1]/text[1]/body[1]/p[5]::204" xml:id="UID-FAKE-229">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::355 /TEI[1]/text[1]/body[1]/p[5]::365" xml:id="UID-FAKE-230">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::578 /TEI[1]/text[1]/body[1]/p[5]::587" xml:id="UID-FAKE-231">
+        <rs ana="https://topostext.org/place/263318UThi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::689 /TEI[1]/text[1]/body[1]/p[5]::694" xml:id="UID-FAKE-232">
+        <rs ana="https://topostext.org/place/264318UPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::46 /TEI[1]/text[1]/body[1]/p[6]::52" xml:id="UID-FAKE-233">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::196 /TEI[1]/text[1]/body[1]/p[6]::201" xml:id="UID-FAKE-234">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::366 /TEI[1]/text[1]/body[1]/p[6]::374" xml:id="UID-FAKE-235">
+        <rs ana="https://topostext.org/place/310325UPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::476 /TEI[1]/text[1]/body[1]/p[6]::481" xml:id="UID-FAKE-236">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::541 /TEI[1]/text[1]/body[1]/p[6]::549" xml:id="UID-FAKE-237">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::645 /TEI[1]/text[1]/body[1]/p[6]::654" xml:id="UID-FAKE-238">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::664 /TEI[1]/text[1]/body[1]/p[6]::672" xml:id="UID-FAKE-239">
+        <rs ana="https://topostext.org/place/364282IRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::32 /TEI[1]/text[1]/body[1]/p[7]::37" xml:id="UID-FAKE-240">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::49 /TEI[1]/text[1]/body[1]/p[7]::55" xml:id="UID-FAKE-241">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::398 /TEI[1]/text[1]/body[1]/p[7]::407" xml:id="UID-FAKE-242">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::56 /TEI[1]/text[1]/body[1]/p[8]::63" xml:id="UID-FAKE-243">
+        <rs ana="https://topostext.org/place/364367UGin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::68 /TEI[1]/text[1]/body[1]/p[8]::74" xml:id="UID-FAKE-244">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::105 /TEI[1]/text[1]/body[1]/p[8]::115" xml:id="UID-FAKE-245">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::538 /TEI[1]/text[1]/body[1]/p[8]::543" xml:id="UID-FAKE-246">
+        <rs ana="https://topostext.org/place/264318UPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::666 /TEI[1]/text[1]/body[1]/p[8]::671" xml:id="UID-FAKE-247">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::698 /TEI[1]/text[1]/body[1]/p[8]::707" xml:id="UID-FAKE-248">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 6</head>
+      <p>But as to the history of Attalus and Ptolemy, it is more ancient in point of time, so that tradition no longer remains, and those who lived with these kings for the purpose of chronicling their deeds fell into neglect even before tradition failed. Wherefore it occurred to me to narrate their deeds also, and how the sovereignty of Egypt, of the Mysians and of the neighboring peoples fell into the hands of their fathers.</p>
+      <p>27 The Macedonians consider Ptolemy to be the son of Philip, the son of Amyntas, though putatively the son of Lagus, asserting that his mother was with child by Philip when she was married to Lagus. And among the distinguished acts of Ptolemy in Asia they mention that it was he who, of Alexander"s companions, was foremost in succoring him when in danger among the Oxydracae. After the death of Alexander, by withstanding those who would have conferred all his empire upon Aridaeus, the son of Philip, he became chiefly responsible for the division of the various nations into the kingdoms.</p>
+      <p>He crossed over to Egypt in person, and killed Cleomenes, whom Alexander had appointed satrap of that country, considering him a friend of Perdiccas, and therefore not faithful to himself; and the Macedonians who had been entrusted with the task of carrying the corpse of Alexander to Aegae, he persuaded to hand it over to him. And he proceeded to bury it with Macedonian rites in Memphis, but, knowing that Perdiccas would make war, he kept Egypt garrisoned. And Perdiccas took Aridaeus, son of Philip, and the boy Alexander, whom Roxana, daughter of Oxyartes, had borne to Alexander, to lend color to the campaign, but really he was plotting to take from Ptolemy his kingdom in Egypt. But being expelled from Egypt, and having lost his reputation as a soldier, and being in other respects unpopular with the Macedonians, he was put to death by his body guard.</p>
+      <p>The death of Perdiccas immediately raised Ptolemy to power, who both reduced the Syrians and Phoenicia, and also welcomed Seleucus, son of Antiochus, who was in exile, having been expelled by Antigonus; he further himself prepared to attack Antigonus. He prevailed on Cassander, son of Antipater, and Lysimachus, who was king in Thrace, to join in the war, urging that Seleucus was in exile and that the growth of the power of Antigonus was dangerous to them all.</p>
+      <p>For a time Antigonus prepared for war, and was by no means confident of the issue; but on learning that the revolt of Cyrene had called Ptolemy to Libya, he immediately reduced the Syrians and Phoenicians by a sudden inroad, handed them over to Demetrius, his son, a man who for all his youth had already a reputation for good sense, and went down to the Hellespont. But he led his army back without crossing, on hearing that Demetrius had been overcome by Ptolemy in battle. But Demetrius had not altogether evacuated the country before Ptolemy, and having surprised a body of Egyptians, killed a few of them. Then on the arrival of Antigonus Ptolemy did not wait for him but returned to Egypt.</p>
+      <p>When the winter was over, Demetrius sailed to Cyprus and overcame in a naval action Menelaus, the satrap of Ptolemy, and afterwards Ptolemy himself, who had crossed to bring help. Ptolemy fled to Egypt, where he was besieged by Antigonus on land and by Demetrius with a fleet. In spite of his extreme peril Ptolemy saved his empire by making a stand with an army at Pelusium while offering resistance with warships from the river. Antigonus now abandoned all hope of reducing Egypt in the circumstances, and dispatched Demetrius against the Rhodians with a fleet and a large army, hoping, if the island were won, to use it as a base against the Egyptians. But the Rhodians displayed daring and ingenuity in the face of the besiegers, while Ptolemy helped them with all the forces he could muster.</p>
+      <p>Antigonus thus failed to reduce Egypt or, later, Rhodes, and shortly afterwards he offered battle to Lysimachus, and to Cassander and the army of Seleucus, lost most of his forces, and was himself killed, having suffered most by reason of the length of the war with Eumenes. Of the kings who put down Antigonus I hold that the most wicked was Cassander, who although he had recovered the throne of Macedonia with the aid of Antigonus, nevertheless came to fight against a benefactor.</p>
+      <p>After the death of Antigonus, Ptolemy again reduced the Syrians and Cyprus, and also restored Pyrrhus to Thesprotia on the mainland. Cyrene rebelled; but Magas, the son of Berenice (who was at this time married to Ptolemy) captured Cyrene in the fifth year of the rebellion. If this Ptolemy really was the son of Philip, son of Amyntas, he must have inherited from his father his passion for women, for, while wedded to Eurydice, the daughter of Antipater, although he had children he took a fancy to Berenice, whom Antipater had sent to Egypt with Eurydice. He fell in love with this woman and had children by her, and when his end drew near he left the kingdom of Egypt to Ptolemy (from whom the Athenians name their tribe) being the son of Berenice and not of the daughter of Antipater.</p>
+    </body>
+  </text>
+</TEI>

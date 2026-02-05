@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::9" xml:id="UID-FAKE-1283">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::24 /TEI[1]/text[1]/body[1]/p[1]::34" xml:id="UID-FAKE-1284">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::62 /TEI[1]/text[1]/body[1]/p[1]::68" xml:id="UID-FAKE-1285">
+        <rs ana="https://topostext.org/place/382237LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::133" xml:id="UID-FAKE-1286">
+        <rs ana="https://topostext.org/place/379238LHym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::202 /TEI[1]/text[1]/body[1]/p[1]::210" xml:id="UID-FAKE-1287">
+        <rs ana="https://topostext.org/place/380237DDai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::219 /TEI[1]/text[1]/body[1]/p[1]::225" xml:id="UID-FAKE-1288">
+        <rs ana="https://topostext.org/place/381238DAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::13" xml:id="UID-FAKE-1289">
+        <rs ana="https://topostext.org/place/380237SZPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::63 /TEI[1]/text[1]/body[1]/p[2]::70" xml:id="UID-FAKE-1290">
+        <rs ana="https://topostext.org/place/381239UPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::86 /TEI[1]/text[1]/body[1]/p[2]::92" xml:id="UID-FAKE-1291">
+        <rs ana="https://topostext.org/place/380237SAA2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::97 /TEI[1]/text[1]/body[1]/p[2]::105" xml:id="UID-FAKE-1292">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::228 /TEI[1]/text[1]/body[1]/p[2]::234" xml:id="UID-FAKE-1293">
+        <rs ana="https://topostext.org/place/382237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::321 /TEI[1]/text[1]/body[1]/p[2]::327" xml:id="UID-FAKE-1294">
+        <rs ana="https://topostext.org/place/382237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::435 /TEI[1]/text[1]/body[1]/p[2]::444" xml:id="UID-FAKE-1295">
+        <rs ana="https://topostext.org/place/380238LAnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::122 /TEI[1]/text[1]/body[1]/p[3]::130" xml:id="UID-FAKE-1296">
+        <rs ana="https://topostext.org/place/381240DMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::153 /TEI[1]/text[1]/body[1]/p[3]::159" xml:id="UID-FAKE-1297">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::164 /TEI[1]/text[1]/body[1]/p[3]::172" xml:id="UID-FAKE-1298">
+        <rs ana="https://topostext.org/place/381240DMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::176 /TEI[1]/text[1]/body[1]/p[3]::182" xml:id="UID-FAKE-1299">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::208 /TEI[1]/text[1]/body[1]/p[3]::214" xml:id="UID-FAKE-1300">
+        <rs ana="https://topostext.org/place/381240DMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::372 /TEI[1]/text[1]/body[1]/p[3]::381" xml:id="UID-FAKE-1301">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::498 /TEI[1]/text[1]/body[1]/p[3]::516" xml:id="UID-FAKE-1302">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::190 /TEI[1]/text[1]/body[1]/p[4]::199" xml:id="UID-FAKE-1303">
+        <rs ana="https://topostext.org/place/380237BPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::204 /TEI[1]/text[1]/body[1]/p[4]::212" xml:id="UID-FAKE-1304">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::447 /TEI[1]/text[1]/body[1]/p[4]::459" xml:id="UID-FAKE-1305">
+        <rs ana="https://topostext.org/place/381240DMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::656 /TEI[1]/text[1]/body[1]/p[4]::662" xml:id="UID-FAKE-1306">
+        <rs ana="https://topostext.org/place/381240SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::205 /TEI[1]/text[1]/body[1]/p[5]::214" xml:id="UID-FAKE-1307">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::387 /TEI[1]/text[1]/body[1]/p[5]::396" xml:id="UID-FAKE-1308">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::425 /TEI[1]/text[1]/body[1]/p[5]::433" xml:id="UID-FAKE-1309">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::3 /TEI[1]/text[1]/body[1]/p[6]::11" xml:id="UID-FAKE-1310">
+        <rs ana="https://topostext.org/place/382240WMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::31 /TEI[1]/text[1]/body[1]/p[6]::38" xml:id="UID-FAKE-1311">
+        <rs ana="https://topostext.org/place/382240WMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::85 /TEI[1]/text[1]/body[1]/p[6]::91" xml:id="UID-FAKE-1312">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::172 /TEI[1]/text[1]/body[1]/p[6]::179" xml:id="UID-FAKE-1313">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::274 /TEI[1]/text[1]/body[1]/p[6]::281" xml:id="UID-FAKE-1314">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::295 /TEI[1]/text[1]/body[1]/p[6]::301" xml:id="UID-FAKE-1315">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::452 /TEI[1]/text[1]/body[1]/p[6]::466" xml:id="UID-FAKE-1316">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::471 /TEI[1]/text[1]/body[1]/p[6]::480" xml:id="UID-FAKE-1317">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::596 /TEI[1]/text[1]/body[1]/p[6]::605" xml:id="UID-FAKE-1318">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::792 /TEI[1]/text[1]/body[1]/p[6]::801" xml:id="UID-FAKE-1319">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::12 /TEI[1]/text[1]/body[1]/p[7]::20" xml:id="UID-FAKE-1320">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::484 /TEI[1]/text[1]/body[1]/p[7]::495" xml:id="UID-FAKE-1321">
+        <rs ana="https://topostext.org/place/382239CPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::513 /TEI[1]/text[1]/body[1]/p[7]::524" xml:id="UID-FAKE-1322">
+        <rs ana="https://topostext.org/place/382239CPan"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 32</head>
+      <p>The Attic mountains are Pentelikon, where there are quarries, Parnes, where there is hunting of wild boars and of bears, and Hymettus, which grows the most suitable pasture for bees, except that of the Alazones. For at Alazon they have actually bees ranging free, tamely following the other creatures when they go to pasture. These bees are not kept shut up in hives, and they work in any part of the land they happen to visit. They produce a solid mass from which you cannot separate either wax or honey. Such then is its nature.</p>
+      <p>The Athenians have also statues of gods on their mountains. On Pentele is a statue of Athena, on Hymettus one of Zeus Hymettius. There are altars both of Zeus Ombrios (Rainy) and of Apollo Proopsios (Foreseer or First Seen). On Parnes is a bronze Zeus Parnethius, and an altar to Zeus Semaleus (Sign-giving). There is on Parnes another altar, and on it they make sacrifice, calling Zeus sometimes Ombrios, sometimes Apemios (Averter). Anchesmus is a mountain of no great size, with an image of Zeus Anchesmius.</p>
+      <p>Before turning to a description of the islands, I must again proceed with my account of the demes. There is a deme called Marathon, equally distant from Athens and Carystus in Euboea. It was at this point in Attica that the foreigners landed, were defeated in battle, and lost some of their vessels as they were putting off from the land. On the plain is the grave of the Athenians, and upon it are slabs giving the names of the killed according to their tribes; and there is another grave for the Boeotian Plataeans and for the slaves, for slaves fought then for the first time by the side of their masters.</p>
+      <p>Here is also a separate monument to one man, Miltiades, the son of Cimon, although his end came later, after he had failed to take Paros and for this reason had been brought to trial by the Athenians. At Marathon every night you can hear horses neighing and men fighting. No one who has expressly set himself to behold this vision has ever got any good from it, but the spirits are not wroth with such as in ignorance chance to be spectators. The Marathonians worship both those who died in the fighting, calling them heroes, and secondly Marathon, from whom the deme derives its name, and then Heracles [shrine], saying that they were the first among the Greeks to acknowledge him as a god.</p>
+      <p>They say too that there chanced to be present in the battle a man of rustic appearance and dress. Having slaughtered many of the foreigners with a plough he was seen no more after the engagement. When the Athenians made enquiries at the oracle the god merely ordered them to honor Echetlaeus (He of the Plough-tail) as a hero. A trophy too of white marble has been erected. Although the Athenians assert that they buried the Persians, because in every case the divine law applies that a corpse should be laid under the earth, yet I could find no grave. There was neither mound nor other trace to be seen, as the dead were carried to a trench and thrown in anyhow.</p>
+      <p>In Marathon is a spring called Macaria with the following legend. When Heracles left Tiryns, fleeing from Eurystheus, he went to live with his friend Ceyx, who was king of Trachis. But when Heracles departed this life Eurystheus demanded his children; whereupon the king of Trachis sent them to Athens, saying that he was weak but Theseus had power enough to succor them. The arrival of the children as suppliants caused for the first time war between Peloponnesians and Athenians, Theseus refusing to give up the refugees at the demand of Eurystheus. The story says that an oracle was given the Athenians that one of the children of Heracles must die a voluntary death, or else victory could not be theirs. Thereupon Macaria, daughter of Deianeira and Heracles, slew herself and gave to the Athenians victory in the war and to the spring her own name.</p>
+      <p>There is at Marathon a lake which for the most part is marshy. Into this ignorance of the roads made the foreigners fall in their flight, and it is said that this accident was the cause of their great losses. Above the lake are the stone stables of Artaphernes"horses, and marks of his tent on the rocks. Out of the lake flows a river, affording near the lake itself water suitable for cattle, but near its mouth it becomes salt and full of sea fish. A little beyond the plain is the Hill of Pan and a remarkable Cave of Pan. The entrance to it is narrow, but farther in are chambers and baths and the so-called “Pan"s herd of goats,” which are rocks shaped in most respects like to goats.</p>
+    </body>
+  </text>
+</TEI>

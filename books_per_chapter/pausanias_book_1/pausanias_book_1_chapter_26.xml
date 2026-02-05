@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::132 /TEI[1]/text[1]/body[1]/p[1]::138" xml:id="UID-FAKE-959">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::238 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-960">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::358 /TEI[1]/text[1]/body[1]/p[1]::369" xml:id="UID-FAKE-961">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::434 /TEI[1]/text[1]/body[1]/p[1]::440" xml:id="UID-FAKE-962">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::3 /TEI[1]/text[1]/body[1]/p[2]::9" xml:id="UID-FAKE-963">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::33 /TEI[1]/text[1]/body[1]/p[2]::44" xml:id="UID-FAKE-964">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::65 /TEI[1]/text[1]/body[1]/p[2]::74" xml:id="UID-FAKE-965">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::263 /TEI[1]/text[1]/body[1]/p[2]::269" xml:id="UID-FAKE-966">
+        <rs ana="https://topostext.org/place/380237BLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::302 /TEI[1]/text[1]/body[1]/p[2]::311" xml:id="UID-FAKE-967">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::91 /TEI[1]/text[1]/body[1]/p[3]::99" xml:id="UID-FAKE-968">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::104 /TEI[1]/text[1]/body[1]/p[3]::112" xml:id="UID-FAKE-969">
+        <rs ana="https://topostext.org/place/379237HMou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::134 /TEI[1]/text[1]/body[1]/p[3]::145" xml:id="UID-FAKE-970">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::159 /TEI[1]/text[1]/body[1]/p[3]::166" xml:id="UID-FAKE-971">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::191 /TEI[1]/text[1]/body[1]/p[3]::202" xml:id="UID-FAKE-972">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::282 /TEI[1]/text[1]/body[1]/p[3]::288" xml:id="UID-FAKE-973">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::313 /TEI[1]/text[1]/body[1]/p[3]::320" xml:id="UID-FAKE-974">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::337 /TEI[1]/text[1]/body[1]/p[3]::346" xml:id="UID-FAKE-975">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::402 /TEI[1]/text[1]/body[1]/p[3]::411" xml:id="UID-FAKE-976">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::476 /TEI[1]/text[1]/body[1]/p[3]::482" xml:id="UID-FAKE-977">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::496 /TEI[1]/text[1]/body[1]/p[3]::505" xml:id="UID-FAKE-978">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::517 /TEI[1]/text[1]/body[1]/p[3]::526" xml:id="UID-FAKE-979">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::550 /TEI[1]/text[1]/body[1]/p[3]::557" xml:id="UID-FAKE-980">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::563 /TEI[1]/text[1]/body[1]/p[3]::571" xml:id="UID-FAKE-981">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::579 /TEI[1]/text[1]/body[1]/p[3]::585" xml:id="UID-FAKE-982">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::599 /TEI[1]/text[1]/body[1]/p[3]::605" xml:id="UID-FAKE-983">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::134 /TEI[1]/text[1]/body[1]/p[4]::144" xml:id="UID-FAKE-984">
+        <rs ana="https://topostext.org/place/397227RMag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::301 /TEI[1]/text[1]/body[1]/p[4]::307" xml:id="UID-FAKE-985">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::324 /TEI[1]/text[1]/body[1]/p[4]::332" xml:id="UID-FAKE-986">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::451 /TEI[1]/text[1]/body[1]/p[4]::456" xml:id="UID-FAKE-987">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::36 /TEI[1]/text[1]/body[1]/p[5]::46" xml:id="UID-FAKE-988">
+        <rs ana="https://topostext.org/place/380237SEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::604 /TEI[1]/text[1]/body[1]/p[5]::615" xml:id="UID-FAKE-989">
+        <rs ana="https://topostext.org/place/377287PAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::619 /TEI[1]/text[1]/body[1]/p[5]::624" xml:id="UID-FAKE-990">
+        <rs ana="https://topostext.org/place/377287PAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::342 /TEI[1]/text[1]/body[1]/p[6]::351" xml:id="UID-FAKE-991">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::196 /TEI[1]/text[1]/body[1]/p[7]::205" xml:id="UID-FAKE-992">
+        <rs ana="https://topostext.org/place/300570RKar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 26</head>
+      <p>But afterwards a few men called to mind their forefathers, and the contrast between their present position and the ancient glory of Athens, and without more ado forth with elected Olympiodorus to be their general. He led them against the Macedonians, both the old men and the youths, and trusted for military success more to enthusiasm than to strength. The Macedonians came out to meet him, but he overcame them, pursued them to the Museum, and captured the position.</p>
+      <p>So Athens was delivered from the Macedonians, and though all the Athenians fought memorably, Leocritus the son of ProtarchuYY is said to have displayed most daring in the engagement. For he was the first to scale the fortification, and the first to rush into the Museum; and when he fell fighting, the Athenians did him great honor, dedicating his shield to Zeus of Freedom (Eleutherios) and in scribing on it the name of Leocritus and his exploit.</p>
+      <p>This is the greatest achievement of Olympiodorus, not to mention his success in recovering Peiraeus and Munychia; and again, when the Macedonians were raiding Eleusis he collected a force of Eleusinians and defeated the invaders. Still earlier than this, when Cassander had invaded Attica, Olympiodorus sailed to Aetolia and induced the Aetolians to help. This allied force was the main reason why the Athenians escaped war with Cassander. Olympiodorus has not only honors at Athens, both on the Acropolis and in the Prytaneum but also a portrait at Eleusis. The Phocians too of Elatea dedicated at Delphi a bronze statue of Olympiodorus for help in their revolt from Cassander.</p>
+      <p>Near the statue of Olympiodorus stands a bronze image of Artemis surnamed Leucophryne, dedicated by the sons of Themistocles; for the Magnesians, whose city the King had given him to rule, hold Artemis Leucophryne in honor. But my narrative must not loiter, as my task is a general description of all Greece. Endoeus was an Athenian by birth and a pupil of Daedalus, who also, when Daedalus was in exile because of the death of Calos, followed him to Crete. Made by him is a statue of Athena seated, with an inscription that Callias dedicated the image, but Endoeus made it.</p>
+      <p>There is also a building called the Erechtheum. Before the entrance is an altar of Zeus Hypatos, on which they never sacrifice a living creature but offer cakes, not being wont to use any wine either. Inside the entrance are altars, one to Poseidon, on which in obedience to an oracle they sacrifice also to Erechtheus, the second to the hero Butes, and the third to Hephaestus. On the walls are paintings representing members of the clan Butadae; there is also inside — the building is double — sea-water in a cistern. This is no great marvel, for other inland regions have similar wells, in particular Aphrodisias in Caria. But this cistern is remarkable for the noise of waves it sends forth when a south wind blows. On the rock is the outline of a trident. Legend says that these appeared as evidence in support of Poseidon"s claim to the land.</p>
+      <p>Both the city and the whole of the land are alike sacred to Athena; for even those who in their demes have an established worship of other gods nevertheless hold Athena in honor. But the most holy symbol, that was so considered by all many years before the unification of the demes, is the agalma of Athena which is on what is now called the Acropolis, but in early days the polis (City). A legend concerning it says that it fell from heaven; whether this is true or not I shall not discuss. A golden lamp for the goddess was made by Callimachus.</p>
+      <p>Having filled the lamp with oil, they wait until the same day next year, and the oil is sufficient for the lamp during the interval, although it is alight both day and night. The wick in it is of Carpasian flax, the only kind of flax which is fire-proof, and a bronze palm above the lamp reaches to the roof and draws off the smoke. The Callimachus who made the lamp, although not of the first rank of artists, was yet of unparalleled cleverness, so that he was the first to drill holes through gems, and gave himself the title of Refiner of Art, or perhaps others gave the title and he adopted it as his.</p>
+    </body>
+  </text>
+</TEI>

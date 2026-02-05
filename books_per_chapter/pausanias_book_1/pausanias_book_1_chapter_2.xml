@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::233 /TEI[1]/text[1]/body[1]/p[1]::242" xml:id="UID-FAKE-52">
+        <rs ana="https://topostext.org/place/412369WThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::418 /TEI[1]/text[1]/body[1]/p[1]::427" xml:id="UID-FAKE-53">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::449 /TEI[1]/text[1]/body[1]/p[1]::456" xml:id="UID-FAKE-54">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::578 /TEI[1]/text[1]/body[1]/p[1]::587" xml:id="UID-FAKE-55">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::22 /TEI[1]/text[1]/body[1]/p[2]::30" xml:id="UID-FAKE-56">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::110 /TEI[1]/text[1]/body[1]/p[2]::116" xml:id="UID-FAKE-57">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::175 /TEI[1]/text[1]/body[1]/p[2]::183" xml:id="UID-FAKE-58">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::400 /TEI[1]/text[1]/body[1]/p[2]::409" xml:id="UID-FAKE-59">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::119 /TEI[1]/text[1]/body[1]/p[3]::124" xml:id="UID-FAKE-60">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::167 /TEI[1]/text[1]/body[1]/p[3]::172" xml:id="UID-FAKE-61">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::176 /TEI[1]/text[1]/body[1]/p[3]::184" xml:id="UID-FAKE-62">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::218 /TEI[1]/text[1]/body[1]/p[3]::224" xml:id="UID-FAKE-63">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::278 /TEI[1]/text[1]/body[1]/p[3]::287" xml:id="UID-FAKE-64">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::306 /TEI[1]/text[1]/body[1]/p[3]::312" xml:id="UID-FAKE-65">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::327 /TEI[1]/text[1]/body[1]/p[3]::331" xml:id="UID-FAKE-66">
+        <rs ana="https://topostext.org/place/367345PSol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::289 /TEI[1]/text[1]/body[1]/p[4]::294" xml:id="UID-FAKE-67">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::487 /TEI[1]/text[1]/body[1]/p[4]::492" xml:id="UID-FAKE-68">
+        <rs ana="https://topostext.org/place/376240LSou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::527 /TEI[1]/text[1]/body[1]/p[4]::534" xml:id="UID-FAKE-69">
+        <rs ana="https://topostext.org/place/379211LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::641 /TEI[1]/text[1]/body[1]/p[4]::651" xml:id="UID-FAKE-70">
+        <rs ana="https://topostext.org/place/380237DKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::188 /TEI[1]/text[1]/body[1]/p[5]::197" xml:id="UID-FAKE-71">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::213 /TEI[1]/text[1]/body[1]/p[5]::223" xml:id="UID-FAKE-72">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::754 /TEI[1]/text[1]/body[1]/p[5]::760" xml:id="UID-FAKE-73">
+        <rs ana="https://topostext.org/place/380237SLmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::820 /TEI[1]/text[1]/body[1]/p[5]::830" xml:id="UID-FAKE-74">
+        <rs ana="https://topostext.org/place/380237SDT1"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::862 /TEI[1]/text[1]/body[1]/p[5]::871" xml:id="UID-FAKE-75">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::911 /TEI[1]/text[1]/body[1]/p[5]::917" xml:id="UID-FAKE-76">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::967 /TEI[1]/text[1]/body[1]/p[5]::973" xml:id="UID-FAKE-77">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::91 /TEI[1]/text[1]/body[1]/p[6]::97" xml:id="UID-FAKE-78">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::299 /TEI[1]/text[1]/body[1]/p[6]::308" xml:id="UID-FAKE-79">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::423 /TEI[1]/text[1]/body[1]/p[6]::432" xml:id="UID-FAKE-80">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::529 /TEI[1]/text[1]/body[1]/p[6]::535" xml:id="UID-FAKE-81">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::560 /TEI[1]/text[1]/body[1]/p[6]::566" xml:id="UID-FAKE-82">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 2</head>
+      <p>On entering the city there is a monument to Antiope the Amazon. This Antiope, Pindar says, was carried off by Peirithous and Theseus, but Hegias of Troezen gives the following account of her. Heracles was besieging Themiscyra on the Thermodon, but could not take it, but Antiope, falling in love with Theseus, who was aiding Heracles in his campaign, surrendered the stronghold. Such is the account of Hegias. But the Athenians assert that when the Amazons came, Antiope was shot by Molpadia, while Molpadia was killed by Theseus. To Molpadia also there is a monument among the Athenians.</p>
+      <p>As you go up from the Peiraeus you see the ruins of the walls which Conon restored after the naval battle off Cnidus. For those built by Themistocles after the retreat of the Persians were destroyed during the rule of those named the Thirty. Along the road are very famous graves, that of Menander, son of Diopeithes, and a cenotaph of Euripides. He himself went to King Archelaus and lies buried in Macedonia; as to the manner of his death (many have described it), let it be as they say.</p>
+      <p>So even in his time poets lived at the courts of kings, as earlier still Anacreon consorted with Polycrates, despot of Samos, and Aeschylus and Simonides journeyed to Hiero at Syracuse. Dionysius, afterwards despot in Sicily had Philoxenus at his court, and Antigonus, ruler of Macedonia, had Antagoras of Rhodes and Aratus of Soli. But Hesiod and Homer either failed to win the society of kings or else purposely despised it, Hesiod through boorishness and reluctance to travel, while Homer, having gone very far abroad, depreciated the help afforded by despots in the acquisition of wealth in comparison with his reputation among ordinary men. And yet Homer, too, in his poem makes Demodocus live at the court of Alcinous, and Agamemnon leave a poet with his wife. Not far from the gates is a grave, on which is mounted a soldier standing by a horse. Who it is I do not know, but both horse and soldier were carved by Praxiteles.</p>
+      <p>On entering the city there is a building for the preparation of the processions, which are held in some cases every year, in others at longer intervals. Hard by is a temple of Demeter, with images of the goddess herself and of her daughter, and of Iacchus holding a torch. On the wall, in Attic characters, is written that they are works of Praxiteles. Not far from the temple is Poseidon on horseback, hurling a spear against the giant Polybotes, concerning whom is prevalent among the Coans the story about the promontory of Chelone. But the inscription of our time assigns the statue to another, and not to Poseidon. From the gate to the Cerameicus there are stoas, and in front of them bronze statues of such as had some title to fame, both men and women.</p>
+      <p>One of the stoas contains shrines of gods, and a gymnasium called that of Hermes. In it is the house of Poulytion, at which it is said that a mystic rite was performed by the most notable Athenians, parodying the Eleusinian mysteries. But in my time it was devoted to the worship of Dionysus. This Dionysus they call Melpomenus (Minstrel), on the same principle as they call Apollo Musegetes (Leader of the Muses). Here there are images of Athena Paeonia (Healer), of Zeus, of Mnemosyne (Memory) and of the Muses, an Apollo, the votive offering and work of Eubulides, and Acratus, a daemon attendant upon Dionysos; it is only a face of him worked into the wall. After the precinct of Dionysos is a building that contains clay images, Amphictyon, king of Athens, feasting Dionysus and other gods. Here also is Pegasus of Eleutherae, who introduced the god to the Athenians. Herein he was helped by the oracle at Delphi, which called to mind that the god once dwelt in Athens in the days of Icarius.</p>
+      <p>Amphictyon won the kingdom thus. It is said that Actaeus was the first king of what is now Attica. When he died, Cecrops, the son-in-law of Actaeus, received the kingdom, and there were born to him daughters, Herse, Aglaurus and Pandrosus, and a son Erysichthon. This son did not become king of the Athenians, but happened to die while his father lived, and the kingdom of Cecrops fell to Cranaus, the most powerful of the Athenians. They say that Cranaus had daughters, and among them Atthis; and from her they call the country Attica, which before was named Actaea. And Amphictyon, rising up against Cranaus, although he had his daughter to wife, deposed him from power. Afterwards he himself was banished by Erichthonius and his fellow rebels. Men say that Erichthonius had no human father, but that his parents were Hephaestus and Earth.</p>
+    </body>
+  </text>
+</TEI>

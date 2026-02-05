@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::27 /TEI[1]/text[1]/body[1]/p[1]::34" xml:id="UID-FAKE-1566">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::51 /TEI[1]/text[1]/body[1]/p[1]::57" xml:id="UID-FAKE-1567">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::111 /TEI[1]/text[1]/body[1]/p[1]::118" xml:id="UID-FAKE-1568">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::315" xml:id="UID-FAKE-1569">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::52 /TEI[1]/text[1]/body[1]/p[2]::61" xml:id="UID-FAKE-1570">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::113 /TEI[1]/text[1]/body[1]/p[2]::119" xml:id="UID-FAKE-1571">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::158 /TEI[1]/text[1]/body[1]/p[2]::164" xml:id="UID-FAKE-1572">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::318 /TEI[1]/text[1]/body[1]/p[2]::327" xml:id="UID-FAKE-1573">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::344 /TEI[1]/text[1]/body[1]/p[2]::353" xml:id="UID-FAKE-1574">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::421 /TEI[1]/text[1]/body[1]/p[2]::431" xml:id="UID-FAKE-1575">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::468 /TEI[1]/text[1]/body[1]/p[2]::475" xml:id="UID-FAKE-1576">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::24 /TEI[1]/text[1]/body[1]/p[3]::31" xml:id="UID-FAKE-1577">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::304 /TEI[1]/text[1]/body[1]/p[3]::328" xml:id="UID-FAKE-1578">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::759 /TEI[1]/text[1]/body[1]/p[3]::768" xml:id="UID-FAKE-1579">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::8 /TEI[1]/text[1]/body[1]/p[4]::15" xml:id="UID-FAKE-1580">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::39 /TEI[1]/text[1]/body[1]/p[4]::46" xml:id="UID-FAKE-1581">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::69 /TEI[1]/text[1]/body[1]/p[4]::75" xml:id="UID-FAKE-1582">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::239 /TEI[1]/text[1]/body[1]/p[4]::248" xml:id="UID-FAKE-1583">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::315 /TEI[1]/text[1]/body[1]/p[4]::321" xml:id="UID-FAKE-1584">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::353 /TEI[1]/text[1]/body[1]/p[4]::360" xml:id="UID-FAKE-1585">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::402 /TEI[1]/text[1]/body[1]/p[4]::411" xml:id="UID-FAKE-1586">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::422 /TEI[1]/text[1]/body[1]/p[4]::428" xml:id="UID-FAKE-1587">
+        <rs ana="https://topostext.org/place/380234UNis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::480 /TEI[1]/text[1]/body[1]/p[4]::494" xml:id="UID-FAKE-1588">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::522 /TEI[1]/text[1]/body[1]/p[4]::528" xml:id="UID-FAKE-1589">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::597 /TEI[1]/text[1]/body[1]/p[4]::603" xml:id="UID-FAKE-1590">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::613 /TEI[1]/text[1]/body[1]/p[4]::622" xml:id="UID-FAKE-1591">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::671 /TEI[1]/text[1]/body[1]/p[4]::682" xml:id="UID-FAKE-1592">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::25" xml:id="UID-FAKE-1593">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::71 /TEI[1]/text[1]/body[1]/p[5]::78" xml:id="UID-FAKE-1594">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::284 /TEI[1]/text[1]/body[1]/p[5]::290" xml:id="UID-FAKE-1595">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::292 /TEI[1]/text[1]/body[1]/p[5]::300" xml:id="UID-FAKE-1596">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::342 /TEI[1]/text[1]/body[1]/p[5]::351" xml:id="UID-FAKE-1597">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::372 /TEI[1]/text[1]/body[1]/p[5]::381" xml:id="UID-FAKE-1598">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::435 /TEI[1]/text[1]/body[1]/p[5]::444" xml:id="UID-FAKE-1599">
+        <rs ana="https://topostext.org/place/384232UOnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::467 /TEI[1]/text[1]/body[1]/p[5]::476" xml:id="UID-FAKE-1600">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::596 /TEI[1]/text[1]/body[1]/p[5]::602" xml:id="UID-FAKE-1601">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::643 /TEI[1]/text[1]/body[1]/p[5]::647" xml:id="UID-FAKE-1602">
+        <rs ana="https://topostext.org/place/380234UNis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::70" xml:id="UID-FAKE-1603">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::99 /TEI[1]/text[1]/body[1]/p[6]::104" xml:id="UID-FAKE-1604">
+        <rs ana="https://topostext.org/place/310326UGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::154 /TEI[1]/text[1]/body[1]/p[6]::161" xml:id="UID-FAKE-1605">
+        <rs ana="https://topostext.org/place/398268RLel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::628 /TEI[1]/text[1]/body[1]/p[6]::634" xml:id="UID-FAKE-1606">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 39</head>
+      <p>There is another road from Eleusis, which leads to Megara. As you go along this road you come to a well called Anthium (Flowery Well). Pamphos in his poems describes how Demeter in the likeness of an old woman sat at this well after the rape of her daughter, how the daughters of Celeus thence took her as an Argive woman to their mother, and how Metaneira thereupon entrusted to her the rearing of her son.</p>
+      <p>A little farther on from the well is a sanctuary of Metaneira, and after it are graves of those who went against Thebes. For Creon, who at that time ruled in Thebes as guardian of Laodamas the son of Eteocles, refused to allow the relatives to take up and bury their dead. But Adrastus having supplicated Theseus, the Athenians fought with the Boeotians, and Theseus being victorious in the fight carried the dead to the Eleusinian territory and buried them here. The Thebans, however, say that they voluntarily gave up the dead for burial and deny that they engaged in battle.</p>
+      <p>After the graves of the Argives is the tomb of Alope, who, legend says, being mother of Hippothoon by Poseidon was on this spot put to death by her father Cercyon. He is said to have treated strangers wickedly, especially in wrestling with them against their will. So even to my day this place is called the Palaistra of Cercyon, being a little way from the grave of Alope. Cercyon is said to have killed all those who tried a bout with him except Theseus, who out matched him mainly by his skill. For Theseus was the first to discover the art of wrestling, and through him afterwards was established the teaching of the art. Before him men used in wrestling only size and strength of body. Such in my opinion are the most famous legends and sights among the Athenians, and from the beginning my narrative has picked out of much material the things that deserve to be recorded.</p>
+      <p>Next to Eleusis is the district called Megaris. This too belonged to Athens in ancient times, Pylas the king having left it to Pandion. My evidence is this; in the land is the grave of Pandion, and Nisus, while giving up the rule over the Athenians to Aegeus, the eldest of all the family, was himself made king of Megara and of the territory as far as Corinth. Even at the present day the port of the Megarians is called Nisaea after him. Subsequently in the reign of Codrus the Peloponnesians made an expedition against Athens. Having accomplished nothing brilliant, on their way home they took Megara from the Athenians, and gave it as a dwelling-place to such of the Corinthians and of their other allies as wished to go there.</p>
+      <p>In this way the Megarians changed their customs and dialect and became Dorians, and they say that the city received its name when Car the son of Phoroneus was king in this land. It was then they say that sanctuaries of Demeter were first made by them, and then that men used the name Megara (Chambers). This is their history according to the Megarians themselves. But the Boeotians declare that Megareus, son of Poseidon, who dwelt in Onchestus, came with an army of Boeotians to help Nisus wage the war against Minos; that falling in the battle he was buried on the spot, and the city was named Megara from him, having previously been called Nisa.</p>
+      <p>In the twelfth generation after Car the son of Phoroneus the Megarians say that Lelex arrived from Egypt and became king, and that in his reign the tribe Leleges received its name. Lelex they say begat Cleson, Cleson Pylas and Pylas Sciron, who married the daughter of Pandion and afterwards disputed with Nisus, the son of Pandion, about the throne, the dispute being settled by Aeacus, who gave the kingship to Nisus and his descendants, and to Sciron the leadership in war. They say further that Nisus was succeeded by Megareus, the son of Poseidon, who married Iphinoe, the daughter of Nisus, but they ignore altogether the Cretan war and the capture of the city in the reign of Nisus.</p>
+    </body>
+  </text>
+</TEI>

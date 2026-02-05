@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::91 /TEI[1]/text[1]/body[1]/p[1]::101" xml:id="UID-FAKE-249">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::136 /TEI[1]/text[1]/body[1]/p[1]::144" xml:id="UID-FAKE-250">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::287" xml:id="UID-FAKE-251">
+        <rs ana="https://topostext.org/place/298313PMem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::427 /TEI[1]/text[1]/body[1]/p[1]::435" xml:id="UID-FAKE-252">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::526 /TEI[1]/text[1]/body[1]/p[1]::532" xml:id="UID-FAKE-253">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::589 /TEI[1]/text[1]/body[1]/p[1]::599" xml:id="UID-FAKE-254">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::659 /TEI[1]/text[1]/body[1]/p[1]::665" xml:id="UID-FAKE-255">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::709 /TEI[1]/text[1]/body[1]/p[1]::714" xml:id="UID-FAKE-256">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::36 /TEI[1]/text[1]/body[1]/p[2]::41" xml:id="UID-FAKE-257">
+        <rs ana="https://topostext.org/place/253324UPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::72 /TEI[1]/text[1]/body[1]/p[2]::81" xml:id="UID-FAKE-258">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::135 /TEI[1]/text[1]/body[1]/p[2]::145" xml:id="UID-FAKE-259">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::158 /TEI[1]/text[1]/body[1]/p[2]::164" xml:id="UID-FAKE-260">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::216 /TEI[1]/text[1]/body[1]/p[2]::222" xml:id="UID-FAKE-261">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::409 /TEI[1]/text[1]/body[1]/p[2]::414" xml:id="UID-FAKE-262">
+        <rs ana="https://topostext.org/place/360143IGau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::461 /TEI[1]/text[1]/body[1]/p[2]::466" xml:id="UID-FAKE-263">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::175 /TEI[1]/text[1]/body[1]/p[3]::180" xml:id="UID-FAKE-264">
+        <rs ana="https://topostext.org/place/293308UKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::425 /TEI[1]/text[1]/body[1]/p[3]::430" xml:id="UID-FAKE-265">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::496 /TEI[1]/text[1]/body[1]/p[3]::505" xml:id="UID-FAKE-266">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::532 /TEI[1]/text[1]/body[1]/p[3]::543" xml:id="UID-FAKE-267">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::576 /TEI[1]/text[1]/body[1]/p[3]::582" xml:id="UID-FAKE-268">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::755 /TEI[1]/text[1]/body[1]/p[3]::760" xml:id="UID-FAKE-269">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::779 /TEI[1]/text[1]/body[1]/p[3]::789" xml:id="UID-FAKE-270">
+        <rs ana="https://topostext.org/place/293308UKro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 7</head>
+      <p>This Ptolemy fell in love with Arsinoe, his full sister, and married her, violating herein Macedonian custom, but following that of his Egyptian subjects. Secondly he put to death his brother Argaeus, who was, it is said, plotting against him; and he it was who brought down from Memphis the corpse of Alexander. He put to death another brother also, son of Eurydice, on discovering that he was creating disaffection among the Cyprians. Then Magas, the half-brother of Ptolemy, who had been entrusted with the governorship of Cyrene by his mother Berenice — she had borne him to Philip, a Macedonian but of no note and of lowly origin — induced the people of Cyrene to revolt from Ptolemy and marched against Egypt.</p>
+      <p>Ptolemy fortified the entrance into Egypt and awaited the attack of the Cyrenians. But while on the march Magas was in formed that the Marmaridae, a tribe of Libyan nomads, had revolted, and thereupon fell back upon Cyrene. Ptolemy resolved to pursue, but was checked owing to the following circumstance. When he was preparing to meet the attack of Magas, he engaged mercenaries, including some four thousand Gauls. Discovering that they were plotting to seize Egypt, he led them through the river to a deserted island. There they perished at one another"s hands or by famine.</p>
+      <p>Magas, who was married to Apame, daughter of Antiochus, son of Seleucus, persuaded Antiochus to break the treaty which his father Seleucus had made with Ptolemy and to attack Egypt. When Antiochus resolved to attack, Ptolemy dispatched forces against all the subjects of Antiochus, freebooters to overrun the lands of the weaker, and an army to hold back the stronger, so that Antiochus never had an opportunity of attacking Egypt. I have already stated how this Ptolemy sent a fleet to help the Athenians against Antigonus and the Macedonians, but it did very little to save Athens. His children were by Arsinoe, not his sister, but the daughter of Lysimachus. His sister who had wedded him happened to die before this, leaving no issue, and there is in Egypt a district called Arsinoites after her.</p>
+    </body>
+  </text>
+</TEI>

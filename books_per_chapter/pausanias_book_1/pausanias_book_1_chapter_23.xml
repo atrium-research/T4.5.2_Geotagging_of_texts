@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::25 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-826">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::102 /TEI[1]/text[1]/body[1]/p[1]::108" xml:id="UID-FAKE-827">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::103 /TEI[1]/text[1]/body[1]/p[2]::112" xml:id="UID-FAKE-828">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::337 /TEI[1]/text[1]/body[1]/p[2]::351" xml:id="UID-FAKE-829">
+        <rs ana="https://topostext.org/place/380237FDim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::371 /TEI[1]/text[1]/body[1]/p[2]::380" xml:id="UID-FAKE-830">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::115 /TEI[1]/text[1]/body[1]/p[3]::124" xml:id="UID-FAKE-831">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::154 /TEI[1]/text[1]/body[1]/p[3]::162" xml:id="UID-FAKE-832">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::250 /TEI[1]/text[1]/body[1]/p[3]::258" xml:id="UID-FAKE-833">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::281 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-834">
+        <rs ana="https://topostext.org/place/385236WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::291 /TEI[1]/text[1]/body[1]/p[3]::298" xml:id="UID-FAKE-835">
+        <rs ana="https://topostext.org/place/385236WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::310 /TEI[1]/text[1]/body[1]/p[3]::319" xml:id="UID-FAKE-836">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::339 /TEI[1]/text[1]/body[1]/p[3]::349" xml:id="UID-FAKE-837">
+        <rs ana="https://topostext.org/place/384235PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::426 /TEI[1]/text[1]/body[1]/p[3]::435" xml:id="UID-FAKE-838">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::544 /TEI[1]/text[1]/body[1]/p[3]::552" xml:id="UID-FAKE-839">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::569 /TEI[1]/text[1]/body[1]/p[3]::576" xml:id="UID-FAKE-840">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::704 /TEI[1]/text[1]/body[1]/p[3]::716" xml:id="UID-FAKE-841">
+        <rs ana="https://topostext.org/place/384235PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::94 /TEI[1]/text[1]/body[1]/p[4]::100" xml:id="UID-FAKE-842">
+        <rs ana="https://topostext.org/place/386231ROpu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::147 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-843">
+        <rs ana="https://topostext.org/place/352257PLat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::164 /TEI[1]/text[1]/body[1]/p[4]::172" xml:id="UID-FAKE-844">
+        <rs ana="https://topostext.org/place/386231ROpu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::173 /TEI[1]/text[1]/body[1]/p[4]::181" xml:id="UID-FAKE-845">
+        <rs ana="https://topostext.org/place/386231ROpu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::218 /TEI[1]/text[1]/body[1]/p[4]::222" xml:id="UID-FAKE-846">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::301 /TEI[1]/text[1]/body[1]/p[4]::308" xml:id="UID-FAKE-847">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::338 /TEI[1]/text[1]/body[1]/p[4]::345" xml:id="UID-FAKE-848">
+        <rs ana="https://topostext.org/place/388224RMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::169 /TEI[1]/text[1]/body[1]/p[5]::175" xml:id="UID-FAKE-849">
+        <rs ana="https://topostext.org/place/404173USat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::242 /TEI[1]/text[1]/body[1]/p[5]::248" xml:id="UID-FAKE-850">
+        <rs ana="https://topostext.org/place/404173USat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::347 /TEI[1]/text[1]/body[1]/p[5]::352" xml:id="UID-FAKE-851">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::155 /TEI[1]/text[1]/body[1]/p[6]::164" xml:id="UID-FAKE-852">
+        <rs ana="https://topostext.org/place/374267IAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::496 /TEI[1]/text[1]/body[1]/p[6]::502" xml:id="UID-FAKE-853">
+        <rs ana="https://topostext.org/place/404173USat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::47 /TEI[1]/text[1]/body[1]/p[7]::55" xml:id="UID-FAKE-854">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::56 /TEI[1]/text[1]/body[1]/p[7]::65" xml:id="UID-FAKE-855">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::120 /TEI[1]/text[1]/body[1]/p[7]::125" xml:id="UID-FAKE-856">
+        <rs ana="https://topostext.org/place/381239QPeA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::200 /TEI[1]/text[1]/body[1]/p[7]::210" xml:id="UID-FAKE-857">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::307 /TEI[1]/text[1]/body[1]/p[7]::314" xml:id="UID-FAKE-858">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::350 /TEI[1]/text[1]/body[1]/p[7]::364" xml:id="UID-FAKE-859">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::26 /TEI[1]/text[1]/body[1]/p[8]::32" xml:id="UID-FAKE-860">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::117 /TEI[1]/text[1]/body[1]/p[8]::123" xml:id="UID-FAKE-861">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::197 /TEI[1]/text[1]/body[1]/p[8]::206" xml:id="UID-FAKE-862">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::280 /TEI[1]/text[1]/body[1]/p[8]::286" xml:id="UID-FAKE-863">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::272 /TEI[1]/text[1]/body[1]/p[9]::278" xml:id="UID-FAKE-864">
+        <rs ana="https://topostext.org/place/380237FMlG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::380 /TEI[1]/text[1]/body[1]/p[9]::387" xml:id="UID-FAKE-865">
+        <rs ana="https://topostext.org/place/380237FMlG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::186 /TEI[1]/text[1]/body[1]/p[10]::192" xml:id="UID-FAKE-866">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::302 /TEI[1]/text[1]/body[1]/p[10]::309" xml:id="UID-FAKE-867">
+        <rs ana="https://topostext.org/place/380238DPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::336 /TEI[1]/text[1]/body[1]/p[10]::345" xml:id="UID-FAKE-868">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::515 /TEI[1]/text[1]/body[1]/p[10]::524" xml:id="UID-FAKE-869">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 23</head>
+      <p>Among the sayings of the Greeks is one that there were seven wise men. Two of them were the despot of Lesbos and Periander the son of Cypselus. And yet Peisistratus and his son Hippias were more humane than Periander, wiser too in warfare and in statecraft, until, on account of the murder of Hipparchus, Hippias vented his passion against all and sundry, including a woman named Leaena (Lioness).</p>
+      <p>What I am about to say has never before been committed to writing, but is generally credited among the Athenians. When Hipparchus died, Hippias tortured Leaena to death, because he knew she was the mistress of Aristogeiton, and therefore could not possibly, he held, be in ignorance of the plot. As a recompense, when the tyranny of the Peisistratidae was at an end, the Athenians put up a bronze lioness in memory of the woman, which they say Callias dedicated and Calamis made.</p>
+      <p>Hard by is a bronze statue of Diitrephes shot through by arrows. Among the acts reported of this Diitrephes by the Athenians is his leading back home the Thracian mercenaries who arrived too late to take part in the expedition of Demosthenes against Syracuse. He also put into the Chalcidic Euripus, where the Boeotians had an inland town Mycalessus, marched up to this town from the coast and took it. Of the inhabitants the Thracians put to the sword not only the combatants but also the women and children. I have evidence to bring. All the Boeotian towns which the Thebans sacked were inhabited in my time, as the people escaped just before the capture; so if the foreigners had not exterminated the Mycalessians the survivors would have afterwards reoccupied the town.</p>
+      <p>I was greatly surprised to see the statue of Diitrephes pierced with arrows, because the only Greeks whose custom it is to use that weapon are the Cretans. For the Opuntian Locrians, whom Homer represents as coming to Troy with bows and slings, we know were armed as heavy infantry by the time of the Persian wars. Neither indeed did the Malians continue the practice of the bow; in fact, I believe that they did not know it before the time of Philoctetes, and gave it up soon after. Near the statue of Diitrephes — I do not wish to write of the less distinguished portraits — are figures of gods; of Hygeia (health), whom legend calls daughter of Asclepius, and of Athena, also surnamed Hygieia.</p>
+      <p>There is also a smallish stone, just large enough to serve as a seat to a little man. On it legend says Silenus rested when Dionysus came to the land. The oldest of the Satyrs they call Sileni. Wishing to know better than most people who the Satyrs are I have inquired from many about this very point. Euphemus the Carian said that on a voyage to Italy he was driven out of his course by winds and was carried into the outer sea, beyond the course of seamen. He affirmed that there were many uninhabited islands, while in others lived wild men. The sailors did not wish to put in at the latter,</p>
+      <p>because, having put in before, they had some experience of the inhabitants, but on this occasion they had no choice in the matter. The islands were called Satyrides by the sailors, and the inhabitants were red haired, and had upon their flanks tails not much smaller than those of horses. As soon as they caught sight of their visitors, they ran down to the ship without uttering a cry and assaulted the women in the ship. At last the sailors in fear cast a foreign woman onto the island. So the Satyrs outraged this woman not only in the usual place but her whole body similarly.</p>
+      <p>I remember looking at other things also on the Athenian Acropolis, a bronze boy holding the sprinkler, by Lycius son of Myron, and Myron"s Perseus after beheading Medusa. There is also a sanctuary of Brauronian Artemis; the image is the work of Praxiteles, but the goddess derives her name from the deme of Brauron. The old xoanon is in Brauron, the Tauric Artemis as she is called.</p>
+      <p>There is the horse called Wooden set up in bronze. That the work of Epeius was a contrivance to make a breach in the Trojan wall is known to everybody who does not attribute utter silliness to the Phrygians. But legend says of that horse that it contained the most valiant of the Greeks, and the design of the bronze figure fits in well with this story. Menestheus and Teucer are peeping out of it, and so are the sons of Theseus.</p>
+      <p>Of the statues that stand after the horse, the likeness of Epicharinus who practised the race in armour was made by Critius, while Oenobius performed a kind service for Thucydides the son of OloruYY. He succeeded in getting a decree passed for the return of Thucydides to Athens, who was treacherously murdered as he was returning, and there is a monument to him not far from the Melitid gate.</p>
+      <p>The stories of Hermolycus the pancratiast and Phormio the son of Asopichus I omit, as others have told them. About Phormio, however, I have a detail to add. Quite one of the best men at Athens and distinguished for the fame of his ancestors he chanced to be heavily in debt. So he withdrew to the deme Paeania and lived there until the Athenians elected him to command a naval expedition. But he refused the office on the ground that before his debts were discharged he lacked the spirit to face his troops. So the Athenians, who were absolutely determined to have Phormio as their commander, paid all his creditors.</p>
+    </body>
+  </text>
+</TEI>

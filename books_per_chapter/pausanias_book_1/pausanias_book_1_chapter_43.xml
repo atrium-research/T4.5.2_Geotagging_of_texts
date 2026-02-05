@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::101 /TEI[1]/text[1]/body[1]/p[1]::107" xml:id="UID-FAKE-1716">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::172 /TEI[1]/text[1]/body[1]/p[1]::181" xml:id="UID-FAKE-1717">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::218 /TEI[1]/text[1]/body[1]/p[1]::236" xml:id="UID-FAKE-1718">
+        <rs ana="https://topostext.org/place/380237SAKa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::361 /TEI[1]/text[1]/body[1]/p[1]::366" xml:id="UID-FAKE-1719">
+        <rs ana="https://topostext.org/place/453343RChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::372 /TEI[1]/text[1]/body[1]/p[1]::379" xml:id="UID-FAKE-1720">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::501 /TEI[1]/text[1]/body[1]/p[1]::510" xml:id="UID-FAKE-1721">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::595 /TEI[1]/text[1]/body[1]/p[1]::601" xml:id="UID-FAKE-1722">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::763 /TEI[1]/text[1]/body[1]/p[1]::769" xml:id="UID-FAKE-1723">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::791 /TEI[1]/text[1]/body[1]/p[1]::795" xml:id="UID-FAKE-1724">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::7 /TEI[1]/text[1]/body[1]/p[2]::17" xml:id="UID-FAKE-1725">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::114 /TEI[1]/text[1]/body[1]/p[2]::124" xml:id="UID-FAKE-1726">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::149 /TEI[1]/text[1]/body[1]/p[2]::160" xml:id="UID-FAKE-1727">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::309 /TEI[1]/text[1]/body[1]/p[2]::317" xml:id="UID-FAKE-1728">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::26 /TEI[1]/text[1]/body[1]/p[3]::35" xml:id="UID-FAKE-1729">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::77 /TEI[1]/text[1]/body[1]/p[3]::84" xml:id="UID-FAKE-1730">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::118 /TEI[1]/text[1]/body[1]/p[3]::127" xml:id="UID-FAKE-1731">
+        <rs ana="https://topostext.org/place/380237SAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::129 /TEI[1]/text[1]/body[1]/p[3]::147" xml:id="UID-FAKE-1732">
+        <rs ana="https://topostext.org/place/380232XBou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::224 /TEI[1]/text[1]/body[1]/p[3]::230" xml:id="UID-FAKE-1733">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::457 /TEI[1]/text[1]/body[1]/p[3]::466" xml:id="UID-FAKE-1734">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::487 /TEI[1]/text[1]/body[1]/p[3]::493" xml:id="UID-FAKE-1735">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::67 /TEI[1]/text[1]/body[1]/p[4]::76" xml:id="UID-FAKE-1736">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::450 /TEI[1]/text[1]/body[1]/p[4]::457" xml:id="UID-FAKE-1737">
+        <rs ana="https://topostext.org/place/374253SSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::179 /TEI[1]/text[1]/body[1]/p[5]::185" xml:id="UID-FAKE-1738">
+        <rs ana="https://topostext.org/place/380232XBou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::415 /TEI[1]/text[1]/body[1]/p[5]::420" xml:id="UID-FAKE-1739">
+        <rs ana="https://topostext.org/place/371254SHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::424 /TEI[1]/text[1]/body[1]/p[5]::430" xml:id="UID-FAKE-1740">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::100 /TEI[1]/text[1]/body[1]/p[6]::106" xml:id="UID-FAKE-1741">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::114" xml:id="UID-FAKE-1742">
+        <rs ana="https://topostext.org/place/380237SApP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::512 /TEI[1]/text[1]/body[1]/p[6]::517" xml:id="UID-FAKE-1743">
+        <rs ana="https://topostext.org/place/380237STyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::13" xml:id="UID-FAKE-1744">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::103 /TEI[1]/text[1]/body[1]/p[7]::108" xml:id="UID-FAKE-1745">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::172 /TEI[1]/text[1]/body[1]/p[7]::177" xml:id="UID-FAKE-1746">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::409 /TEI[1]/text[1]/body[1]/p[7]::416" xml:id="UID-FAKE-1747">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::513 /TEI[1]/text[1]/body[1]/p[7]::520" xml:id="UID-FAKE-1748">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::640 /TEI[1]/text[1]/body[1]/p[7]::646" xml:id="UID-FAKE-1749">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::49 /TEI[1]/text[1]/body[1]/p[8]::54" xml:id="UID-FAKE-1750">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::242 /TEI[1]/text[1]/body[1]/p[8]::255" xml:id="UID-FAKE-1751">
+        <rs ana="https://topostext.org/place/380231LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::330 /TEI[1]/text[1]/body[1]/p[8]::341" xml:id="UID-FAKE-1752">
+        <rs ana="https://topostext.org/place/380233UTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::388 /TEI[1]/text[1]/body[1]/p[8]::397" xml:id="UID-FAKE-1753">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::627 /TEI[1]/text[1]/body[1]/p[8]::633" xml:id="UID-FAKE-1754">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 43</head>
+      <p>They say that there is also a shrine of the heroine Iphigenia; for she too according to them died in Megara. Now I have heard another account of Iphigenia that is given by Arcadians and I know that Hesiod, in his poem Catalogue of Women, says that Iphigenia did not die, but by the will of Artemis is Hecate. With this agrees the account of Herodotus, that the Tauri near Scythia sacrifice castaways to a maiden who they say is Iphigenia, the daughter of Agamemnon. Adrastus also is honored among the Megarians, who say that he too died among them when he was leading back his army after taking Thebes, and that his death was caused by old age and the fate of Aegialeus. A sanctuary of Artemis was made by Agamemnon when he came to persuade Calchas, who dwelt in Megara, to accompany him to Troy.</p>
+      <p>In the Prytaneion are buried, they say, Euippus the son of Megareus and Ischepolis the son of Alcathous. Near the Prytaneion is a rock. They name it Anaclethris (Recall), because Demeter (if the story be credible) here too called her daughter back when she was wandering in search of her. Even in our day the Megarian women hold a performance that is a mimic representation of the legend.</p>
+      <p>In the city are graves of Megarians. They made one for those who died in the Persian invasion, and what is called the Aesymnium (Shrine of Aesymnus) was also a tomb of heroes. When Agamemnon"s son Hyperion, the last king of Megara, was killed by Sandion for his greed and violence, they resolved no longer to be ruled by one king, but to have elected magistrates and to obey one another in turn. Then Aesymnus, who had a reputation second to none among the Megarians, came to the god in Delphi and asked in what way they could be prosperous. The oracle in its reply said that they would fare well if they took counsel with the majority. This utterance they took to refer to the dead, and built a council chamber in this place in order that the grave of their heroes might be within it.</p>
+      <p>Between this and the hero-shrine of Alcathous, which in my day the Megarians used as a record office, was the tomb, they said, of Pyrgo, the wife of Alcathous before he married Euaechme, the daughter of Megareus, and the tomb of Iphinoe, the daughter of Alcathous; she died, they say, a maid. It is customary for the girls to bring libations to the tomb of Iphinoe and to offer a lock of their hair before their wedding, just as the daughters of the Delians once cut their hair for Hecaerge and Opis.</p>
+      <p>Beside the entrance to the sanctuary of Dionysus is the grave of Astycratea and Manto. They were daughters of Polyidus, son of Coeranus, son of Abas, son of Melampus, who came to Megara to purify Alcathous when he had killed his son Callipolis. Polyidus also built the sanctuary of Dionysus, and dedicated a wooden image that in our day is covered up except the face, which alone is exposed. By the side of it is a Satyr of Parian marble made by Praxiteles. This Dionysus they call Patroos (Paternal); but the image of another, that they surname Dasyllius, they say was dedicated by Euchenor, son of Coeranus, son of Polyidus.</p>
+      <p>After the sanctuary of Dionysus is a temple of Aphrodite, with an ivory image of Aphrodite surnamed Praxis (Action). This is the oldest object in the temple. There is also Persuasion and another goddess, whom they name Paregoros (consoler), works of Praxiteles. By Scopas are Eros and Himerus (yearning) and Pothos (desire), if indeed their functions are as different as their names. Near the temple of Aphrodite is a sanctuary of Tyche, the image being one of the works of Praxiteles. In the temple hard by are Muses and a bronze Zeus by Lysippus.</p>
+      <p>The Megarians have also the grave of Coroebus. The poetical story of him, although it equally concerns Argos, I will relate here. They say that in the reign of Crotopus at Argos, Psamathe, the daughter of Crotopus, bore a son to Apollo, and being in dire terror of her father, exposed the child. He was found and destroyed by sheepdogs of Crotopus, and Apollo sent Poine (Vengeance) to the city to punish the Argives. They say that she used to snatch the children from their mothers, until Coroebus to please the Argives slew Poine. Whereat as a second punishment plague fell upon them and stayed not. So Coroebus of his own accord went to Delphi to submit to the punishment of the god for having slain Poine.</p>
+      <p>The Pythia would not allow Coroebus to return to Argos, but ordered him to take up a tripod and carry it out of the sanctuary, and where the tripod should fall from his hands, there he was to build a temple of Apollo and to dwell himself. At Mount Gerania the tripod slipped and fell unawares. Here he dwelt in the village called Tripodiskoi. The grave of Coroebus is in the agora of the Megarians. The story of Psamathe and of Coroebus himself is carved on it in elegiac verses and further, upon the top of the grave is represented Coroebus slaying Poine. These are the oldest stone images I am aware of having seen among the Greeks.</p>
+    </body>
+  </text>
+</TEI>

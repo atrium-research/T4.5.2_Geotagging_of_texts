@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::23 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-697">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::56 /TEI[1]/text[1]/body[1]/p[1]::63" xml:id="UID-FAKE-698">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::118 /TEI[1]/text[1]/body[1]/p[1]::128" xml:id="UID-FAKE-699">
+        <rs ana="https://topostext.org/place/380237SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::31 /TEI[1]/text[1]/body[1]/p[2]::36" xml:id="UID-FAKE-700">
+        <rs ana="https://topostext.org/place/365224SApK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::38 /TEI[1]/text[1]/body[1]/p[2]::45" xml:id="UID-FAKE-701">
+        <rs ana="https://topostext.org/place/380237BGEp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::66 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-702">
+        <rs ana="https://topostext.org/place/365224SApK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::223 /TEI[1]/text[1]/body[1]/p[2]::229" xml:id="UID-FAKE-703">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::318 /TEI[1]/text[1]/body[1]/p[2]::323" xml:id="UID-FAKE-704">
+        <rs ana="https://topostext.org/place/379214STAp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::360 /TEI[1]/text[1]/body[1]/p[2]::367" xml:id="UID-FAKE-705">
+        <rs ana="https://topostext.org/place/380237BGEp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::435 /TEI[1]/text[1]/body[1]/p[2]::441" xml:id="UID-FAKE-706">
+        <rs ana="https://topostext.org/place/365224SApK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::31 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-707">
+        <rs ana="https://topostext.org/place/380237BKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::326 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-708">
+        <rs ana="https://topostext.org/place/380237BLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::522 /TEI[1]/text[1]/body[1]/p[3]::530" xml:id="UID-FAKE-709">
+        <rs ana="https://topostext.org/place/370273UTer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::574 /TEI[1]/text[1]/body[1]/p[3]::580" xml:id="UID-FAKE-710">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::11 /TEI[1]/text[1]/body[1]/p[4]::17" xml:id="UID-FAKE-711">
+        <rs ana="https://topostext.org/place/380237BLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::71 /TEI[1]/text[1]/body[1]/p[4]::77" xml:id="UID-FAKE-712">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::96 /TEI[1]/text[1]/body[1]/p[4]::105" xml:id="UID-FAKE-713">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::271 /TEI[1]/text[1]/body[1]/p[4]::278" xml:id="UID-FAKE-714">
+        <rs ana="https://topostext.org/place/355242PMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::339 /TEI[1]/text[1]/body[1]/p[4]::346" xml:id="UID-FAKE-715">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::363 /TEI[1]/text[1]/body[1]/p[4]::369" xml:id="UID-FAKE-716">
+        <rs ana="https://topostext.org/place/380234UNis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::49 /TEI[1]/text[1]/body[1]/p[5]::57" xml:id="UID-FAKE-717">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::76 /TEI[1]/text[1]/body[1]/p[5]::82" xml:id="UID-FAKE-718">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::105 /TEI[1]/text[1]/body[1]/p[5]::113" xml:id="UID-FAKE-719">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::153 /TEI[1]/text[1]/body[1]/p[5]::159" xml:id="UID-FAKE-720">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::172 /TEI[1]/text[1]/body[1]/p[5]::178" xml:id="UID-FAKE-721">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::371 /TEI[1]/text[1]/body[1]/p[5]::380" xml:id="UID-FAKE-722">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::447 /TEI[1]/text[1]/body[1]/p[5]::456" xml:id="UID-FAKE-723">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::471 /TEI[1]/text[1]/body[1]/p[5]::477" xml:id="UID-FAKE-724">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::549 /TEI[1]/text[1]/body[1]/p[5]::556" xml:id="UID-FAKE-725">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::603 /TEI[1]/text[1]/body[1]/p[5]::617" xml:id="UID-FAKE-726">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::662 /TEI[1]/text[1]/body[1]/p[5]::668" xml:id="UID-FAKE-727">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::11 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-728">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::39 /TEI[1]/text[1]/body[1]/p[6]::44" xml:id="UID-FAKE-729">
+        <rs ana="https://topostext.org/place/380237UAgr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::153 /TEI[1]/text[1]/body[1]/p[6]::158" xml:id="UID-FAKE-730">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::407 /TEI[1]/text[1]/body[1]/p[6]::413" xml:id="UID-FAKE-731">
+        <rs ana="https://topostext.org/place/380237WIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::497 /TEI[1]/text[1]/body[1]/p[6]::505" xml:id="UID-FAKE-732">
+        <rs ana="https://topostext.org/place/385225BSta"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::535 /TEI[1]/text[1]/body[1]/p[6]::543" xml:id="UID-FAKE-733">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 19</head>
+      <p>Close to the temple of Olympian Zeus is a statue of the Pythian Apollo. There is another sanctuary of Apollo surnamed Delphinius. The story has it that when the temple was finished with the exception of the roof, Theseus arrived in the city, a stranger as yet to everybody. When he came to the temple of the Delphinian, wearing a tunic that reached to his feet and with his hair neatly plaited, those who were building the roof mockingly inquired what a marriageable virgin was doing wandering about by herself. The only answer that Theseus made was to loose, it is said, the oxen from the cart hard by, and to throw them higher than the roof of the temple they were building.</p>
+      <p>Concerning the district called Kepoi (Gardens), and the temple of Aphrodite, there is no story that is told by them, nor yet about the Aphrodite which stands near the temple. Now the shape of it is square, like that of the Hermae, and the inscription declares that the Heavenly Aphrodite is the oldest of those called Fates. But the statue of Aphrodite in the Gardens is the work of Alcamenes, and one of the most noteworthy things in Athens.</p>
+      <p>There is also the place called Cynosarges, sacred to Heracles; the story of the white dog may be known by reading the oracle. There are altars of Heracles and Hebe, who they think is the daughter of Zeus and wife to Heracles. An altar has been built to Alcmena and to Iolaus, who shared with Heracles most of his labours. The Lyceum has its name from Lycus, the son of Pandion, but it was considered sacred to Apollo from the beginning down to my time, and here was the god first named Lyceius. There is a legend that the Termilae also, to whom Lycus came when he fled from Aegeus, were called Lycii after him.</p>
+      <p>Behind the Lyceum is a monument of Nisus, who was killed while king of Megara by Minos, and the Athenians carried him here and buried him. About this Nisus there is a legend. His hair, they say, was red, and it was fated that he should die on its being cut off. When the Cretans attacked the country, they captured the other cities of the Megarid by assault, but Nisaea, in which Nisus had taken refuge, they beleaguered. The story says how the daughter of Nisus, falling in love here with Minos, cut off her father"s hair.</p>
+      <p>Such is the legend. The rivers that flow through Athenian territory are the Ilisus and its tributary the Eridanus, whose name is the same as that of the Celtic river. This Ilisus is the river by which Oreithyia was playing when, according to the story, she was carried off by the North Wind. With Oreithyia he lived in wedlock, and because of the tie between him and the Athenians he helped them by destroying most of the foreigners"warships. The Athenians hold that the Ilisus is sacred to other deities as well, and on its bank is an altar of the Ilisian Muses. The place too is pointed out where the Peloponnesians killed Codrus, son of Melanthus and king of Athens.</p>
+      <p>Across the Ilisus is a district called Agrae and a temple of Artemis Agrotera (the Huntress). They say that Artemis first hunted here when she came from Delos, and for this reason the statue carries a bow. A marvel to the eyes, though not so impressive to hear of, is a race-course of white marble, the size of which can best be estimated from the fact that beginning in a crescent on the heights above the Ilisus it descends in two straight lines to the river bank. This was built by Herodes, an Athenian, and the greater part of the Pentelic quarry was exhausted in its construction.</p>
+    </body>
+  </text>
+</TEI>

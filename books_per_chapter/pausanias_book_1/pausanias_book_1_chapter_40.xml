@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::349 /TEI[1]/text[1]/body[1]/p[1]::356" xml:id="UID-FAKE-1607">
+        <rs ana="https://topostext.org/place/380233BThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::369 /TEI[1]/text[1]/body[1]/p[1]::378" xml:id="UID-FAKE-1608">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::392 /TEI[1]/text[1]/body[1]/p[1]::399" xml:id="UID-FAKE-1609">
+        <rs ana="https://topostext.org/place/380233BThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::586 /TEI[1]/text[1]/body[1]/p[1]::593" xml:id="UID-FAKE-1610">
+        <rs ana="https://topostext.org/place/380231LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::659 /TEI[1]/text[1]/body[1]/p[1]::666" xml:id="UID-FAKE-1611">
+        <rs ana="https://topostext.org/place/380231LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::668 /TEI[1]/text[1]/body[1]/p[1]::678" xml:id="UID-FAKE-1612">
+        <rs ana="https://topostext.org/place/380231LGer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::93 /TEI[1]/text[1]/body[1]/p[2]::98" xml:id="UID-FAKE-1613">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::242 /TEI[1]/text[1]/body[1]/p[2]::249" xml:id="UID-FAKE-1614">
+        <rs ana="https://topostext.org/place/380233BThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::271 /TEI[1]/text[1]/body[1]/p[2]::280" xml:id="UID-FAKE-1615">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::284 /TEI[1]/text[1]/body[1]/p[2]::290" xml:id="UID-FAKE-1616">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::115 /TEI[1]/text[1]/body[1]/p[3]::124" xml:id="UID-FAKE-1617">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::393 /TEI[1]/text[1]/body[1]/p[3]::399" xml:id="UID-FAKE-1618">
+        <rs ana="https://topostext.org/place/380237SATG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::65 /TEI[1]/text[1]/body[1]/p[4]::74" xml:id="UID-FAKE-1619">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::191 /TEI[1]/text[1]/body[1]/p[4]::205" xml:id="UID-FAKE-1620">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::218 /TEI[1]/text[1]/body[1]/p[4]::227" xml:id="UID-FAKE-1621">
+        <rs ana="https://topostext.org/place/376216BOPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::242 /TEI[1]/text[1]/body[1]/p[4]::251" xml:id="UID-FAKE-1622">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::287 /TEI[1]/text[1]/body[1]/p[4]::296" xml:id="UID-FAKE-1623">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::102 /TEI[1]/text[1]/body[1]/p[5]::109" xml:id="UID-FAKE-1624">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::137 /TEI[1]/text[1]/body[1]/p[5]::146" xml:id="UID-FAKE-1625">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::161" xml:id="UID-FAKE-1626">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::225 /TEI[1]/text[1]/body[1]/p[5]::234" xml:id="UID-FAKE-1627">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::329 /TEI[1]/text[1]/body[1]/p[5]::338" xml:id="UID-FAKE-1628">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::391 /TEI[1]/text[1]/body[1]/p[5]::398" xml:id="UID-FAKE-1629">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::408 /TEI[1]/text[1]/body[1]/p[5]::417" xml:id="UID-FAKE-1630">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::466 /TEI[1]/text[1]/body[1]/p[5]::476" xml:id="UID-FAKE-1631">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::503 /TEI[1]/text[1]/body[1]/p[5]::510" xml:id="UID-FAKE-1632">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::542 /TEI[1]/text[1]/body[1]/p[5]::551" xml:id="UID-FAKE-1633">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::106 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-1634">
+        <rs ana="https://topostext.org/place/377284UNea"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::447 /TEI[1]/text[1]/body[1]/p[6]::465" xml:id="UID-FAKE-1635">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 40</head>
+      <p>There is in the city a fountain, which was built for the citizens by Theagenes, whom I have mentioned previously as having given his daughter in marriage to Cylon the Athenian. This Theagenes upon becoming tyrant built the fountain, which is noteworthy for its size, beauty and the number of its pillars. Water flows into it called the water of the Sithnid nymphs. The Megarians say that the Sithnid nymphs are native, and that one of them mated with Zeus; that Megarus, a son of Zeus and of this nymph, escaped the flood in the time of Deucalion, and made his escape to the heights of Gerania. The mountain had not yet received this name, but was then named Gerania (Crane Hill) because cranes were flying and Megarus swam towards the cry of the birds.</p>
+      <p>Not far from this fountain is an ancient sanctuary, and in our day likenesses stand in it of Roman emperors, and a bronze image is there of Artemis surnamed Saviour. There is a story that a detachment of the army of Mardonius, having overrun Megaris, wished to return to Mardonius at Thebes, but that by the will of Artemis night came on them as they marched, and missing their way they turned into the hilly region. Trying to find out whether there was a hostile force near they shot some missiles. The rock near groaned when struck, and they shot again with greater eagerness,</p>
+      <p>until at last they used up all their arrows thinking that they were shooting at the enemy. When the day broke, the Megarians attacked, and being men in armour fighting against men without armour who no longer had even a supply of missiles, they killed the greater number of their opponents. For this reason they had an image made of Artemis Saviour. Here are also images of the gods named the Twelve, said to be the work of Praxiteles. But the image of Artemis herself was made by Strongylion.</p>
+      <p>After this when you have entered the precinct of Zeus called the Olympieum you see a noteworthy temple. But the image of Zeus was not finished, for the work was interrupted by the war of the Peloponnesians against the Athenians, in which the Athenians every year ravaged the land of the Megarians with a fleet and an army, damaging public revenues and bringing private families to dire distress. The face of the image of Zeus is of ivory and gold, the other parts are of clay and gypsum. The artist is said to have been Theocosmus, a native, helped by Pheidias. Above the head of Zeus are the Seasons and Fates, and all may see that he is the only god obeyed by Destiny, and that he apportions the seasons as is due. Behind the temple lie half-worked pieces of wood, which Theocosmus intended to overlay with ivory and gold in order a complete the image of Zeus.</p>
+      <p>In the temple itself is dedicated a bronze ram of a galley. This ship they say that they captured off Salamis in a naval action with the Athenians. The Athenians too admit that for a time they evacuated the island before the Megarians, saying that afterwards Solon wrote elegiac poems and encouraged them, and that thereupon the Athenians challenged their enemies, won the war and recovered Salamis. But the Megarians say that exiles from themselves, whom they call Dorycleans, reached the colonists in Salamis and betrayed the island to the Athenians.</p>
+      <p>After the precinct of Zeus, when you have ascended the acropolis, which even at the present day is called Caria from Car, son of Phoroneus, you see a temple of Dionysus Nyctelius (Nocturnal), a sanctuary built to Aphrodite Epistrophia (She who turns men to love), an oracle called that of Night and a temple of Zeus Conius (Dusty) without a roof. The image of Asclepius and also that of Health were made by Bryaxis. Here too is what is called the Megaron of Demeter, built, they say, by Car when he was king.</p>
+    </body>
+  </text>
+</TEI>

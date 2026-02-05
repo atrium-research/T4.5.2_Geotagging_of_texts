@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::19 /TEI[1]/text[1]/body[1]/p[1]::28" xml:id="UID-FAKE-779">
+        <rs ana="https://topostext.org/place/380237BDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::346 /TEI[1]/text[1]/body[1]/p[1]::359" xml:id="UID-FAKE-780">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::368 /TEI[1]/text[1]/body[1]/p[1]::374" xml:id="UID-FAKE-781">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::115 /TEI[1]/text[1]/body[1]/p[2]::123" xml:id="UID-FAKE-782">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::64 /TEI[1]/text[1]/body[1]/p[3]::73" xml:id="UID-FAKE-783">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::248 /TEI[1]/text[1]/body[1]/p[3]::257" xml:id="UID-FAKE-784">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::399 /TEI[1]/text[1]/body[1]/p[3]::412" xml:id="UID-FAKE-785">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::18 /TEI[1]/text[1]/body[1]/p[4]::26" xml:id="UID-FAKE-786">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::27 /TEI[1]/text[1]/body[1]/p[4]::36" xml:id="UID-FAKE-787">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::184 /TEI[1]/text[1]/body[1]/p[4]::189" xml:id="UID-FAKE-788">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::227 /TEI[1]/text[1]/body[1]/p[4]::233" xml:id="UID-FAKE-789">
+        <rs ana="https://topostext.org/place/376145RSic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::48" xml:id="UID-FAKE-790">
+        <rs ana="https://topostext.org/place/490315RSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::111 /TEI[1]/text[1]/body[1]/p[5]::117" xml:id="UID-FAKE-791">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::162 /TEI[1]/text[1]/body[1]/p[5]::172" xml:id="UID-FAKE-792">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::750 /TEI[1]/text[1]/body[1]/p[6]::756" xml:id="UID-FAKE-793">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::280 /TEI[1]/text[1]/body[1]/p[7]::287" xml:id="UID-FAKE-794">
+        <rs ana="https://topostext.org/place/385230SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::330 /TEI[1]/text[1]/body[1]/p[7]::336" xml:id="UID-FAKE-795">
+        <rs ana="https://topostext.org/place/385233SPto"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 21</head>
+      <p>In the theater the Athenians have portrait statues of poets, both tragic and comic, but they are mostly of undistinguished persons. With the exception of Menander no poet of comedy represented here won a reputation, but tragedy has two illustrious representatives, Euripides and Sophocles. There is a legend that after the death of Sophocles the Lacedemonians invaded Attica, and their commander saw in a vision Dionysus, who bade him honor, with all the customary honors of the dead, the new Siren. He interpreted the dream as referring to Sophocles and his poetry, and down to the present day men are wont to liken to a Siren whatever is charming in both poetry and prose.</p>
+      <p>The likeness of Aeschylus is, I think, much later than his death and than the painting which depicts the action at Marathon Aeschylus himself said that when a youth he slept while watching grapes in a field, and that Dionysus appeared and bade him write tragedy. When day came, in obedience to the vision, he made an attempt and hereafter found composing quite easy.</p>
+      <p>Such were his words. On the South wall, as it is called, of the Acropolis, which faces the theater, there is dedicated a gilded head of Medusa the Gorgon, and round it is wrought an aegis. At the top of the theater is a cave in the rocks under the Acropolis. This also has a tripod over it, wherein are Apollo and Artemis slaying the children of Niobe. This Niobe I myself saw when I had gone up to Mount Sipylus. When you are near it is a beetling crag, with not the slightest resemblance to a woman, mourning or otherwise; but if you go further away you will think you see a woman in tears, with head bowed down.</p>
+      <p>On the way to the Athenian Acropolis from the theater is the tomb of Calos. Daedalus murdered this Calos, who was his sister"s son and a student of his craft, and therefore he fled to Crete; afterwards he escaped to Cocalus in Sicily. The sanctuary of Asclepius is worth seeing both for its paintings and for the statues of the god and his children. In it there is a spring, by which they say that Poseidon"s son Halirrhothius deflowered Alcippe the daughter of Ares, who killed the ravisher and was the first to be put on his trial for the shedding of blood.</p>
+      <p>Among the votive offerings there is a Sauromatic breast plate. On seeing this a man will say that no less than Greeks are foreigners skilled in the arts. For the Sauromatae have no iron, neither mined by themselves nor yet imported. They have, in fact, no dealings at all with the foreigners around them. To meet this deficiency they have contrived inventions. In place of iron they use bone for their spear-blades, and cornel-wood for their bows and arrows, with bone points for the arrows. They throw a lasso round any enemy they meet, and then turning round their horses upset the enemy caught in the lasso.</p>
+      <p>Their breastplates they make in the following fashion. Each man keeps many mares, since the land is not divided into private allotments, nor does it bear any thing except wild trees, as the people are nomads. These mares they not only use for war, but also sacrifice them to the local gods and eat them for food. Their hoofs they collect, clean, split, and make from them as it were python scales. Whoever has never seen a python must at least have seen a pine-cone still green. He will not be mistaken if he liken the product from the hoof to the segments that are seen on the pine-cone. These pieces they bore and stitch together with the sinews of horses and oxen, and then use them as breastplates that are as handsome and strong as those of the Greeks. For they can withstand blows of missiles and those struck in close combat.</p>
+      <p>Linen breastplates are not so useful to fighters, for they let the iron pass through, if the blow be a violent one. They aid hunters, how ever, for the teeth of lions or leopards break off in them. You may see linen breastplates dedicated in other sanctuaries, notably in that at Gryneum, where there is a most beautiful grove of Apollo, with cultivated trees, and all those which, although they bear no fruit, are pleasing to smell or look upon.</p>
+    </body>
+  </text>
+</TEI>

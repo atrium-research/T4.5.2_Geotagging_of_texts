@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::12 /TEI[1]/text[1]/body[1]/p[1]::44" xml:id="UID-FAKE-180">
+        <rs ana="https://topostext.org/place/380237BBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::69" xml:id="UID-FAKE-181">
+        <rs ana="https://topostext.org/place/380237BTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::71 /TEI[1]/text[1]/body[1]/p[1]::82" xml:id="UID-FAKE-182">
+        <rs ana="https://topostext.org/place/380237BTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::227 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-183">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-184">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::235 /TEI[1]/text[1]/body[1]/p[2]::244" xml:id="UID-FAKE-185">
+        <rs ana="https://topostext.org/place/380237SLeo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::379 /TEI[1]/text[1]/body[1]/p[2]::387" xml:id="UID-FAKE-186">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::421 /TEI[1]/text[1]/body[1]/p[2]::432" xml:id="UID-FAKE-187">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::239 /TEI[1]/text[1]/body[1]/p[3]::245" xml:id="UID-FAKE-188">
+        <rs ana="https://topostext.org/place/383238UNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::454 /TEI[1]/text[1]/body[1]/p[3]::464" xml:id="UID-FAKE-189">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::486 /TEI[1]/text[1]/body[1]/p[3]::492" xml:id="UID-FAKE-190">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::544 /TEI[1]/text[1]/body[1]/p[3]::550" xml:id="UID-FAKE-191">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::669 /TEI[1]/text[1]/body[1]/p[3]::676" xml:id="UID-FAKE-192">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::713 /TEI[1]/text[1]/body[1]/p[3]::721" xml:id="UID-FAKE-193">
+        <rs ana="https://topostext.org/place/391237PPep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::725 /TEI[1]/text[1]/body[1]/p[3]::739" xml:id="UID-FAKE-194">
+        <rs ana="https://topostext.org/place/391237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::745 /TEI[1]/text[1]/body[1]/p[3]::751" xml:id="UID-FAKE-195">
+        <rs ana="https://topostext.org/place/380237SPnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::30 /TEI[1]/text[1]/body[1]/p[4]::40" xml:id="UID-FAKE-196">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::74 /TEI[1]/text[1]/body[1]/p[4]::80" xml:id="UID-FAKE-197">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::128 /TEI[1]/text[1]/body[1]/p[4]::137" xml:id="UID-FAKE-198">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::317 /TEI[1]/text[1]/body[1]/p[4]::323" xml:id="UID-FAKE-199">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::496 /TEI[1]/text[1]/body[1]/p[4]::501" xml:id="UID-FAKE-200">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::661 /TEI[1]/text[1]/body[1]/p[4]::670" xml:id="UID-FAKE-201">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::14 /TEI[1]/text[1]/body[1]/p[5]::22" xml:id="UID-FAKE-202">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::145 /TEI[1]/text[1]/body[1]/p[5]::151" xml:id="UID-FAKE-203">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::168 /TEI[1]/text[1]/body[1]/p[5]::176" xml:id="UID-FAKE-204">
+        <rs ana="https://topostext.org/place/264318UPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::414 /TEI[1]/text[1]/body[1]/p[5]::421" xml:id="UID-FAKE-205">
+        <rs ana="https://topostext.org/place/380237BHli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::429 /TEI[1]/text[1]/body[1]/p[5]::434" xml:id="UID-FAKE-206">
+        <rs ana="https://topostext.org/place/320350RPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::613 /TEI[1]/text[1]/body[1]/p[5]::618" xml:id="UID-FAKE-207">
+        <rs ana="https://topostext.org/place/380237FHGa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::737 /TEI[1]/text[1]/body[1]/p[5]::743" xml:id="UID-FAKE-208">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 5</head>
+      <p>Near to the Bouleuterion of the Five Hundred is what is called Tholos (Round House); here the presidents sacrifice, and there are a few small statues made of silver. Farther up stand statues of heroes, from whom afterwards the Athenian tribes received their names. Who the man was who established ten tribes instead of four, and changed their old names to new ones — all this is told by Herodotus.</p>
+      <p>The Eponymoi — this is the name given to them — are Hippothoon son of Poseidon and Alope daughter of Cercyon, Antiochus, one of the children of Heracles borne to him by Meda daughter of Phylas, thirdly, Ajax son of Telamon, and to the Athenians belongs Leos, who is said to have given up his daughters, at the command of the oracle, for the safety of the commonwealth. Among the Eponymoi is Erechtheus, who conquered the Eleusinians in battle, and killed their general, Immaradus the son of Eumolpus. There is Aegeus also and Oeneus the bastard son of Pandion, and Acamas, one of the children of Theseus.</p>
+      <p>I saw also among the eponymoi, statues of Cecrops and Pandion, but I do not know who of those names are thus honored. For there was an earlier ruler Cecrops who took to wife the daughter of Actaeus, and a later — he it was who migrated to Euboea — son of Erechtheus, son of Pandion, son of Erichthonius. And there was a king Pandion who was son of Erichthonius, and another who was son of Cecrops the second. This man was deposed from his kingdom by the Metionidae, and when he fled to Megara — for he had to wife the daughter of Pylas king of Megara — his children were banished with him. And Pandion is said to have fallen ill there and died, and on the coast of the Megarid is his tomb, on the rock called the Skopelos of Athena Aithyia (the Gannet).</p>
+      <p>But his children expelled the Metionidae, and returned from banishment at Megara, and Aegeus, as the eldest, became king of the Athenians. But in rearing daughters Pandion was unlucky, nor did they leave any sons to avenge him. And yet it was for the sake of power that he made the marriage alliance with the king of Thrace. But there is no way for a mortal to overstep what the deity thinks fit to send. They say that Tereus, though wedded to Procne, dishonored Philomela, thereby transgressing Greek custom, and further, having mangled the body of the damsel, constrained the women to avenge her. There is another statue, well worth seeing, of Pandion on the Acropolis.</p>
+      <p>These are the Athenian eponymoi who belong to the ancients. And of later date than these they have tribes named after the following, Attalus the Mysian and Ptolemy the Egyptian, and within my own time the emperor Hadrian, who was extremely religious in the respect he paid to the deity and contributed very much to the happiness of his various subjects. He never voluntarily entered upon a war, but he reduced the Hebrews beyond Syria, who had rebelled. As for the sanctuaries of the gods that in some cases he built from the beginning, in others adorned with offerings and furniture, and the bounties he gave to Greek cities, and sometimes even to foreigners who asked him, all these acts are inscribed in his honor in the sanctuary at Athens common to all the gods.</p>
+    </body>
+  </text>
+</TEI>

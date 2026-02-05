@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::27 /TEI[1]/text[1]/body[1]/p[1]::34" xml:id="UID-FAKE-1225">
+        <rs ana="https://topostext.org/place/380237XAPH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::105 /TEI[1]/text[1]/body[1]/p[1]::113" xml:id="UID-FAKE-1226">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::191 /TEI[1]/text[1]/body[1]/p[1]::201" xml:id="UID-FAKE-1227">
+        <rs ana="https://topostext.org/place/380237SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::203 /TEI[1]/text[1]/body[1]/p[1]::218" xml:id="UID-FAKE-1228">
+        <rs ana="https://topostext.org/place/380237SATG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::275 /TEI[1]/text[1]/body[1]/p[1]::283" xml:id="UID-FAKE-1229">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::7 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-1230">
+        <rs ana="https://topostext.org/place/380237XAPH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::17 /TEI[1]/text[1]/body[1]/p[3]::24" xml:id="UID-FAKE-1231">
+        <rs ana="https://topostext.org/place/380237XAPH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::391 /TEI[1]/text[1]/body[1]/p[3]::397" xml:id="UID-FAKE-1232">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::423 /TEI[1]/text[1]/body[1]/p[3]::431" xml:id="UID-FAKE-1233">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::443 /TEI[1]/text[1]/body[1]/p[3]::449" xml:id="UID-FAKE-1234">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::590 /TEI[1]/text[1]/body[1]/p[3]::596" xml:id="UID-FAKE-1235">
+        <rs ana="https://topostext.org/place/375324RLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-1236">
+        <rs ana="https://topostext.org/place/381236XKol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::215 /TEI[1]/text[1]/body[1]/p[4]::221" xml:id="UID-FAKE-1237">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::546 /TEI[1]/text[1]/body[1]/p[4]::552" xml:id="UID-FAKE-1238">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::602 /TEI[1]/text[1]/body[1]/p[4]::611" xml:id="UID-FAKE-1239">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 30</head>
+      <p>Before the entrance to the Academy is an altar to Eros, with an inscription that CharmusYY was the first Athenian to dedicate an altar to that god. The altar within the city called the altar of Anteros (Reciprocal Love) they say was dedicated by resident aliens, because the Athenian Meles, spurning the love of Timagoras, a resident alien, bade him ascend to the highest point of the rock and cast himself down. Now Timagoras took no account of his life, and was ready to gratify the youth in any of his requests, so he went and cast himself down. When Meles saw that Timagoras was dead, he suffered such pangs of remorse that he threw himself from the same rock and so died. From this time the resident aliens worshipped as Anteros the avenging spirit of Timagoras.</p>
+      <p>In the Academy is an altar to Prometheus, and from it they run to the city carrying burning torches. The contest is while running to keep the torch still alight; if the torch of the first runner goes out, he has no longer any claim to victory, but the second runner has. If his torch also goes out, then the third man is the victor. If all the torches go out, no one is left to be winner. There is an altar to the Muses, and another to Hermes, and one within to Athena, and they have built one to Heracles. There is also an olive tree, accounted to be the second that appeared.</p>
+      <p>Not far from the Academy is the monument of Plato, to whom heaven foretold that he would be the prince of philosophers. The manner of the foretelling was this. On the night before Plato was to become his pupil Socrates in a dream saw a swan fly into his bosom. Now the swan is a bird with a reputation for music, because, they say, a musician of the name of Cycnus (swan) became king of the Ligyes on the other side of the Eridanus beyond the Celtic territory, and after his death by the will of Apollo he was changed into the bird. I am ready to believe that a musician became king of the Ligyes, but I cannot believe that a bird grew out of a man.</p>
+      <p>In this part of the country is seen the tower of Timon, the only man to see that there is no way to be happy except to shun other men. There is also pointed out a place called the Hill of Horses, the first point in Attica, they say, that Oedipus reached — this account too differs from that given by Homer, but it is nevertheless current tradition — and an altar to Poseidon Hippios, and to Athena Hippia, and a heroon for Peirithous and Theseus, Oedipus and Adrastus. The grove of Poseidon and the temple were burnt by Antigonus when he invaded Attica, who at other times also ravaged the land of the Athenians.</p>
+    </body>
+  </text>
+</TEI>

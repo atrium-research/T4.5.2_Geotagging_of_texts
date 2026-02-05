@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-647">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::275 /TEI[1]/text[1]/body[1]/p[1]::284" xml:id="UID-FAKE-648">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::27 /TEI[1]/text[1]/body[1]/p[2]::35" xml:id="UID-FAKE-649">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::437 /TEI[1]/text[1]/body[1]/p[2]::446" xml:id="UID-FAKE-650">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::469 /TEI[1]/text[1]/body[1]/p[2]::477" xml:id="UID-FAKE-651">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::501 /TEI[1]/text[1]/body[1]/p[2]::510" xml:id="UID-FAKE-652">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::603 /TEI[1]/text[1]/body[1]/p[2]::612" xml:id="UID-FAKE-653">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::15 /TEI[1]/text[1]/body[1]/p[3]::24" xml:id="UID-FAKE-654">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::59 /TEI[1]/text[1]/body[1]/p[3]::64" xml:id="UID-FAKE-655">
+        <rs ana="https://topostext.org/place/380237BPny"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::285 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-656">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::297 /TEI[1]/text[1]/body[1]/p[3]::305" xml:id="UID-FAKE-657">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::74 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-658">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::101 /TEI[1]/text[1]/body[1]/p[4]::110" xml:id="UID-FAKE-659">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::127 /TEI[1]/text[1]/body[1]/p[4]::134" xml:id="UID-FAKE-660">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::143 /TEI[1]/text[1]/body[1]/p[4]::151" xml:id="UID-FAKE-661">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::167 /TEI[1]/text[1]/body[1]/p[4]::174" xml:id="UID-FAKE-662">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::197 /TEI[1]/text[1]/body[1]/p[4]::207" xml:id="UID-FAKE-663">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::223 /TEI[1]/text[1]/body[1]/p[4]::230" xml:id="UID-FAKE-664">
+        <rs ana="https://topostext.org/place/298313PMem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::333 /TEI[1]/text[1]/body[1]/p[4]::340" xml:id="UID-FAKE-665">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::437 /TEI[1]/text[1]/body[1]/p[4]::446" xml:id="UID-FAKE-666">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::465 /TEI[1]/text[1]/body[1]/p[4]::475" xml:id="UID-FAKE-667">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::68 /TEI[1]/text[1]/body[1]/p[5]::80" xml:id="UID-FAKE-668">
+        <rs ana="https://topostext.org/place/371252SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::84 /TEI[1]/text[1]/body[1]/p[5]::89" xml:id="UID-FAKE-669">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::130 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-670">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::174 /TEI[1]/text[1]/body[1]/p[5]::181" xml:id="UID-FAKE-671">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::239 /TEI[1]/text[1]/body[1]/p[5]::246" xml:id="UID-FAKE-672">
+        <rs ana="https://topostext.org/place/353253WAmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::283 /TEI[1]/text[1]/body[1]/p[5]::290" xml:id="UID-FAKE-673">
+        <rs ana="https://topostext.org/place/353252UAmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::298 /TEI[1]/text[1]/body[1]/p[5]::306" xml:id="UID-FAKE-674">
+        <rs ana="https://topostext.org/place/353252PKno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::363 /TEI[1]/text[1]/body[1]/p[5]::372" xml:id="UID-FAKE-675">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::452 /TEI[1]/text[1]/body[1]/p[5]::458" xml:id="UID-FAKE-676">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::554 /TEI[1]/text[1]/body[1]/p[5]::559" xml:id="UID-FAKE-677">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::40 /TEI[1]/text[1]/body[1]/p[6]::48" xml:id="UID-FAKE-678">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::68 /TEI[1]/text[1]/body[1]/p[6]::73" xml:id="UID-FAKE-679">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::197 /TEI[1]/text[1]/body[1]/p[6]::203" xml:id="UID-FAKE-680">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::208 /TEI[1]/text[1]/body[1]/p[6]::212" xml:id="UID-FAKE-681">
+        <rs ana="https://topostext.org/place/380237ASHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::386 /TEI[1]/text[1]/body[1]/p[6]::393" xml:id="UID-FAKE-682">
+        <rs ana="https://topostext.org/place/407247RAin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::408 /TEI[1]/text[1]/body[1]/p[6]::416" xml:id="UID-FAKE-683">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::468 /TEI[1]/text[1]/body[1]/p[6]::477" xml:id="UID-FAKE-684">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::660 /TEI[1]/text[1]/body[1]/p[6]::669" xml:id="UID-FAKE-685">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::101 /TEI[1]/text[1]/body[1]/p[7]::106" xml:id="UID-FAKE-686">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::116 /TEI[1]/text[1]/body[1]/p[7]::124" xml:id="UID-FAKE-687">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::342 /TEI[1]/text[1]/body[1]/p[8]::351" xml:id="UID-FAKE-688">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::379 /TEI[1]/text[1]/body[1]/p[8]::387" xml:id="UID-FAKE-689">
+        <rs ana="https://topostext.org/place/392306UMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::398 /TEI[1]/text[1]/body[1]/p[8]::406" xml:id="UID-FAKE-690">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::510 /TEI[1]/text[1]/body[1]/p[8]::518" xml:id="UID-FAKE-691">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::528 /TEI[1]/text[1]/body[1]/p[8]::537" xml:id="UID-FAKE-692">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::616 /TEI[1]/text[1]/body[1]/p[8]::622" xml:id="UID-FAKE-693">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::49 /TEI[1]/text[1]/body[1]/p[9]::58" xml:id="UID-FAKE-694">
+        <rs ana="https://topostext.org/place/380237BHli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::187 /TEI[1]/text[1]/body[1]/p[9]::195" xml:id="UID-FAKE-695">
+        <rs ana="https://topostext.org/place/380237BHli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::539 /TEI[1]/text[1]/body[1]/p[9]::545" xml:id="UID-FAKE-696">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 18</head>
+      <p>The sanctuary of the Dioscuri is ancient. They themselves are represented as standing, while their sons are seated on horses. Here Polygnotus has painted the marriage of the daughters of Leucippus, was a part of the gods"history, but Micon those who sailed with Jason to the Colchians, and he has concentrated his attention upon Acastus and his horses.</p>
+      <p>Above the sanctuary of the Dioscuri is a sacred enclosure of Aglaurus. It was to Aglaurus and her sisters, Herse and Pandrosus, that they say Athena gave Erichthonius, whom she had hidden in a chest, forbidding them to pry curiously into what was entrusted to their charge. Pandrosus, they say, obeyed, but the other two (for they opened the chest) went mad when they saw Erichthonius, and threw themselves down the steepest part of the Acropolis. Here it was that the Persians climbed and killed the Athenians who thought that they understood the oracle better than did Themistocles, and fortified the Acropolis with logs and stakes.</p>
+      <p>Hard by is the Prytaneum (Town-hall), in which the laws of Solon are inscribed, and figures are placed of the goddesses Peace and Hestia (Hearth), while among the statues is Autolycus the pancratiast. For the likenesses of Miltiades and Themistocles have had their titles changed to a Roman and a Thracian.</p>
+      <p>As you descend from here to the lower part of the city, is a sanctuary of Serapis, whose worship the Athenians introduced from Ptolemy. Of the Egyptian sanctuaries of Serapis the most famous is at Alexandria, the oldest at Memphis. Into this neither stranger nor priest may enter, until they bury Apis. Not far from the sanctuary of Serapis is the place where they say that Peirithous and Theseus made their pact before setting forth to Lacedemon and afterwards to Thesprotia.</p>
+      <p>Hard by is built a temple of Eileithyia, who they say came from the Hyperboreans to Delos and helped Leto in her labour; and from Delos the name spread to other peoples. The Delians sacrifice to Eileithyia and sing a hymn of Olen. But the Cretans suppose that Eileithyia was born at Amnisus in the Cnossian territory, and that Hera was her mother. Only among the Athenians are the xoana of Eileithyia draped to the feet. The women told me that two are Cretan, being offerings of Phaedra, and that the third, which is the oldest, Erysichthon brought from Delos.</p>
+      <p>Before the entrance to the sanctuary of Olympian Zeus — Hadrian the Roman emperor dedicated the temple and the statue, one worth seeing, which in size exceeds all other statues save the colossi at Rhodes and Rome, and is made of ivory and gold with an artistic skill which is remarkable when the size is taken into account — before the entrance, I say, stand statues of Hadrian, two of Thasian stone, two of Egyptian. Before the pillars stand bronze statues which the Athenians call “colonies.” The whole circumference of the precincts is about four stades, and they are full of statues; for every city has dedicated a likeness of the emperor Hadrian, and the Athenians have surpassed them in dedicating, behind the temple, the remarkable colossus.</p>
+      <p>Within the precincts are antiquities: a bronze Zeus, a temple of Cronus and Rhea and an enclosure of Earth surnamed Olympian. Here the floor opens to the width of a cubit, and they say that along this bed flowed off the water after the deluge that occurred in the time of Deucalion, and into it they cast every year wheat meal mixed with honey.</p>
+      <p>On a pillar is a statue of Isocrates, whose memory is remarkable for three things: his diligence in continuing to teach to the end of his ninety-eight years, his self-restraint in keeping aloof from politics and from interfering with public affairs, and his love of liberty in dying a voluntary death, distressed at the news of the battle at Chaeronea. There are also statues in Phrygian marble of Persians supporting a bronze tripod; both the figures and the tripod are worth seeing. The ancient sanctuary of Olympian Zeus the Athenians say was built by Deucalion, and they cite as evidence that Deucalion lived at Athens a grave which is not far from the present temple.</p>
+      <p>Hadrian constructed other buildings also for the Athenians: a temple of Hera and Zeus Panhellenios, and a shared sanctuary for all the gods, and, most famous of all, a hundred pillars of Phrygian marble [Hadrian"s library]. The walls too are constructed of the same material as the cloisters. And there are rooms there adorned with a gilded roof and with alabaster stone, as well as with statues and paintings. In them are kept books. There is also a gymnasium named after Hadrian; of this too the pillars are a hundred in number from the Libyan quarries.</p>
+    </body>
+  </text>
+</TEI>

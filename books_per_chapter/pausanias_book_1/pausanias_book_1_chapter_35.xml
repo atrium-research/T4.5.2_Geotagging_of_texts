@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::31 /TEI[1]/text[1]/body[1]/p[1]::37" xml:id="UID-FAKE-1402">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::61 /TEI[1]/text[1]/body[1]/p[1]::80" xml:id="UID-FAKE-1403">
+        <rs ana="https://topostext.org/place/377240IPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::157 /TEI[1]/text[1]/body[1]/p[1]::163" xml:id="UID-FAKE-1404">
+        <rs ana="https://topostext.org/place/376240LSou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::169 /TEI[1]/text[1]/body[1]/p[1]::175" xml:id="UID-FAKE-1405">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::52" xml:id="UID-FAKE-1406">
+        <rs ana="https://topostext.org/place/377241IHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::54 /TEI[1]/text[1]/body[1]/p[2]::61" xml:id="UID-FAKE-1407">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::80 /TEI[1]/text[1]/body[1]/p[2]::87" xml:id="UID-FAKE-1408">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::130 /TEI[1]/text[1]/body[1]/p[2]::136" xml:id="UID-FAKE-1409">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::313 /TEI[1]/text[1]/body[1]/p[2]::323" xml:id="UID-FAKE-1410">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::433 /TEI[1]/text[1]/body[1]/p[2]::442" xml:id="UID-FAKE-1411">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::464 /TEI[1]/text[1]/body[1]/p[2]::472" xml:id="UID-FAKE-1412">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::508 /TEI[1]/text[1]/body[1]/p[2]::517" xml:id="UID-FAKE-1413">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::536 /TEI[1]/text[1]/body[1]/p[2]::547" xml:id="UID-FAKE-1414">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::682 /TEI[1]/text[1]/body[1]/p[2]::693" xml:id="UID-FAKE-1415">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::782 /TEI[1]/text[1]/body[1]/p[2]::789" xml:id="UID-FAKE-1416">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::843 /TEI[1]/text[1]/body[1]/p[2]::854" xml:id="UID-FAKE-1417">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::111 /TEI[1]/text[1]/body[1]/p[3]::120" xml:id="UID-FAKE-1418">
+        <rs ana="https://topostext.org/place/380237SEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::209 /TEI[1]/text[1]/body[1]/p[3]::215" xml:id="UID-FAKE-1419">
+        <rs ana="https://topostext.org/place/380237SEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::220 /TEI[1]/text[1]/body[1]/p[3]::227" xml:id="UID-FAKE-1420">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::374 /TEI[1]/text[1]/body[1]/p[3]::379" xml:id="UID-FAKE-1421">
+        <rs ana="https://topostext.org/place/384236UAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::424 /TEI[1]/text[1]/body[1]/p[3]::430" xml:id="UID-FAKE-1422">
+        <rs ana="https://topostext.org/place/379236LSil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::22 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-1423">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::319 /TEI[1]/text[1]/body[1]/p[4]::327" xml:id="UID-FAKE-1424">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::354 /TEI[1]/text[1]/body[1]/p[4]::359" xml:id="UID-FAKE-1425">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::489 /TEI[1]/text[1]/body[1]/p[4]::495" xml:id="UID-FAKE-1426">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::364 /TEI[1]/text[1]/body[1]/p[5]::369" xml:id="UID-FAKE-1427">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::478 /TEI[1]/text[1]/body[1]/p[5]::485" xml:id="UID-FAKE-1428">
+        <rs ana="https://topostext.org/place/402000UCap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::506 /TEI[1]/text[1]/body[1]/p[5]::514" xml:id="UID-FAKE-1429">
+        <rs ana="https://topostext.org/place/263318UThi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::8 /TEI[1]/text[1]/body[1]/p[6]::18" xml:id="UID-FAKE-1430">
+        <rs ana="https://topostext.org/place/397227RMag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::26 /TEI[1]/text[1]/body[1]/p[6]::34" xml:id="UID-FAKE-1431">
+        <rs ana="https://topostext.org/place/378275WLet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::77 /TEI[1]/text[1]/body[1]/p[6]::84" xml:id="UID-FAKE-1432">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::421 /TEI[1]/text[1]/body[1]/p[6]::430" xml:id="UID-FAKE-1433">
+        <rs ana="https://topostext.org/place/375272ILad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::451 /TEI[1]/text[1]/body[1]/p[6]::455" xml:id="UID-FAKE-1434">
+        <rs ana="https://topostext.org/place/375272ILad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::643 /TEI[1]/text[1]/body[1]/p[6]::648" xml:id="UID-FAKE-1435">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::75 /TEI[1]/text[1]/body[1]/p[7]::80" xml:id="UID-FAKE-1436">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::88 /TEI[1]/text[1]/body[1]/p[7]::102" xml:id="UID-FAKE-1437">
+        <rs ana="https://topostext.org/place/398223SPlP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::104 /TEI[1]/text[1]/body[1]/p[7]::120" xml:id="UID-FAKE-1438">
+        <rs ana="https://topostext.org/place/387272PTem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::529 /TEI[1]/text[1]/body[1]/p[7]::534" xml:id="UID-FAKE-1439">
+        <rs ana="https://topostext.org/place/387276WPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::76 /TEI[1]/text[1]/body[1]/p[8]::83" xml:id="UID-FAKE-1440">
+        <rs ana="https://topostext.org/place/365-063PGad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::170 /TEI[1]/text[1]/body[1]/p[8]::177" xml:id="UID-FAKE-1441">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::246 /TEI[1]/text[1]/body[1]/p[8]::251" xml:id="UID-FAKE-1442">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 35</head>
+      <p>There are islands not far from Attica. Of the one called the Island of Patroclus I have already given an account. There is another when you have sailed past Sunium with Attica on the left. On this they say that Helen landed after the capture of Troy,</p>
+      <p>and for this reason the name of the island is Helene. Salamis lies over against Eleusis, and stretches as far as the territory of Megara. It is said that the first to give this name to the island was Cychreus, who called it after his mother Salamis, the daughter of Asopus, and afterwards it was colonized by the Aeginetans with Telamon. Philaeus, the son of Eurysaces, the son of Ajax, is said to have handed the island over to the Athenians, having been made an Athenian by them. Many years afterwards the Athenians drove out all the Salaminians, having discovered that they had been guilty of treachery in the war with Cassander, and mainly of set purpose had surrendered to the Macedonians. They sentenced to death Aeschetades, who on this occasion had been elected general for Salamis, and they swore never to forget the treachery of the Salaminians.</p>
+      <p>There are still the remains of an agora, a temple of Ajax and his statue in ebony. Even at the present day the Athenians pay honors to Ajax himself and to Eurysaces, for there is an altar of Eurysaces also at Athens. In Salamis is shown a stone not far from the harbor, on which they say that Telamon sat when he gazed at the ship in which his children were sailing away to Aulis to take part in the joint expedition of the Greeks.</p>
+      <p>Those who dwell about Salamis say that it was when Ajax died that the flower first appeared in their country. It is white and tinged with red, both flower and leaves being smaller than those of the lily; there are letters on it like to those on the iris. About the judgment concerning the armour I heard a story of the Aeolians who afterwards settled at Ilium, to the effect that when Odysseus suffered shipwreck the armour was cast ashore near the grave of Ajax. As to the hero"s size, a Mysian was my informant.</p>
+      <p>He said that the sea flooded the side of the grave facing the beach and made it easy to enter the tomb, and he bade me form an estimate of the size of the corpse in the following way. The bones on his knees, called by doctors the knee-pan, were in the case of Ajax as big as the quoit of a boy in the pentathlon. I saw nothing to wonder at in the stature of those Celts who live farthest of on the borders of the land which is uninhabited because of the cold; these people, the Cabares, are no bigger than Egyptian corpses. But I will relate all that appeared to me worth seeing.</p>
+      <p>For the Magnesians on the Lethaeus, Protophanes, one of the citizens, won at Olympia in one day victories in the pancration and in wrestling. Into the grave of this man robbers entered, thinking to gain some advantage, and after the robbers people came in to see the corpse, which had ribs not separated but joined together from the shoulders to the smallest ribs, those called by doctors bastard. Before the city of the Milesians is an island called Lade, and from it certain islets are detached. One of these they call the islet of Asterius, and say that Asterius was buried in it, and that Asterius was the son of Anax, and Anax the son of Earth. Now the corpse is not less than ten cubits.</p>
+      <p>But what really caused me surprise is this. There is a small city of upper Lydia called Temenou Thyrai (Doors of Temenos). There a hill ruptured in a storm, and there appeared bones the shape of which led one to suppose that they were human, but from their size one would never have thought it. At once the story spread among the multitude that it was the corpse of Geryon, the son of Chrysaor, and that the seat also was his. For there is a man"s seat carved on a rocky spur of the mountain. And a torrent they called the river Ocean, and they said that men ploughing met with the horns of cattle, for the story is that Geryon reared excellent cows.</p>
+      <p>And when I criticized the account and pointed out to them that Geryon is at Gadeira, where there is, not his tomb, but a tree showing different shapes, the guides of the Lydians related the true story, that the corpse is that of Hyllus, a son of Earth, from whom the river is named. They also said that Heracles from his sojourning with Omphale called his son Hyllus after the river.</p>
+    </body>
+  </text>
+</TEI>

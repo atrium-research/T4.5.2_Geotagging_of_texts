@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::119 /TEI[1]/text[1]/body[1]/p[1]::126" xml:id="UID-FAKE-347">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::408 /TEI[1]/text[1]/body[1]/p[1]::417" xml:id="UID-FAKE-348">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::521 /TEI[1]/text[1]/body[1]/p[1]::532" xml:id="UID-FAKE-349">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::36 /TEI[1]/text[1]/body[1]/p[2]::46" xml:id="UID-FAKE-350">
+        <rs ana="https://topostext.org/place/408238PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::83 /TEI[1]/text[1]/body[1]/p[2]::89" xml:id="UID-FAKE-351">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::136 /TEI[1]/text[1]/body[1]/p[2]::142" xml:id="UID-FAKE-352">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::200 /TEI[1]/text[1]/body[1]/p[2]::208" xml:id="UID-FAKE-353">
+        <rs ana="https://topostext.org/place/415220RPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::213 /TEI[1]/text[1]/body[1]/p[2]::224" xml:id="UID-FAKE-354">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::255" xml:id="UID-FAKE-355">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::312 /TEI[1]/text[1]/body[1]/p[2]::319" xml:id="UID-FAKE-356">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::430 /TEI[1]/text[1]/body[1]/p[2]::434" xml:id="UID-FAKE-357">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::809 /TEI[1]/text[1]/body[1]/p[2]::818" xml:id="UID-FAKE-358">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::852 /TEI[1]/text[1]/body[1]/p[2]::859" xml:id="UID-FAKE-359">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::84 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-360">
+        <rs ana="https://topostext.org/place/331445USel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::251 /TEI[1]/text[1]/body[1]/p[4]::259" xml:id="UID-FAKE-361">
+        <rs ana="https://topostext.org/place/331445USel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::309 /TEI[1]/text[1]/body[1]/p[4]::317" xml:id="UID-FAKE-362">
+        <rs ana="https://topostext.org/place/417265ROdr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::345 /TEI[1]/text[1]/body[1]/p[4]::352" xml:id="UID-FAKE-363">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::69 /TEI[1]/text[1]/body[1]/p[5]::73" xml:id="UID-FAKE-364">
+        <rs ana="https://topostext.org/place/397443RArm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::184 /TEI[1]/text[1]/body[1]/p[5]::192" xml:id="UID-FAKE-365">
+        <rs ana="https://topostext.org/place/417265ROdr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::284 /TEI[1]/text[1]/body[1]/p[5]::295" xml:id="UID-FAKE-366">
+        <rs ana="https://topostext.org/place/403265LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::370 /TEI[1]/text[1]/body[1]/p[5]::376" xml:id="UID-FAKE-367">
+        <rs ana="https://topostext.org/place/405268UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::381 /TEI[1]/text[1]/body[1]/p[5]::387" xml:id="UID-FAKE-368">
+        <rs ana="https://topostext.org/place/405268UPak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 10</head>
+      <p>As long as Aridaeus reigned, and after him Cassander and his sons, friendly relations continued between Lysimachus and Macedon. But when the kingdom devolved upon Demetrius, son of Antigonus, Lysimachus, henceforth expecting that war would be declared upon him by Demetrius, resolved to take aggressive action. He was aware that Demetrius inherited a tendency to aggrandise, and he also knew that he visited Macedonia at the summons of Alexander and Cassander, and on his arrival murdered Alexander himself and ruled the Macedonians in his stead.</p>
+      <p>Therefore encountering Demetrius at Amphipolis he came near to being expelled from Thrace, but on Pyrrhus"coming to his aid he mastered Thrace and afterwards extended his empire at the expense of the Nestians and Macedonians. The greater part of Macedonia was under the control of Pyrrhus himself, who came from Epeirus with an army and was at that time on friendly terms with Lysimachus. When however Demetrius crossed over into Asia and made war on Seleucus, the alliance between Pyrrhus and Lysimachus lasted only as long as Demetrius continued hostilities; when Demetrius submitted to Seleucus, the friendship between Lysimachus and Pyrrhus was broken, and when war broke out Lysimachus fought against Antigonus son of Demetrius and against Pyrrhus himself, had much the better of the struggle, conquered Macedonia and forced Pyrrhus to retreat to Epeirus.</p>
+      <p>Eros is wont to bring many calamities upon men. Lysimachus, although by this time of mature age and considered happy in respect of his children, and although Agathocles had children by Lysandra, nevertheless married Lysandra"s sister Arsinoe. This Arsinoe, fearing for her children, lest on the death of Lysimachus they should fall into the hands of Agathocles, is said for this reason to have plotted against Agathocles. Historians have already related how Arsinoe fell in love with Agathocles, and being unsuccessful they say that she plotted against his life. They say also that Lysimachus discovered later his wife"s machinations, but was by this time powerless, having lost all his friends.</p>
+      <p>Since Lysimachus, then, overlooked Arsinoe"s murder of Agathocles, Lysandra fled to Seleucus, taking with her her children and her brothers, who were taking refuge with Ptolemy and finally adopted this course. They were accompanied on their flight to Seleucus by Alexander who was the son of Lysimachus by an Odrysian woman. So they going up to Babylon entreated Seleucus to make war on Lysimachus. And at the same time Philetaerus, to whom the property of Lysimachus had been entrusted, aggrieved at the death of Agathocles and suspicious of the treatment he would receive at the hands of Arsinoe, seized Pergamus on the Caicus, and sending a herald offered both the property and himself to Seleucus.</p>
+      <p>Lysimachus hearing of all these things lost no time in crossing into Asia, and assuming the initiative met Seleucus, suffered a severe defeat and was killed. Alexander, his son by the Odrysian woman, after interceding long with Lysandra, won his body and afterwards carried it to the Chersonesus and buried it, where his grave is still to be seen between the village of Cardia and Pactye.</p>
+    </body>
+  </text>
+</TEI>

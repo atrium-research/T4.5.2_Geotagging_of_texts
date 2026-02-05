@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::99 /TEI[1]/text[1]/body[1]/p[1]::108" xml:id="UID-FAKE-589">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::255 /TEI[1]/text[1]/body[1]/p[1]::264" xml:id="UID-FAKE-590">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::304 /TEI[1]/text[1]/body[1]/p[1]::309" xml:id="UID-FAKE-591">
+        <rs ana="https://topostext.org/place/408225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::520 /TEI[1]/text[1]/body[1]/p[1]::527" xml:id="UID-FAKE-592">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::537 /TEI[1]/text[1]/body[1]/p[1]::544" xml:id="UID-FAKE-593">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::587 /TEI[1]/text[1]/body[1]/p[1]::594" xml:id="UID-FAKE-594">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::130 /TEI[1]/text[1]/body[1]/p[2]::134" xml:id="UID-FAKE-595">
+        <rs ana="https://topostext.org/place/375433RGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::174 /TEI[1]/text[1]/body[1]/p[2]::183" xml:id="UID-FAKE-596">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::217 /TEI[1]/text[1]/body[1]/p[2]::223" xml:id="UID-FAKE-597">
+        <rs ana="https://topostext.org/place/364339PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::450 /TEI[1]/text[1]/body[1]/p[2]::460" xml:id="UID-FAKE-598">
+        <rs ana="https://topostext.org/place/405268ULys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::539 /TEI[1]/text[1]/body[1]/p[2]::548" xml:id="UID-FAKE-599">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::621 /TEI[1]/text[1]/body[1]/p[2]::626" xml:id="UID-FAKE-600">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::146 /TEI[1]/text[1]/body[1]/p[3]::156" xml:id="UID-FAKE-601">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::165 /TEI[1]/text[1]/body[1]/p[3]::174" xml:id="UID-FAKE-602">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::228 /TEI[1]/text[1]/body[1]/p[3]::236" xml:id="UID-FAKE-603">
+        <rs ana="https://topostext.org/place/348485UEcb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::240 /TEI[1]/text[1]/body[1]/p[3]::246" xml:id="UID-FAKE-604">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::282" xml:id="UID-FAKE-605">
+        <rs ana="https://topostext.org/place/331445USel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::296 /TEI[1]/text[1]/body[1]/p[3]::302" xml:id="UID-FAKE-606">
+        <rs ana="https://topostext.org/place/346437WTig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::321 /TEI[1]/text[1]/body[1]/p[3]::331" xml:id="UID-FAKE-607">
+        <rs ana="https://topostext.org/place/331445USel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::364 /TEI[1]/text[1]/body[1]/p[3]::371" xml:id="UID-FAKE-608">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::400 /TEI[1]/text[1]/body[1]/p[3]::403" xml:id="UID-FAKE-609">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::433 /TEI[1]/text[1]/body[1]/p[3]::442" xml:id="UID-FAKE-610">
+        <rs ana="https://topostext.org/place/331445USel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 16</head>
+      <p>Here are placed bronze statues, one, in front of the stoa, of Solon, who composed the laws for the Athenians, and, a little farther away, one of Seleucus, whose future prosperity was foreshadowed by unmistakable signs. When he was about to set forth from Macedonia with Alexander, and was sacrificing at Pella to Zeus, the wood that lay on the altar advanced of its own accord to the image and caught fire without the application of a light. On the death of Alexander, Seleucus, in fear of Antigonus, who had arrived at Babylon, fled to Ptolemy, son of Lagus, and then returned again to Babylon. On his return he overcame the army of Antigonus and killed Antigonus himself, afterwards capturing Demetrius, son of Antigonus, who had advanced with an army.</p>
+      <p>After these successes, which were shortly followed by the fall of Lysimachus, he entrusted to his son Antiochus all his empire in Asia, and himself proceeded rapidly towards Macedonia, having with him an army both of Greeks and of foreigners. But Ptolemy, brother of Lysandra, had taken refuge with him from Lysimachus; this man, an adventurous character named for this reason Keraunos (Thunderbolt), when the army of Seleucus had advanced as far as Lysimachia, assassinated Seleucus, allowed the kings to seize his wealth, and ruled over Macedonia until, being the first of the kings to my knowledge to dare to meet the Gauls in battle, he was killed by the foreigners. The empire was recovered by Antigonus, son of Demetrius.</p>
+      <p>I am persuaded that Seleucus was the most righteous, and in particular the most religious of the kings. Firstly, it was Seleucus who sent back to Branchidae for the Milesians the bronze Apollo that had been carried by Xerxes to Ecbatana in Persia. Secondly, when he founded Seleucea on the river Tigris and brought to it Babylonian colonists he spared the wall of Babylon as well as the sanctuary of Bel, near which he permitted the Chaldeans to live.</p>
+    </body>
+  </text>
+</TEI>

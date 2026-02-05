@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::40 /TEI[1]/text[1]/body[1]/p[1]::49" xml:id="UID-FAKE-369">
+        <rs ana="https://topostext.org/place/380237AAtP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::472 /TEI[1]/text[1]/body[1]/p[1]::480" xml:id="UID-FAKE-370">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::497 /TEI[1]/text[1]/body[1]/p[1]::504" xml:id="UID-FAKE-371">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::759 /TEI[1]/text[1]/body[1]/p[1]::765" xml:id="UID-FAKE-372">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::115 /TEI[1]/text[1]/body[1]/p[2]::123" xml:id="UID-FAKE-373">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::171 /TEI[1]/text[1]/body[1]/p[2]::178" xml:id="UID-FAKE-374">
+        <rs ana="https://topostext.org/place/398203WThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::208 /TEI[1]/text[1]/body[1]/p[2]::212" xml:id="UID-FAKE-375">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::242 /TEI[1]/text[1]/body[1]/p[2]::252" xml:id="UID-FAKE-376">
+        <rs ana="https://topostext.org/place/390271PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::470 /TEI[1]/text[1]/body[1]/p[2]::477" xml:id="UID-FAKE-377">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::34 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-378">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::247 /TEI[1]/text[1]/body[1]/p[3]::254" xml:id="UID-FAKE-379">
+        <rs ana="https://topostext.org/place/404160RLeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::281 /TEI[1]/text[1]/body[1]/p[3]::288" xml:id="UID-FAKE-380">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::369 /TEI[1]/text[1]/body[1]/p[3]::377" xml:id="UID-FAKE-381">
+        <rs ana="https://topostext.org/place/399225UOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::430 /TEI[1]/text[1]/body[1]/p[3]::441" xml:id="UID-FAKE-382">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::456 /TEI[1]/text[1]/body[1]/p[3]::464" xml:id="UID-FAKE-383">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::115 /TEI[1]/text[1]/body[1]/p[4]::126" xml:id="UID-FAKE-384">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::282 /TEI[1]/text[1]/body[1]/p[4]::290" xml:id="UID-FAKE-385">
+        <rs ana="https://topostext.org/place/398201UMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::380 /TEI[1]/text[1]/body[1]/p[4]::387" xml:id="UID-FAKE-386">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::445 /TEI[1]/text[1]/body[1]/p[4]::453" xml:id="UID-FAKE-387">
+        <rs ana="https://topostext.org/place/400209RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::12" xml:id="UID-FAKE-388">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::241 /TEI[1]/text[1]/body[1]/p[5]::249" xml:id="UID-FAKE-389">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::519 /TEI[1]/text[1]/body[1]/p[5]::530" xml:id="UID-FAKE-390">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::587 /TEI[1]/text[1]/body[1]/p[5]::592" xml:id="UID-FAKE-391">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::675 /TEI[1]/text[1]/body[1]/p[5]::683" xml:id="UID-FAKE-392">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::10 /TEI[1]/text[1]/body[1]/p[6]::16" xml:id="UID-FAKE-393">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::65 /TEI[1]/text[1]/body[1]/p[6]::76" xml:id="UID-FAKE-394">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::268 /TEI[1]/text[1]/body[1]/p[6]::275" xml:id="UID-FAKE-395">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::341 /TEI[1]/text[1]/body[1]/p[6]::350" xml:id="UID-FAKE-396">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::466 /TEI[1]/text[1]/body[1]/p[6]::472" xml:id="UID-FAKE-397">
+        <rs ana="https://topostext.org/place/403201UHek"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::16 /TEI[1]/text[1]/body[1]/p[7]::21" xml:id="UID-FAKE-398">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::126 /TEI[1]/text[1]/body[1]/p[7]::133" xml:id="UID-FAKE-399">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::168 /TEI[1]/text[1]/body[1]/p[7]::177" xml:id="UID-FAKE-400">
+        <rs ana="https://topostext.org/place/381232PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::196 /TEI[1]/text[1]/body[1]/p[7]::201" xml:id="UID-FAKE-401">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::223 /TEI[1]/text[1]/body[1]/p[7]::231" xml:id="UID-FAKE-402">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::276 /TEI[1]/text[1]/body[1]/p[7]::282" xml:id="UID-FAKE-403">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::371 /TEI[1]/text[1]/body[1]/p[7]::378" xml:id="UID-FAKE-404">
+        <rs ana="https://topostext.org/place/404160RLeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::404 /TEI[1]/text[1]/body[1]/p[7]::410" xml:id="UID-FAKE-405">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 11</head>
+      <p>Such was the history of Lysimachus. The Athenians have also a statue of Pyrrhus. This Pyrrhus was not related to Alexander, except by ancestry. Pyrrhus was son of Aeacides, son of Arybbas, but Alexander was son of Olympias, daughter of Neoptolemus, and the father of Neoptolemus and Arybbas was Alcetas, son of Tharypus. And from Tharypus to Pyrrhus, son of Achilles, are fifteen generations. Now Pyrrhus was the first who after the capture of Troy disdained to return to Thessaly, but sailing to Epeirus dwelt there because of the oracles of Helenus. By Hermione Pyrrhus had no child, but by Andromache he had Molossus, Pielus, and Pergamus, who was the youngest. Helenus also had a son, Cestrinus, being married to Andromache after the murder of Pyrrhus at Delphi.</p>
+      <p>Helenus on his death passed on the kingdom to Molossus, son of Pyrrhus, so that Cestrinus with volunteers from the Epeirots took possession of the region beyond the river Thyamis, while Pergamus crossed into Asia and killed Areius, despot in Teuthrania, who fought with him in single combat for his kingdom, and gave his name to the city which is still called after him. To Andromache, who accompanied him, there is still a shrine in the city. Pielus remained behind in Epeirus, and to him as ancestor Pyrrhus, the son of Aeacides, and his fathers traced their descent, and not to Molossus.</p>
+      <p>Down to Alcetas, son of Tharypus, Epeirus too was under one king. But the sons of Alcetas after a quarrel agreed to rule with equal authority, remaining faithful to their compact; and afterwards, when Alexander, son of Neoptolemus, died among the Leucani, and Olympias returned to Epeirus through fear of Antipater, Aeacides, son of Arybbas, continued in allegiance to Olympias and joined in her campaign against Aridaeus and the Macedonians, although the Epeirots refused to accompany him.</p>
+      <p>Olympias on her victory behaved wickedly in the matter of the death of Aridaeus, and much more wickedly to certain Macedonians, and for this reason was considered to have deserved her subsequent treatment at the hands of Cassander; so Aeacides at first was not received even by the Epeirots because of their hatred of Olympias, and when afterwards they forgave him, his return to Epeirus was next opposed by Cassander. When a battle occurred at Oeneadae between Philip, brother of Cassander, and Aeacides, Aeacides was wounded and shortly after met his fate.</p>
+      <p>The Epeirots accepted Alcetas as their king, being the son of Arybbas and the elder brother of Aeacides, but of an uncontrollable temper and on this account banished by his father. Immediately on his arrival he began to vent his fury on the Epeirots, until they rose up and put him and his children to death at night. After killing him they brought back Pyrrhus, son of Aeacides. No sooner had he arrived than Cassander made war upon him, while he was young in years and before he had consolidated his empire. When the Macedonians attacked him, Pyrrhus went to Ptolemy, son of Lagus, in Egypt. Ptolemy gave him to wife the half-sister of his children, and restored him by an Egyptian force.</p>
+      <p>The first Greeks that Pyrrhus attacked on becoming king were the Corcyraeans. He saw that the island lay off his own territory, and he did not wish others to have a base from which to attack him. My account of Lysimachus has already related how he fared, after taking Corcyra, in his war with Lysimachus, how he expelled Demetrius and ruled Macedonia until he was in turn expelled by Lysimachus, the most important of his achievements until he waged war against the Romans,</p>
+      <p>being the first Greek we know of to do so. For no further battle, it is said, took place between Aeneas and Diomedes with his Argives. One of the many ambitions of the Athenians was to reduce all Italy, but the disaster at Syracuse prevented their trying conclusions with the Romans. Alexander, son of Neoptolemus, of the same family as Pyrrhus but older, died among the Leucani before he could meet the Romans in battle.</p>
+    </body>
+  </text>
+</TEI>

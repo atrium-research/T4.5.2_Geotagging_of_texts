@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::7 /TEI[1]/text[1]/body[1]/p[1]::15" xml:id="UID-FAKE-611">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::21" xml:id="UID-FAKE-612">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::194 /TEI[1]/text[1]/body[1]/p[1]::203" xml:id="UID-FAKE-613">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::220 /TEI[1]/text[1]/body[1]/p[1]::226" xml:id="UID-FAKE-614">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::34 /TEI[1]/text[1]/body[1]/p[2]::39" xml:id="UID-FAKE-615">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::48 /TEI[1]/text[1]/body[1]/p[2]::55" xml:id="UID-FAKE-616">
+        <rs ana="https://topostext.org/place/380237BGyP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::86 /TEI[1]/text[1]/body[1]/p[2]::92" xml:id="UID-FAKE-617">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::161 /TEI[1]/text[1]/body[1]/p[2]::165" xml:id="UID-FAKE-618">
+        <rs ana="https://topostext.org/place/380237BGAP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::272 /TEI[1]/text[1]/body[1]/p[2]::281" xml:id="UID-FAKE-619">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::291 /TEI[1]/text[1]/body[1]/p[2]::298" xml:id="UID-FAKE-620">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::395 /TEI[1]/text[1]/body[1]/p[2]::403" xml:id="UID-FAKE-621">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::483 /TEI[1]/text[1]/body[1]/p[2]::491" xml:id="UID-FAKE-622">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::500 /TEI[1]/text[1]/body[1]/p[2]::508" xml:id="UID-FAKE-623">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::539 /TEI[1]/text[1]/body[1]/p[2]::546" xml:id="UID-FAKE-624">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::271 /TEI[1]/text[1]/body[1]/p[3]::276" xml:id="UID-FAKE-625">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::212 /TEI[1]/text[1]/body[1]/p[4]::222" xml:id="UID-FAKE-626">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::252 /TEI[1]/text[1]/body[1]/p[4]::263" xml:id="UID-FAKE-627">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::445 /TEI[1]/text[1]/body[1]/p[4]::456" xml:id="UID-FAKE-628">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::485 /TEI[1]/text[1]/body[1]/p[4]::493" xml:id="UID-FAKE-629">
+        <rs ana="https://topostext.org/place/395222XKSy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::20 /TEI[1]/text[1]/body[1]/p[5]::30" xml:id="UID-FAKE-630">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::58 /TEI[1]/text[1]/body[1]/p[5]::64" xml:id="UID-FAKE-631">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::100 /TEI[1]/text[1]/body[1]/p[5]::108" xml:id="UID-FAKE-632">
+        <rs ana="https://topostext.org/place/393208WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::126 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-633">
+        <rs ana="https://topostext.org/place/393208WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::156 /TEI[1]/text[1]/body[1]/p[5]::163" xml:id="UID-FAKE-634">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::179 /TEI[1]/text[1]/body[1]/p[5]::186" xml:id="UID-FAKE-635">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::328" xml:id="UID-FAKE-636">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::381 /TEI[1]/text[1]/body[1]/p[5]::391" xml:id="UID-FAKE-637">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::89 /TEI[1]/text[1]/body[1]/p[6]::98" xml:id="UID-FAKE-638">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::102 /TEI[1]/text[1]/body[1]/p[6]::108" xml:id="UID-FAKE-639">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::166 /TEI[1]/text[1]/body[1]/p[6]::176" xml:id="UID-FAKE-640">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::348 /TEI[1]/text[1]/body[1]/p[6]::353" xml:id="UID-FAKE-641">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::413 /TEI[1]/text[1]/body[1]/p[6]::419" xml:id="UID-FAKE-642">
+        <rs ana="https://topostext.org/place/389246PSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::620 /TEI[1]/text[1]/body[1]/p[6]::626" xml:id="UID-FAKE-643">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::637 /TEI[1]/text[1]/body[1]/p[6]::645" xml:id="UID-FAKE-644">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::656 /TEI[1]/text[1]/body[1]/p[6]::664" xml:id="UID-FAKE-645">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::766 /TEI[1]/text[1]/body[1]/p[6]::772" xml:id="UID-FAKE-646">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 17</head>
+      <p>In the Athenian Agora among the objects not generally known is an altar to Mercy, of all divinities the most useful in the life of mortals and in the vicissitudes of fortune, but honored by the Athenians alone among the Greeks. And they are conspicuous not only for their humanity but also for their devotion to religion. They have an altar to Aidos (Shamefastness), one to Pheme (Rumor) and one to Orme (Effort). It is quite obvious that those who excel in piety are correspondingly rewarded by good fortune.</p>
+      <p>In the gymnasium not far from the Agora, called Ptolemy"s from the founder, are stone Hermae well worth seeing and a likeness in bronze of Ptolemy. Here also is Juba the Libyan and Chrysippus of Soli. Hard by the gymnasium is a sanctuary of Theseus, where are pictures of Athenians fighting Amazons. This war they have also represented on the shield of their Athena and upon the pedestal of the Olympian Zeus. In the sanctuary of Theseus is also a painting of the battle between the Centaurs and the Lapithae. Theseus has already killed a Centaur, but elsewhere the fighting is still undecided.</p>
+      <p>The painting on the third wall is not intelligible to those unfamiliar with the traditions, partly through age and partly because Micon has not represented in the picture the whole of the legend. When Minos was taking Theseus and the rest of the company of young folk to Crete he fell in love with Periboea, and on meeting with determined opposition from Theseus, hurled insults at him and denied that he was a son of Poseidon, since he could not recover for him the signet-ring, which he happened to be wearing, if he threw it into the sea. With these words Minos is said to have thrown the ring, but they say that Theseus came up from the sea with that ring and also with a gold crown that Amphitrite gave him.</p>
+      <p>The accounts of the end of Theseus are many and inconsistent. They say he was kept a prisoner until Heracles restored him to the light of day, but the most plausible account I have heard is this. Theseus invaded Thesprotia to carry off the wife of the Thesprotian king, and in this way lost the greater part of his army, and both he and Peirithous (he too was taking part in the expedition, being eager for the marriage) were taken captive. The Thesprotian king kept them prisoners at Cichyrus.</p>
+      <p>Among the sights of Thesprotia are a sanctuary of Zeus at Dodona and an oak sacred to the god. Near Cichyrus is a lake called Acherusia, and a river called Acheron. There is also Cocytus, a most unlovely stream. I believe it was because Homer had seen these places that he made bold to describe in his poems the regions of Hades, and gave to the rivers there the names of those in Thesprotia. While Theseus was thus kept in bonds, the sons of Tyndareus marched against Aphidna, captured it and restored Menestheus to the kingdom.</p>
+      <p>Now Menestheus took no account of the children of Theseus, who had secretly withdrawn to Elephenor in Euboea, but he was aware that Theseus, if ever he returned from Thesprotia, would be a doughty antagonist, and so curried favour with his subjects that Theseus on recovering afterwards his liberty was expelled. So Theseus set out to Deucalion in Crete. Being carried out of his course by winds to the island of Scyros he was treated with marked honor by the inhabitants, both for the fame of his family and for the reputation of his own achievements. Accordingly Lycomedes contrived his death. His shrine was built at Athens after the Persians landed at Marathon, when Cimon, son of Miltiades, ravaged Scyros, thus avenging Theseus"death, and carried his bones to Athens.</p>
+    </body>
+  </text>
+</TEI>

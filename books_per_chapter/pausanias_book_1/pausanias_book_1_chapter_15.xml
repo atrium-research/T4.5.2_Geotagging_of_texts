@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::38 /TEI[1]/text[1]/body[1]/p[1]::45" xml:id="UID-FAKE-562">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::179" xml:id="UID-FAKE-563">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::350" xml:id="UID-FAKE-564">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::384" xml:id="UID-FAKE-565">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::388 /TEI[1]/text[1]/body[1]/p[1]::393" xml:id="UID-FAKE-566">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::401 /TEI[1]/text[1]/body[1]/p[1]::407" xml:id="UID-FAKE-567">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::27 /TEI[1]/text[1]/body[1]/p[2]::36" xml:id="UID-FAKE-568">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::67 /TEI[1]/text[1]/body[1]/p[2]::74" xml:id="UID-FAKE-569">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::269 /TEI[1]/text[1]/body[1]/p[2]::275" xml:id="UID-FAKE-570">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::321 /TEI[1]/text[1]/body[1]/p[2]::325" xml:id="UID-FAKE-571">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::343 /TEI[1]/text[1]/body[1]/p[2]::349" xml:id="UID-FAKE-572">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::365 /TEI[1]/text[1]/body[1]/p[2]::374" xml:id="UID-FAKE-573">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::398 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-574">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::415 /TEI[1]/text[1]/body[1]/p[2]::421" xml:id="UID-FAKE-575">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::443 /TEI[1]/text[1]/body[1]/p[2]::447" xml:id="UID-FAKE-576">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::51 /TEI[1]/text[1]/body[1]/p[3]::59" xml:id="UID-FAKE-577">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::65 /TEI[1]/text[1]/body[1]/p[3]::74" xml:id="UID-FAKE-578">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::78 /TEI[1]/text[1]/body[1]/p[3]::85" xml:id="UID-FAKE-579">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::94 /TEI[1]/text[1]/body[1]/p[3]::99" xml:id="UID-FAKE-580">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::339 /TEI[1]/text[1]/body[1]/p[3]::349" xml:id="UID-FAKE-581">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::365 /TEI[1]/text[1]/body[1]/p[3]::371" xml:id="UID-FAKE-582">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::562 /TEI[1]/text[1]/body[1]/p[3]::568" xml:id="UID-FAKE-583">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::590 /TEI[1]/text[1]/body[1]/p[3]::602" xml:id="UID-FAKE-584">
+        <rs ana="https://topostext.org/place/381239UMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::805 /TEI[1]/text[1]/body[1]/p[3]::814" xml:id="UID-FAKE-585">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::93 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-586">
+        <rs ana="https://topostext.org/place/399236PSki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::224 /TEI[1]/text[1]/body[1]/p[4]::237" xml:id="UID-FAKE-587">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::280 /TEI[1]/text[1]/body[1]/p[4]::290" xml:id="UID-FAKE-588">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 15</head>
+      <p>As you go to the stoa which they call Poikile, because of its pictures, there is a bronze statue of Hermes Agoraios, and near it a gate. On it is a trophy erected by the Athenians, who in a cavalry action overcame Pleistarchus, to whose command his brother Cassander had entrusted his cavalry and mercenaries. This stoa contains, first, the Athenians arrayed against the Lacedemonians at Oenoe in the Argive territory. What is depicted is not the crisis of the battle nor when the action had advanced as far as the display of deeds of valor, but the beginning of the fight when the combatants were about to close.</p>
+      <p>On the middle wall are the Athenians and Theseus fighting with the Amazons. So, it seems, only the women did not lose through their defeats their reckless courage in the face of danger; Themiscyra was taken by Heracles, and afterwards the army which they dispatched to Athens was destroyed, but nevertheless they came to Troy to fight all the Greeks as well as the Athenians them selves. After the Amazons come the Greeks when they have taken Troy, and the kings assembled on account of the outrage committed by Ajax against Cassandra. The picture includes Ajax himself, Cassandra and other captive women.</p>
+      <p>At the end of the painting are those who fought at Marathon; the Boeotians of Plataea and the Attic contingent are coming to blows with the foreigners. In this place neither side has the better, but the center of the fighting shows the foreigners in flight and pushing one another into the morass, while at the end of the painting are the Phoenician ships, and the Greeks killing the foreigners who are scrambling into them. Here is also a portrait of the hero Marathon, after whom the plain is named, of Theseus represented as coming up from the underworld, of Athena and of Heracles. The Marathonians, according to their own account, were the first to regard Heracles as a god. Of the fighters the most conspicuous figures in the painting are Callimachus, who had been elected commander-in-chief by the Athenians, Miltiades, one of the generals, and a hero called Echetlus, of whom I shall make mention later.</p>
+      <p>Here are dedicated brazen shields, and some have an inscription that they are taken from the Scioneans and their allies, while others, smeared with pitch lest they should be worn by age and rust, are said to be those of the Lacedemonians who were taken prisoners in the island of Sphacteria.</p>
+    </body>
+  </text>
+</TEI>

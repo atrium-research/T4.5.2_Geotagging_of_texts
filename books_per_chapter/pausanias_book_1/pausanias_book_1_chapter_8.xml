@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::80 /TEI[1]/text[1]/body[1]/p[1]::88" xml:id="UID-FAKE-271">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::101 /TEI[1]/text[1]/body[1]/p[1]::111" xml:id="UID-FAKE-272">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::149 /TEI[1]/text[1]/body[1]/p[1]::158" xml:id="UID-FAKE-273">
+        <rs ana="https://topostext.org/place/405268ULys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::238 /TEI[1]/text[1]/body[1]/p[1]::250" xml:id="UID-FAKE-274">
+        <rs ana="https://topostext.org/place/410300RPap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::601 /TEI[1]/text[1]/body[1]/p[1]::606" xml:id="UID-FAKE-275">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::25 /TEI[1]/text[1]/body[1]/p[2]::33" xml:id="UID-FAKE-276">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::216 /TEI[1]/text[1]/body[1]/p[2]::225" xml:id="UID-FAKE-277">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::267 /TEI[1]/text[1]/body[1]/p[2]::273" xml:id="UID-FAKE-278">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::340 /TEI[1]/text[1]/body[1]/p[2]::349" xml:id="UID-FAKE-279">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::370 /TEI[1]/text[1]/body[1]/p[2]::378" xml:id="UID-FAKE-280">
+        <rs ana="https://topostext.org/place/375235IKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::395 /TEI[1]/text[1]/body[1]/p[2]::402" xml:id="UID-FAKE-281">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::477 /TEI[1]/text[1]/body[1]/p[2]::482" xml:id="UID-FAKE-282">
+        <rs ana="https://topostext.org/place/389224PLam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::68" xml:id="UID-FAKE-283">
+        <rs ana="https://topostext.org/place/375235IKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::131 /TEI[1]/text[1]/body[1]/p[3]::136" xml:id="UID-FAKE-284">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::180 /TEI[1]/text[1]/body[1]/p[3]::189" xml:id="UID-FAKE-285">
+        <rs ana="https://topostext.org/place/407199UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::198 /TEI[1]/text[1]/body[1]/p[3]::209" xml:id="UID-FAKE-286">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::230 /TEI[1]/text[1]/body[1]/p[3]::237" xml:id="UID-FAKE-287">
+        <rs ana="https://topostext.org/place/397164PTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::287 /TEI[1]/text[1]/body[1]/p[3]::296" xml:id="UID-FAKE-288">
+        <rs ana="https://topostext.org/place/407199UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::338 /TEI[1]/text[1]/body[1]/p[3]::349" xml:id="UID-FAKE-289">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::361 /TEI[1]/text[1]/body[1]/p[3]::367" xml:id="UID-FAKE-290">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::393 /TEI[1]/text[1]/body[1]/p[3]::401" xml:id="UID-FAKE-291">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::457 /TEI[1]/text[1]/body[1]/p[3]::463" xml:id="UID-FAKE-292">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::156 /TEI[1]/text[1]/body[1]/p[4]::162" xml:id="UID-FAKE-293">
+        <rs ana="https://topostext.org/place/371252SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::400 /TEI[1]/text[1]/body[1]/p[4]::409" xml:id="UID-FAKE-294">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::466 /TEI[1]/text[1]/body[1]/p[4]::475" xml:id="UID-FAKE-295">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::258 /TEI[1]/text[1]/body[1]/p[5]::264" xml:id="UID-FAKE-296">
+        <rs ana="https://topostext.org/place/380237AHaA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::275 /TEI[1]/text[1]/body[1]/p[5]::284" xml:id="UID-FAKE-297">
+        <rs ana="https://topostext.org/place/380237AHaA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::399 /TEI[1]/text[1]/body[1]/p[5]::408" xml:id="UID-FAKE-298">
+        <rs ana="https://topostext.org/place/380237AHaA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::55 /TEI[1]/text[1]/body[1]/p[6]::60" xml:id="UID-FAKE-299">
+        <rs ana="https://topostext.org/place/376231BOdA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::62 /TEI[1]/text[1]/body[1]/p[6]::72" xml:id="UID-FAKE-300">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::89 /TEI[1]/text[1]/body[1]/p[6]::97" xml:id="UID-FAKE-301">
+        <rs ana="https://topostext.org/place/380237BOdP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::290 /TEI[1]/text[1]/body[1]/p[6]::298" xml:id="UID-FAKE-302">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 8</head>
+      <p>It is pertinent to add here an account of Attalus, because he too is one of the Athenian eponymoi. A Macedonian of the name of Docimus, a general of Antigonus, who afterwards surrendered both himself and his property to Lysimachus, had a Paphlagonian eunuch called Philetaerus. All that Philetaerus did to further the revolt from Lysimachus, and how he won over Seleucus, will form an episode in my account of Lysimachus. Attalus, however, son of Attalus and nephew of Philetaerus, received the kingdom from his cousin Eumenes, who handed it over. The greatest of his achievements was his forcing the Gauls to retire from the sea into the country which they still hold.</p>
+      <p>After the statues of the Eponymoi come statues of gods, Amphiaraus, and Eirene (Peace) carrying the boy Plutus (Wealth). Here stands a bronze figure of Lycurgus, son of Lycophron, and of Callias, who, as most of the Athenians say, brought about the peace between the Greeks and Artaxerxes, son of Xerxes. Here also is Demosthenes, whom the Athenians forced to retire to Calauria, the island off Troezen, and then, after receiving him back, banished again after the disaster at Lamia.</p>
+      <p>Exiled for the second time Demosthenes crossed once more to Calauria, and committed suicide there by taking poison, being the only Greek exile whom Archias failed to bring back to Antipater and the Macedonians. This Archias was a Thurian who undertook the abominable task of bringing to Antipater for punishment those who had opposed the Macedonians before the Greeks met with their defeat in Thessaly. Such was Demosthenes"reward for his great devotion to Athens. I heartily agree with the remark that no man who has unsparingly thrown himself into politics trusting in the loyalty of the democracy has ever met with a happy death.</p>
+      <p>Near the statue of Demosthenes is a sanctuary of Ares, where are placed two images of Aphrodite, one of Ares made by Alcamenes, and one of Athena made by a Parian of the name of Locrus. There is also an image of Enyo, made by the sons of Praxiteles. About the temple stand images of Heracles, Theseus, Apollo binding his hair with a fillet, and statues of Calades, who it is said framed laws for the Athenians, and of Pindar, the statue being one of the rewards the Athenians gave him for praising them in an ode.</p>
+      <p>Hard by stand statues of Harmodius and Aristogiton, who killed Hipparchus. The reason of this act and the method of its execution have been related by others; of the figures some were made by Critius, the old ones being the work of Antenor. When Xerxes took Athens after the Athenians had abandoned the city he took away these statues also among the spoils, but they were afterwards restored to the Athenians by Antiochus.</p>
+      <p>Before the entrance of the theater which they call the Odeum (Music Hall) are statues of Egyptian kings. They are all alike called Ptolemy, but each has his own surname. For they call one Philometor, and another Philadelphus, while the son of Lagus is called Soter, a name given him by the Rhodians. Of these, Philadelphus is he whom I have mentioned before among the eponymoi, and near him is a statue of his sister Arsinoe.</p>
+    </body>
+  </text>
+</TEI>

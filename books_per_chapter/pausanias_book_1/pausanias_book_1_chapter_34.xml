@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::12 /TEI[1]/text[1]/body[1]/p[1]::18" xml:id="UID-FAKE-1373">
+        <rs ana="https://topostext.org/place/383238POro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::28 /TEI[1]/text[1]/body[1]/p[1]::34" xml:id="UID-FAKE-1374">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::51 /TEI[1]/text[1]/body[1]/p[1]::58" xml:id="UID-FAKE-1375">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::89 /TEI[1]/text[1]/body[1]/p[1]::96" xml:id="UID-FAKE-1376">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::134" xml:id="UID-FAKE-1377">
+        <rs ana="https://topostext.org/place/381236UEpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::235 /TEI[1]/text[1]/body[1]/p[1]::241" xml:id="UID-FAKE-1378">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::362 /TEI[1]/text[1]/body[1]/p[1]::372" xml:id="UID-FAKE-1379">
+        <rs ana="https://topostext.org/place/383238SAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::49 /TEI[1]/text[1]/body[1]/p[2]::55" xml:id="UID-FAKE-1380">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::183 /TEI[1]/text[1]/body[1]/p[2]::188" xml:id="UID-FAKE-1381">
+        <rs ana="https://topostext.org/place/384235UHar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::190 /TEI[1]/text[1]/body[1]/p[2]::197" xml:id="UID-FAKE-1382">
+        <rs ana="https://topostext.org/place/384235UHar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::222 /TEI[1]/text[1]/body[1]/p[2]::228" xml:id="UID-FAKE-1383">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::232 /TEI[1]/text[1]/body[1]/p[2]::239" xml:id="UID-FAKE-1384">
+        <rs ana="https://topostext.org/place/385236PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::300 /TEI[1]/text[1]/body[1]/p[2]::308" xml:id="UID-FAKE-1385">
+        <rs ana="https://topostext.org/place/383238POro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::339 /TEI[1]/text[1]/body[1]/p[2]::345" xml:id="UID-FAKE-1386">
+        <rs ana="https://topostext.org/place/382240SRAm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::443 /TEI[1]/text[1]/body[1]/p[2]::449" xml:id="UID-FAKE-1387">
+        <rs ana="https://topostext.org/place/383233PPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::508 /TEI[1]/text[1]/body[1]/p[2]::513" xml:id="UID-FAKE-1388">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::517 /TEI[1]/text[1]/body[1]/p[2]::528" xml:id="UID-FAKE-1389">
+        <rs ana="https://topostext.org/place/403265LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::559 /TEI[1]/text[1]/body[1]/p[2]::566" xml:id="UID-FAKE-1390">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::574 /TEI[1]/text[1]/body[1]/p[2]::583" xml:id="UID-FAKE-1391">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::613 /TEI[1]/text[1]/body[1]/p[2]::621" xml:id="UID-FAKE-1392">
+        <rs ana="https://topostext.org/place/383238POro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::409 /TEI[1]/text[1]/body[1]/p[3]::413" xml:id="UID-FAKE-1393">
+        <rs ana="https://topostext.org/place/380237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::509 /TEI[1]/text[1]/body[1]/p[3]::517" xml:id="UID-FAKE-1394">
+        <rs ana="https://topostext.org/place/383211WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::522 /TEI[1]/text[1]/body[1]/p[3]::530" xml:id="UID-FAKE-1395">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::536 /TEI[1]/text[1]/body[1]/p[3]::545" xml:id="UID-FAKE-1396">
+        <rs ana="https://topostext.org/place/380237SZPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::608 /TEI[1]/text[1]/body[1]/p[3]::614" xml:id="UID-FAKE-1397">
+        <rs ana="https://topostext.org/place/368355PMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::618 /TEI[1]/text[1]/body[1]/p[3]::625" xml:id="UID-FAKE-1398">
+        <rs ana="https://topostext.org/place/370340RCil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::12" xml:id="UID-FAKE-1399">
+        <rs ana="https://topostext.org/place/383238POro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::64 /TEI[1]/text[1]/body[1]/p[4]::84" xml:id="UID-FAKE-1400">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::490 /TEI[1]/text[1]/body[1]/p[4]::497" xml:id="UID-FAKE-1401">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 34</head>
+      <p>The land of Oropus, between Attica and the land of Tanagra, which originally belonged to Boeotia, in our time belongs to the Athenians, who always fought for it but never won secure possession until Philip gave it to them after taking Thebes. The city is on the coast and affords nothing remarkable to record. About twelve stades from the city is a sanctuary of Amphiaraus.</p>
+      <p>Legend says that when Amphiaraus was exiled from Thebes the earth opened and swallowed both him and his chariot. Only they say that the incident did not happen here, the place called Harma (Chariot) being on the road from Thebes to Chalcis. The divinity of Amphiaraus was first established among the Oropians, from whom afterwards all the Greeks received the cult. I can enumerate other men also born at this time who are worshipped among the Greeks as gods; some even have cities dedicated to them, such as Eleus in Chersonesus dedicated to Protesilaus, and Lebadea of the Boeotians dedicated to Trophonius. The Oropians have both a temple and a white marble statue of Amphiaraus.</p>
+      <p>The altar shows parts. One part is to Heracles, Zeus, and Apollo Paion, another is given up to heroes and to wives of heroes, the third is to Hestia and Hermes and Amphiaraus and the children of Amphilochus. But Alcmaeon, because of his treatment of Eriphyle, is honored neither in the shrine of Amphiaraus nor yet with Amphilochus. The fourth portion of the altar is to Aphrodite and Panacea, and further to Iaso, Health and Athena Paionia. The fifth is dedicated to the Nymphs and to Pan, and to the rivers Achelous and Cephisus. The Athenians too have an altar to Amphilochus in the city, and there is at Mallos in Cilicia an oracle of his which is the most trustworthy of my day.</p>
+      <p>The Oropians have near the temple a spring, which they call the Spring of Amphiaraus; they neither sacrifice into it nor are wont to use it for purifications or for lustral water. But when a man has been cured of a disease through a response the custom is to throw silver and coined gold into the spring, for by this way they say that Amphiaraus rose up after he had become a god. Iophon the Cnossian, a guide, produced responses in hexameter verse, saying that Amphiaraus gave them to the Argives who were sent against Thebes. These verses unrestrainedly appealed to popular taste. Except those whom they say Apollo inspired of old none of the seers uttered oracles, but they were good at explaining dreams and interpreting the flights of birds and the entrails of victims.</p>
+      <p>My opinion is that Amphiaraus devoted himself most to the exposition of dreams. It is manifest that, when his divinity was established, it was a dream oracle that he set up. One who has come to consult Amphiaraus is wont first to purify himself. The mode of purification is to sacrifice to the god, and they sacrifice not only to him but also to all those whose names are on the altar. And when all these things have been first done, they sacrifice a ram, and, spreading the skin under them, go to sleep and await enlightenment in a dream.</p>
+    </body>
+  </text>
+</TEI>

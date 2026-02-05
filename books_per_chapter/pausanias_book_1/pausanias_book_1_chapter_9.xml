@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::350 /TEI[1]/text[1]/body[1]/p[1]::356" xml:id="UID-FAKE-303">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::559 /TEI[1]/text[1]/body[1]/p[1]::568" xml:id="UID-FAKE-304">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::84 /TEI[1]/text[1]/body[1]/p[2]::90" xml:id="UID-FAKE-305">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::432 /TEI[1]/text[1]/body[1]/p[2]::442" xml:id="UID-FAKE-306">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::538 /TEI[1]/text[1]/body[1]/p[2]::544" xml:id="UID-FAKE-307">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::141 /TEI[1]/text[1]/body[1]/p[3]::150" xml:id="UID-FAKE-308">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::286 /TEI[1]/text[1]/body[1]/p[3]::291" xml:id="UID-FAKE-309">
+        <rs ana="https://topostext.org/place/264318UPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::317 /TEI[1]/text[1]/body[1]/p[3]::324" xml:id="UID-FAKE-310">
+        <rs ana="https://topostext.org/place/262327UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::549 /TEI[1]/text[1]/body[1]/p[3]::555" xml:id="UID-FAKE-311">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::589 /TEI[1]/text[1]/body[1]/p[3]::601" xml:id="UID-FAKE-312">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::667 /TEI[1]/text[1]/body[1]/p[3]::676" xml:id="UID-FAKE-313">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::10 /TEI[1]/text[1]/body[1]/p[4]::19" xml:id="UID-FAKE-314">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::166 /TEI[1]/text[1]/body[1]/p[4]::175" xml:id="UID-FAKE-315">
+        <rs ana="https://topostext.org/place/376218SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::22 /TEI[1]/text[1]/body[1]/p[5]::32" xml:id="UID-FAKE-316">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::283 /TEI[1]/text[1]/body[1]/p[5]::294" xml:id="UID-FAKE-317">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::355 /TEI[1]/text[1]/body[1]/p[5]::364" xml:id="UID-FAKE-318">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::391 /TEI[1]/text[1]/body[1]/p[5]::402" xml:id="UID-FAKE-319">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::511 /TEI[1]/text[1]/body[1]/p[5]::517" xml:id="UID-FAKE-320">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::577 /TEI[1]/text[1]/body[1]/p[5]::582" xml:id="UID-FAKE-321">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::610 /TEI[1]/text[1]/body[1]/p[5]::619" xml:id="UID-FAKE-322">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::678 /TEI[1]/text[1]/body[1]/p[5]::684" xml:id="UID-FAKE-323">
+        <rs ana="https://topostext.org/place/417129RLat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::703 /TEI[1]/text[1]/body[1]/p[5]::711" xml:id="UID-FAKE-324">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::732 /TEI[1]/text[1]/body[1]/p[5]::738" xml:id="UID-FAKE-325">
+        <rs ana="https://topostext.org/place/410290UKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::756 /TEI[1]/text[1]/body[1]/p[5]::762" xml:id="UID-FAKE-326">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::788 /TEI[1]/text[1]/body[1]/p[5]::794" xml:id="UID-FAKE-327">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::59 /TEI[1]/text[1]/body[1]/p[6]::66" xml:id="UID-FAKE-328">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::81 /TEI[1]/text[1]/body[1]/p[6]::86" xml:id="UID-FAKE-329">
+        <rs ana="https://topostext.org/place/445250RDac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::334 /TEI[1]/text[1]/body[1]/p[6]::339" xml:id="UID-FAKE-330">
+        <rs ana="https://topostext.org/place/435268RGet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::491 /TEI[1]/text[1]/body[1]/p[6]::496" xml:id="UID-FAKE-331">
+        <rs ana="https://topostext.org/place/452288UAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::537 /TEI[1]/text[1]/body[1]/p[6]::542" xml:id="UID-FAKE-332">
+        <rs ana="https://topostext.org/place/442277WIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::741 /TEI[1]/text[1]/body[1]/p[6]::746" xml:id="UID-FAKE-333">
+        <rs ana="https://topostext.org/place/452288UAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::32 /TEI[1]/text[1]/body[1]/p[7]::36" xml:id="UID-FAKE-334">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::121 /TEI[1]/text[1]/body[1]/p[7]::128" xml:id="UID-FAKE-335">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::187 /TEI[1]/text[1]/body[1]/p[7]::194" xml:id="UID-FAKE-336">
+        <rs ana="https://topostext.org/place/381270PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::199 /TEI[1]/text[1]/body[1]/p[7]::207" xml:id="UID-FAKE-337">
+        <rs ana="https://topostext.org/place/381272PCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::309 /TEI[1]/text[1]/body[1]/p[7]::317" xml:id="UID-FAKE-338">
+        <rs ana="https://topostext.org/place/381272PCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::320 /TEI[1]/text[1]/body[1]/p[8]::327" xml:id="UID-FAKE-339">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::405 /TEI[1]/text[1]/body[1]/p[8]::415" xml:id="UID-FAKE-340">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::584 /TEI[1]/text[1]/body[1]/p[8]::591" xml:id="UID-FAKE-341">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::599 /TEI[1]/text[1]/body[1]/p[8]::605" xml:id="UID-FAKE-342">
+        <rs ana="https://topostext.org/place/413213UAlk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::842 /TEI[1]/text[1]/body[1]/p[8]::850" xml:id="UID-FAKE-343">
+        <rs ana="https://topostext.org/place/405268ULys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::864 /TEI[1]/text[1]/body[1]/p[8]::874" xml:id="UID-FAKE-344">
+        <rs ana="https://topostext.org/place/405268ULys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::910 /TEI[1]/text[1]/body[1]/p[8]::918" xml:id="UID-FAKE-345">
+        <rs ana="https://topostext.org/place/403265LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::919 /TEI[1]/text[1]/body[1]/p[8]::930" xml:id="UID-FAKE-346">
+        <rs ana="https://topostext.org/place/403265LChe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 9</head>
+      <p>The one called Philometor is eighth in descent from Ptolemy son of Lagus, and his surname was given him in sarcastic mockery, for we know of none of the kings who was so hated by his mother. Although he was the eldest of her children she would not allow him to be called to the throne, but prevailed on his father before the call came to send him to Cyprus. Among the reasons assigned for Cleopatra"s enmity towards her son is her expectation that Alexander the younger of her sons would prove more subservient, and this consideration induced her to urge the Egyptians to choose Alexander as king.</p>
+      <p>When the people offered opposition, she dispatched Alexander for the second time to Cyprus, ostensibly as general, but really because she wished by his means to make Ptolemy more afraid of her. Finally she covered with wounds those eunuchs she thought best disposed, and presented them to the people, making out that she was the victim of Ptolemy"s machinations, and that he had treated the eunuchs in such a fashion. The people of Alexandria rushed to kill Ptolemy, and when he escaped on board a ship, made Alexander, who returned from Cyprus, their king.</p>
+      <p>Retribution for the exile of Ptolemy came upon Cleopatra, for she was put to death by Alexander, whom she herself had made to be king of the Egyptians. When the deed was discovered, and Alexander fled in fear of the citizens, Ptolemy returned and for the second time assumed control of Egypt. He made war against the Thebans, who had revolted, reduced them two years after the revolt, and treated them so cruelly that they were left not even a memorial of their former prosperity, which had so grown that they surpassed in wealth the richest of the Greeks, the sanctuary of Delphi and the Orchomenians. Shortly after this Ptolemy met with his appointed fate, and the Athenians, who had been benefited by him in many ways which I need not stop to relate, set up a bronze likeness of him and of Berenice, his only legitimate child.</p>
+      <p>After the Egyptians come statues of Philip and of his son Alexander. The events of their lives were too important to form a mere digression in another story. Now the Egyptians had their honors bestowed upon them out of genuine respect and because they were benefactors, but it was rather the sycophancy of the people that gave them to Philip and Alexander, since they set up a statue to Lysimachus also not so much out of goodwill as because they thought to serve their immediate ends.</p>
+      <p>This Lysimachus was a Macedonian by birth and one of Alexander"s body-guards, whom Alexander once in anger shut up in a chamber with a lion, and afterwards found that he had overpowered the brute. Henceforth he always treated him with respect, and honored him as much as the noblest Macedonians. After the death of Alexander, Lysimachus ruled such of the Thracians, who are neighbors of the Macedonians, as had been under the sway of Alexander and before him of Philip. These would comprise but a small part of Thrace. If race be compared with race no nation of men except the Celts are more numerous than the Thracians taken all together, and for this reason no one before the Romans reduced the whole Thracian population. But the Romans have subdued all Thrace, and they also hold such Celtic territory as is worth possessing, but they have intentionally overlooked the parts that they consider useless through excessive cold or barrenness.</p>
+      <p>Then Lysimachus made war against his neighbours, first the Odrysae, secondly the Getae and Dromichaetes. Engaging with men not unversed in warfare and far his superiors in number, he himself escaped from a position of extreme danger, but his son Agathocles, who was serving with him then for the first time, was taken prisoner by the Getae. Lysimachus met with other reverses afterwards, and attaching great importance to the capture of his son made peace with Dromichaetes, yielding to the Getic king the parts of his empire beyond the Ister, and, chiefly under compulsion, giving him his daughter in marriage. Others say that not Agathocles but Lysimachus himself was taken prisoner, regaining his liberty when Agathocles treated with the Getic king on his behalf. On his return he married to Agathocles Lysandra, the daughter of Ptolemy, son of Lagus, and of Eurydice.</p>
+      <p>He also crossed with a fleet to Asia and helped to overthrow the empire of Antigonus. He founded also the modern city of Ephesus as far as the coast, bringing to it as settlers people of Lebedos and Colophon, after destroying their cities, so that the iambic poet Phoenix composed a lament for the capture of Colophon. Hermesianax, the elegiac writer, was, I think, no longer living, otherwise he too would certainly have been moved by the taking of Colophon to write a dirge. Lysimachus also went to war with Pyrrhus, son of Aeacides. Waiting for his departure from Epeirus (Pyrrhus was of a very roving disposition) he ravaged Epeirus until he reached the royal tombs.</p>
+      <p>The next part of the story is incredible to me, but Hieronymus the Cardian relates that he destroyed the tombs and cast out the bones of the dead. But this Hieronymus has a reputation generally of being biased against all the kings except Antigonus, and of being unfairly partial towards him. As to the treatment of the Epeirot graves, it is perfectly plain that it was malice that made him record that a Macedonian desecrated the tombs of the dead. Besides, Lysimachus was surely aware that they were the ancestors not of Pyrrhus only but also of Alexander. In fact Alexander was an Epeirot and an Aeacid on his mother"s side, and the subsequent alliance between Pyrrhus and Lysimachus proves that even as enemies they were not irreconcilable. Possibly Hieronymus had grievances against Lysimachus, especially his destroying the city of the Cardians and founding Lysimachia in its stead on the isthmus of the Thracian Chersonesus.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-1689">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::165 /TEI[1]/text[1]/body[1]/p[1]::171" xml:id="UID-FAKE-1690">
+        <rs ana="https://topostext.org/place/355242PMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::150 /TEI[1]/text[1]/body[1]/p[2]::159" xml:id="UID-FAKE-1691">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::188 /TEI[1]/text[1]/body[1]/p[2]::197" xml:id="UID-FAKE-1692">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::284 /TEI[1]/text[1]/body[1]/p[2]::289" xml:id="UID-FAKE-1693">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::363 /TEI[1]/text[1]/body[1]/p[2]::372" xml:id="UID-FAKE-1694">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::41 /TEI[1]/text[1]/body[1]/p[3]::46" xml:id="UID-FAKE-1695">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::94 /TEI[1]/text[1]/body[1]/p[3]::109" xml:id="UID-FAKE-1696">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::127 /TEI[1]/text[1]/body[1]/p[3]::131" xml:id="UID-FAKE-1697">
+        <rs ana="https://topostext.org/place/312301WNil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::149 /TEI[1]/text[1]/body[1]/p[3]::154" xml:id="UID-FAKE-1698">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::228 /TEI[1]/text[1]/body[1]/p[3]::234" xml:id="UID-FAKE-1699">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::254 /TEI[1]/text[1]/body[1]/p[3]::263" xml:id="UID-FAKE-1700">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::272 /TEI[1]/text[1]/body[1]/p[3]::277" xml:id="UID-FAKE-1701">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::292 /TEI[1]/text[1]/body[1]/p[3]::296" xml:id="UID-FAKE-1702">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::302 /TEI[1]/text[1]/body[1]/p[3]::309" xml:id="UID-FAKE-1703">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::474 /TEI[1]/text[1]/body[1]/p[3]::482" xml:id="UID-FAKE-1704">
+        <rs ana="https://topostext.org/place/223316UFor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::13" xml:id="UID-FAKE-1705">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::359 /TEI[1]/text[1]/body[1]/p[4]::366" xml:id="UID-FAKE-1706">
+        <rs ana="https://topostext.org/place/374218SAPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::388 /TEI[1]/text[1]/body[1]/p[4]::396" xml:id="UID-FAKE-1707">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::200 /TEI[1]/text[1]/body[1]/p[5]::208" xml:id="UID-FAKE-1708">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::276 /TEI[1]/text[1]/body[1]/p[5]::285" xml:id="UID-FAKE-1709">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::349 /TEI[1]/text[1]/body[1]/p[5]::355" xml:id="UID-FAKE-1710">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::566 /TEI[1]/text[1]/body[1]/p[5]::577" xml:id="UID-FAKE-1711">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::246 /TEI[1]/text[1]/body[1]/p[6]::253" xml:id="UID-FAKE-1712">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::-1 /TEI[1]/text[1]/body[1]/p[7]::10" xml:id="UID-FAKE-1713">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::130 /TEI[1]/text[1]/body[1]/p[7]::139" xml:id="UID-FAKE-1714">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::153 /TEI[1]/text[1]/body[1]/p[7]::159" xml:id="UID-FAKE-1715">
+        <rs ana="https://topostext.org/place/380232XBou"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 42</head>
+      <p>The Megarians have another acropolis, which is named after Alcathous. As you ascend this acropolis you see on the right the tomb of Megareus, who at the time of the Cretan invasion came as an ally from Onchestus. There is also shown a hearth of the gods called Prodomeis (Builders before). They say that Alcathous was the first to sacrifice to them, at the time when he was about to begin the building of the wall.</p>
+      <p>Near this hearth is a stone, on which they say Apollo laid his lyre when he was helping Alcathous in the building. I am confirmed in my view that the Megarians used to be tributary to the Athenians by the fact that Alcathous appears to have sent his daughter Periboea with Theseus to Crete in payment of the tribute. On the occasion of his building the wall, the Megarians say, Apollo helped him and placed his lyre on the stone; and if you happen to hit it with a pebble it sounds just as a lyre does when struck.</p>
+      <p>This made me marvel, but the colossus in Egypt made me marvel far more than anything else. In Egyptian Thebes, on crossing the Nile to the so called Pipes, I saw a statue, still sitting, which gave out a sound. The many call it Memnon, who they say from Aethiopia overran Egypt and as far as Susa. The Thebans, however, say that it is a statue, not of Memnon, but of a native named Phamenoph, and I have heard some say that it is Sesostris. This statue was broken in two by Cambyses, and at the present day from head to middle it is thrown down; but the rest is seated, and every day at the rising of the sun it makes a noise, and the sound one could best liken to that of a harp or lyre when a string has been broken.</p>
+      <p>The Megarians have a council chamber which once, they say, was the grave of Timalcus, who just now I said was not killed by Theseus. On the top of the acropolis is built a temple of Athena, with an image gilt except the hands and feet; these and the face are of ivory. There is another sanctuary built here, of Athena Nike, and yet a third of Athena Aeantis (Ajaxian). About the last the Megarian guides have omitted to record anything, but I will write what I take to be the facts. Telamon the son of Aeacus married Periboea the daughter of Alcathous; so my opinion is that Ajax, who succeeded to the throne of Alcathous, made the statue of Athena.</p>
+      <p>The ancient temple of Apollo was of brick, but the emperor Hadrian afterwards built it of white marble. The Apollo called Pythian and the one called Decatephorus (Bringer of Tithes) are very like the Egyptian wooden images, but the one surnamed Archegetes (Founder) resembles Aeginetan works. They are all alike made of ebony. I have heard a man of Cyprus, who was skilled at sorting herbs for medicinal purposes, say that the ebony does not grow leaves or bear fruit, or even appear in the sunlight at all, but consists of underground roots which are dug up by the Aethiopians, who have men skilled at finding ebony.</p>
+      <p>There is also a sanctuary of Demeter Thesmophorus (Lawgiver). On going down from it you see the tomb of Callipolis, son of Alcathous. Alcathous had also an elder son, Ischepolis, whom his father sent to help Meleager to destroy the wild beast in Aetolia. There he died, and Callipolis was the first to hear of his death. Running up to the acropolis, at the moment when his father was preparing a fire to sacrifice to Apollo, he flung the logs from the altar. Alcathous, who had not yet heard of the fate of Ischepolis, judged that Callipolis was guilty of impiety, and forthwith, angry as he was, killed him by striking his head with one of the logs that had been flung from the altar.</p>
+      <p>On the road to the Town-hall is the shrine of the heroine Ino, about which is a fencing of stones, and beside it grow olives. The Megarians are the only Greeks who say that the corpse of Ino was cast up on their coast, that Cleso and Tauropolis, the daughters of Cleson, son of Lelex, found and buried it, and they say that among them first was she named Leucothea, and that every year they offer her sacrifice.</p>
+    </body>
+  </text>
+</TEI>

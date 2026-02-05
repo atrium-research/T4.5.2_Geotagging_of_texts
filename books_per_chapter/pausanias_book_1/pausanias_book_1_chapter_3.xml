@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::20 /TEI[1]/text[1]/body[1]/p[1]::30" xml:id="UID-FAKE-83">
+        <rs ana="https://topostext.org/place/380237XKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::162 /TEI[1]/text[1]/body[1]/p[1]::172" xml:id="UID-FAKE-84">
+        <rs ana="https://topostext.org/place/380237BRoS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::66 /TEI[1]/text[1]/body[1]/p[2]::72" xml:id="UID-FAKE-85">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::89 /TEI[1]/text[1]/body[1]/p[2]::99" xml:id="UID-FAKE-86">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::170 /TEI[1]/text[1]/body[1]/p[2]::178" xml:id="UID-FAKE-87">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::442 /TEI[1]/text[1]/body[1]/p[2]::451" xml:id="UID-FAKE-88">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::66" xml:id="UID-FAKE-89">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::186 /TEI[1]/text[1]/body[1]/p[3]::195" xml:id="UID-FAKE-90">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::752 /TEI[1]/text[1]/body[1]/p[3]::761" xml:id="UID-FAKE-91">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::39 /TEI[1]/text[1]/body[1]/p[4]::47" xml:id="UID-FAKE-92">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::56 /TEI[1]/text[1]/body[1]/p[4]::65" xml:id="UID-FAKE-93">
+        <rs ana="https://topostext.org/place/380237SPtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::92 /TEI[1]/text[1]/body[1]/p[4]::105" xml:id="UID-FAKE-94">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::188 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-95">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::214 /TEI[1]/text[1]/body[1]/p[4]::227" xml:id="UID-FAKE-96">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::231 /TEI[1]/text[1]/body[1]/p[4]::238" xml:id="UID-FAKE-97">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::248 /TEI[1]/text[1]/body[1]/p[4]::257" xml:id="UID-FAKE-98">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::270 /TEI[1]/text[1]/body[1]/p[4]::282" xml:id="UID-FAKE-99">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::315 /TEI[1]/text[1]/body[1]/p[4]::328" xml:id="UID-FAKE-100">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::338 /TEI[1]/text[1]/body[1]/p[4]::347" xml:id="UID-FAKE-101">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::429 /TEI[1]/text[1]/body[1]/p[4]::438" xml:id="UID-FAKE-102">
+        <rs ana="https://topostext.org/place/380237SPtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::479 /TEI[1]/text[1]/body[1]/p[4]::487" xml:id="UID-FAKE-103">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::557 /TEI[1]/text[1]/body[1]/p[4]::566" xml:id="UID-FAKE-104">
+        <rs ana="https://topostext.org/place/374218SAPh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::919 /TEI[1]/text[1]/body[1]/p[4]::928" xml:id="UID-FAKE-105">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::948 /TEI[1]/text[1]/body[1]/p[4]::965" xml:id="UID-FAKE-106">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::99 /TEI[1]/text[1]/body[1]/p[5]::111" xml:id="UID-FAKE-107">
+        <rs ana="https://topostext.org/place/380237BBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::132 /TEI[1]/text[1]/body[1]/p[5]::136" xml:id="UID-FAKE-108">
+        <rs ana="https://topostext.org/place/380237BBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::158 /TEI[1]/text[1]/body[1]/p[5]::166" xml:id="UID-FAKE-109">
+        <rs ana="https://topostext.org/place/380237BBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::282 /TEI[1]/text[1]/body[1]/p[5]::287" xml:id="UID-FAKE-110">
+        <rs ana="https://topostext.org/place/380237BBol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::413 /TEI[1]/text[1]/body[1]/p[5]::422" xml:id="UID-FAKE-111">
+        <rs ana="https://topostext.org/place/380238BMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::426 /TEI[1]/text[1]/body[1]/p[5]::437" xml:id="UID-FAKE-112">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::467 /TEI[1]/text[1]/body[1]/p[5]::472" xml:id="UID-FAKE-113">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::478 /TEI[1]/text[1]/body[1]/p[5]::484" xml:id="UID-FAKE-114">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 3</head>
+      <p>The district of the Cerameicus has its name from the hero Ceramus, he too being the reputed son of Dionysus and Ariadne. First on the right is what is called the Royal Stoa, where sits the king when holding the yearly office called the kingship. On the tiling of this stoa are images of baked earthenware, Theseus throwing Sciron into the sea and Hemera (day) carrying away Cephalus, who they say was very beautiful and was ravished by Hemera, who was in love with him. His son was Phaethon, . . . and [Aphrodite] made a guardian of her temple. Such is the tale told by Hesiod, among others, in his poem on women.</p>
+      <p>Near the stoa stand Conon, Timotheus his son and Evagoras King of Cyprus, who caused the Phoenician men-of-war to be given to Conon by King Artaxerxes. This he did as an Athenian whose ancestry connected him with Salamis, for he traced his pedigree back to Teucer and the daughter of Cinyras. Here stands Zeus, called Zeus Eleutherios (of Freedom ), and the Emperor Hadrian, a benefactor to all his subjects and especially to the city of the Athenians.</p>
+      <p>A stoa is built behind with pictures of the gods called the Twelve. On the wall opposite are painted Theseus, Democracy and Demos. The picture represents Theseus as the one who gave the Athenians political equality. By other means also has the report spread among men that Theseus bestowed sovereignty upon the people, and that from his time they continued under a democratical government, until Peisistratus rose up and became despot. But there are many false beliefs current among the mass of mankind, since they are ignorant of historical science and consider trustworthy whatever they have heard from childhood in choruses and tragedies; one of these is about Theseus, who in fact himself became king, and afterwards, when Menestheus was dead, the Theseidae remained rulers even to the fourth generation. But if I cared about tracing the pedigree I should have included in the list, besides these, the kings from Melanthus to Cleidicus the son of Aesimides.</p>
+      <p>Here is a picture of the exploit, near Mantinea, of the Athenians who were sent to help the Lacedemonians. Xenophon among others has written a history of the whole war — the taking of the Cadmea, the defeat of the Lacedemonians at Leuctra, how the Boeotians invaded the Peloponnesus, and the contingent sent to the Lacedemonians from the Athenians. In the picture is a cavalry battle, in which the most famous men are, among the Athenians, Grylus the son of Xenophon, and in the Boeotian cavalry, Epaminondas the Theban. These pictures were painted for the Athenians by Euphranor, and he also wrought the Apollo surnamed Patroos (Ancestral) in the temple hard by. And in front of the temple is one Apollo made by Leochares; the other Apollo, called Alexikakos (Averter of evil), was made by Calamis. They say that the god received this name because by an oracle from Delphi he stayed the pestilence which afflicted the Athenians at the time of the Peloponnesian War.</p>
+      <p>Here is built also a sanctuary of the Mother of the Gods; the image is by Pheidias. Hard by is the Bouleuterion of those called the Five Hundred, who are the Athenian councillors for a year. In it are a xoanon of Zeus Boulaios (Counsellor) and an Apollo, the work of Peisias, and a Demos by Lyson. The thesmothetae (lawgivers) were painted by Protogenes the Caunian, and Olbiades portrayed Callippus, who led the Athenians to Thermopylae to stop the incursion of the Gauls into Greece.</p>
+    </body>
+  </text>
+</TEI>

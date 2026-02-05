@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::75 /TEI[1]/text[1]/body[1]/p[2]::84" xml:id="UID-FAKE-870">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::184 /TEI[1]/text[1]/body[1]/p[2]::196" xml:id="UID-FAKE-871">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::254 /TEI[1]/text[1]/body[1]/p[2]::259" xml:id="UID-FAKE-872">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::490 /TEI[1]/text[1]/body[1]/p[2]::514" xml:id="UID-FAKE-873">
+        <rs ana="https://topostext.org/place/380237LAre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::31 /TEI[1]/text[1]/body[1]/p[3]::40" xml:id="UID-FAKE-874">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::427 /TEI[1]/text[1]/body[1]/p[3]::432" xml:id="UID-FAKE-875">
+        <rs ana="https://topostext.org/place/380237SEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::479 /TEI[1]/text[1]/body[1]/p[3]::488" xml:id="UID-FAKE-876">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::534 /TEI[1]/text[1]/body[1]/p[3]::540" xml:id="UID-FAKE-877">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::706 /TEI[1]/text[1]/body[1]/p[3]::710" xml:id="UID-FAKE-878">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::92 /TEI[1]/text[1]/body[1]/p[5]::101" xml:id="UID-FAKE-879">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::383 /TEI[1]/text[1]/body[1]/p[5]::389" xml:id="UID-FAKE-880">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::408 /TEI[1]/text[1]/body[1]/p[5]::414" xml:id="UID-FAKE-881">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::86 /TEI[1]/text[1]/body[1]/p[6]::94" xml:id="UID-FAKE-882">
+        <rs ana="https://topostext.org/place/520255LRhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::106 /TEI[1]/text[1]/body[1]/p[6]::115" xml:id="UID-FAKE-883">
+        <rs ana="https://topostext.org/place/408238UEdo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::189 /TEI[1]/text[1]/body[1]/p[6]::197" xml:id="UID-FAKE-884">
+        <rs ana="https://topostext.org/place/520255LRhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::32 /TEI[1]/text[1]/body[1]/p[8]::38" xml:id="UID-FAKE-885">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::86 /TEI[1]/text[1]/body[1]/p[8]::95" xml:id="UID-FAKE-886">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::97 /TEI[1]/text[1]/body[1]/p[8]::103" xml:id="UID-FAKE-887">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::201 /TEI[1]/text[1]/body[1]/p[8]::207" xml:id="UID-FAKE-888">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::347 /TEI[1]/text[1]/body[1]/p[8]::360" xml:id="UID-FAKE-889">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 24</head>
+      <p>In this place is a statue of Athena striking Marsyas the Silenus for taking up the flutes that the goddess wished to be cast away for good. Opposite these I have mentioned is represented the fight which legend says Theseus fought with the so-called Bull of Minos, whether this was a man or a beast of the nature he is said to have been in the accepted story. For even in our time women have given birth to far more extraordinary monsters than this.</p>
+      <p>There is also a statue of Phrixus the son of Athamas carried ashore to the Colchians by the ram. Having sacrificed the animal to some god or other, presumably to the one called by the Orchomenians Laphystius, he has cut out the thighs in accordance with Greek custom and is watching them as they burn. Next come other statues, including one of Heracles strangling the serpents as the legend describes. There is Athena too coming up out of the head of Zeus, and also a bull dedicated by the Council of the Areopagus on some occasion or other, about which, if one cared, one could make many conjectures.</p>
+      <p>I have already stated that the Athenians are far more devoted to religion than other men. They were the first to surname Athena Ergane (Worker); they were the first to set up limbless Hermae, and the temple ... is shared by the daimon of Good men. Those who prefer artistic workmanship to mere antiquity may look at the following: a man wearing a helmet, by Cleoetas, whose nails the artist has made of silver, and an image of Earth beseeching Zeus to rain upon her; perhaps the Athenians themselves needed showers, or may be all the Greeks had been plagued with a drought. There also are set up Timotheus the son of Conon and Conon himself; Procne too, who has already made up her mind about the boy, and Itys as well — a group dedicated by Alcamenes. Athena is represented displaying the olive plant, and Poseidon the wave,</p>
+      <p>and there are statues of Zeus, one made by Leochares and one called Polieus (of the polis), the customary mode of sacrificing to whom I will give without adding the traditional reason thereof. Upon the altar of Zeus Polieus they place barley mixed with wheat and leave it unguarded. The ox, which they keep already prepared for sacrifice, goes to the altar and partakes of the grain. One of the priests they call the ox-slayer, who kills the ox and then, casting aside the axe here according to the ritual runs away. The others bring the axe to trial, as though they know not the man who did the deed.</p>
+      <p>Their ritual, then, is such as I have described. As you enter the temple that they name the Parthenon, all the sculptures you see on what is called the pediment refer to the birth of Athena, those on the rear pediment represent the contest for the land between Athena and Poseidon. The agalma itself is made of ivory and gold. On the middle of her helmet is placed a likeness of the Sphinx — the tale of the Sphinx I will give when I come to my description of Boeotia — and on either side of the helmet are griffins in relief.</p>
+      <p>These griffins, Aristeas of Proconnesus says in his poem, fight for the gold with the Arimaspi beyond the Issedones. The gold which the griffins guard, he says, comes out of the earth; the Arimaspi are men all born with one eye; griffins are beasts like lions, but with the beak and wings of an eagle. I will say no more about the griffins.</p>
+      <p>The agalma of Athena is upright, with a tunic reaching to the feet, and on her breast the head of Medusa is worked in ivory. She holds a statue of Victory about four cubits high, and in the other hand a spear; at her feet lies a shield and near the spear is a serpent. This serpent would be Erichthonius. On the pedestal is the birth of Pandora in relief. Hesiod and others have sung how this Pandora was the first woman; before Pandora was born there was as yet no womankind. The only portrait statue (eikon) I remember seeing here is one of the emperor Hadrian, and at the entrance one of Iphicrates, who accomplished many remarkable achievements.</p>
+      <p>Opposite the temple is a bronze Apollo, said to be the work of Pheidias. They call it Parnopion (Locust), because once when locusts were devastating the land the god said that he would drive them from Attica. That he did drive them away they know, but they do not say how. I myself know that locusts have been destroyed three times in the past on Mount Sipylus, and not in the same way. Once a gale arose and swept them away; on another occasion violent heat came on after rain and destroyed them; the third time sudden cold caught them and they died.</p>
+    </body>
+  </text>
+</TEI>

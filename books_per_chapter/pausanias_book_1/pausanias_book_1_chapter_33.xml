@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::22 /TEI[1]/text[1]/body[1]/p[1]::30" xml:id="UID-FAKE-1323">
+        <rs ana="https://topostext.org/place/381240DMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::34 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-1324">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::169 /TEI[1]/text[1]/body[1]/p[1]::174" xml:id="UID-FAKE-1325">
+        <rs ana="https://topostext.org/place/453343RChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::212 /TEI[1]/text[1]/body[1]/p[1]::218" xml:id="UID-FAKE-1326">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::242 /TEI[1]/text[1]/body[1]/p[1]::247" xml:id="UID-FAKE-1327">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::24 /TEI[1]/text[1]/body[1]/p[2]::32" xml:id="UID-FAKE-1328">
+        <rs ana="https://topostext.org/place/381239UMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::72 /TEI[1]/text[1]/body[1]/p[2]::78" xml:id="UID-FAKE-1329">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::324 /TEI[1]/text[1]/body[1]/p[2]::332" xml:id="UID-FAKE-1330">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::408 /TEI[1]/text[1]/body[1]/p[2]::414" xml:id="UID-FAKE-1331">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::446 /TEI[1]/text[1]/body[1]/p[2]::452" xml:id="UID-FAKE-1332">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::220 /TEI[1]/text[1]/body[1]/p[3]::231" xml:id="UID-FAKE-1333">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::243 /TEI[1]/text[1]/body[1]/p[3]::254" xml:id="UID-FAKE-1334">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::357 /TEI[1]/text[1]/body[1]/p[3]::368" xml:id="UID-FAKE-1335">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::420 /TEI[1]/text[1]/body[1]/p[3]::425" xml:id="UID-FAKE-1336">
+        <rs ana="https://topostext.org/place/374253WIno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::435 /TEI[1]/text[1]/body[1]/p[3]::446" xml:id="UID-FAKE-1337">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::477 /TEI[1]/text[1]/body[1]/p[3]::482" xml:id="UID-FAKE-1338">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::20 /TEI[1]/text[1]/body[1]/p[4]::25" xml:id="UID-FAKE-1339">
+        <rs ana="https://topostext.org/place/530-15IBri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::99 /TEI[1]/text[1]/body[1]/p[4]::107" xml:id="UID-FAKE-1340">
+        <rs ana="https://topostext.org/place/390000RIbe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::116 /TEI[1]/text[1]/body[1]/p[4]::121" xml:id="UID-FAKE-1341">
+        <rs ana="https://topostext.org/place/403-29RCel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::127 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-1342">
+        <rs ana="https://topostext.org/place/530-15IBri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::157 /TEI[1]/text[1]/body[1]/p[4]::164" xml:id="UID-FAKE-1343">
+        <rs ana="https://topostext.org/place/530-15IBri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::177 /TEI[1]/text[1]/body[1]/p[4]::188" xml:id="UID-FAKE-1344">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::196 /TEI[1]/text[1]/body[1]/p[4]::201" xml:id="UID-FAKE-1345">
+        <rs ana="https://topostext.org/place/241329USye"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::251 /TEI[1]/text[1]/body[1]/p[4]::258" xml:id="UID-FAKE-1346">
+        <rs ana="https://topostext.org/place/195390WEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::267 /TEI[1]/text[1]/body[1]/p[4]::279" xml:id="UID-FAKE-1347">
+        <rs ana="https://topostext.org/place/195372RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::396 /TEI[1]/text[1]/body[1]/p[4]::401" xml:id="UID-FAKE-1348">
+        <rs ana="https://topostext.org/place/169337UMer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::425 /TEI[1]/text[1]/body[1]/p[4]::435" xml:id="UID-FAKE-1349">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::536 /TEI[1]/text[1]/body[1]/p[4]::540" xml:id="UID-FAKE-1350">
+        <rs ana="https://topostext.org/place/169337UMer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::27" xml:id="UID-FAKE-1351">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::54 /TEI[1]/text[1]/body[1]/p[5]::61" xml:id="UID-FAKE-1352">
+        <rs ana="https://topostext.org/place/350000RMau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::87 /TEI[1]/text[1]/body[1]/p[5]::96" xml:id="UID-FAKE-1353">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::106 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-1354">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::142 /TEI[1]/text[1]/body[1]/p[5]::150" xml:id="UID-FAKE-1355">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::221 /TEI[1]/text[1]/body[1]/p[5]::228" xml:id="UID-FAKE-1356">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::238 /TEI[1]/text[1]/body[1]/p[5]::245" xml:id="UID-FAKE-1357">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::277 /TEI[1]/text[1]/body[1]/p[5]::288" xml:id="UID-FAKE-1358">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::372 /TEI[1]/text[1]/body[1]/p[5]::383" xml:id="UID-FAKE-1359">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::396 /TEI[1]/text[1]/body[1]/p[5]::405" xml:id="UID-FAKE-1360">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::441 /TEI[1]/text[1]/body[1]/p[5]::446" xml:id="UID-FAKE-1361">
+        <rs ana="https://topostext.org/place/371110LHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::582 /TEI[1]/text[1]/body[1]/p[5]::593" xml:id="UID-FAKE-1362">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::15 /TEI[1]/text[1]/body[1]/p[6]::20" xml:id="UID-FAKE-1363">
+        <rs ana="https://topostext.org/place/000000LNys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::262 /TEI[1]/text[1]/body[1]/p[6]::266" xml:id="UID-FAKE-1364">
+        <rs ana="https://topostext.org/place/312301WNil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::270 /TEI[1]/text[1]/body[1]/p[6]::275" xml:id="UID-FAKE-1365">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::277 /TEI[1]/text[1]/body[1]/p[6]::288" xml:id="UID-FAKE-1366">
+        <rs ana="https://topostext.org/place/000000LNys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::447 /TEI[1]/text[1]/body[1]/p[6]::456" xml:id="UID-FAKE-1367">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::102 /TEI[1]/text[1]/body[1]/p[7]::112" xml:id="UID-FAKE-1368">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::392 /TEI[1]/text[1]/body[1]/p[7]::398" xml:id="UID-FAKE-1369">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::500 /TEI[1]/text[1]/body[1]/p[7]::506" xml:id="UID-FAKE-1370">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::72 /TEI[1]/text[1]/body[1]/p[8]::79" xml:id="UID-FAKE-1371">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::150 /TEI[1]/text[1]/body[1]/p[8]::159" xml:id="UID-FAKE-1372">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 33</head>
+      <p>At some distance from Marathon is Brauron, where, according to the legend, Iphigenia, the daughter of Agamemnon, landed with the image of Artemis when she fled from the Tauri; leaving the image there she came to Athens also and afterwards to Argos. There is indeed an old wooden image of Artemis here, but who in my opinion have the one taken from the foreigners I will set forth in another place.</p>
+      <p>About sixty stades from Marathon as you go along the road by the sea to Oropus stands Rhamnus. The dwelling houses are on the coast, but a little way inland is a sanctuary of Nemesis, the most implacable deity to men guilty of hubris. It is thought that the wrath of this goddess fell also upon the foreigners who landed at Marathon. For thinking in their pride that nothing stood in the way of their taking Athens, they were bringing a piece of Parian marble to make a trophy, convinced that their task was already finished.</p>
+      <p>Of this marble Pheidias made a statue of Nemesis, and on the head of the goddess is a crown with deer and small images of Victory. In her left hand she holds an apple branch, in her right hand a cup on which are wrought Aethiopians. As to the Aethiopians, I could hazard no guess myself, nor could I accept the statement of those who are convinced that the Aethiopians have been carved upon the cup because of the river Ocean. For the Aethiopians, they say, dwell near it, and Ocean is the father of Nemesis.</p>
+      <p>It is not the river Ocean, but the farthest part of the sea navigated by man, near which dwell the Iberians and the Celts, and Ocean surrounds the island of Britain. But of the Aethiopians beyond Syene, those who live farthest in the direction of the Red Sea are the Ichthyophagi (Fish-eaters), and the gulf round which they live is called after them. The most righteous of them inhabit the city Meroe and what is called the Aethiopian plain. These are they who show the Table of the Sun, and they have neither sea nor river except the Nile.</p>
+      <p>There are other Aethiopians who are neighbours of the MauriYY and extend as far as the Nasamones. For the Nasamones, whom Herodotus calls the Atlantes, and those who profess to know the measurements of the earth name the Lixitae, are the Libyans who live the farthest close to Mount Atlas, and they do not till the ground at all, but live on wild vines. But neither these Aethiopians nor yet the Nasamones have any river. For the water near Atlas, which provides a beginning to three streams, does not make any of the streams a river, as the sand swallows it all up at once. So the Aethiopians dwell near no river Ocean.</p>
+      <p>The water from Atlas is muddy, and near the source were crocodiles of not less than two cubits, which when the men approached dashed down into the spring. The thought has occurred to many that it is the reappearance of this water out of the sand which gives the Nile to Egypt. Mount Atlas is so high that its peaks are said to touch heaven, but is inaccessible because of the water and the presence everywhere of trees. Its region indeed near the Nasamones is known, but we know of nobody yet who has sailed along the parts facing the sea. I must now resume.</p>
+      <p>Neither this nor any other ancient statue of Nemesis has wings, for not even the holiest xoana of the Smyrnaeans have them, but later artists, convinced that the goddess manifests herself most as a consequence of love, give wings to Nemesis as they do to Eros. I will now go onto describe what is figured on the pedestal of the statue, having made this preface for the sake of clearness. The Greeks say that Nemesis was the mother of Helen, while Leda suckled and nursed her. The father of Helen the Greeks like everybody else hold to be not Tyndareus but Zeus.</p>
+      <p>Having heard this legend Pheidias has represented Helen as being led to Nemesis by Leda, and he has represented Tyndareus and his children with a man HippeusYY by name standing by with a horse. There are Agamemnon and Menelaus and Pyrrhus, the son of Achilles and first husband of Hermione, the daughter of Helen. Orestes was passed over because of his crime against his mother, yet Hermione stayed by his side in everything and bore him a child. Next upon the pedestal is one called Epochus and another youth; the only thing I heard about them was that they were brothers of Oenoe, from whom the deme has its name.</p>
+    </body>
+  </text>
+</TEI>

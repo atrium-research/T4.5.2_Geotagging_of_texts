@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::128 /TEI[1]/text[1]/body[1]/p[1]::134" xml:id="UID-FAKE-1485">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::270 /TEI[1]/text[1]/body[1]/p[1]::278" xml:id="UID-FAKE-1486">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::125 /TEI[1]/text[1]/body[1]/p[2]::133" xml:id="UID-FAKE-1487">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::21 /TEI[1]/text[1]/body[1]/p[3]::29" xml:id="UID-FAKE-1488">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::271 /TEI[1]/text[1]/body[1]/p[3]::277" xml:id="UID-FAKE-1489">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::382 /TEI[1]/text[1]/body[1]/p[3]::386" xml:id="UID-FAKE-1490">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::442 /TEI[1]/text[1]/body[1]/p[3]::451" xml:id="UID-FAKE-1491">
+        <rs ana="https://topostext.org/place/389225WSpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::11 /TEI[1]/text[1]/body[1]/p[4]::19" xml:id="UID-FAKE-1492">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::275 /TEI[1]/text[1]/body[1]/p[4]::283" xml:id="UID-FAKE-1493">
+        <rs ana="https://topostext.org/place/365306PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::684 /TEI[1]/text[1]/body[1]/p[4]::691" xml:id="UID-FAKE-1494">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::724 /TEI[1]/text[1]/body[1]/p[4]::731" xml:id="UID-FAKE-1495">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::59 /TEI[1]/text[1]/body[1]/p[5]::66" xml:id="UID-FAKE-1496">
+        <rs ana="https://topostext.org/place/378238GAn2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::82 /TEI[1]/text[1]/body[1]/p[5]::88" xml:id="UID-FAKE-1497">
+        <rs ana="https://topostext.org/place/380237XStr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::114 /TEI[1]/text[1]/body[1]/p[5]::124" xml:id="UID-FAKE-1498">
+        <rs ana="https://topostext.org/place/407227GKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::193 /TEI[1]/text[1]/body[1]/p[5]::197" xml:id="UID-FAKE-1499">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::201 /TEI[1]/text[1]/body[1]/p[5]::207" xml:id="UID-FAKE-1500">
+        <rs ana="https://topostext.org/place/378281UEuh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::227 /TEI[1]/text[1]/body[1]/p[5]::233" xml:id="UID-FAKE-1501">
+        <rs ana="https://topostext.org/place/380237GKaT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::427 /TEI[1]/text[1]/body[1]/p[5]::433" xml:id="UID-FAKE-1502">
+        <rs ana="https://topostext.org/place/380237XStr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::441 /TEI[1]/text[1]/body[1]/p[5]::448" xml:id="UID-FAKE-1503">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::562 /TEI[1]/text[1]/body[1]/p[5]::567" xml:id="UID-FAKE-1504">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::232 /TEI[1]/text[1]/body[1]/p[6]::241" xml:id="UID-FAKE-1505">
+        <rs ana="https://topostext.org/place/383207PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::311 /TEI[1]/text[1]/body[1]/p[6]::322" xml:id="UID-FAKE-1506">
+        <rs ana="https://topostext.org/place/382206IKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::362 /TEI[1]/text[1]/body[1]/p[6]::368" xml:id="UID-FAKE-1507">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::382 /TEI[1]/text[1]/body[1]/p[6]::388" xml:id="UID-FAKE-1508">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::521 /TEI[1]/text[1]/body[1]/p[6]::527" xml:id="UID-FAKE-1509">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::574 /TEI[1]/text[1]/body[1]/p[6]::580" xml:id="UID-FAKE-1510">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::61 /TEI[1]/text[1]/body[1]/p[7]::67" xml:id="UID-FAKE-1511">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::159 /TEI[1]/text[1]/body[1]/p[7]::167" xml:id="UID-FAKE-1512">
+        <rs ana="https://topostext.org/place/380237SLeo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::274 /TEI[1]/text[1]/body[1]/p[7]::280" xml:id="UID-FAKE-1513">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::289 /TEI[1]/text[1]/body[1]/p[7]::298" xml:id="UID-FAKE-1514">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 37</head>
+      <p>After the monument of Cephisodorus is buried Heliodorus Halis. A portrait of this man is also to be seen in the great temple of Athena. Here too is the grave of Themistocles son of Poliarchus, grandson of the Themistocles who fought the sea fight against Xerxes and the Persians. Of the later descendants I shall mention none except Akestion. She, her father XenoclesYY, his father Sophocles, and his father LeonYY, all of them up to her great-grandfather LeonYY won the honor of being torch-bearer, and in her own lifetime she saw as torch-bearers, first her brother Sophocles, after him her husband Themistocles, and after his death her son Theophrastus. Such was the fortune, they say, that happened to her.</p>
+      <p>A little way past here is a precinct sacred to Lakios, a hero, a deme called after him Lakiadai, and the tomb of Nikokles of Tarentum, who won a unique reputation as a kitharode. There is also an altar of Zephyrus and a sanctuary of Demeter and her daughter. With them Athena and Poseidon are honored. There is a legend that in this place Phytalus welcomed Demeter in his home, for which act the goddess gave him the fig tree. This story is borne out by the inscription on the tomb of Phytalus: “Hero and king, Phytalus here welcome gave to Demeter,August goddess, when first she created fruit of the harvest; Sacred fig is the name which mortal men have assigned it. Whence Phytalus and his race have gotten honours immortal.”</p>
+      <p>Before you cross the Cephisus you come to the monument of Theodorus, the best tragic actor of his day. By the river is a statue of A1487, and a votive statue of her son cutting his hair as a gift for Cephisus. That this habit has existed from ancient times among all the Greeks may be inferred from the poetry of Homer, who makes Peleus vow that on the safe return of Achilles from Troy he will cut off the young man"s hair as a gift for the Spercheus.</p>
+      <p>Across the Cephisus is an ancient altar of Zeus Meilichius (Gracious). At this altar Theseus obtained purification at the hands of the descendants of Phytalus after killing brigands, including Sinis who was related to him through Pittheus. Here is the grave of Theodectes of Phaselis, and also that of Mnesitheus. They say that he was a skilful physician and dedicated statues, among which is a representation of Iacchus. On the road stands a small temple called that of Cyamites. I cannot state for certain whether he was the first to sow beans, or whether they gave this name to a hero because they may not attribute to Demeter the discovery of beans. Whoever has been initiated at Eleusis or has read what are called the Orphica knows what I mean.</p>
+      <p>Of the tombs, the largest and most beautiful are that of a Rhodian who settled at Athens, and the one made by the Macedonian Harpalus, who ran away from Alexander and crossed with a fleet from Asia to Europe. On his arrival at Athens he was arrested by the citizens, but ran away after bribing among others the friends of Alexander. But before this he married Pythionice, whose family I do not know, but she was a courtesan at Athens and at Corinth. His love for her was so great that when she died he made her a tomb which is the most noteworthy of all the old Greek tombs.</p>
+      <p>There is a sanctuary in which are set statues of Demeter, her daughter, Athena, and Apollo. At the first it was built in honor of Apollo only. For legend says that Cephalus, the son of Deion, having helped Amphitryon to destroy the Teleboans, was the first to dwell in that island which now is called after him Cephallenia, and that he resided till that time at Thebes, exiled from Athens because he had killed his wife Procris. In the tenth generation afterwards Chalcinus and Daetus, descendants of Cephalus, sailed to Delphi and asked the god for permission to return to Athens.</p>
+      <p>He ordered them first to sacrifice to Apollo in that spot in Attica where they should see a trireme running on the land. When they reached the mountain called Poikilon a snake was seen hurrying into its hole. In this place they sacrificed to Apollo; afterwards they came to Athens and the Athenians made them citizens. After this is a temple of Aphrodite, before which is a noteworthy wall of unworked stone.</p>
+    </body>
+  </text>
+</TEI>

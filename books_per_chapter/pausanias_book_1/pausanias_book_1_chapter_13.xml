@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::79 /TEI[1]/text[1]/body[1]/p[1]::87" xml:id="UID-FAKE-446">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::166 /TEI[1]/text[1]/body[1]/p[1]::172" xml:id="UID-FAKE-447">
+        <rs ana="https://topostext.org/place/406179PBru"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::286" xml:id="UID-FAKE-448">
+        <rs ana="https://topostext.org/place/381147PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::339 /TEI[1]/text[1]/body[1]/p[1]::343" xml:id="UID-FAKE-449">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::541 /TEI[1]/text[1]/body[1]/p[1]::548" xml:id="UID-FAKE-450">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::552 /TEI[1]/text[1]/body[1]/p[1]::561" xml:id="UID-FAKE-451">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::682 /TEI[1]/text[1]/body[1]/p[1]::688" xml:id="UID-FAKE-452">
+        <rs ana="https://topostext.org/place/411147LCaF"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::694 /TEI[1]/text[1]/body[1]/p[1]::705" xml:id="UID-FAKE-453">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::710 /TEI[1]/text[1]/body[1]/p[1]::717" xml:id="UID-FAKE-454">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::771 /TEI[1]/text[1]/body[1]/p[1]::777" xml:id="UID-FAKE-455">
+        <rs ana="https://topostext.org/place/413217UDos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::906 /TEI[1]/text[1]/body[1]/p[1]::915" xml:id="UID-FAKE-456">
+        <rs ana="https://topostext.org/place/418161UGar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::20 /TEI[1]/text[1]/body[1]/p[2]::25" xml:id="UID-FAKE-457">
+        <rs ana="https://topostext.org/place/401162ROen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::167 /TEI[1]/text[1]/body[1]/p[2]::172" xml:id="UID-FAKE-458">
+        <rs ana="https://topostext.org/place/406179PBru"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::225 /TEI[1]/text[1]/body[1]/p[2]::231" xml:id="UID-FAKE-459">
+        <rs ana="https://topostext.org/place/450017UUxe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::307 /TEI[1]/text[1]/body[1]/p[2]::316" xml:id="UID-FAKE-460">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::325 /TEI[1]/text[1]/body[1]/p[2]::336" xml:id="UID-FAKE-461">
+        <rs ana="https://topostext.org/place/398232RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::440 /TEI[1]/text[1]/body[1]/p[2]::446" xml:id="UID-FAKE-462">
+        <rs ana="https://topostext.org/place/403-29RCel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::484 /TEI[1]/text[1]/body[1]/p[2]::498" xml:id="UID-FAKE-463">
+        <rs ana="https://topostext.org/place/393221SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::507 /TEI[1]/text[1]/body[1]/p[2]::513" xml:id="UID-FAKE-464">
+        <rs ana="https://topostext.org/place/394228PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::518 /TEI[1]/text[1]/body[1]/p[2]::524" xml:id="UID-FAKE-465">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::81 /TEI[1]/text[1]/body[1]/p[3]::88" xml:id="UID-FAKE-466">
+        <rs ana="https://topostext.org/place/393221SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::89 /TEI[1]/text[1]/body[1]/p[3]::95" xml:id="UID-FAKE-467">
+        <rs ana="https://topostext.org/place/393221SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::172 /TEI[1]/text[1]/body[1]/p[3]::180" xml:id="UID-FAKE-468">
+        <rs ana="https://topostext.org/place/379214GTAc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::279 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-469">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::318 /TEI[1]/text[1]/body[1]/p[3]::326" xml:id="UID-FAKE-470">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::390 /TEI[1]/text[1]/body[1]/p[3]::394" xml:id="UID-FAKE-471">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::425 /TEI[1]/text[1]/body[1]/p[3]::431" xml:id="UID-FAKE-472">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::513 /TEI[1]/text[1]/body[1]/p[3]::522" xml:id="UID-FAKE-473">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::560 /TEI[1]/text[1]/body[1]/p[3]::569" xml:id="UID-FAKE-474">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::137 /TEI[1]/text[1]/body[1]/p[4]::147" xml:id="UID-FAKE-475">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::175 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-476">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::195 /TEI[1]/text[1]/body[1]/p[4]::207" xml:id="UID-FAKE-477">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::241 /TEI[1]/text[1]/body[1]/p[4]::253" xml:id="UID-FAKE-478">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::379" xml:id="UID-FAKE-479">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::383 /TEI[1]/text[1]/body[1]/p[4]::390" xml:id="UID-FAKE-480">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::481 /TEI[1]/text[1]/body[1]/p[4]::488" xml:id="UID-FAKE-481">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::526 /TEI[1]/text[1]/body[1]/p[4]::533" xml:id="UID-FAKE-482">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::290 /TEI[1]/text[1]/body[1]/p[5]::297" xml:id="UID-FAKE-483">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::302 /TEI[1]/text[1]/body[1]/p[5]::315" xml:id="UID-FAKE-484">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::542 /TEI[1]/text[1]/body[1]/p[5]::550" xml:id="UID-FAKE-485">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::591 /TEI[1]/text[1]/body[1]/p[5]::600" xml:id="UID-FAKE-486">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::618 /TEI[1]/text[1]/body[1]/p[5]::628" xml:id="UID-FAKE-487">
+        <rs ana="https://topostext.org/place/369217ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::34 /TEI[1]/text[1]/body[1]/p[6]::41" xml:id="UID-FAKE-488">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::122 /TEI[1]/text[1]/body[1]/p[6]::133" xml:id="UID-FAKE-489">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::330 /TEI[1]/text[1]/body[1]/p[6]::337" xml:id="UID-FAKE-490">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::342 /TEI[1]/text[1]/body[1]/p[6]::352" xml:id="UID-FAKE-491">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::431 /TEI[1]/text[1]/body[1]/p[6]::437" xml:id="UID-FAKE-492">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::578 /TEI[1]/text[1]/body[1]/p[6]::584" xml:id="UID-FAKE-493">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::32 /TEI[1]/text[1]/body[1]/p[7]::40" xml:id="UID-FAKE-494">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::94 /TEI[1]/text[1]/body[1]/p[7]::104" xml:id="UID-FAKE-495">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::129 /TEI[1]/text[1]/body[1]/p[7]::141" xml:id="UID-FAKE-496">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::190 /TEI[1]/text[1]/body[1]/p[7]::199" xml:id="UID-FAKE-497">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::228 /TEI[1]/text[1]/body[1]/p[7]::240" xml:id="UID-FAKE-498">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::265 /TEI[1]/text[1]/body[1]/p[7]::272" xml:id="UID-FAKE-499">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::280 /TEI[1]/text[1]/body[1]/p[7]::289" xml:id="UID-FAKE-500">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::362 /TEI[1]/text[1]/body[1]/p[7]::367" xml:id="UID-FAKE-501">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::373 /TEI[1]/text[1]/body[1]/p[7]::380" xml:id="UID-FAKE-502">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::406 /TEI[1]/text[1]/body[1]/p[7]::411" xml:id="UID-FAKE-503">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::278 /TEI[1]/text[1]/body[1]/p[8]::285" xml:id="UID-FAKE-504">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::398 /TEI[1]/text[1]/body[1]/p[8]::405" xml:id="UID-FAKE-505">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::194 /TEI[1]/text[1]/body[1]/p[9]::203" xml:id="UID-FAKE-506">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::318 /TEI[1]/text[1]/body[1]/p[9]::325" xml:id="UID-FAKE-507">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::625 /TEI[1]/text[1]/body[1]/p[9]::633" xml:id="UID-FAKE-508">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 13</head>
+      <p>Worsted on this occasion Pyrrhus put back with the remainder of his vessels to Tarentum. Here he met with a serious reverse, and his retirement, for he knew that the Romans would not let him depart without striking a blow, he contrived in the following manner. On his return from Sicily and his defeat, he first sent various dispatches to Asia and to Antigonus, asking some of the kings for troops, some for money, and Antigonus for both. When the envoys returned and their dispatches were delivered, he summoned those in authority, whether Epeirot or Tarentine, and without reading any of the dispatches declared that reinforcements would come. A report spread quickly even to the Romans that Macedonians and Asiatic tribes also were crossing to the aid of Pyrrhus. The Romans, on hearing this, made no move, but Pyrrhus on the approach of that very night crossed to the headlands of the mountains called Ceraunian.</p>
+      <p>After the defeat in Italy Pyrrhus gave his forces a rest and then declared war on Antigonus, his chief ground of complaint being the failure to send reinforcements to Italy. Overpowering the native troops of Antigonus an his Gallic mercenaries he pursued them to the coast cities, and himself reduced upper Macedonia and the Thessalians. The extent of the fighting and the decisive character of the victory of Pyrrhus are shown best by the Celtic armour dedicated in the sanctuary of Itonian Athena between Pherae and Larisa, with this inscription on them:</p>
+      <p>“Pyrrhus the Molossian hung these shields taken from the bold Gauls as a gift to Itonian Athena, when he had destroyed all the host of Antigonus. "Tis no great marvel. The Aeacidae are warriors now, even as they were of old.” These shields then are here, but the bucklers of the Macedonians themselves he dedicated to Dodonian Zeus. They too have an inscription: “These once ravaged golden Asia, and brought slavery upon the Greeks. Now ownerless they lie by the pillars of the temple of Zeus, spoils of boastful Macedonia.” Pyrrhus came very near to reducing Macedonia entirely, but,</p>
+      <p>being usually readier to do what came first to hand, he was prevented by Cleonymus. This Cleonymus, who persuaded Pyrrhus to abandon his Macedonian adventure and to go to the Peloponnesus, was a Lacedemonian who led an hostile army into the Lacedemonian territory for a reason which I will relate after giving the descent of Cleonymus. Pausanias, who was in command of the Greeks at Plataea, was the father of Pleistoanax, he of Pausanias, and he of Cleombrotus, who was killed at Leuctra fighting against Epaminondas and the Thebans. Cleombrotus was the father of Agesipolis and Cleomenes, and, Agesipolis dying without issue, Cleomenes ascended the throne.</p>
+      <p>Cleomenes had two sons, the elder being Acrotatus and the younger Cleonymus. Now Acrotatus died first; and when afterwards Cleomenes died, a claim to the throne was put forward by Areus son of Acrotatus, and Cleonymus took steps to induce Pyrrhus to enter the country. Before the battle of Leuctra the Lacedemonians had suffered no disaster, so that they even refused to admit that they had yet been worsted in a land battle. For Leonidas, they said, had won the victory, but his followers were insufficient for the entire destruction of the Persians; the achievement of Demosthenes and the Athenians on the island of Sphacteria was no victory, but only a trick in war.</p>
+      <p>Their first reverse took place in Boeotia, and they afterwards suffered a severe defeat at the hands of Antipater and the Macedonians. Thirdly the war with Demetrius came as an unexpected misfortune to their land. Invaded by Pyrrhus and seeing a hostile army for the fourth time, they arrayed themselves to meet it along with the Argives and Messenians who had come as their allies. Pyrrhus won the day, and came near to capturing Sparta without further fighting, but desisted for a while after ravaging the land and carrying off plunder. The citizens prepared for a siege, and Sparta even before this in the war with Demetrius had been fortified with deep trenches and strong stakes, and at the most vulnerable points with buildings as well.</p>
+      <p>Just about this time, while the Laconian war was dragging on, Antigonus, having recovered the Macedonian cities, hastened to the Peloponnesus being well aware that if Pyrrhus were to reduce Lacedemon and the greater part of the Peloponnesus, he would not return to Epeirus but to Macedonia to make war there again. When Antigonus was about to lead his army from Argos into Laconia, Pyrrhus himself reached Argos. Victorious once more he dashed into the city along with the fugitives, and his formation not unnaturally was broken up.</p>
+      <p>When the fighting was now taking place by sanctuaries and houses, and in the narrow lanes, between detached bodies in different parts of the town, Pyrrhus left by himself was wounded in the head. It is said that his death was caused by a blow from a tile thrown by a woman. The Argives however declare that it was not a woman who killed him but Demeter in the likeness of a woman. This is what the Argives themselves relate about his end, and Lyceas, the guide for the neighborhood, has written a poem which confirms the story. They have a sanctuary of Demeter, built at the command of the oracle, on the spot where Pyrrhus died, and in it Pyrrhus is buried.</p>
+      <p>I consider it remarkable that of those styled Aeacidae three met their end by similar heaven-sent means; if, as Homer says, Achilles was killed by Alexander, son of Priam, and by Apollo, if the Delphians were bidden by the Pythia to slay Pyrrhus, son of Achilles, and if the end of the son of Aeacides was such as the Argives say and Lyceas has described in his poem. The account, however, given by Hieronymus the Cardian is different, for a man who associates with royalty cannot help being a partial historian. If Philistus was justified in suppressing the most wicked deeds of Dionysius, because he expected his return to Syracuse, surely Hieronymus may be fully forgiven for writing to please Antigonus.</p>
+    </body>
+  </text>
+</TEI>

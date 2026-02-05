@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::103 /TEI[1]/text[1]/body[1]/p[1]::112" xml:id="UID-FAKE-1636">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::152 /TEI[1]/text[1]/body[1]/p[1]::157" xml:id="UID-FAKE-1637">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::161 /TEI[1]/text[1]/body[1]/p[1]::167" xml:id="UID-FAKE-1638">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::191 /TEI[1]/text[1]/body[1]/p[1]::197" xml:id="UID-FAKE-1639">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::212 /TEI[1]/text[1]/body[1]/p[1]::223" xml:id="UID-FAKE-1640">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::295 /TEI[1]/text[1]/body[1]/p[1]::300" xml:id="UID-FAKE-1641">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::331 /TEI[1]/text[1]/body[1]/p[1]::337" xml:id="UID-FAKE-1642">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::345 /TEI[1]/text[1]/body[1]/p[1]::351" xml:id="UID-FAKE-1643">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::430 /TEI[1]/text[1]/body[1]/p[1]::436" xml:id="UID-FAKE-1644">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::504 /TEI[1]/text[1]/body[1]/p[1]::510" xml:id="UID-FAKE-1645">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::75 /TEI[1]/text[1]/body[1]/p[2]::79" xml:id="UID-FAKE-1646">
+        <rs ana="https://topostext.org/place/381234WIap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::81 /TEI[1]/text[1]/body[1]/p[2]::87" xml:id="UID-FAKE-1647">
+        <rs ana="https://topostext.org/place/381234WIap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::351 /TEI[1]/text[1]/body[1]/p[2]::359" xml:id="UID-FAKE-1648">
+        <rs ana="https://topostext.org/place/379219PPso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::501 /TEI[1]/text[1]/body[1]/p[2]::507" xml:id="UID-FAKE-1649">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::569 /TEI[1]/text[1]/body[1]/p[2]::580" xml:id="UID-FAKE-1650">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::590 /TEI[1]/text[1]/body[1]/p[2]::602" xml:id="UID-FAKE-1651">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::47 /TEI[1]/text[1]/body[1]/p[3]::51" xml:id="UID-FAKE-1652">
+        <rs ana="https://topostext.org/place/310312UIsi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::159 /TEI[1]/text[1]/body[1]/p[3]::171" xml:id="UID-FAKE-1653">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::356 /TEI[1]/text[1]/body[1]/p[3]::364" xml:id="UID-FAKE-1654">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::432 /TEI[1]/text[1]/body[1]/p[3]::444" xml:id="UID-FAKE-1655">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::27 /TEI[1]/text[1]/body[1]/p[4]::36" xml:id="UID-FAKE-1656">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::193 /TEI[1]/text[1]/body[1]/p[4]::202" xml:id="UID-FAKE-1657">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::284 /TEI[1]/text[1]/body[1]/p[4]::292" xml:id="UID-FAKE-1658">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::296 /TEI[1]/text[1]/body[1]/p[4]::303" xml:id="UID-FAKE-1659">
+        <rs ana="https://topostext.org/place/381239DAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::425 /TEI[1]/text[1]/body[1]/p[4]::433" xml:id="UID-FAKE-1660">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::471 /TEI[1]/text[1]/body[1]/p[4]::477" xml:id="UID-FAKE-1661">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::96 /TEI[1]/text[1]/body[1]/p[5]::104" xml:id="UID-FAKE-1662">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::256 /TEI[1]/text[1]/body[1]/p[5]::265" xml:id="UID-FAKE-1663">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::356 /TEI[1]/text[1]/body[1]/p[5]::365" xml:id="UID-FAKE-1664">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::42 /TEI[1]/text[1]/body[1]/p[6]::46" xml:id="UID-FAKE-1665">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::92 /TEI[1]/text[1]/body[1]/p[6]::101" xml:id="UID-FAKE-1666">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::276 /TEI[1]/text[1]/body[1]/p[6]::283" xml:id="UID-FAKE-1667">
+        <rs ana="https://topostext.org/place/355241PApt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::355 /TEI[1]/text[1]/body[1]/p[6]::364" xml:id="UID-FAKE-1668">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::624 /TEI[1]/text[1]/body[1]/p[6]::650" xml:id="UID-FAKE-1669">
+        <rs ana="https://topostext.org/place/380237SPnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::652 /TEI[1]/text[1]/body[1]/p[6]::658" xml:id="UID-FAKE-1670">
+        <rs ana="https://topostext.org/place/380237SPnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::689 /TEI[1]/text[1]/body[1]/p[6]::698" xml:id="UID-FAKE-1671">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::92 /TEI[1]/text[1]/body[1]/p[7]::101" xml:id="UID-FAKE-1672">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::124 /TEI[1]/text[1]/body[1]/p[7]::131" xml:id="UID-FAKE-1673">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::160 /TEI[1]/text[1]/body[1]/p[7]::169" xml:id="UID-FAKE-1674">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::371 /TEI[1]/text[1]/body[1]/p[7]::377" xml:id="UID-FAKE-1675">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::510 /TEI[1]/text[1]/body[1]/p[7]::520" xml:id="UID-FAKE-1676">
+        <rs ana="https://topostext.org/place/412370UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::558 /TEI[1]/text[1]/body[1]/p[7]::567" xml:id="UID-FAKE-1677">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::618 /TEI[1]/text[1]/body[1]/p[7]::627" xml:id="UID-FAKE-1678">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::90 /TEI[1]/text[1]/body[1]/p[8]::99" xml:id="UID-FAKE-1679">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::161 /TEI[1]/text[1]/body[1]/p[8]::166" xml:id="UID-FAKE-1680">
+        <rs ana="https://topostext.org/place/381232PPag"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::168 /TEI[1]/text[1]/body[1]/p[8]::175" xml:id="UID-FAKE-1681">
+        <rs ana="https://topostext.org/place/385230WMeS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::180 /TEI[1]/text[1]/body[1]/p[8]::187" xml:id="UID-FAKE-1682">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::266 /TEI[1]/text[1]/body[1]/p[8]::272" xml:id="UID-FAKE-1683">
+        <rs ana="https://topostext.org/place/385227PDau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::280 /TEI[1]/text[1]/body[1]/p[8]::289" xml:id="UID-FAKE-1684">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::351 /TEI[1]/text[1]/body[1]/p[8]::357" xml:id="UID-FAKE-1685">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::24 /TEI[1]/text[1]/body[1]/p[9]::30" xml:id="UID-FAKE-1686">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::40 /TEI[1]/text[1]/body[1]/p[9]::49" xml:id="UID-FAKE-1687">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::261 /TEI[1]/text[1]/body[1]/p[9]::267" xml:id="UID-FAKE-1688">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 41</head>
+      <p>On coming down from the acropolis, where the ground turns northwards, is the tomb of Alcmena, near the Olympieum. They say that as she was walking from Argos to Thebes she died on the way at Megara, and that the Heracleidae fell to disputing, some wishing to carry the corpse of Alcmena back to Argos, others wishing to take it to Thebes, as in Thebes were buried Amphitryon and the children of Heracles by Megara. But the god in Delphi gave them an oracle that it was better for them to bury Alcmena in Megara.</p>
+      <p>From this place the local guide took us to a place which he said was named Rhus (Stream), for that water once flowed here from the mountains above the city. But Theagenes, who was tyrant at that time, turned the water into another direction and made here an altar to Achelous. Hard by is the tomb of Hyllus, son of Heracles, who fought a duel with an Arcadian, Echemus the son of Aeropus. Who the Echemus was who killed Hyllus I will tell in another part of my narrative, but Hyllus also is buried at Megara. These events might correctly be called an expedition of the Heracleidae into the Peloponnesus in the reign of Orestes.</p>
+      <p>Not far from the tomb of Hyllus is a temple of Isis, and beside it one of Apollo and of Artemis. They say that Alcathous made it after killing the lion called Cithaeronian. By this lion they say many were slain, including Euippus, the son of Megareus their king, whose elder son Timalcus had before this been killed by Theseus while on a campaign with the Dioscuri against Aphidna. Megareus they say promised that he who killed the Cithaeronian lion should marry his daughter and succeed him in the kingdom. Alcathous therefore, son of Pelops, attacked the beast and overcame it, and when he came to the throne he built this sanctuary, surnaming Artemis Agrotera (Huntress) and Apollo Agraeus (Hunter).</p>
+      <p>Such is the account of the Megarians; but although I wish my account to agree with theirs, yet I cannot accept everything they say. I am ready to believe that a lion was killed by Alcathous on Cithaeron, but what historian has recorded that Timalcus the son of Megareus came with the Dioscuri to Aphidna? And supposing he had gone there, how could one hold that he had been killed by Theseus, when Alcman wrote a poem on the Dioscuri, in which he says that they captured Athens and carried into captivity the mother of Theseus, but Theseus himself was absent?</p>
+      <p>Pindar in his poems agrees with this account, saying that Theseus, wishing to be related to the Dioscuri, carried off Helen and kept her until he departed to carry out with Peirithous the marriage that they tell of. Whoever has studied genealogy finds the Megarians guilty of great silliness, since Theseus was a descendant of Pelops. The fact is that the Megarians know the true story but conceal it, not wishing it to be thought that their city was captured in the reign of Nisus, but that both Megareus, the son-in-law of Nisus, and Alcathous, the son-in-law of Megareus, succeeded their respective fathers-in-law as king.</p>
+      <p>It is evident that Alcathous arrived from Elis just at the time when Nisus had died and the Megarians had lost everything. Witness to the truth of my statements the fact that he built the wall afresh from the beginning, the old one round the city having been destroyed by the Cretans. Let so much suffice for Alcathous and for the lion, whether it was on Cithaeron or elsewhere that the killing took place that caused him to make a temple to Artemis Agrotera and Apollo Agraeus. On going down from this sanctuary you see the shrine of the hero Pandion. My narrative has already told how Pandion was buried on what is called the Rock of Athena Aethyia (Gannet). He receives honors from the Megarians in the city as well.</p>
+      <p>Near the shrine of the hero Pandion is the tomb of Hippolyte. I will record the account the Megarians give of her. When the Amazons, having marched against the Athenians because of Antiope, were overcome by Theseus, most of them met their death in the fight, but Hippolyte, the sister of Antiope and on this occasion the leader of the women, escaped with a few others to Megara. Having suffered such a military disaster, being in despair at her present situation and even more hopeless of reaching her home in Themiscyra, she died of a broken heart, and the Megarians gave her burial. The shape of her tomb is like an Amazonian shield.</p>
+      <p>Not far from this is the grave of Tereus, who married Procne the daughter of Pandion. The Megarians say that Tereus was king of the region around what is called Pagae (Springs) of Megaris, but my opinion, which is confirmed by extant evidence, is that he ruled over Daulis beyond Chaeronea, for in ancient times the greater part of what is now called Greece was inhabited by foreigners. When Tereus did what he did to Philomela and Itys suffered at the hands of the women, Tereus found himself unable to seize them.</p>
+      <p>He committed suicide in Megara, and the Megarians forthwith raised him a barrow, and every year sacrifice to him, using in the sacrifice gravel instead of barley meal; they say that the bird called the hoopoe appeared here for the first time. The women came to Athens, and while lamenting their sufferings and their revenge, perished through their tears; their reported metamorphosis into a nightingale and a swallow is due, I think, to the fact that the note of these birds is plaintive and like a lamentation.</p>
+    </body>
+  </text>
+</TEI>

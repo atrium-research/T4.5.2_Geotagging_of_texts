@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::38 /TEI[1]/text[1]/body[1]/p[1]::48" xml:id="UID-FAKE-406">
+        <rs ana="https://topostext.org/place/408187WIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::54 /TEI[1]/text[1]/body[1]/p[1]::60" xml:id="UID-FAKE-407">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::75 /TEI[1]/text[1]/body[1]/p[1]::81" xml:id="UID-FAKE-408">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::128 /TEI[1]/text[1]/body[1]/p[1]::138" xml:id="UID-FAKE-409">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::189 /TEI[1]/text[1]/body[1]/p[1]::195" xml:id="UID-FAKE-410">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::326 /TEI[1]/text[1]/body[1]/p[1]::333" xml:id="UID-FAKE-411">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::372 /TEI[1]/text[1]/body[1]/p[1]::381" xml:id="UID-FAKE-412">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::412 /TEI[1]/text[1]/body[1]/p[1]::417" xml:id="UID-FAKE-413">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::472 /TEI[1]/text[1]/body[1]/p[1]::478" xml:id="UID-FAKE-414">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::800 /TEI[1]/text[1]/body[1]/p[1]::807" xml:id="UID-FAKE-415">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::266 /TEI[1]/text[1]/body[1]/p[2]::273" xml:id="UID-FAKE-416">
+        <rs ana="https://topostext.org/place/379214GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::481 /TEI[1]/text[1]/body[1]/p[2]::486" xml:id="UID-FAKE-417">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::533 /TEI[1]/text[1]/body[1]/p[2]::539" xml:id="UID-FAKE-418">
+        <rs ana="https://topostext.org/place/411147LCaF"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::633 /TEI[1]/text[1]/body[1]/p[2]::639" xml:id="UID-FAKE-419">
+        <rs ana="https://topostext.org/place/381156PRhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::664 /TEI[1]/text[1]/body[1]/p[2]::674" xml:id="UID-FAKE-420">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::55 /TEI[1]/text[1]/body[1]/p[3]::61" xml:id="UID-FAKE-421">
+        <rs ana="https://topostext.org/place/413162UCan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::126 /TEI[1]/text[1]/body[1]/p[3]::134" xml:id="UID-FAKE-422">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::213 /TEI[1]/text[1]/body[1]/p[3]::220" xml:id="UID-FAKE-423">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::399 /TEI[1]/text[1]/body[1]/p[3]::405" xml:id="UID-FAKE-424">
+        <rs ana="https://topostext.org/place/419125GSSc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::121 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-425">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::146 /TEI[1]/text[1]/body[1]/p[4]::150" xml:id="UID-FAKE-426">
+        <rs ana="https://topostext.org/place/073805ITap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::186 /TEI[1]/text[1]/body[1]/p[4]::193" xml:id="UID-FAKE-427">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::210 /TEI[1]/text[1]/body[1]/p[4]::217" xml:id="UID-FAKE-428">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::522 /TEI[1]/text[1]/body[1]/p[4]::529" xml:id="UID-FAKE-429">
+        <rs ana="https://topostext.org/place/379214STSi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::28 /TEI[1]/text[1]/body[1]/p[5]::34" xml:id="UID-FAKE-430">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::56 /TEI[1]/text[1]/body[1]/p[5]::66" xml:id="UID-FAKE-431">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::72 /TEI[1]/text[1]/body[1]/p[5]::85" xml:id="UID-FAKE-432">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::127 /TEI[1]/text[1]/body[1]/p[5]::132" xml:id="UID-FAKE-433">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::168 /TEI[1]/text[1]/body[1]/p[5]::176" xml:id="UID-FAKE-434">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::259 /TEI[1]/text[1]/body[1]/p[5]::267" xml:id="UID-FAKE-435">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::276 /TEI[1]/text[1]/body[1]/p[5]::284" xml:id="UID-FAKE-436">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::317 /TEI[1]/text[1]/body[1]/p[5]::323" xml:id="UID-FAKE-437">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::335 /TEI[1]/text[1]/body[1]/p[5]::348" xml:id="UID-FAKE-438">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::371 /TEI[1]/text[1]/body[1]/p[5]::379" xml:id="UID-FAKE-439">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::415 /TEI[1]/text[1]/body[1]/p[5]::428" xml:id="UID-FAKE-440">
+        <rs ana="https://topostext.org/place/369103PCar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::436 /TEI[1]/text[1]/body[1]/p[5]::447" xml:id="UID-FAKE-441">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::451 /TEI[1]/text[1]/body[1]/p[5]::455" xml:id="UID-FAKE-442">
+        <rs ana="https://topostext.org/place/333352PTyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::525 /TEI[1]/text[1]/body[1]/p[5]::530" xml:id="UID-FAKE-443">
+        <rs ana="https://topostext.org/place/379123IAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::633 /TEI[1]/text[1]/body[1]/p[5]::641" xml:id="UID-FAKE-444">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::789 /TEI[1]/text[1]/body[1]/p[5]::796" xml:id="UID-FAKE-445">
+        <rs ana="https://topostext.org/place/413194PEpi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 12</head>
+      <p>So Pyrrhus was the first to cross the Ionian Sea from Greece to attack the Romans. And even he crossed on the invitation of the Tarentines. For they were already involved in a war with the Romans, but were no match for them unaided. Pyrrhus was already in their debt, because they had sent a fleet to help him in his war with Corcyra, but the most cogent arguments of the Tarentine envoys were their accounts of Italy, how its prosperity was equal to that of the whole of Greece, and their plea that it was wicked to dismiss them when they had come as friends and suppliants in their hour of need. When the envoys urged these considerations, Pyrrhus remembered the capture of Troy, which he took to be an omen of his success in the war, as he was a descendant of Achilles making war upon a colony of Trojans.</p>
+      <p>Pleased with this proposal, and being a man who never lost time when once he had made up his mind, he immediately proceeded to man war ships and to prepare transports to carry horses and men-at-arms. There are books written by men of no renown as authors, entitled “Memoirs.” When I read these I marvelled greatly both at the personal bravery of Pyrrhus in battle, and also at the forethought he displayed whenever a contest was imminent. So on this occasion also when crossing to Italy with a fleet he eluded the observation of the Romans, and for some time after his arrival they were unaware of his presence; it was only when the Romans made an attack upon the Tarentines that he appeared on the scene with his army, and his unexpected assault naturally threw his enemies into confusion.</p>
+      <p>And being perfectly aware that he was no match for the Romans, he prepared to let loose against them his elephants. The first European to acquire elephants was Alexander, after subduing Porus and the power of the Indians; after his death others of the kings got them but Antigonus more than any; Pyrrhus captured his beasts in the battle with Demetrius. When on this occasion they came in sight the Romans were seized with panic, and did not believe they were animals.</p>
+      <p>For although the use of ivory in arts and crafts all men obviously have known from of old, the actual beasts, before the Macedonians crossed into Asia, nobody had seen at all except the Indians themselves, the Libyans, and their neighbours. This is proved by Homer, who describes the couches and houses of the more prosperous kings as ornamented with ivory, but never mentions the beast; but if he had seen or heard about it he would, in my opinion have been much more likely to speak of it than of the battle between the Pygmies and cranes.</p>
+      <p>Pyrrhus was brought over to Sicily by an embassy of the Syracusans. The Carthaginians had crossed over and were destroying the Greek cities, and had sat down to invest Syracuse, the only one now remaining. When Pyrrhus heard this from the envoys he abandoned Tarentum and the Italiots on the coast, and crossing into Sicily forced the Carthaginians to raise the siege of Syracuse. In his self-conceit, although the Carthaginians, being Phoenicians of Tyre by ancient descent, were more experienced sea men than any other non-Greek people of that day, Pyrrhus was nevertheless encouraged to meet them in a naval battle, employing the Epeirots, the majority of whom, even after the capture of Troy, knew no thing of the sea nor even as yet how to use salt. Witness the words of Homer in the Odyssey: — Nothing they know of ocean, and mix not salt with their victuals.” 11.122</p>
+    </body>
+  </text>
+</TEI>

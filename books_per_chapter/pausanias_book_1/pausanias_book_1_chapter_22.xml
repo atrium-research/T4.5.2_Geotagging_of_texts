@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::68 /TEI[1]/text[1]/body[1]/p[1]::77" xml:id="UID-FAKE-796">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::254 /TEI[1]/text[1]/body[1]/p[1]::259" xml:id="UID-FAKE-797">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::353 /TEI[1]/text[1]/body[1]/p[1]::364" xml:id="UID-FAKE-798">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::159 /TEI[1]/text[1]/body[1]/p[2]::167" xml:id="UID-FAKE-799">
+        <rs ana="https://topostext.org/place/380239DPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::214 /TEI[1]/text[1]/body[1]/p[2]::221" xml:id="UID-FAKE-800">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::319 /TEI[1]/text[1]/body[1]/p[2]::326" xml:id="UID-FAKE-801">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::452 /TEI[1]/text[1]/body[1]/p[2]::463" xml:id="UID-FAKE-802">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::48 /TEI[1]/text[1]/body[1]/p[3]::56" xml:id="UID-FAKE-803">
+        <rs ana="https://topostext.org/place/378239DTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::286" xml:id="UID-FAKE-804">
+        <rs ana="https://topostext.org/place/380237SApP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::30 /TEI[1]/text[1]/body[1]/p[4]::39" xml:id="UID-FAKE-805">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::121 /TEI[1]/text[1]/body[1]/p[4]::130" xml:id="UID-FAKE-806">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::422 /TEI[1]/text[1]/body[1]/p[4]::431" xml:id="UID-FAKE-807">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::447 /TEI[1]/text[1]/body[1]/p[4]::460" xml:id="UID-FAKE-808">
+        <rs ana="https://topostext.org/place/380237SANi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::46 /TEI[1]/text[1]/body[1]/p[5]::51" xml:id="UID-FAKE-809">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::157" xml:id="UID-FAKE-810">
+        <rs ana="https://topostext.org/place/351249CLab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::494 /TEI[1]/text[1]/body[1]/p[5]::500" xml:id="UID-FAKE-811">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::19 /TEI[1]/text[1]/body[1]/p[6]::28" xml:id="UID-FAKE-812">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::130 /TEI[1]/text[1]/body[1]/p[6]::134" xml:id="UID-FAKE-813">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::152 /TEI[1]/text[1]/body[1]/p[6]::158" xml:id="UID-FAKE-814">
+        <rs ana="https://topostext.org/place/399253ILem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::519 /TEI[1]/text[1]/body[1]/p[6]::525" xml:id="UID-FAKE-815">
+        <rs ana="https://topostext.org/place/389246PSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::64 /TEI[1]/text[1]/body[1]/p[7]::69" xml:id="UID-FAKE-816">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::107 /TEI[1]/text[1]/body[1]/p[7]::115" xml:id="UID-FAKE-817">
+        <rs ana="https://topostext.org/place/372245PSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::133 /TEI[1]/text[1]/body[1]/p[7]::143" xml:id="UID-FAKE-818">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::232 /TEI[1]/text[1]/body[1]/p[7]::238" xml:id="UID-FAKE-819">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::576 /TEI[1]/text[1]/body[1]/p[7]::585" xml:id="UID-FAKE-820">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::34 /TEI[1]/text[1]/body[1]/p[8]::43" xml:id="UID-FAKE-821">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::50 /TEI[1]/text[1]/body[1]/p[8]::56" xml:id="UID-FAKE-822">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::65 /TEI[1]/text[1]/body[1]/p[8]::88" xml:id="UID-FAKE-823">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::105 /TEI[1]/text[1]/body[1]/p[8]::111" xml:id="UID-FAKE-824">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::306 /TEI[1]/text[1]/body[1]/p[8]::312" xml:id="UID-FAKE-825">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 1, Chapter 22</head>
+      <p>After the sanctuary of Asclepius, as you go by this way towards the Acropolis, there is a temple of Themis. Before it is raised a sepulchral mound to Hippolytus. The end of his life, they say, came from curses. Everybody, even a foreigner who has learnt Greek, knows about the love of Phaedra and the wickedness the nurse dared commit to serve her. The Troezenians too have a grave of Hippolytus, and their legend about it is this.</p>
+      <p>When Theseus was about to marry Phaedra, not wishing, should he have children, Hippolytus either to be their subject or to be king in their stead, sent him to Pittheus to be brought up and to be the future king of Troezen. Afterwards Pallas and his sons rebelled against Theseus. After putting them to death he went to Troezen for purification, and Phaedra first saw Hippolytus there. Falling in love with him she contrived the plot for his death. The Troezenians have a myrtle with every one of its leaves pierced; they say that it did not grow originally in this fashion, the holes being due to Phaedra"s disgust with love and to the pin which she wore in her hair.</p>
+      <p>When Theseus had united into one state the many Athenian demes, he established the cults of Aphrodite Pandemos and of Peitho (Persuasion). The old statues no longer existed in my time, but those I saw were the work of no inferior artists. There is also a sanctuary of Earth Kourotrophos, and of Demeter Chloe (Green). You can learn all about their names by conversing with the priests.</p>
+      <p>There is but one entry to the Acropolis. It affords no other, being precipitous throughout and having a strong wall. The Propylaia has a roof of white marble, and down to the present day it is unrivalled for the beauty and size of its stones. Now as to the statues of the horsemen, I cannot tell for certain whether they are the sons of Xenophon or whether they were made merely to beautify the place. On the right of the Propylaia is a temple of Wingless Nike (Victory). From this point the sea is visible, and here it was that, according to legend, Aegeus threw himself down to his death.</p>
+      <p>For the ship that carried the young people to Crete began her voyage with black sails; but Theseus, who was sailing on an adventure against the bull of Minos, as it is called, had told his father beforehand that he would use white sails if he should sail back victorious over the bull. But the loss of Ariadne made him forget the signal. Then Aegeus, when from this eminence he saw the vessel borne by black sails, thinking that his son was dead, threw himself down to destruction. There is at Athens a sanctuary dedicated to him, and called the hero-shrine of Aegeus.</p>
+      <p>On the left of the Propylaia is a building with pictures. Among those not effaced by time I found Diomedes taking the Athena from Troy, and Odysseus in Lemnos taking away the bow of Philoctetes. There in the pictures is Orestes killing Aegisthus, and Pylades killing the sons of Nauplius who had come to bring Aegisthus succor. And there is Polyxena about to be sacrificed near the grave of Achilles. Homer did well in passing by this barbarous act. I think too that he showed poetic insight in making Achilles capture Scyros, differing entirely from those who say that Achilles lived in Scyros with the maidens, as Polygnotus has represented in his picture. He also painted Odysseus coming upon the women washing clothes with Nausicaa at the river, just like the description in Homer. There are other pictures, including a portrait of Alcibiades,</p>
+      <p>and in the picture are emblems of the victory his horses won at Nemea. There is also Perseus journeying to Seriphos, and carrying to Polydectes the head of Medusa, the legend about whom I am unwilling to relate in my description of Attica. Included among the paintings — I omit the boy carrying the water-jars and the wrestler by Timaenetus — is Musaeus. I have read verse in which Musaeus receives from the North Wind the gift of flight, but, in my opinion, Onomacritus wrote them, and there are no certainly genuine works of Musaeus except a hymn to Demeter written for the Lycomidae.</p>
+      <p>Right at the very entrance to the Acropolis are a Hermes (called Hermes of the Propylaia) and figures of Graces, which tradition says were sculptured by Socrates, the son of Sophroniscus, who the Pythia testified was the wisest of men, a title she refused to Anacharsis, although he desired it and came to Delphi to win it.</p>
+    </body>
+  </text>
+</TEI>
