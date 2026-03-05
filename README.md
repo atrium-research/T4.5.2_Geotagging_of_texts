@@ -11,11 +11,11 @@ In this repository we include the material for the subtask 4.5.2. You can find m
 # 🛠️ Installation
 1. **Clone the repository**
    ```cmd
-   git clone https://github.com/NikolasKapr/Subtask-4.5.2-Geotagging-of-texts.git
+   git clone https://github.com/atrium-research/T4.5.2_Geotagging_of_texts.git
    ```
 2. **Navigate to the project directory**
    ```cmd
-   cd code/Subtask-4.5.2-Geotagging-of-texts-main
+   cd code/T4.5.2_Geotagging_of_texts
    ```
 3. **(Optional but recommended) Create and activate a virtual environment**
    
