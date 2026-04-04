@@ -106,7 +106,7 @@ Take the output of the Text Extraxtion Step as input and perform NER using [Name
    ]
 }
 ```
-## Step 3: Recontextualisation using LLMs
+## Step 3: Text Generation
 
 Take as input the output of Name Entity Recognition (NER) step and using an LLM and a prompt we create a description of each of the mentions. In our case, we used the [Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B) model with a quantization of Q4_K_M[^1] from [Ollama](https://ollama.com/library/qwen3:14b).
 
@@ -152,7 +152,7 @@ Take as input the output of Name Entity Recognition (NER) step and using an LLM 
 
 ## Step 4: Fast Approximate Retrieval
 
-Take as input the output of Recontextualisation using LLMs step and use a [FAISS index](https://github.com/facebookresearch/faiss) that was built from [ToposText](https://topostext.org/) to link the correct mention to the a Knowledge Base.
+Take as input the output of Text Generation step and use a [FAISS index](https://github.com/facebookresearch/faiss) that was built from [ToposText](https://topostext.org/) to link the correct mention to the a Knowledge Base.
 
 **Input**: Output from previous step.
 
