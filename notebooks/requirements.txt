@@ -1,11 +1,8 @@
 srsly
-ollama
 tqdm
-beautifulsoup4
 numpy
 faiss-cpu
 transformers==4.51.0
 torch==2.9.0
-
-# For GPU users
-#torch torchvision --index-url https://download.pytorch.org/whl/cu126
+spacy[transformers]
+en_deberta_v3_base_ner_historical_location @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_historical_location/resolve/main/en_deberta_v3_base_ner_historical_location-1.0-py3-none-any.whl
