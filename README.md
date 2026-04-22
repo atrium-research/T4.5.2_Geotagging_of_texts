@@ -30,6 +30,17 @@ In this repository we include the material for the subtask 4.5.2. You can find m
    py -3.11 -m venv venv
    venv\Scripts\activate
    ```
+4. **Install an LLM inference tool ([llama.cpp](https://github.com/ggml-org/llama.cpp/tree/master))**
+   
+   MacOS and Linux:
+   ```cmd
+   brew install llama.cpp
+   ```
+   
+   Windows:
+   ```cmd
+   winget install llama.cpp
+   ```
    
 📚 For more information on how to set up a virtual environment, visit the official documentation:
 - [Python venv documentation](https://docs.python.org/3/library/venv.html)
