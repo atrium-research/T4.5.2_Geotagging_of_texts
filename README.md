@@ -15,7 +15,7 @@ In this repository we include the material for the subtask 4.5.2. You can find m
    ```
 2. **Navigate to the project directory**
    ```cmd
-   cd code/T4.5.2_Geotagging_of_texts
+   cd notebooks
    ```
 3. **(Optional but recommended) Create and activate a virtual environment**
    
