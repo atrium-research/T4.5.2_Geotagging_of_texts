@@ -30,18 +30,6 @@ In this repository we include the material for the subtask 4.5.2. You can find m
    py -3.11 -m venv venv
    venv\Scripts\activate
    ```
-
-5. Upgrade pip
-   ```cmd
-   pip install --upgrade pip
-   ```
-
-6. Install the required dependencies
-   ```cmd
-   pip install -r requirements.txt
-   ```
-
-7. Import your `.xml` file into Recogito Studio.
    
 📚 For more information on how to set up a virtual environment, visit the official documentation:
 - [Python venv documentation](https://docs.python.org/3/library/venv.html)
