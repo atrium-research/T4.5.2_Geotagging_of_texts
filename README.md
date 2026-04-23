@@ -73,7 +73,7 @@ A deep learning model [DeBERTa-v3-base](https://huggingface.co/microsoft/deberta
 ```
 ## Step 2: Text Generation
 
-Take as input the output of Name Entity Recognition (NER) step and using an LLM and a prompt we create a description of each of the mentions. In our case, we used the [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) model.
+Take as input the output of Name Entity Recognition (NER) step and using an LLM and a prompt we create a description of each of the mentions. In our case, we used the [gpt-oss-20B](https://huggingface.co/openai/gpt-oss-20b) model.
 
 **Input**: Output from previous step.
 
@@ -141,7 +141,7 @@ Each line contains the following keys:
 
 ## Step 4: Reranker
 
-Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) model.
+Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [gpt-oss-20B](https://huggingface.co/openai/gpt-oss-20b) model.
 
 **Input**: Output from previous step.
 
