@@ -4,7 +4,8 @@
 
 # 🌍 Subtask 4.5.2 - Geotagging of texts 🌍
 
-In this repository we include the material for the subtask 4.5.2. You can find more information on our [Technincal Progress report](https://docs.google.com/document/d/1wVVLa_VDjQ80_owQgyJEBFAMbfT7qFW0Co68CIXUag8/edit?tab=t.0#heading=h.atj12slhvkte).
+In this repository we include the material for the subtask 4.5.2.
+You can find more information on our [Technincal Progress report](https://docs.google.com/document/d/1wVVLa_VDjQ80_owQgyJEBFAMbfT7qFW0Co68CIXUag8/edit?tab=t.0#heading=h.atj12slhvkte).
 
 </div>
 
