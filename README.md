@@ -21,7 +21,7 @@ You can find more information on our [Technincal Progress report](https://docs.g
    ```
 3. **(Optional but recommended) Create and activate a virtual environment**
    
-   Using `virtualenv` (MacOS):
+   Using `virtualenv` (MacOS and Linux):
    ```cmd
    python3.11 -m venv venv
    source ./venv/bin/activate
