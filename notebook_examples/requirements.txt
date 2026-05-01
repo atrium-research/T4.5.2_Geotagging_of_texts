@@ -8,4 +8,4 @@ rapidfuzz
 lxml
 glmocr[selfhosted]
 opencv-python
-en_deberta_v3_base_ner_historical_location @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_historical_location/resolve/main/en_deberta_v3_base_ner_historical_location-1.0-py3-none-any.whl
+en_deberta_v3_base_ner_historical_location @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_historical_place/resolve/main/en_deberta_v3_base_ner_historical_place-1.0-py3-none-any.whl
