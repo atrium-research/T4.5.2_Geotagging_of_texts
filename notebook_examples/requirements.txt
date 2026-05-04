@@ -6,5 +6,4 @@ openai
 numpy
 rapidfuzz
 lxml
-glmocr[selfhosted]
 opencv-python
