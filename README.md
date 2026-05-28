@@ -141,7 +141,7 @@ Each line contains the following keys:
 
 ## Step 4: Reranker
 
-Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [gemma-4-E2B-it](https://huggingface.co/google/gemma-4-E2B-it) model.
+Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) model.
 
 **Input**: Output from previous step.
 
