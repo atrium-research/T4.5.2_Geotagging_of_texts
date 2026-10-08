@@ -4,7 +4,7 @@
 
 # 🌍 Subtask 4.5.2 - Geotagging of texts 🌍
 
-In this repository we include the material for the subtask 4.5.2.
+In this repository, we include the materials for Subtask 4.5.2. More information about our workflow can be found on the [SSH Open Marketplace](https://marketplace.sshopencloud.eu/workflow/kkw2sz).
 
 </div>
 
