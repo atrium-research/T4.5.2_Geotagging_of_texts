@@ -9,3 +9,4 @@ lxml
 opencv-python
 spacy-transformers @ git+https://github.com/explosion/spacy-transformers.git@master
 glmocr[selfhosted]
+en_deberta_v3_base_ner_historical_place @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_historical_place/resolve/main/en_deberta_v3_base_ner_historical_place-1.0-py3-none-any.whl
