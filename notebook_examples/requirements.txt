@@ -3,7 +3,6 @@ tqdm
 faiss-cpu
 spacy
 openai
-numpy
 lxml
 wget
 opencv-python
