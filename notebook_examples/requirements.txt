@@ -4,7 +4,6 @@ faiss-cpu
 spacy
 openai
 numpy
-rapidfuzz
 lxml
 wget
 opencv-python
