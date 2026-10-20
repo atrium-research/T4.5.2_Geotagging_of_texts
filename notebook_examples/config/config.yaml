@@ -61,13 +61,13 @@ pipeline:
   ocr_api:
     # Basic connection
     api_host: 127.0.0.1
-    api_port: 8080
+    api_port: 9931
 
     # Model name included in API requests.
     # Required for mlx_vlm.server (e.g. "mlx-community/GLM-OCR-bf16").
     # Set to `glm-ocr` to match `--served-model-name` when using vLLM/SGLang.
     # For Ollama, set to your model name (e.g. "glm-ocr:latest").
-    model: ggml-org/GLM-OCR-GGUF:F16
+    model: ggml-org/GLM-OCR-GGUF:Q8_0
 
     # URL construction: {api_scheme}://{api_host}:{api_port}{api_path}
     # Or set api_url directly to override
