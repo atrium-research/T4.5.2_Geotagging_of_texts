@@ -73,7 +73,7 @@ A deep learning model [DeBERTa-v3-base](https://huggingface.co/microsoft/deberta
 ```
 ## Step 2: Text Generation
 
-Take as input the output of Name Entity Recognition (NER) step and using an LLM and a prompt we create a description of each of the mentions. In our case, we used the [Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B) model.
+Take as input the output of Name Entity Recognition (NER) step and using an LLM and a prompt we create a description of each of the mentions. In our case, we used the [Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) model.
 
 **Input**: Output from previous step.
 
@@ -141,7 +141,7 @@ Each line contains the following keys:
 
 ## Step 4: Reranker
 
-Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) model.
+Take as input the output of Fast Approximate Retrieval step and use an LLM as a reranking tool to further enhance the results. In our case, we used the [Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) model.
 
 **Input**: Output from previous step.
 
