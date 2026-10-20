@@ -6,6 +6,7 @@ openai
 numpy
 rapidfuzz
 lxml
+wget
 opencv-python
 spacy-transformers @ git+https://github.com/explosion/spacy-transformers.git@master
 glmocr[selfhosted]
