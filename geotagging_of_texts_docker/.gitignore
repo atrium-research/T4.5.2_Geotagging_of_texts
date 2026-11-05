@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/*
+!models/.gitkeep
+data/jobs/*
+!data/jobs/.gitkeep
+data/topostext/*
+!data/topostext/.gitkeep

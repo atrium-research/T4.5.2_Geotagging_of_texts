@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Geotagging of texts</title>
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="preconnect" href="https://tile.openstreetmap.org" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Geotagging of texts">
+      <div><div class="brand-title">Geotagging <span>of texts</span></div><div class="brand-subtitle">TEXT GEOTAGGING</div></div>
+    </a>
+    <div class="topbar-right">
+      <div class="local-badge"><i class="status-dot"></i><span id="editionBadge">Local workflow</span></div>
+      <button class="icon-button" id="themeToggle" title="Switch theme" aria-label="Switch theme"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.64 5.64l1.42 1.42m9.88 9.88 1.42 1.42m0-12.72-1.42 1.42m-9.88 9.88-1.42 1.42M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z"/></svg></button>
+    </div>
+  </header>
+
+  <main class="page-shell" id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <h1>Revealing the geography<br /><em>of historical texts.</em></h1>
+        <p class="hero-description">Recognize historical place names, connect them to a knowledge base, and export a map-linked TEI or JSON file.</p>
+        <div class="hero-traits"><span>Local inference</span><span>ToposText linking</span><span>TEI/XML or JSON export</span></div>
+      </div>
+      <div class="hero-illustration" aria-hidden="true">
+        <div class="orbit orbit-a"></div><div class="orbit orbit-b"></div>
+        <div class="paper-card"><div class="paper-top"><span></span><span></span><span></span></div><div class="paper-lines"><i></i><i></i><i class="line-short"></i></div><div class="paper-highlight">ancient <b>Corinth</b> ...</div><div class="paper-lines lower"><i></i><i class="line-mid"></i></div></div>
+        <div class="mini-pin"><svg viewBox="0 0 24 24"><path d="M20 10.2c0 5.1-8 11-8 11s-8-5.9-8-11a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.6"/></svg></div>
+        <div class="float-coord"><span class="coord-mark">+</span><div><strong>37.9062° N</strong><small>22.8794° E</small></div><span class="coord-status"></span></div>
+      </div>
+    </section>
+
+    <section class="workflow-card" aria-labelledby="workflow-title">
+      <div class="section-heading">
+        <div><div class="eyebrow eyebrow-small">WORKSPACE</div><h2 id="workflow-title">Start a geotagging run</h2></div>
+        <div class="format-pills"><span>PDF</span><span>TXT</span><span>XML / TEI</span></div>
+      </div>
+
+      <form id="uploadForm">
+        <label class="dropzone" id="dropzone" for="fileInput">
+          <input id="fileInput" type="file" name="file" accept=".pdf,.txt,.xml,.tei,application/pdf,text/plain,application/xml,text/xml" />
+          <div class="upload-icon"><svg viewBox="0 0 24 24"><path d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M4 15.5V19a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 20 19v-3.5"/></svg></div>
+          <div class="drop-title" id="dropTitle">Drop your source file here</div>
+          <div class="drop-subtitle" id="dropSubtitle">or <span>browse files</span> on your device</div>
+          <div class="drop-footnote">One file per run · Up to 50 MB</div>
+        </label>
+        <div class="upload-actions"><div class="privacy-note"><span><small>Inference runs locally - Leaflet map tiles require internet.</small></span></div><button class="primary-button" type="submit" id="runButton" disabled><span>Start workflow</span><svg viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button></div>
+      </form>
+
+      <div class="progress-section hidden" id="progressSection">
+        <div class="progress-title-row"><div><span class="live-kicker"><i></i> LIVE WORKFLOW</span><h3 id="progressTitle">Preparing your document</h3></div><div class="progress-percent" id="progressPercent">0<span>%</span></div></div>
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <div class="step-grid" id="stepGrid">
+          <div class="workflow-step" data-step="extract"><div class="step-number">01</div><div class="step-text"><b>Read source</b><small>Extract & normalize</small></div></div>
+          <div class="workflow-step" data-step="ner"><div class="step-number">02</div><div class="step-text"><b>Find mentions</b><small>Historical NER</small></div></div>
+          <div class="workflow-step" data-step="context"><div class="step-number">03</div><div class="step-text"><b>Add context</b><small>LLM recontext</small></div></div>
+          <div class="workflow-step" data-step="retrieve"><div class="step-number">04</div><div class="step-text"><b>Search gazetteer</b><small>FAISS</small></div></div>
+          <div class="workflow-step" data-step="rerank"><div class="step-number">05</div><div class="step-text"><b>Disambiguate</b><small>Choose best match</small></div></div>
+          <div class="workflow-step" data-step="tei"><div class="step-number">06</div><div class="step-text"><b>Build TEI</b><small>Coordinates & export</small></div></div>
+        </div>
+        <div class="progress-message"><div class="spinner" id="progressSpinner"></div><p id="progressMessage">Waiting for the workflow...</p></div>
+        <details class="event-log"><summary>Workflow activity <span id="eventCount">0 updates</span></summary><div id="eventList" class="event-list"></div></details>
+      </div>
+      <div class="error-box hidden" id="errorBox"><div class="error-symbol">!</div><div><b>Workflow stopped</b><p id="errorText"></p><button class="text-button" id="retryButton" type="button">Try another file ↗</button></div></div>
+    </section>
+
+    <section class="results-section hidden" id="resultsSection">
+      <div class="results-heading"><div><div class="eyebrow eyebrow-small">RESULTS & REVIEW</div><h2>Text mapped successfully!.</h2><p id="resultsSubtitle">Explore resolved locations and review each mention in its original passage.</p></div><div class="download-actions"><a class="secondary-button" id="jsonDownload" href="#" download><span>JSON</span><svg viewBox="0 0 24 24"><path d="M12 3v12m0 0 4-4m-4 4-4-4M4 18v2h16v-2"/></svg></a><a class="primary-button" id="teiDownload" href="#" download><span>Download TEI XML</span><svg viewBox="0 0 24 24"><path d="M12 3v12m0 0 4-4m-4 4-4-4M4 18v2h16v-2"/></svg></a></div></div>
+      <div class="stat-grid" id="statGrid"></div>
+      <div class="review-layout">
+        <section class="reader-panel panel">
+          <div class="panel-header reader-header"><div><div class="panel-kicker"><span class="panel-dot"></span> SOURCE TEXT</div><h3 id="sourceTitle">Document</h3></div><div class="reader-tools"><span class="key-guide"><i></i> Place mention</span><button class="small-icon-button" id="clearSelection" title="Clear selected mention" aria-label="Clear selected mention">×</button></div></div>
+          <div class="reader-callout"><span class="callout-icon">✳</span><span>Choose a highlighted place or a map pin to connect the passage with its location. To add a mention, select text while Add mode is active.</span></div>
+          <div class="source-text" id="sourceText"></div>
+          <div class="reader-footer"><span id="readerMentionCount">0 place mentions</span><div class="pager hidden" id="sourcePager"></div></div>
+        </section>
+        <section class="map-panel panel">
+          <div class="panel-header map-header"><div><div class="panel-kicker"><span class="panel-dot map-dot"></span> SPATIAL VIEW</div><h3>Place index <span class="subtle-label" id="mappedCountLabel">0 mapped</span></h3></div>
+            <div class="map-header-actions"><div class="edit-mode-actions" role="group" aria-label="Edit place mentions"><button type="button" class="mode-button" id="addModeButton" title="Add a mention from selected source text">＋ Add</button><button type="button" class="mode-button" id="modifyModeButton" title="Edit the selected mention's linked place">✎ Modify</button><button type="button" class="mode-button danger-mode" id="deleteModeButton" title="Remove a mention annotation without deleting source text">− Delete</button></div><button class="small-icon-button" id="resetMap" title="Show all locations" aria-label="Show all locations"><svg viewBox="0 0 24 24"><path d="M4 7v5h5M20 17v-5h-5M6.1 9A7 7 0 0 1 18 6l1 1M17.9 15A7 7 0 0 1 6 18l-1-1"/></svg></button></div>
+          </div>
+          <div id="map" class="map-canvas"><div class="map-loading"><span>Preparing map…</span></div></div>
+          <div class="map-legend"><span><i class="legend-dot"></i> Disambiguated place</span><span><i class="legend-dot legend-muted"></i> No coordinates</span></div>
+          <div class="location-detail" id="locationDetail"><div class="detail-empty"><div class="detail-pin">⌖</div><div><b>Select a map pin or mention</b><p>Coordinates, knowledge-base link, type and text context will appear here.</p></div></div></div>
+        </section>
+      </div>
+      <div class="mention-table-panel panel"><div class="panel-header"><div><div class="panel-kicker"><span class="panel-dot"></span> DISAMBIGUATION REGISTER</div><h3>Recognized place mentions</h3></div><div class="table-count" id="tableCount">0 records</div></div><div class="mention-table-wrap"><table><thead><tr><th>MENTION IN TEXT</th><th>KNOWLEDGE-BASE ENTITY</th><th>TYPE</th><th>MAP</th></tr></thead><tbody id="mentionRows"></tbody></table></div><div class="pager hidden" id="tablePager"></div></div>
+    </section>
+
+    <footer class="page-footer"><div class="footer-brand"><span>Geotagging of texts</span></div><div id="footerEdition">ATRIUM T4.5.2</div><a href="https://topostext.org/" target="_blank" rel="noopener">ToposText knowledge base ↗</a></footer>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

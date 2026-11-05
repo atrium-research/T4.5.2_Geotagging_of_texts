@@ -1,0 +1,29 @@
+x-app: &app
+  image: geotagging-of-texts
+  build: .
+  container_name: geotagging-of-texts
+  env_file: .env
+  ports:
+    - "${BIND_ADDR:-127.0.0.1}:${APP_PORT:-8000}:${APP_PORT:-8000}"
+  volumes:
+    - geotagging-data:/data
+    - geotagging-cache:/cache
+  read_only: true
+  tmpfs: [/tmp]
+  cap_drop: [ALL]
+  security_opt: ["no-new-privileges:true"]
+  pids_limit: 512
+  restart: unless-stopped
+
+services:
+  cpu:
+    <<: *app
+    profiles: [cpu]
+  gpu:
+    <<: *app
+    profiles: [gpu]
+    gpus: all
+
+volumes:
+  geotagging-data:
+  geotagging-cache:

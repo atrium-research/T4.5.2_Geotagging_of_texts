@@ -1,0 +1,17 @@
+.git
+.env
+**/__pycache__
+**/*.py[cod]
+**/.DS_Store
+.venv
+venv
+data
+tests/__pycache__
+*.zip
+# model cache junk that must not be copied into the image
+models/.locks
+models/hub/.locks
+models/xet
+models/.agent_harnesses.json
+models/.ner-model-url
+**/*.lock
