@@ -25,6 +25,7 @@ cd geotagging-of-texts/geotagging_of_texts_docker
 ## 3. Settings (`.env`)
 
 Rename the `.env.example` to `.env` and edit the file in the project folder.
+To always use the GPU without typing `--profile gpu`, set `COMPOSE_PROFILES=gpu` in `.env`.
 
 | Setting | What it does | Default |
 |---|---|---|
