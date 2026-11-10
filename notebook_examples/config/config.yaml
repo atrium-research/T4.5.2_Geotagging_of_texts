@@ -193,7 +193,7 @@ pipeline:
     # Detection threshold
     # threshold: 0.3
     threshold_by_class:           # per-class threshold override
-      text: 0.9
+      text: 0.5
       abstract: 0.5
 
     # Processing
